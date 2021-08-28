@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-28 17:33",
+    "lastUpdated": "2021-08-28 17:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1134,
@@ -14,12 +14,12 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-09-16 01:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 20,
-            "earliest": "2021-09-01 10:10 AM"
+            "total": 14,
+            "earliest": "2021-09-01 10:12 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -27,15 +27,15 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 1703,
-            "earliest": "2021-10-13 08:40 AM"
+            "earliest": "2021-09-08 02:00 PM"
         },
         "Barwon Valley School": {
             "total": 0,
             "earliest": null
         },
         "Beechworth Vaccination Hub": {
-            "total": 152,
-            "earliest": "2021-09-17 10:45 AM"
+            "total": 151,
+            "earliest": "2021-09-17 11:15 AM"
         },
         "Box Hill Town Hall Pfizer": {
             "total": 0,
@@ -74,8 +74,8 @@
             "earliest": "2021-09-02 10:15 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-08-29 02:30 PM"
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 645,
-            "earliest": "2021-09-28 09:10 AM"
+            "total": 644,
+            "earliest": "2021-09-28 09:20 AM"
         },
         "East Wimmera Health Service Charlton": {
             "total": 0,
@@ -138,11 +138,11 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1661,
-            "earliest": "2021-08-31 04:00 PM"
+            "total": 1659,
+            "earliest": "2021-08-31 04:10 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 39,
+            "total": 37,
             "earliest": "2021-09-22 09:30 AM"
         },
         "Melbourne Showgrounds": {
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 214,
-            "earliest": "2021-09-29 08:55 AM"
+            "total": 213,
+            "earliest": "2021-09-28 01:55 PM"
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -270,20 +270,20 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 1,
-            "earliest": "2021-09-03 02:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Werribee Mercy": {
             "total": 0,
             "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 79,
+            "total": 73,
             "earliest": "2021-09-02 09:40 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 271,
-            "earliest": "2021-09-20 01:30 PM"
+            "total": 268,
+            "earliest": "2021-09-21 08:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
