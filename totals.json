@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-28 22:28",
+    "lastUpdated": "2021-08-28 22:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1126,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "2021-09-05 10:12 AM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 220,
@@ -91,7 +91,7 @@
         },
         "East Grampians Health Services- Ararat": {
             "total": 643,
-            "earliest": "2021-09-28 09:30 AM"
+            "earliest": "2021-09-28 09:20 AM"
         },
         "East Wimmera Health Service Charlton": {
             "total": 0,
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1594,
+            "total": 1595,
             "earliest": "2021-08-31 05:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -146,8 +146,8 @@
             "earliest": "2021-09-23 11:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1314,
-            "earliest": "2021-09-23 02:05 PM"
+            "total": 1313,
+            "earliest": "2021-10-12 10:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 172,
-            "earliest": "2021-09-29 01:55 PM"
+            "total": 171,
+            "earliest": "2021-09-29 02:15 PM"
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 194,
-            "earliest": "2021-09-23 10:50 AM"
+            "total": 193,
+            "earliest": "2021-09-23 11:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
