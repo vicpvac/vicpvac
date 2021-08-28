@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-29 06:37",
+    "lastUpdated": "2021-08-29 06:42",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1124,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-02 12:10 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
@@ -146,12 +146,12 @@
             "earliest": "2021-09-23 11:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1308,
-            "earliest": "2021-10-17 08:55 AM"
+            "total": 1309,
+            "earliest": "2021-10-15 01:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-30 10:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 913,
@@ -286,8 +286,8 @@
             "earliest": "2021-09-26 09:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-26 08:15 AM"
         },
         "Yarram Medical Centre": {
             "total": 0,
