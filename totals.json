@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-29 09:13",
+    "lastUpdated": "2021-08-29 09:17",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1120,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1679,
-            "earliest": "2021-10-13 10:10 AM"
+            "total": 1680,
+            "earliest": "2021-10-02 10:30 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 3,
-            "earliest": "2021-09-05 02:12 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 218,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-20 03:00 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 0,
@@ -142,19 +142,19 @@
             "earliest": "2021-08-31 05:50 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 5,
-            "earliest": "2021-09-23 11:50 AM"
+            "total": 4,
+            "earliest": "2021-09-23 02:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1297,
-            "earliest": "2021-10-17 11:45 AM"
+            "total": 1296,
+            "earliest": "2021-10-17 11:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 904,
+            "total": 902,
             "earliest": "2021-09-27 12:35 PM"
         },
         "Monash Community Outreach": {
@@ -190,7 +190,7 @@
             "earliest": "2021-10-15 11:28 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 531,
+            "total": 530,
             "earliest": "2021-09-30 01:40 PM"
         },
         "Northeast Health Wangaratta": {
@@ -250,7 +250,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 158,
+            "total": 157,
             "earliest": "2021-09-30 09:15 AM"
         },
         "SWH - Camperdown": {
@@ -274,8 +274,8 @@
             "earliest": null
         },
         "Werribee Mercy": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-08-31 12:55 PM"
         },
         "Wonthaggi Town Hall": {
             "total": 0,
