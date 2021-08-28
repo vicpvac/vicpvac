@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-28 21:33",
+    "lastUpdated": "2021-08-28 21:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1127,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 2,
+            "total": 3,
             "earliest": "2021-09-27 11:32 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -82,8 +82,8 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 1,
-            "earliest": "2021-11-08 10:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
             "total": 0,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-08-30 12:00 PM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -142,11 +142,11 @@
             "earliest": "2021-08-31 05:10 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 17,
-            "earliest": "2021-09-23 09:50 AM"
+            "total": 16,
+            "earliest": "2021-09-23 10:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1316,
+            "total": 1317,
             "earliest": "2021-10-15 09:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -250,7 +250,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 182,
+            "total": 178,
             "earliest": "2021-09-27 03:35 PM"
         },
         "SWH - Camperdown": {
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 204,
-            "earliest": "2021-09-23 09:30 AM"
+            "total": 203,
+            "earliest": "2021-09-23 08:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
