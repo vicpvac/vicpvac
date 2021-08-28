@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-28 22:58",
+    "lastUpdated": "2021-08-28 23:03",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1126,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-10-10 04:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 2,
@@ -142,16 +142,16 @@
             "earliest": "2021-08-31 05:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 10,
-            "earliest": "2021-09-23 11:10 AM"
+            "total": 11,
+            "earliest": "2021-09-20 11:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1311,
-            "earliest": "2021-10-17 08:45 AM"
+            "total": 1312,
+            "earliest": "2021-10-07 10:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-10-02 01:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 919,
@@ -190,7 +190,7 @@
             "earliest": "2021-10-15 11:28 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 548,
+            "total": 547,
             "earliest": "2021-09-30 12:20 PM"
         },
         "Northeast Health Wangaratta": {
@@ -274,8 +274,8 @@
             "earliest": null
         },
         "Werribee Mercy": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-30 12:45 PM"
         },
         "Wonthaggi Town Hall": {
             "total": 0,
