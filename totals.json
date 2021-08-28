@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-28 22:48",
+    "lastUpdated": "2021-08-28 22:58",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1126,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-10 04:10 PM"
         },
         "Bairnsdale City Oval": {
             "total": 2,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1686,
+            "total": 1685,
             "earliest": "2021-10-13 09:20 AM"
         },
         "Barwon Valley School": {
@@ -82,16 +82,16 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 1,
-            "earliest": "2021-11-20 03:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
             "total": 0,
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 644,
-            "earliest": "2021-09-08 10:25 AM"
+            "total": 643,
+            "earliest": "2021-09-28 09:30 AM"
         },
         "East Wimmera Health Service Charlton": {
             "total": 0,
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1596,
+            "total": 1597,
             "earliest": "2021-08-31 05:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -146,12 +146,12 @@
             "earliest": "2021-09-23 11:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1312,
+            "total": 1311,
             "earliest": "2021-10-17 08:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 1,
-            "earliest": "2021-10-02 01:50 PM"
+            "earliest": "2021-10-02 01:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 919,
@@ -250,7 +250,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 170,
+            "total": 169,
             "earliest": "2021-09-29 02:15 PM"
         },
         "SWH - Camperdown": {
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 191,
-            "earliest": "2021-09-23 12:50 PM"
+            "total": 189,
+            "earliest": "2021-09-23 01:10 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
