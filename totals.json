@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-28 18:38",
+    "lastUpdated": "2021-08-28 18:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1133,
@@ -10,15 +10,15 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-18 06:40 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 5,
+            "total": 4,
             "earliest": "2021-09-01 11:56 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -70,12 +70,12 @@
             "earliest": null
         },
         "Corryong health": {
-            "total": 225,
+            "total": 224,
             "earliest": "2021-09-02 10:15 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "2021-09-02 03:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 1,
-            "earliest": "2021-09-01 10:58 AM"
+            "total": 0,
+            "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -138,12 +138,12 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1655,
-            "earliest": "2021-08-31 04:10 PM"
+            "total": 1654,
+            "earliest": "2021-08-31 04:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 33,
-            "earliest": "2021-09-22 09:30 AM"
+            "total": 32,
+            "earliest": "2021-09-22 10:40 AM"
         },
         "Melbourne Showgrounds": {
             "total": 1336,
@@ -154,7 +154,7 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 935,
+            "total": 936,
             "earliest": "2021-09-27 10:25 AM"
         },
         "Monash Community Outreach": {
@@ -190,8 +190,8 @@
             "earliest": "2021-10-15 11:28 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 577,
-            "earliest": "2021-09-30 09:30 AM"
+            "total": 573,
+            "earliest": "2021-09-30 09:40 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -242,8 +242,8 @@
             "earliest": null
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
-            "total": 1,
-            "earliest": "2021-08-29 11:15 AM"
+            "total": 2,
+            "earliest": "2021-08-29 11:00 AM"
         },
         "St John of God Berwick": {
             "total": 0,
@@ -274,20 +274,20 @@
             "earliest": null
         },
         "Werribee Mercy": {
-            "total": 1,
-            "earliest": "2021-09-28 08:55 AM"
+            "total": 0,
+            "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 39,
-            "earliest": "2021-09-02 03:32 PM"
+            "total": 33,
+            "earliest": "2021-09-02 04:36 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 255,
-            "earliest": "2021-09-21 10:50 AM"
+            "total": 252,
+            "earliest": "2021-09-21 11:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "2021-09-23 02:25 PM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
             "total": 0,
