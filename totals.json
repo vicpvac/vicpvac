@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2021-08-29 06:22",
+    "lastUpdated": "2021-08-29 06:27",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1125,
+            "total": 1124,
             "earliest": "2021-09-28 02:15 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
@@ -74,8 +74,8 @@
             "earliest": "2021-09-02 10:15 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "2021-09-01 03:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 162,
-            "earliest": "2021-09-24 09:30 AM"
+            "total": 161,
+            "earliest": "2021-09-26 09:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
