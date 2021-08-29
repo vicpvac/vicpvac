@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-29 19:27",
+    "lastUpdated": "2021-08-29 19:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1092,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-01 04:50 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1585,
+            "total": 1584,
             "earliest": "2021-10-14 10:40 AM"
         },
         "Barwon Valley School": {
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 67,
-            "earliest": "2021-09-02 10:15 AM"
+            "total": 60,
+            "earliest": "2021-09-02 09:15 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-24 05:12 PM"
         },
         "Corryong health": {
             "total": 212,
@@ -107,7 +107,7 @@
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 1,
-            "earliest": "2021-09-17 04:40 PM"
+            "earliest": "2021-08-30 12:50 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 0,
@@ -146,15 +146,15 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1218,
-            "earliest": "2021-10-18 02:55 PM"
+            "total": 1219,
+            "earliest": "2021-09-12 12:55 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 755,
+            "total": 756,
             "earliest": "2021-09-28 11:25 AM"
         },
         "Monash Community Outreach": {
@@ -174,7 +174,7 @@
             "earliest": "2021-10-12 11:30 AM"
         },
         "NCN Health": {
-            "total": 389,
+            "total": 388,
             "earliest": "2021-09-21 12:00 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -190,8 +190,8 @@
             "earliest": "2021-10-15 11:44 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 392,
-            "earliest": "2021-10-02 01:30 PM"
+            "total": 393,
+            "earliest": "2021-10-01 12:20 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 1,
@@ -234,24 +234,24 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-21 09:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Seymour Health": {
             "total": 1,
             "earliest": "2021-09-30 02:50 PM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
-            "total": 5,
-            "earliest": "2021-08-30 10:15 AM"
+            "total": 14,
+            "earliest": "2021-08-30 10:30 AM"
         },
         "St John of God Berwick": {
             "total": 0,
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 9,
-            "earliest": "2021-10-03 01:45 PM"
+            "total": 8,
+            "earliest": "2021-10-03 02:55 PM"
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -282,7 +282,7 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 52,
+            "total": 50,
             "earliest": "2021-09-30 09:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
