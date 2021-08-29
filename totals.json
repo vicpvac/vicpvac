@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-29 21:03",
+    "lastUpdated": "2021-08-29 21:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1089,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1574,
-            "earliest": "2021-10-01 11:00 AM"
+            "total": 1573,
+            "earliest": "2021-10-14 11:10 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -126,8 +126,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 1,
-            "earliest": "2021-09-26 09:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Kyabram District Health Service": {
             "total": 0,
@@ -138,16 +138,16 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1538,
-            "earliest": "2021-08-30 09:00 AM"
+            "total": 1536,
+            "earliest": "2021-09-04 01:40 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1205,
-            "earliest": "2021-10-19 11:45 AM"
+            "total": 1204,
+            "earliest": "2021-10-19 11:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -190,8 +190,8 @@
             "earliest": "2021-10-15 11:52 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 387,
-            "earliest": "2021-09-29 03:50 PM"
+            "total": 384,
+            "earliest": "2021-10-02 02:40 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -270,7 +270,7 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 45,
+            "total": 46,
             "earliest": "2021-09-01 10:20 AM"
         },
         "Werribee Mercy": {
