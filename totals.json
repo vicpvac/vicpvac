@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-08-29 20:47",
+    "lastUpdated": "2021-08-29 20:52",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1090,
-            "earliest": "2021-09-30 02:15 PM"
+            "earliest": "2021-09-16 10:30 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1578,
-            "earliest": "2021-09-27 11:10 AM"
+            "total": 1577,
+            "earliest": "2021-10-14 11:10 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-05 01:15 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 628,
+            "total": 627,
             "earliest": "2021-09-28 09:40 AM"
         },
         "East Wimmera Health Service Charlton": {
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-08-30 10:20 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 0,
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1538,
+            "total": 1536,
             "earliest": "2021-09-04 01:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 744,
-            "earliest": "2021-09-01 10:35 AM"
+            "total": 741,
+            "earliest": "2021-09-28 11:55 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -175,7 +175,7 @@
         },
         "NCN Health": {
             "total": 387,
-            "earliest": "2021-09-09 10:30 AM"
+            "earliest": "2021-09-22 12:40 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 0,
@@ -190,12 +190,12 @@
             "earliest": "2021-10-15 11:52 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 386,
-            "earliest": "2021-10-02 02:20 PM"
+            "total": 387,
+            "earliest": "2021-10-02 01:50 PM"
         },
         "Northeast Health Wangaratta": {
-            "total": 1,
-            "earliest": "2021-10-26 03:25 PM"
+            "total": 0,
+            "earliest": null
         },
         "Omeo Medical Centre": {
             "total": 0,
@@ -270,7 +270,7 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 46,
+            "total": 45,
             "earliest": "2021-09-01 10:20 AM"
         },
         "Werribee Mercy": {
