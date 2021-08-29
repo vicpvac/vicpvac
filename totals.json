@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-08-29 19:18",
+    "lastUpdated": "2021-08-29 19:22",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1092,
-            "earliest": "2021-09-30 02:15 PM"
+            "total": 1093,
+            "earliest": "2021-09-17 12:00 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-18 05:00 PM"
         },
         "Bairnsdale City Oval": {
             "total": 0,
@@ -50,7 +50,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 73,
+            "total": 70,
             "earliest": "2021-09-02 09:45 AM"
         },
         "Casterton Memorial Hospital": {
@@ -146,15 +146,15 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1219,
-            "earliest": "2021-10-01 08:55 AM"
+            "total": 1218,
+            "earliest": "2021-10-19 09:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-13 12:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 757,
+            "total": 754,
             "earliest": "2021-09-28 11:25 AM"
         },
         "Monash Community Outreach": {
@@ -190,7 +190,7 @@
             "earliest": "2021-10-15 11:44 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 394,
+            "total": 393,
             "earliest": "2021-10-02 01:20 PM"
         },
         "Northeast Health Wangaratta": {
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 1,
-            "earliest": "2021-09-29 01:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -238,20 +238,20 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 2,
-            "earliest": "2021-09-22 10:15 AM"
+            "total": 1,
+            "earliest": "2021-09-30 02:50 PM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-08-30 09:00 AM"
         },
         "St John of God Berwick": {
             "total": 0,
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 11,
-            "earliest": "2021-09-30 01:35 PM"
+            "total": 10,
+            "earliest": "2021-10-02 12:55 PM"
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -270,7 +270,7 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 22,
+            "total": 36,
             "earliest": "2021-09-01 10:00 AM"
         },
         "Werribee Mercy": {
@@ -283,7 +283,7 @@
         },
         "Wyndham Drive-Through Vaccination Centre": {
             "total": 53,
-            "earliest": "2021-09-30 09:30 AM"
+            "earliest": "2021-09-13 12:50 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
