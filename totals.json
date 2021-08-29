@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2021-08-29 17:28",
+    "lastUpdated": "2021-08-29 17:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1102,
+            "total": 1101,
             "earliest": "2021-09-30 01:30 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
@@ -10,12 +10,12 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-01 08:50 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-10-09 01:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 0,
@@ -27,7 +27,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 1602,
-            "earliest": "2021-10-01 12:50 PM"
+            "earliest": "2021-10-12 10:30 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -50,7 +50,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 141,
+            "total": 138,
             "earliest": "2021-08-31 02:00 PM"
         },
         "Casterton Memorial Hospital": {
@@ -146,8 +146,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1236,
-            "earliest": "2021-10-01 09:45 AM"
+            "total": 1232,
+            "earliest": "2021-10-19 08:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -155,7 +155,7 @@
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 779,
-            "earliest": "2021-09-28 09:55 AM"
+            "earliest": "2021-09-27 12:15 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -250,16 +250,16 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 29,
-            "earliest": "2021-09-29 09:55 AM"
+            "total": 27,
+            "earliest": "2021-10-03 11:45 AM"
         },
         "SWH - Camperdown": {
             "total": 0,
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-08-31 09:28 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -282,7 +282,7 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 77,
+            "total": 75,
             "earliest": "2021-09-29 09:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
