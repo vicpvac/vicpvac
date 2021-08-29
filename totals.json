@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-29 23:33",
+    "lastUpdated": "2021-08-29 23:37",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1085,
@@ -46,8 +46,8 @@
             "earliest": "2021-10-04 10:30 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "2021-08-30 12:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 0,
@@ -138,24 +138,24 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1527,
-            "earliest": "2021-09-04 01:50 PM"
+            "total": 1526,
+            "earliest": "2021-09-04 02:10 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1194,
-            "earliest": "2021-10-04 10:25 AM"
+            "total": 1192,
+            "earliest": "2021-10-19 02:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 725,
-            "earliest": "2021-09-01 01:55 PM"
+            "total": 723,
+            "earliest": "2021-09-28 12:45 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-26 11:15 AM"
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -282,7 +282,7 @@
             "earliest": "2021-08-30 11:32 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 25,
+            "total": 24,
             "earliest": "2021-10-01 09:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
