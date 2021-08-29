@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-29 23:28",
+    "lastUpdated": "2021-08-29 23:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1085,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1565,
+            "total": 1564,
             "earliest": "2021-10-13 12:10 PM"
         },
         "Barwon Valley School": {
@@ -46,12 +46,12 @@
             "earliest": "2021-10-04 10:30 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-08-30 12:15 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 1,
-            "earliest": "2021-09-02 12:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -146,16 +146,16 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1193,
-            "earliest": "2021-10-14 08:25 AM"
+            "total": 1194,
+            "earliest": "2021-10-04 10:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 724,
-            "earliest": "2021-09-27 02:05 PM"
+            "total": 725,
+            "earliest": "2021-09-01 01:55 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "2021-09-09 03:05 PM"
+            "total": 0,
+            "earliest": null
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-08-30 11:32 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
             "total": 25,
