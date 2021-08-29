@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-29 18:13",
+    "lastUpdated": "2021-08-29 18:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1099,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-06 08:10 AM"
         },
         "Bairnsdale City Oval": {
             "total": 0,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1600,
-            "earliest": "2021-10-12 02:50 PM"
+            "total": 1599,
+            "earliest": "2021-10-09 12:00 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 124,
-            "earliest": "2021-09-01 10:15 AM"
+            "total": 122,
+            "earliest": "2021-09-01 10:30 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -147,15 +147,15 @@
         },
         "Melbourne Showgrounds": {
             "total": 1229,
-            "earliest": "2021-10-19 08:55 AM"
+            "earliest": "2021-09-28 02:05 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 770,
-            "earliest": "2021-09-28 10:25 AM"
+            "total": 769,
+            "earliest": "2021-09-28 10:35 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-12 11:30 AM"
         },
         "NCN Health": {
-            "total": 390,
+            "total": 389,
             "earliest": "2021-09-22 11:50 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -190,8 +190,8 @@
             "earliest": "2021-10-15 11:44 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 406,
-            "earliest": "2021-09-17 12:30 PM"
+            "total": 404,
+            "earliest": "2021-10-01 03:20 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 68,
-            "earliest": "2021-09-18 12:50 PM"
+            "total": 65,
+            "earliest": "2021-09-29 11:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
