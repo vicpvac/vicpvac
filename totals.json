@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-30 07:43",
+    "lastUpdated": "2021-08-30 07:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1112,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-09-20 10:00 AM"
         },
         "Corryong health": {
             "total": 209,
@@ -146,8 +146,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1187,
-            "earliest": "2021-10-20 08:25 AM"
+            "total": 1188,
+            "earliest": "2021-10-08 10:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -190,7 +190,7 @@
             "earliest": "2021-10-15 11:52 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 365,
+            "total": 364,
             "earliest": "2021-10-02 04:10 PM"
         },
         "Northeast Health Wangaratta": {
@@ -222,8 +222,8 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 1,
-            "earliest": "2021-11-05 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Sandown Racecourse": {
             "total": 0,
@@ -274,15 +274,15 @@
             "earliest": "2021-09-01 10:30 AM"
         },
         "Werribee Mercy": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-07 01:35 PM"
         },
         "Wonthaggi Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-03 03:48 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 16,
+            "total": 15,
             "earliest": "2021-10-01 11:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
