@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-29 12:48",
+    "lastUpdated": "2021-08-29 12:52",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1114,
@@ -18,8 +18,8 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 1,
-            "earliest": "2021-09-29 10:28 AM"
+            "total": 0,
+            "earliest": null
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-18 03:00 PM"
         },
         "Corryong health": {
             "total": 217,
@@ -138,24 +138,24 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1562,
-            "earliest": "2021-08-31 07:30 PM"
+            "total": 1564,
+            "earliest": "2021-08-30 09:50 AM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 1,
-            "earliest": "2021-10-06 02:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1266,
-            "earliest": "2021-09-07 01:55 PM"
+            "total": 1263,
+            "earliest": "2021-10-18 10:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 838,
-            "earliest": "2021-09-09 10:55 AM"
+            "total": 836,
+            "earliest": "2021-09-28 08:45 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -190,7 +190,7 @@
             "earliest": "2021-10-15 11:28 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 478,
+            "total": 476,
             "earliest": "2021-10-01 09:40 AM"
         },
         "Northeast Health Wangaratta": {
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 229,
-            "earliest": "2021-09-28 09:10 AM"
+            "total": 222,
+            "earliest": "2021-09-02 10:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
