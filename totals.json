@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-30 21:03",
+    "lastUpdated": "2021-08-30 21:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1046,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-09-05 03:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 62,
@@ -26,16 +26,16 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1469,
-            "earliest": "2021-10-18 11:30 AM"
+            "total": 1467,
+            "earliest": "2021-10-18 11:40 AM"
         },
         "Barwon Valley School": {
             "total": 0,
             "earliest": null
         },
         "Beechworth Vaccination Hub": {
-            "total": 126,
-            "earliest": "2021-09-10 12:45 PM"
+            "total": 125,
+            "earliest": "2021-09-10 01:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
             "total": 0,
@@ -146,15 +146,15 @@
             "earliest": "2021-09-17 09:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1078,
-            "earliest": "2021-10-22 08:35 AM"
+            "total": 1079,
+            "earliest": "2021-10-01 02:55 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 396,
+            "total": 391,
             "earliest": "2021-10-01 09:25 AM"
         },
         "Monash Community Outreach": {
@@ -191,7 +191,7 @@
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
             "total": 206,
-            "earliest": "2021-09-28 01:20 PM"
+            "earliest": "2021-09-09 10:20 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -234,8 +234,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-01 04:00 PM"
         },
         "Seymour Health": {
             "total": 0,
