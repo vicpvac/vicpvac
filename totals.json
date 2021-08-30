@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-30 11:38",
+    "lastUpdated": "2021-08-30 11:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1090,
@@ -10,16 +10,16 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 3,
+            "earliest": "2021-09-02 09:50 AM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 3,
-            "earliest": "2021-09-21 08:50 AM"
+            "earliest": "2021-09-24 09:20 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-08 11:16 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -66,12 +66,12 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-09-11 03:36 PM"
         },
         "Corryong health": {
-            "total": 197,
-            "earliest": "2021-08-31 02:45 PM"
+            "total": 196,
+            "earliest": "2021-09-08 01:30 PM"
         },
         "Cranbourne Turf Club": {
             "total": 0,
@@ -118,8 +118,8 @@
             "earliest": null
         },
         "Horsham": {
-            "total": 8,
-            "earliest": "2021-09-28 11:50 AM"
+            "total": 7,
+            "earliest": "2021-09-28 12:50 PM"
         },
         "Hotel Quarantine \u2013 AHC": {
             "total": 0,
@@ -138,16 +138,16 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1531,
-            "earliest": "2021-09-01 11:20 AM"
+            "total": 1530,
+            "earliest": "2021-09-07 05:40 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 103,
+            "total": 101,
             "earliest": "2021-08-31 10:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1146,
-            "earliest": "2021-10-15 08:45 AM"
+            "total": 1143,
+            "earliest": "2021-09-22 12:45 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -155,7 +155,7 @@
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 641,
-            "earliest": "2021-09-06 08:45 AM"
+            "earliest": "2021-09-28 03:45 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-12 01:15 PM"
         },
         "NCN Health": {
-            "total": 342,
+            "total": 341,
             "earliest": "2021-09-23 02:10 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -190,8 +190,8 @@
             "earliest": "2021-10-15 12:16 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 327,
-            "earliest": "2021-10-03 12:40 PM"
+            "total": 326,
+            "earliest": "2021-10-01 01:20 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -222,8 +222,8 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 223,
-            "earliest": "2021-08-31 11:30 AM"
+            "total": 192,
+            "earliest": "2021-09-01 09:20 AM"
         },
         "Sandown Racecourse": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 5,
-            "earliest": "2021-09-22 10:05 AM"
+            "total": 2,
+            "earliest": "2021-09-20 03:35 PM"
         },
         "SWH - Camperdown": {
             "total": 0,
