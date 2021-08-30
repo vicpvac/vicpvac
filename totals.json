@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-08-30 12:43",
+    "lastUpdated": "2021-08-30 12:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1087,
-            "earliest": "2021-09-16 09:00 AM"
+            "total": 1086,
+            "earliest": "2021-08-31 11:45 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -26,15 +26,15 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1546,
-            "earliest": "2021-09-06 08:40 AM"
+            "total": 1545,
+            "earliest": "2021-10-15 11:20 AM"
         },
         "Barwon Valley School": {
             "total": 0,
             "earliest": null
         },
         "Beechworth Vaccination Hub": {
-            "total": 124,
+            "total": 123,
             "earliest": "2021-10-14 12:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
@@ -66,12 +66,12 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "2021-09-08 04:36 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
-            "total": 193,
-            "earliest": "2021-09-02 10:00 AM"
+            "total": 192,
+            "earliest": "2021-09-08 02:15 PM"
         },
         "Cranbourne Turf Club": {
             "total": 0,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 40,
+            "total": 35,
             "earliest": "2021-09-01 08:45 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -118,8 +118,8 @@
             "earliest": null
         },
         "Horsham": {
-            "total": 7,
-            "earliest": "2021-09-17 01:00 PM"
+            "total": 6,
+            "earliest": "2021-09-28 01:10 PM"
         },
         "Hotel Quarantine \u2013 AHC": {
             "total": 0,
@@ -139,11 +139,11 @@
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1515,
-            "earliest": "2021-09-07 07:00 PM"
+            "earliest": "2021-09-02 11:00 AM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 98,
-            "earliest": "2021-09-13 09:50 AM"
+            "total": 96,
+            "earliest": "2021-09-09 10:40 AM"
         },
         "Melbourne Showgrounds": {
             "total": 1135,
@@ -154,7 +154,7 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 607,
+            "total": 603,
             "earliest": "2021-09-29 11:05 AM"
         },
         "Monash Community Outreach": {
@@ -174,7 +174,7 @@
             "earliest": "2021-10-12 01:30 PM"
         },
         "NCN Health": {
-            "total": 327,
+            "total": 324,
             "earliest": "2021-09-23 02:20 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -186,12 +186,12 @@
             "earliest": "2021-10-15 10:48 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 47,
+            "total": 46,
             "earliest": "2021-10-15 12:24 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 309,
-            "earliest": "2021-10-02 05:20 PM"
+            "total": 308,
+            "earliest": "2021-10-03 02:50 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -214,8 +214,8 @@
             "earliest": null
         },
         "Ringwood East Community Clinic Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-13 02:54 PM"
         },
         "RMH Pfizer": {
             "total": 0,
@@ -270,7 +270,7 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 14,
+            "total": 15,
             "earliest": "2021-09-01 01:20 PM"
         },
         "Werribee Mercy": {
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 20,
+            "total": 18,
             "earliest": "2021-08-31 09:00 AM"
         }
     }
