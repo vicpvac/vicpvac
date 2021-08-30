@@ -1,25 +1,25 @@
 {
-    "lastUpdated": "2021-08-30 15:14",
+    "lastUpdated": "2021-08-30 15:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1073,
-            "earliest": "2021-09-22 01:15 PM"
+            "earliest": "2021-09-21 11:15 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
+            "total": 1,
+            "earliest": "2021-10-09 04:20 PM"
+        },
+        "Austin - Repatriation (Pfizer)": {
             "total": 0,
             "earliest": null
         },
-        "Austin - Repatriation (Pfizer)": {
-            "total": 2,
-            "earliest": "2021-10-08 12:10 PM"
-        },
         "Bairnsdale City Oval": {
-            "total": 104,
-            "earliest": "2021-09-06 09:11 AM"
+            "total": 103,
+            "earliest": "2021-09-06 09:22 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -27,7 +27,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 1512,
-            "earliest": "2021-10-16 01:40 PM"
+            "earliest": "2021-09-03 11:10 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -66,11 +66,11 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 232,
-            "earliest": "2021-09-27 01:15 PM"
+            "total": 230,
+            "earliest": "2021-09-28 10:48 AM"
         },
         "Corryong health": {
-            "total": 189,
+            "total": 188,
             "earliest": "2021-09-02 10:15 AM"
         },
         "Cranbourne Turf Club": {
@@ -139,22 +139,22 @@
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1484,
-            "earliest": "2021-09-04 10:40 AM"
+            "earliest": "2021-09-07 07:40 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 65,
-            "earliest": "2021-09-14 12:10 PM"
+            "total": 63,
+            "earliest": "2021-09-16 09:30 AM"
         },
         "Melbourne Showgrounds": {
             "total": 1121,
-            "earliest": "2021-09-23 12:05 PM"
+            "earliest": "2021-10-19 08:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-30 10:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 530,
+            "total": 529,
             "earliest": "2021-09-30 08:55 AM"
         },
         "Monash Community Outreach": {
@@ -174,7 +174,7 @@
             "earliest": "2021-08-31 01:15 PM"
         },
         "NCN Health": {
-            "total": 282,
+            "total": 281,
             "earliest": "2021-09-27 10:10 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -186,8 +186,8 @@
             "earliest": "2021-10-15 10:48 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 47,
-            "earliest": "2021-10-15 12:24 PM"
+            "total": 46,
+            "earliest": "2021-10-15 12:32 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
             "total": 277,
@@ -250,7 +250,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
+            "total": 2,
             "earliest": "2021-09-28 09:05 AM"
         },
         "SWH - Camperdown": {
@@ -282,15 +282,15 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-27 02:30 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 7,
+            "total": 8,
             "earliest": "2021-08-31 09:42 AM"
         }
     }
