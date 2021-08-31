@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-01 07:18",
+    "lastUpdated": "2021-09-01 07:24",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1062,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-02 10:50 AM"
         },
         "Bairnsdale City Oval": {
             "total": 0,
@@ -154,7 +154,7 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 102,
+            "total": 101,
             "earliest": "2021-10-28 01:25 PM"
         },
         "Monash Community Outreach": {
@@ -238,8 +238,8 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-02 01:00 PM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-02 01:10 PM"
         },
         "Werribee Mercy": {
             "total": 0,
