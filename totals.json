@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-01 07:38",
+    "lastUpdated": "2021-09-01 07:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1063,
-            "earliest": "2021-09-03 08:30 AM"
+            "total": 1062,
+            "earliest": "2021-10-11 02:00 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -146,16 +146,16 @@
             "earliest": "2021-10-07 02:30 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 909,
-            "earliest": "2021-09-02 03:25 PM"
+            "total": 908,
+            "earliest": "2021-10-26 08:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 98,
-            "earliest": "2021-10-28 01:35 PM"
+            "total": 99,
+            "earliest": "2021-09-02 11:25 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -190,8 +190,8 @@
             "earliest": "2021-10-08 10:30 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-06 01:10 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-07 02:12 PM"
         }
     }
 }
