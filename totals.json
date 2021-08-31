@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-08-31 21:33",
+    "lastUpdated": "2021-08-31 21:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1035,
-            "earliest": "2021-10-11 09:30 AM"
+            "total": 1036,
+            "earliest": "2021-09-01 01:45 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1418,
+            "total": 1417,
             "earliest": "2021-10-19 12:40 PM"
         },
         "Barwon Valley School": {
@@ -74,8 +74,8 @@
             "earliest": "2021-09-08 10:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "2021-10-01 10:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -146,16 +146,16 @@
             "earliest": "2021-10-07 02:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 915,
-            "earliest": "2021-10-25 01:45 PM"
+            "total": 913,
+            "earliest": "2021-10-25 02:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-03 08:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 136,
-            "earliest": "2021-09-19 09:55 AM"
+            "total": 132,
+            "earliest": "2021-09-01 02:45 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -190,8 +190,8 @@
             "earliest": "2021-10-08 10:30 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 13,
-            "earliest": "2021-10-07 04:40 PM"
+            "total": 12,
+            "earliest": "2021-10-08 12:40 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-25 10:25 AM"
         },
         "SWH - Camperdown": {
             "total": 0,
