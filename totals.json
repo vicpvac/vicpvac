@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-01 00:13",
+    "lastUpdated": "2021-09-01 00:19",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1062,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-01 12:00 PM"
         },
         "Corryong health": {
             "total": 163,
