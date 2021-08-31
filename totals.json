@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-08-31 12:38",
+    "lastUpdated": "2021-08-31 12:44",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1052,
@@ -15,10 +15,10 @@
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 1,
-            "earliest": "2021-10-07 11:30 AM"
+            "earliest": "2021-09-01 06:00 PM"
         },
         "Bairnsdale City Oval": {
-            "total": 8,
+            "total": 10,
             "earliest": "2021-09-08 11:56 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -67,7 +67,7 @@
         },
         "Convention Centre": {
             "total": 73,
-            "earliest": "2021-10-01 11:36 AM"
+            "earliest": "2021-09-30 03:03 PM"
         },
         "Corryong health": {
             "total": 181,
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 570,
-            "earliest": "2021-09-30 02:40 PM"
+            "total": 572,
+            "earliest": "2021-09-07 10:40 AM"
         },
         "East Wimmera Health Service Charlton": {
             "total": 2,
@@ -138,24 +138,24 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1734,
+            "total": 1733,
             "earliest": "2021-09-01 05:40 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 13,
-            "earliest": "2021-10-05 09:10 AM"
+            "total": 10,
+            "earliest": "2021-10-12 10:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1041,
-            "earliest": "2021-10-11 02:35 PM"
+            "total": 1042,
+            "earliest": "2021-10-22 08:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 278,
-            "earliest": "2021-10-03 03:55 PM"
+            "total": 275,
+            "earliest": "2021-10-25 08:55 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-05 01:45 PM"
         },
         "NCN Health": {
-            "total": 268,
+            "total": 267,
             "earliest": "2021-09-27 01:10 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -190,8 +190,8 @@
             "earliest": "2021-10-22 10:00 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 150,
-            "earliest": "2021-10-05 03:50 PM"
+            "total": 149,
+            "earliest": "2021-09-21 01:10 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -242,16 +242,16 @@
             "earliest": null
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-01 11:45 AM"
         },
         "St John of God Berwick": {
             "total": 0,
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "2021-09-29 02:55 PM"
+            "total": 0,
+            "earliest": null
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -270,15 +270,15 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-01 02:30 PM"
         },
         "Werribee Mercy": {
             "total": 0,
             "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 140,
+            "total": 135,
             "earliest": "2021-09-09 11:08 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
@@ -286,8 +286,8 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "2021-09-14 01:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
             "total": 0,
