@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-01 02:23",
+    "lastUpdated": "2021-09-01 02:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1062,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-03 10:30 AM"
         },
         "Werribee Mercy": {
             "total": 0,
