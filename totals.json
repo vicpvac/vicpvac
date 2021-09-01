@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-02 08:33",
+    "lastUpdated": "2021-09-02 08:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1047,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-30 09:36 AM"
         },
         "Corryong health": {
             "total": 112,
@@ -106,11 +106,11 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-28 01:20 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 548,
+            "total": 546,
             "earliest": "2021-10-01 12:29 PM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -139,15 +139,15 @@
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1565,
-            "earliest": "2021-09-14 07:40 PM"
+            "earliest": "2021-09-14 07:00 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 4,
             "earliest": "2021-10-12 02:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 538,
-            "earliest": "2021-11-02 02:35 PM"
+            "total": 533,
+            "earliest": "2021-11-03 08:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 408,
-            "earliest": "2021-10-19 09:16 AM"
+            "total": 406,
+            "earliest": "2021-10-19 09:24 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 1,
-            "earliest": "2021-09-03 01:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
             "total": 0,
