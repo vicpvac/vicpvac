@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-02 07:48",
+    "lastUpdated": "2021-09-02 07:53",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1049,
@@ -134,12 +134,12 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 398,
+            "total": 396,
             "earliest": "2021-10-05 12:36 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1563,
-            "earliest": "2021-09-14 07:30 PM"
+            "total": 1562,
+            "earliest": "2021-09-14 07:40 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 4,
@@ -147,7 +147,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 546,
-            "earliest": "2021-09-03 11:25 AM"
+            "earliest": "2021-09-15 10:40 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -166,8 +166,8 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 64,
-            "earliest": "2021-09-08 10:45 AM"
+            "total": 63,
+            "earliest": "2021-10-13 11:45 AM"
         },
         "Myrtleford Vaccination Hub": {
             "total": 57,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 1,
-            "earliest": "2021-09-05 10:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -258,7 +258,7 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 422,
+            "total": 421,
             "earliest": "2021-10-18 12:20 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 277,
+            "total": 276,
             "earliest": "2021-10-05 09:08 AM"
         }
     }
