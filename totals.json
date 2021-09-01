@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-01 12:53",
+    "lastUpdated": "2021-09-01 12:59",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1046,
@@ -18,15 +18,15 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 132,
-            "earliest": "2021-10-04 09:48 AM"
+            "total": 133,
+            "earliest": "2021-09-28 12:36 PM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1404,
+            "total": 1405,
             "earliest": "2021-10-05 12:10 PM"
         },
         "Barwon Valley School": {
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-28 10:36 AM"
         },
         "Corryong health": {
             "total": 147,
@@ -114,8 +114,8 @@
             "earliest": "2021-10-01 09:01 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 135,
-            "earliest": "2021-10-01 12:52 PM"
+            "total": 128,
+            "earliest": "2021-10-05 09:08 AM"
         },
         "Horsham": {
             "total": 0,
@@ -138,16 +138,16 @@
             "earliest": "2021-10-01 09:24 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1624,
-            "earliest": "2021-09-11 09:20 AM"
+            "total": 1621,
+            "earliest": "2021-09-11 09:30 AM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 55,
             "earliest": "2021-10-05 09:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 811,
-            "earliest": "2021-10-27 10:25 AM"
+            "total": 810,
+            "earliest": "2021-09-22 10:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -166,19 +166,19 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 69,
-            "earliest": "2021-09-09 02:30 PM"
+            "total": 68,
+            "earliest": "2021-09-09 02:45 PM"
         },
         "Myrtleford Vaccination Hub": {
             "total": 65,
             "earliest": "2021-09-10 01:45 PM"
         },
         "NCN Health": {
-            "total": 172,
-            "earliest": "2021-09-08 06:54 PM"
+            "total": 169,
+            "earliest": "2021-09-14 01:20 PM"
         },
         "NCN Health Nathalia Pop Up": {
-            "total": 39,
+            "total": 40,
             "earliest": "2021-09-02 02:58 PM"
         },
         "NCN Health Numurkah Pop Up": {
@@ -190,8 +190,8 @@
             "earliest": "2021-09-17 01:30 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-10-05 05:50 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 676,
-            "earliest": "2021-10-04 09:48 AM"
+            "total": 667,
+            "earliest": "2021-10-04 10:12 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-02 03:00 PM"
         },
         "Werribee Mercy": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 330,
-            "earliest": "2021-10-01 12:54 PM"
+            "total": 326,
+            "earliest": "2021-10-01 01:02 PM"
         }
     }
 }
