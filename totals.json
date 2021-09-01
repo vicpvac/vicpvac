@@ -1,21 +1,21 @@
 {
-    "lastUpdated": "2021-09-01 16:23",
+    "lastUpdated": "2021-09-01 16:29",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1036,
-            "earliest": "2021-10-12 12:45 PM"
+            "total": 1035,
+            "earliest": "2021-10-12 01:15 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 3,
-            "earliest": "2021-09-12 05:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-10-08 07:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 535,
@@ -27,7 +27,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 1337,
-            "earliest": "2021-10-21 10:10 AM"
+            "earliest": "2021-09-30 10:30 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -46,8 +46,8 @@
             "earliest": "2021-10-04 02:15 PM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-05 09:15 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 0,
@@ -66,12 +66,12 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "2021-10-01 05:27 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
-            "total": 146,
-            "earliest": "2021-09-14 04:00 PM"
+            "total": 145,
+            "earliest": "2021-09-15 10:30 AM"
         },
         "Cranbourne Turf Club": {
             "total": 0,
@@ -110,12 +110,12 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 611,
+            "total": 610,
             "earliest": "2021-10-01 09:49 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 315,
-            "earliest": "2021-10-14 01:24 PM"
+            "total": 309,
+            "earliest": "2021-10-14 02:12 PM"
         },
         "Horsham": {
             "total": 0,
@@ -126,8 +126,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-10-02 01:30 PM"
         },
         "Kyabram District Health Service": {
             "total": 0,
@@ -138,8 +138,8 @@
             "earliest": "2021-10-04 09:16 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1573,
-            "earliest": "2021-09-02 01:15 PM"
+            "total": 1571,
+            "earliest": "2021-09-07 07:10 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 23,
@@ -147,15 +147,15 @@
         },
         "Melbourne Showgrounds": {
             "total": 686,
-            "earliest": "2021-10-29 12:45 PM"
+            "earliest": "2021-09-05 02:55 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-30 02:05 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -175,7 +175,7 @@
         },
         "NCN Health": {
             "total": 136,
-            "earliest": "2021-09-08 02:20 PM"
+            "earliest": "2021-09-06 02:18 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 37,
@@ -186,7 +186,7 @@
             "earliest": "2021-10-15 11:12 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 36,
+            "total": 34,
             "earliest": "2021-10-08 03:20 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
@@ -222,20 +222,20 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 1,
-            "earliest": "2021-09-02 09:10 AM"
-        },
-        "Sandown Racecourse": {
             "total": 0,
             "earliest": null
+        },
+        "Sandown Racecourse": {
+            "total": 1,
+            "earliest": "2021-09-28 03:40 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 12,
-            "earliest": "2021-09-08 04:30 PM"
+            "total": 24,
+            "earliest": "2021-09-06 04:50 PM"
         },
         "Seymour Health": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 660,
-            "earliest": "2021-10-07 10:04 AM"
+            "total": 657,
+            "earliest": "2021-10-07 10:28 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -286,8 +286,8 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "2021-09-19 11:35 AM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
             "total": 299,
