@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-01 23:49",
+    "lastUpdated": "2021-09-01 23:54",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1023,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-09-08 03:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 483,
@@ -66,12 +66,12 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-27 09:36 AM"
         },
         "Corryong health": {
-            "total": 139,
-            "earliest": "2021-09-15 11:00 AM"
+            "total": 138,
+            "earliest": "2021-09-15 11:45 AM"
         },
         "Cranbourne Turf Club": {
             "total": 0,
@@ -138,16 +138,16 @@
             "earliest": "2021-10-05 11:40 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1526,
-            "earliest": "2021-09-04 03:20 PM"
+            "total": 1524,
+            "earliest": "2021-09-14 07:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 7,
             "earliest": "2021-10-12 02:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 552,
-            "earliest": "2021-09-25 01:05 PM"
+            "total": 551,
+            "earliest": "2021-11-02 12:45 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-02 08:35 AM"
         },
         "SWH - Camperdown": {
             "total": 0,
