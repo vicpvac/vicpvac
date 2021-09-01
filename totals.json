@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-02 07:43",
+    "lastUpdated": "2021-09-02 07:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1049,
@@ -14,11 +14,11 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-09-11 09:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 476,
+            "total": 475,
             "earliest": "2021-10-04 01:56 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -138,24 +138,24 @@
             "earliest": "2021-10-05 12:36 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1562,
-            "earliest": "2021-09-14 07:40 PM"
+            "total": 1563,
+            "earliest": "2021-09-14 07:30 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 5,
+            "total": 4,
             "earliest": "2021-10-12 02:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 545,
-            "earliest": "2021-11-02 01:45 PM"
+            "total": 546,
+            "earliest": "2021-09-03 11:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 1,
-            "earliest": "2021-09-07 08:35 AM"
+            "total": 0,
+            "earliest": null
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -166,15 +166,15 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 63,
-            "earliest": "2021-10-13 11:45 AM"
+            "total": 64,
+            "earliest": "2021-09-08 10:45 AM"
         },
         "Myrtleford Vaccination Hub": {
             "total": 57,
             "earliest": "2021-10-19 10:00 AM"
         },
         "NCN Health": {
-            "total": 136,
+            "total": 135,
             "earliest": "2021-09-30 11:46 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-05 10:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 425,
-            "earliest": "2021-10-18 12:12 PM"
+            "total": 422,
+            "earliest": "2021-10-18 12:20 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-03 09:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
