@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-01 11:18",
+    "lastUpdated": "2021-09-01 11:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1055,
             "earliest": "2021-10-08 11:15 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-02 12:45 PM"
         },
         "Austin - Olivia Newton John": {
             "total": 0,
@@ -18,15 +18,15 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 0,
-            "earliest": null
+            "total": 95,
+            "earliest": "2021-10-04 09:00 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1423,
+            "total": 1422,
             "earliest": "2021-10-20 09:50 AM"
         },
         "Barwon Valley School": {
@@ -38,12 +38,12 @@
             "earliest": "2021-10-01 11:30 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 9,
-            "earliest": "2021-09-17 11:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
-            "total": 80,
-            "earliest": "2021-09-06 12:45 PM"
+            "total": 77,
+            "earliest": "2021-10-04 02:00 PM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-22 11:12 AM"
         },
         "Corryong health": {
             "total": 156,
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 552,
+            "total": 551,
             "earliest": "2021-10-05 10:50 AM"
         },
         "East Wimmera Health Service Charlton": {
@@ -107,14 +107,14 @@
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 1,
-            "earliest": "2021-10-03 04:50 PM"
+            "earliest": "2021-10-01 12:50 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 0,
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 184,
+            "total": 183,
             "earliest": "2021-10-01 09:24 AM"
         },
         "Horsham": {
@@ -126,36 +126,36 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-02 10:20 AM"
         },
         "Kyabram District Health Service": {
             "total": 0,
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 143,
+            "total": 190,
             "earliest": "2021-10-01 09:00 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1656,
-            "earliest": "2021-09-09 01:50 PM"
+            "total": 1655,
+            "earliest": "2021-09-09 02:10 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 61,
             "earliest": "2021-10-05 09:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 856,
-            "earliest": "2021-10-27 09:15 AM"
+            "total": 854,
+            "earliest": "2021-10-20 01:35 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 40,
-            "earliest": "2021-09-27 12:15 PM"
+            "total": 35,
+            "earliest": "2021-10-31 08:55 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -166,7 +166,7 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 73,
+            "total": 72,
             "earliest": "2021-09-09 11:15 AM"
         },
         "Myrtleford Vaccination Hub": {
@@ -174,7 +174,7 @@
             "earliest": "2021-09-10 10:00 AM"
         },
         "NCN Health": {
-            "total": 186,
+            "total": 187,
             "earliest": "2021-09-02 12:50 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -190,8 +190,8 @@
             "earliest": "2021-10-08 10:30 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 3,
+            "earliest": "2021-09-28 09:40 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -226,12 +226,12 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 1,
-            "earliest": "2021-10-02 10:30 AM"
-        },
-        "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
             "earliest": null
+        },
+        "Sandown Racecourse Drive Through Vaccination Clinic": {
+            "total": 1,
+            "earliest": "2021-09-05 11:20 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "2021-09-21 10:35 AM"
+            "total": 0,
+            "earliest": null
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 1,
-            "earliest": "2021-09-10 11:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Werribee Mercy": {
             "total": 0,
