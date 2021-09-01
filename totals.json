@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-01 14:24",
+    "lastUpdated": "2021-09-01 14:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1043,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1368,
+            "total": 1367,
             "earliest": "2021-10-21 08:50 AM"
         },
         "Barwon Valley School": {
@@ -34,8 +34,8 @@
             "earliest": null
         },
         "Beechworth Vaccination Hub": {
-            "total": 151,
-            "earliest": "2021-09-30 10:30 AM"
+            "total": 150,
+            "earliest": "2021-10-01 10:30 AM"
         },
         "Box Hill Town Hall Pfizer": {
             "total": 0,
@@ -66,11 +66,11 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "2021-09-08 04:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
-            "total": 145,
+            "total": 144,
             "earliest": "2021-09-09 02:15 PM"
         },
         "Cranbourne Turf Club": {
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 535,
-            "earliest": "2021-10-05 01:20 PM"
+            "total": 534,
+            "earliest": "2021-10-05 01:30 PM"
         },
         "East Wimmera Health Service Charlton": {
             "total": 2,
@@ -110,12 +110,12 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 631,
-            "earliest": "2021-10-01 09:01 AM"
+            "total": 632,
+            "earliest": "2021-09-03 11:46 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 444,
-            "earliest": "2021-10-07 12:20 PM"
+            "total": 432,
+            "earliest": "2021-10-07 02:04 PM"
         },
         "Horsham": {
             "total": 0,
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 578,
-            "earliest": "2021-10-01 10:36 AM"
+            "total": 573,
+            "earliest": "2021-10-01 11:00 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1593,
@@ -146,8 +146,8 @@
             "earliest": "2021-10-05 10:30 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 760,
-            "earliest": "2021-09-30 09:55 AM"
+            "total": 755,
+            "earliest": "2021-10-29 09:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -166,16 +166,16 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 68,
-            "earliest": "2021-09-09 02:15 PM"
+            "total": 67,
+            "earliest": "2021-10-06 12:45 PM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 64,
-            "earliest": "2021-09-10 10:45 AM"
+            "total": 63,
+            "earliest": "2021-10-05 12:45 PM"
         },
         "NCN Health": {
             "total": 156,
-            "earliest": "2021-09-29 12:10 PM"
+            "earliest": "2021-09-27 02:20 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 38,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-26 01:20 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 784,
-            "earliest": "2021-10-05 11:56 AM"
+            "total": 777,
+            "earliest": "2021-10-05 12:12 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 311,
-            "earliest": "2021-09-28 01:00 PM"
+            "total": 310,
+            "earliest": "2021-10-01 01:42 PM"
         }
     }
 }
