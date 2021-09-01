@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-02 07:53",
+    "lastUpdated": "2021-09-02 07:58",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1049,
@@ -114,7 +114,7 @@
             "earliest": "2021-10-01 12:29 PM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 91,
+            "total": 90,
             "earliest": "2021-10-26 11:40 AM"
         },
         "Horsham": {
@@ -146,8 +146,8 @@
             "earliest": "2021-10-12 02:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 546,
-            "earliest": "2021-09-15 10:40 AM"
+            "total": 545,
+            "earliest": "2021-11-02 01:45 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -190,11 +190,11 @@
             "earliest": "2021-10-22 10:40 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-26 03:00 PM"
         },
         "Northeast Health Wangaratta": {
-            "total": 213,
+            "total": 214,
             "earliest": "2021-10-06 10:05 AM"
         },
         "Omeo Medical Centre": {
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 276,
+            "total": 277,
             "earliest": "2021-10-05 09:08 AM"
         }
     }
