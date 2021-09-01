@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2021-09-01 17:33",
+    "lastUpdated": "2021-09-01 17:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1052,
+            "total": 1053,
             "earliest": "2021-09-04 08:45 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
@@ -18,15 +18,15 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 531,
-            "earliest": "2021-09-06 09:00 AM"
+            "total": 528,
+            "earliest": "2021-10-04 10:44 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1322,
+            "total": 1320,
             "earliest": "2021-10-21 11:50 AM"
         },
         "Barwon Valley School": {
@@ -82,8 +82,8 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-14 09:30 AM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
             "total": 0,
@@ -114,7 +114,7 @@
             "earliest": "2021-10-01 10:21 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 263,
+            "total": 261,
             "earliest": "2021-10-19 09:24 AM"
         },
         "Horsham": {
@@ -134,11 +134,11 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 529,
+            "total": 527,
             "earliest": "2021-10-04 09:48 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1580,
+            "total": 1581,
             "earliest": "2021-09-02 04:15 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -146,8 +146,8 @@
             "earliest": "2021-10-06 09:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 669,
-            "earliest": "2021-10-21 09:05 AM"
+            "total": 668,
+            "earliest": "2021-10-15 09:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -190,12 +190,12 @@
             "earliest": "2021-09-04 10:33 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "2021-10-01 12:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
-            "total": 162,
-            "earliest": "2021-11-01 08:45 AM"
+            "total": 249,
+            "earliest": "2021-10-06 08:30 AM"
         },
         "Omeo Medical Centre": {
             "total": 0,
@@ -234,8 +234,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 57,
-            "earliest": "2021-09-22 04:30 PM"
+            "total": 47,
+            "earliest": "2021-09-21 04:30 PM"
         },
         "Seymour Health": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 607,
-            "earliest": "2021-10-07 12:52 PM"
+            "total": 604,
+            "earliest": "2021-10-07 01:16 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
