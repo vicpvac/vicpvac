@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-01 11:08",
+    "lastUpdated": "2021-09-01 11:13",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1057,
@@ -27,7 +27,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 1423,
-            "earliest": "2021-10-18 02:10 PM"
+            "earliest": "2021-10-20 09:50 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -38,8 +38,8 @@
             "earliest": "2021-10-01 11:30 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 38,
+            "earliest": "2021-09-17 08:50 AM"
         },
         "Bright Hub - North East VIC": {
             "total": 80,
@@ -66,12 +66,12 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "2021-09-12 03:24 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
-            "total": 143,
-            "earliest": "2021-09-15 10:30 AM"
+            "total": 157,
+            "earliest": "2021-09-09 02:45 PM"
         },
         "Cranbourne Turf Club": {
             "total": 0,
@@ -114,8 +114,8 @@
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 190,
-            "earliest": "2021-10-01 09:00 AM"
+            "total": 186,
+            "earliest": "2021-10-01 09:08 AM"
         },
         "Horsham": {
             "total": 0,
@@ -138,24 +138,24 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1658,
-            "earliest": "2021-09-09 01:50 PM"
+            "total": 1657,
+            "earliest": "2021-09-04 11:30 AM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 60,
             "earliest": "2021-10-05 09:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 861,
-            "earliest": "2021-10-27 08:45 AM"
+            "total": 859,
+            "earliest": "2021-09-18 01:55 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 46,
-            "earliest": "2021-10-15 12:25 PM"
+            "total": 43,
+            "earliest": "2021-10-30 02:15 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -210,8 +210,8 @@
             "earliest": null
         },
         "Portland District Health": {
-            "total": 1,
-            "earliest": "2021-09-03 08:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Ringwood East Community Clinic Pfizer": {
             "total": 0,
@@ -230,8 +230,8 @@
             "earliest": null
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 1,
-            "earliest": "2021-09-30 02:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-17 10:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
