@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-01 22:23",
+    "lastUpdated": "2021-09-01 22:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1025,
-            "earliest": "2021-09-02 11:15 AM"
+            "earliest": "2021-09-02 04:00 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 2,
-            "earliest": "2021-09-29 10:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 483,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1256,
-            "earliest": "2021-10-22 12:40 PM"
+            "total": 1257,
+            "earliest": "2021-10-22 12:10 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -114,7 +114,7 @@
             "earliest": "2021-10-01 12:29 PM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 123,
+            "total": 122,
             "earliest": "2021-10-26 09:24 AM"
         },
         "Horsham": {
@@ -134,20 +134,20 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 424,
+            "total": 421,
             "earliest": "2021-10-05 10:28 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1527,
-            "earliest": "2021-09-02 11:00 AM"
+            "total": 1526,
+            "earliest": "2021-09-14 07:10 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 7,
             "earliest": "2021-10-12 02:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 562,
-            "earliest": "2021-11-02 09:45 AM"
+            "total": 563,
+            "earliest": "2021-09-14 12:05 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -222,8 +222,8 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-04 11:30 AM"
         },
         "Sandown Racecourse": {
             "total": 0,
@@ -258,7 +258,7 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 454,
+            "total": 453,
             "earliest": "2021-10-18 09:48 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
