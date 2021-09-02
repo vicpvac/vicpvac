@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-03 09:33",
+    "lastUpdated": "2021-09-03 09:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1040,
-            "earliest": "2021-09-17 09:00 AM"
+            "total": 1039,
+            "earliest": "2021-10-05 02:15 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -34,7 +34,7 @@
             "earliest": null
         },
         "Beechworth Vaccination Hub": {
-            "total": 126,
+            "total": 125,
             "earliest": "2021-09-10 01:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
@@ -134,7 +134,7 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 81,
+            "total": 79,
             "earliest": "2021-10-25 12:52 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
@@ -146,12 +146,12 @@
             "earliest": "2021-10-06 12:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 42,
-            "earliest": "2021-11-13 01:05 PM"
+            "total": 37,
+            "earliest": "2021-11-13 01:55 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-16 03:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-05 01:45 PM"
         },
         "NCN Health": {
-            "total": 211,
+            "total": 212,
             "earliest": "2021-09-15 10:42 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -210,8 +210,8 @@
             "earliest": null
         },
         "Portland District Health": {
-            "total": 1,
-            "earliest": "2021-09-23 10:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Ringwood East Community Clinic Pfizer": {
             "total": 0,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-24 01:10 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -238,8 +238,8 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-06 10:00 AM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 78,
-            "earliest": "2021-09-13 09:00 AM"
+            "total": 191,
+            "earliest": "2021-09-13 09:20 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -270,16 +270,16 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 1,
-            "earliest": "2021-09-07 10:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Werribee Mercy": {
             "total": 0,
             "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 93,
-            "earliest": "2021-09-13 09:00 AM"
+            "total": 86,
+            "earliest": "2021-09-13 09:45 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 206,
+            "total": 205,
             "earliest": "2021-10-05 01:16 PM"
         }
     }
