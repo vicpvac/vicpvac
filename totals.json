@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-02 20:03",
+    "lastUpdated": "2021-09-02 20:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1016,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 462,
-            "earliest": "2021-10-04 12:45 PM"
+            "total": 461,
+            "earliest": "2021-10-04 12:53 PM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -134,11 +134,11 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 160,
-            "earliest": "2021-10-19 02:12 PM"
+            "total": 158,
+            "earliest": "2021-10-22 10:52 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1457,
+            "total": 1456,
             "earliest": "2021-09-18 01:50 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -146,8 +146,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 148,
-            "earliest": "2021-10-29 10:45 AM"
+            "total": 144,
+            "earliest": "2021-11-11 09:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -258,7 +258,7 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 27,
+            "total": 26,
             "earliest": "2021-10-28 12:36 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-03 03:10 PM"
         },
         "Werribee Mercy": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 230,
+            "total": 231,
             "earliest": "2021-10-05 09:32 AM"
         }
     }
