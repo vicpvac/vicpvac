@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-02 21:13",
+    "lastUpdated": "2021-09-02 21:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1014,
-            "earliest": "2021-10-14 11:30 AM"
+            "total": 1016,
+            "earliest": "2021-09-15 09:00 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 391,
+            "total": 390,
             "earliest": "2021-10-05 09:56 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-23 05:36 PM"
         },
         "Corryong health": {
             "total": 49,
@@ -138,7 +138,7 @@
             "earliest": "2021-10-22 12:20 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1449,
+            "total": 1448,
             "earliest": "2021-09-18 02:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -146,8 +146,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 130,
-            "earliest": "2021-10-12 01:35 PM"
+            "total": 127,
+            "earliest": "2021-11-11 12:55 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -170,8 +170,8 @@
             "earliest": "2021-10-20 11:00 AM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 51,
-            "earliest": "2021-10-19 10:15 AM"
+            "total": 50,
+            "earliest": "2021-10-19 10:30 AM"
         },
         "NCN Health": {
             "total": 244,
@@ -214,8 +214,8 @@
             "earliest": null
         },
         "Ringwood East Community Clinic Pfizer": {
-            "total": 1,
-            "earliest": "2021-11-09 01:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "RMH Pfizer": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 1,
-            "earliest": "2021-09-10 10:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Werribee Mercy": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 231,
+            "total": 228,
             "earliest": "2021-10-05 09:32 AM"
         }
     }
