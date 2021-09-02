@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-02 18:38",
+    "lastUpdated": "2021-09-02 18:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1021,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-10-09 07:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 403,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1173,
-            "earliest": "2021-10-26 01:30 PM"
+            "total": 1172,
+            "earliest": "2021-10-21 10:40 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -70,7 +70,7 @@
             "earliest": null
         },
         "Corryong health": {
-            "total": 50,
+            "total": 51,
             "earliest": "2021-09-16 01:45 PM"
         },
         "Cranbourne Turf Club": {
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 482,
+            "total": 480,
             "earliest": "2021-10-04 10:21 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -119,7 +119,7 @@
         },
         "Horsham": {
             "total": 1,
-            "earliest": "2021-09-03 03:40 PM"
+            "earliest": "2021-09-08 10:30 AM"
         },
         "Hotel Quarantine \u2013 AHC": {
             "total": 0,
@@ -135,19 +135,19 @@
         },
         "Leongatha Community Clinic": {
             "total": 198,
-            "earliest": "2021-10-19 09:24 AM"
+            "earliest": "2021-10-19 09:48 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1470,
-            "earliest": "2021-09-03 11:20 AM"
+            "total": 1469,
+            "earliest": "2021-09-18 12:50 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 1,
-            "earliest": "2021-10-07 03:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 184,
-            "earliest": "2021-11-10 11:25 AM"
+            "total": 181,
+            "earliest": "2021-11-10 11:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 58,
-            "earliest": "2021-10-28 09:56 AM"
+            "total": 56,
+            "earliest": "2021-10-26 11:32 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
