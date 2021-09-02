@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-03 00:34",
+    "lastUpdated": "2021-09-03 00:39",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1040,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 384,
+            "total": 383,
             "earliest": "2021-10-05 10:20 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1185,
-            "earliest": "2021-10-27 09:20 AM"
+            "total": 1187,
+            "earliest": "2021-10-25 08:50 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-17 02:00 PM"
         },
         "Corryong health": {
             "total": 49,
@@ -146,8 +146,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 103,
-            "earliest": "2021-11-12 08:45 AM"
+            "total": 104,
+            "earliest": "2021-11-01 10:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -190,8 +190,8 @@
             "earliest": "2021-10-22 10:40 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-08 01:50 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 141,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 219,
-            "earliest": "2021-10-05 11:08 AM"
+            "total": 220,
+            "earliest": "2021-10-05 09:32 AM"
         }
     }
 }
