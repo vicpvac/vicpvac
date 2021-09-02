@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-02 23:29",
+    "lastUpdated": "2021-09-02 23:34",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1011,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 386,
+            "total": 387,
             "earliest": "2021-10-05 10:20 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1,
-            "earliest": "2021-09-03 12:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -147,7 +147,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 105,
-            "earliest": "2021-11-12 08:45 AM"
+            "earliest": "2021-10-25 02:05 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 222,
+            "total": 221,
             "earliest": "2021-10-05 11:08 AM"
         }
     }
