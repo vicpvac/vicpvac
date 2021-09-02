@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-03 00:54",
+    "lastUpdated": "2021-09-03 00:59",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1040,
@@ -126,8 +126,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-20 02:30 PM"
         },
         "Kyabram District Health Service": {
             "total": 0,
@@ -139,14 +139,14 @@
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1433,
-            "earliest": "2021-09-04 11:40 AM"
+            "earliest": "2021-09-18 03:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 103,
+            "total": 102,
             "earliest": "2021-11-12 08:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
