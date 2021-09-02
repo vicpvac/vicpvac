@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-03 08:13",
+    "lastUpdated": "2021-09-03 08:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1040,
-            "earliest": "2021-09-09 01:15 PM"
+            "total": 1039,
+            "earliest": "2021-10-14 10:15 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -106,12 +106,12 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "2021-11-11 12:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 429,
-            "earliest": "2021-10-06 12:05 PM"
+            "total": 428,
+            "earliest": "2021-10-06 12:13 PM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -138,16 +138,16 @@
             "earliest": "2021-10-25 09:08 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1428,
-            "earliest": "2021-09-18 02:20 PM"
+            "total": 1427,
+            "earliest": "2021-09-21 06:00 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 1,
-            "earliest": "2021-10-06 12:50 PM"
+            "total": 2,
+            "earliest": "2021-09-06 02:30 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 96,
-            "earliest": "2021-10-29 12:05 PM"
+            "total": 95,
+            "earliest": "2021-11-03 09:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 216,
-            "earliest": "2021-10-05 09:32 AM"
+            "total": 215,
+            "earliest": "2021-10-05 11:08 AM"
         }
     }
 }
