@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-02 18:13",
+    "lastUpdated": "2021-09-02 18:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1021,
-            "earliest": "2021-09-15 09:00 AM"
+            "total": 1019,
+            "earliest": "2021-10-14 11:00 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -18,16 +18,16 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 404,
-            "earliest": "2021-10-05 09:40 AM"
+            "total": 405,
+            "earliest": "2021-10-05 09:08 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1183,
-            "earliest": "2021-10-20 10:20 AM"
+            "total": 1184,
+            "earliest": "2021-10-14 10:10 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Bright Hub - North East VIC": {
-            "total": 63,
-            "earliest": "2021-10-11 01:15 PM"
+            "total": 62,
+            "earliest": "2021-10-11 01:30 PM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 0,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 487,
-            "earliest": "2021-10-04 09:49 AM"
+            "total": 485,
+            "earliest": "2021-10-04 10:13 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -134,28 +134,28 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 208,
-            "earliest": "2021-10-05 12:12 PM"
+            "total": 204,
+            "earliest": "2021-10-19 09:24 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1475,
-            "earliest": "2021-09-03 09:15 AM"
+            "total": 1471,
+            "earliest": "2021-09-18 12:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 199,
-            "earliest": "2021-11-10 09:35 AM"
+            "total": 198,
+            "earliest": "2021-11-04 08:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-13 12:45 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -214,8 +214,8 @@
             "earliest": "2021-09-03 03:40 PM"
         },
         "Ringwood East Community Clinic Pfizer": {
-            "total": 21,
-            "earliest": "2021-09-03 09:18 AM"
+            "total": 1,
+            "earliest": "2021-11-04 02:30 PM"
         },
         "RMH Pfizer": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 238,
+            "total": 237,
             "earliest": "2021-10-05 09:08 AM"
         }
     }
