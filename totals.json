@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-02 17:58",
+    "lastUpdated": "2021-09-02 18:03",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1020,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 405,
+            "total": 403,
             "earliest": "2021-10-05 09:40 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -27,7 +27,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 1185,
-            "earliest": "2021-10-26 11:50 AM"
+            "earliest": "2021-10-21 11:00 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 472,
+            "total": 473,
             "earliest": "2021-10-06 11:20 AM"
         },
         "East Wimmera Health Service Charlton": {
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 491,
+            "total": 490,
             "earliest": "2021-10-04 09:49 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -118,8 +118,8 @@
             "earliest": null
         },
         "Horsham": {
-            "total": 1,
-            "earliest": "2021-09-03 03:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Hotel Quarantine \u2013 AHC": {
             "total": 0,
@@ -135,11 +135,11 @@
         },
         "Leongatha Community Clinic": {
             "total": 209,
-            "earliest": "2021-10-19 09:00 AM"
+            "earliest": "2021-10-05 12:12 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1472,
-            "earliest": "2021-09-18 12:40 PM"
+            "total": 1474,
+            "earliest": "2021-09-03 01:15 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
@@ -210,8 +210,8 @@
             "earliest": null
         },
         "Portland District Health": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-03 03:40 PM"
         },
         "Ringwood East Community Clinic Pfizer": {
             "total": 0,
@@ -258,7 +258,7 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 66,
+            "total": 64,
             "earliest": "2021-10-28 09:16 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
