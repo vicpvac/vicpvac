@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-03 18:23",
+    "lastUpdated": "2021-09-03 18:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1009,
@@ -14,20 +14,20 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-09-19 04:40 PM"
         },
         "Bairnsdale City Oval": {
             "total": 599,
-            "earliest": "2021-09-14 10:36 AM"
+            "earliest": "2021-09-14 10:48 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1066,
-            "earliest": "2021-10-28 12:30 PM"
+            "total": 1065,
+            "earliest": "2021-10-28 12:40 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -138,24 +138,24 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1346,
-            "earliest": "2021-09-11 09:40 AM"
+            "total": 1345,
+            "earliest": "2021-09-11 01:10 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 1,
-            "earliest": "2021-10-06 09:50 AM"
+            "total": 2,
+            "earliest": "2021-09-16 11:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 2,
-            "earliest": "2021-10-22 02:25 PM"
+            "total": 1,
+            "earliest": "2021-09-16 02:50 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 2,
-            "earliest": "2021-09-14 12:25 PM"
+            "total": 0,
+            "earliest": null
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -166,15 +166,15 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 46,
-            "earliest": "2021-10-20 01:00 PM"
+            "total": 47,
+            "earliest": "2021-09-09 03:00 PM"
         },
         "Myrtleford Vaccination Hub": {
             "total": 40,
             "earliest": "2021-10-19 01:45 PM"
         },
         "NCN Health": {
-            "total": 170,
+            "total": 168,
             "earliest": "2021-09-21 01:40 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -282,15 +282,15 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-10-02 12:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 173,
+            "total": 172,
             "earliest": "2021-10-08 02:22 PM"
         }
     }
