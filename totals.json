@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 05:58",
+    "lastUpdated": "2021-09-04 06:03",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1022,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 598,
+            "total": 597,
             "earliest": "2021-09-07 09:22 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -150,12 +150,12 @@
             "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-27 09:50 AM"
-        },
-        "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 0,
             "earliest": null
+        },
+        "Melton Indoor Vaccination Centre - Woodgrove": {
+            "total": 1,
+            "earliest": "2021-10-01 12:15 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
