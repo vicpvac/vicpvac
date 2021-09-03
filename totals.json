@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 05:28",
+    "lastUpdated": "2021-09-04 05:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1022,
@@ -190,8 +190,8 @@
             "earliest": "2021-10-01 01:36 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "2021-10-07 08:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 101,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-28 02:44 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
