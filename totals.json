@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-03 14:28",
+    "lastUpdated": "2021-09-03 14:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1014,
-            "earliest": "2021-10-15 11:15 AM"
+            "total": 1015,
+            "earliest": "2021-09-15 09:45 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -18,8 +18,8 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 639,
-            "earliest": "2021-09-13 02:12 PM"
+            "total": 638,
+            "earliest": "2021-09-13 02:24 PM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -27,7 +27,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 1110,
-            "earliest": "2021-10-28 09:10 AM"
+            "earliest": "2021-10-08 10:50 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -50,7 +50,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 43,
+            "total": 35,
             "earliest": "2021-09-09 12:45 PM"
         },
         "Casterton Memorial Hospital": {
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 4,
-            "earliest": "2021-09-21 09:36 AM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 47,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 340,
+            "total": 339,
             "earliest": "2021-10-06 01:41 PM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -135,19 +135,19 @@
         },
         "Leongatha Community Clinic": {
             "total": 31,
-            "earliest": "2021-10-05 01:48 PM"
+            "earliest": "2021-10-04 10:44 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1375,
-            "earliest": "2021-09-18 09:50 AM"
+            "earliest": "2021-09-18 12:50 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-06 02:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-10-27 02:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-19 12:45 PM"
         },
         "NCN Health": {
-            "total": 185,
+            "total": 184,
             "earliest": "2021-09-22 10:58 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -190,8 +190,8 @@
             "earliest": "2021-10-01 12:40 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-27 02:00 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 127,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 116,
-            "earliest": "2021-09-15 11:16 AM"
+            "total": 113,
+            "earliest": "2021-09-27 01:50 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 1,
-            "earliest": "2021-09-06 11:06 AM"
+            "total": 0,
+            "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 192,
+            "total": 191,
             "earliest": "2021-10-08 02:06 PM"
         }
     }
