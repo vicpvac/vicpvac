@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-03 21:03",
+    "lastUpdated": "2021-09-03 21:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 998,
@@ -14,11 +14,11 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-02 01:20 PM"
         },
         "Bairnsdale City Oval": {
-            "total": 628,
+            "total": 627,
             "earliest": "2021-09-06 09:33 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1038,
-            "earliest": "2021-10-28 01:40 PM"
+            "total": 1037,
+            "earliest": "2021-10-29 08:40 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -42,7 +42,7 @@
             "earliest": null
         },
         "Bright Hub - North East VIC": {
-            "total": 51,
+            "total": 50,
             "earliest": "2021-10-18 10:45 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "2021-10-02 09:24 AM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 47,
@@ -82,8 +82,8 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-14 11:15 AM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
             "total": 0,
@@ -106,15 +106,15 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-10 12:40 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 519,
+            "total": 518,
             "earliest": "2021-09-08 08:53 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 20,
+            "total": 18,
             "earliest": "2021-09-28 11:40 AM"
         },
         "Horsham": {
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 223,
-            "earliest": "2021-09-07 09:16 AM"
+            "total": 217,
+            "earliest": "2021-09-07 09:40 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1337,
@@ -174,8 +174,8 @@
             "earliest": "2021-10-19 02:30 PM"
         },
         "NCN Health": {
-            "total": 151,
-            "earliest": "2021-09-22 01:30 PM"
+            "total": 150,
+            "earliest": "2021-09-22 01:38 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 26,
