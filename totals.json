@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 09:48",
+    "lastUpdated": "2021-09-04 09:53",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1016,
@@ -14,19 +14,19 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-18 11:00 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 584,
-            "earliest": "2021-09-07 09:11 AM"
+            "total": 583,
+            "earliest": "2021-09-07 11:16 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1048,
+            "total": 1046,
             "earliest": "2021-10-29 09:50 AM"
         },
         "Barwon Valley School": {
@@ -82,15 +82,15 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 11,
-            "earliest": "2021-10-16 02:45 PM"
+            "total": 9,
+            "earliest": "2021-10-16 03:15 PM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
             "total": 0,
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 412,
+            "total": 411,
             "earliest": "2021-10-19 08:50 AM"
         },
         "East Wimmera Health Service Charlton": {
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 451,
-            "earliest": "2021-09-08 12:58 PM"
+            "total": 449,
+            "earliest": "2021-09-13 09:38 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -134,20 +134,20 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 122,
-            "earliest": "2021-09-20 12:04 PM"
+            "total": 121,
+            "earliest": "2021-09-20 12:20 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1317,
-            "earliest": "2021-10-02 01:50 PM"
+            "total": 1318,
+            "earliest": "2021-09-07 09:50 AM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-09-05 01:30 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-26 09:45 AM"
         },
         "NCN Health": {
-            "total": 135,
+            "total": 133,
             "earliest": "2021-09-29 10:34 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-18 11:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
