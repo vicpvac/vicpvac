@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 00:34",
+    "lastUpdated": "2021-09-04 00:39",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1024,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 604,
+            "total": 603,
             "earliest": "2021-09-07 10:20 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "2021-10-03 03:27 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 47,
@@ -134,7 +134,7 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 160,
+            "total": 159,
             "earliest": "2021-09-14 09:08 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
