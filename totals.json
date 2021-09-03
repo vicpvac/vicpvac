@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 08:23",
+    "lastUpdated": "2021-09-04 08:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1020,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-02 08:40 AM"
         },
         "Bairnsdale City Oval": {
             "total": 587,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1066,
-            "earliest": "2021-10-04 12:10 PM"
+            "total": 1065,
+            "earliest": "2021-10-29 08:50 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -86,8 +86,8 @@
             "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 138,
-            "earliest": "2021-09-06 11:12 AM"
+            "total": 134,
+            "earliest": "2021-09-06 11:24 AM"
         },
         "East Grampians Health Services- Ararat": {
             "total": 411,
@@ -134,11 +134,11 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 136,
+            "total": 134,
             "earliest": "2021-09-14 10:44 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1329,
+            "total": 1328,
             "earliest": "2021-09-06 03:30 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -175,7 +175,7 @@
         },
         "NCN Health": {
             "total": 140,
-            "earliest": "2021-09-29 10:10 AM"
+            "earliest": "2021-09-27 01:00 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 26,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 2,
-            "earliest": "2021-09-16 10:40 AM"
+            "total": 1,
+            "earliest": "2021-09-13 12:20 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
