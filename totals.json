@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-03 16:48",
+    "lastUpdated": "2021-09-03 16:53",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1011,
@@ -14,12 +14,12 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-10-02 11:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 620,
-            "earliest": "2021-09-14 09:24 AM"
+            "total": 619,
+            "earliest": "2021-09-14 09:36 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -42,16 +42,16 @@
             "earliest": null
         },
         "Bright Hub - North East VIC": {
-            "total": 55,
+            "total": 54,
             "earliest": "2021-10-18 10:15 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 18,
-            "earliest": "2021-09-09 09:30 AM"
-        },
-        "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 0,
             "earliest": null
+        },
+        "Campbellfield Ford Complex Walk Ins-Pfizer": {
+            "total": 1,
+            "earliest": "2021-09-07 12:15 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 326,
-            "earliest": "2021-10-06 11:01 AM"
+            "total": 324,
+            "earliest": "2021-10-06 11:25 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -139,23 +139,23 @@
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1355,
-            "earliest": "2021-09-21 06:00 PM"
+            "earliest": "2021-09-04 10:20 AM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 1,
             "earliest": "2021-10-11 02:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 5,
-            "earliest": "2021-09-04 01:55 PM"
-        },
-        "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-20 12:50 PM"
-        },
-        "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 0,
             "earliest": null
+        },
+        "Melton Drive-Through Vaccination Centre": {
+            "total": 0,
+            "earliest": null
+        },
+        "Melton Indoor Vaccination Centre - Woodgrove": {
+            "total": 1,
+            "earliest": "2021-09-22 02:25 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-19 01:45 PM"
         },
         "NCN Health": {
-            "total": 175,
+            "total": 174,
             "earliest": "2021-09-15 01:14 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -186,7 +186,7 @@
             "earliest": "2021-10-01 10:32 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 42,
+            "total": 41,
             "earliest": "2021-10-01 01:12 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
@@ -254,12 +254,12 @@
             "earliest": null
         },
         "SWH - Camperdown": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-08 01:00 PM"
         },
         "Traralgon Racecourse": {
-            "total": 20,
-            "earliest": "2021-09-11 09:09 AM"
+            "total": 18,
+            "earliest": "2021-09-11 09:27 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 180,
-            "earliest": "2021-10-08 02:14 PM"
+            "total": 181,
+            "earliest": "2021-09-14 10:44 AM"
         }
     }
 }
