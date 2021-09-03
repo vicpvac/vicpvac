@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 00:59",
+    "lastUpdated": "2021-09-04 01:03",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1024,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-30 10:30 AM"
         },
         "Bairnsdale City Oval": {
             "total": 603,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 151,
-            "earliest": "2021-10-12 02:36 PM"
+            "total": 152,
+            "earliest": "2021-10-12 02:28 PM"
         }
     }
 }
