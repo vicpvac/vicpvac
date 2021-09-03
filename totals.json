@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-03 17:38",
+    "lastUpdated": "2021-09-03 17:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1010,
@@ -14,11 +14,11 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-20 11:30 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 612,
+            "total": 611,
             "earliest": "2021-09-14 09:36 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1076,
+            "total": 1074,
             "earliest": "2021-10-28 11:50 AM"
         },
         "Barwon Valley School": {
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 421,
-            "earliest": "2021-09-28 09:40 AM"
+            "total": 419,
+            "earliest": "2021-10-05 01:50 PM"
         },
         "East Wimmera Health Service Charlton": {
             "total": 0,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 316,
+            "total": 315,
             "earliest": "2021-10-06 11:25 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -138,20 +138,20 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1349,
-            "earliest": "2021-10-02 09:50 AM"
+            "total": 1350,
+            "earliest": "2021-09-04 02:30 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-11-12 10:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-09-05 01:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 0,
