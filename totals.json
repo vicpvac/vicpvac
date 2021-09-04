@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 11:23",
+    "lastUpdated": "2021-09-04 11:29",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1009,
@@ -10,24 +10,24 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "2021-09-10 05:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 574,
-            "earliest": "2021-09-14 10:36 AM"
+            "total": 575,
+            "earliest": "2021-09-14 09:36 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1027,
-            "earliest": "2021-10-29 12:40 PM"
+            "total": 1025,
+            "earliest": "2021-10-29 12:50 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 414,
+            "total": 410,
             "earliest": "2021-09-15 08:45 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -134,12 +134,12 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 61,
-            "earliest": "2021-09-27 09:24 AM"
+            "total": 63,
+            "earliest": "2021-09-20 12:36 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1312,
-            "earliest": "2021-09-11 02:00 PM"
+            "total": 1311,
+            "earliest": "2021-10-05 04:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-29 08:45 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-20 11:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -286,11 +286,11 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "2021-09-06 12:05 PM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 146,
+            "total": 144,
             "earliest": "2021-10-15 03:34 PM"
         }
     }
