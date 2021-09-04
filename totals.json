@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 22:53",
+    "lastUpdated": "2021-09-04 22:58",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 995,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-05 01:20 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -238,8 +238,8 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 1,
-            "earliest": "2021-09-23 03:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 116,
+            "total": 115,
             "earliest": "2021-10-19 09:48 AM"
         }
     }
