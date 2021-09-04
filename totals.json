@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 16:18",
+    "lastUpdated": "2021-09-04 16:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1000,
@@ -14,20 +14,20 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-26 08:40 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 524,
-            "earliest": "2021-09-15 10:36 AM"
+            "total": 522,
+            "earliest": "2021-09-20 09:24 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 984,
-            "earliest": "2021-11-01 11:40 AM"
+            "total": 985,
+            "earliest": "2021-10-21 12:50 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 335,
+            "total": 334,
             "earliest": "2021-09-22 09:09 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -138,12 +138,12 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1281,
+            "total": 1280,
             "earliest": "2021-10-05 05:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-22 09:20 AM"
         },
         "Melbourne Showgrounds": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-26 09:45 AM"
         },
         "NCN Health": {
-            "total": 85,
+            "total": 84,
             "earliest": "2021-09-06 10:26 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -186,8 +186,8 @@
             "earliest": "2021-10-01 12:08 PM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 33,
-            "earliest": "2021-10-01 02:08 PM"
+            "total": 32,
+            "earliest": "2021-10-08 12:10 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
             "total": 0,
