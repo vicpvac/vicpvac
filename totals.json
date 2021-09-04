@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 00:18",
+    "lastUpdated": "2021-09-05 00:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 995,
@@ -190,8 +190,8 @@
             "earliest": "2021-10-08 12:10 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-02 04:20 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 69,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 115,
+            "total": 114,
             "earliest": "2021-10-19 09:48 AM"
         }
     }
