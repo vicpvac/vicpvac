@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-04 17:18",
+    "lastUpdated": "2021-09-04 17:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1001,
-            "earliest": "2021-10-15 09:00 AM"
+            "total": 999,
+            "earliest": "2021-10-18 10:15 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -14,11 +14,11 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-10-07 01:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 517,
+            "total": 516,
             "earliest": "2021-09-20 09:36 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 980,
+            "total": 979,
             "earliest": "2021-11-01 12:20 PM"
         },
         "Barwon Valley School": {
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "2021-09-29 02:03 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 46,
@@ -146,16 +146,16 @@
             "earliest": "2021-10-06 02:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-09-23 10:05 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-07 11:45 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-29 03:00 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
