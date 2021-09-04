@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 07:23",
+    "lastUpdated": "2021-09-05 07:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 997,
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-08 03:30 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -118,8 +118,8 @@
             "earliest": null
         },
         "Horsham": {
-            "total": 1,
-            "earliest": "2021-09-08 11:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Hotel Quarantine \u2013 AHC": {
             "total": 0,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-26 10:40 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -278,16 +278,16 @@
             "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-07 06:32 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-24 01:50 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "2021-09-08 08:35 AM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
             "total": 116,
