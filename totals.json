@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 21:38",
+    "lastUpdated": "2021-09-04 21:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 996,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-20 11:50 AM"
         },
         "Bairnsdale City Oval": {
             "total": 495,
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 403,
+            "total": 402,
             "earliest": "2021-10-05 02:50 PM"
         },
         "East Wimmera Health Service Charlton": {
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 294,
-            "earliest": "2021-09-27 11:54 AM"
+            "total": 290,
+            "earliest": "2021-09-27 12:26 PM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "2021-10-03 09:55 AM"
+            "total": 0,
+            "earliest": null
         },
         "SWH - Camperdown": {
             "total": 0,
