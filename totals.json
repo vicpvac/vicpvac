@@ -1,25 +1,25 @@
 {
-    "lastUpdated": "2021-09-05 08:23",
+    "lastUpdated": "2021-09-05 08:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 995,
-            "earliest": "2021-10-18 11:30 AM"
+            "total": 996,
+            "earliest": "2021-09-06 09:00 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
+            "total": 1,
+            "earliest": "2021-09-07 10:30 AM"
+        },
+        "Austin - Repatriation (Pfizer)": {
             "total": 0,
             "earliest": null
         },
-        "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-09-08 08:00 AM"
-        },
         "Bairnsdale City Oval": {
             "total": 481,
-            "earliest": "2021-09-21 09:24 AM"
+            "earliest": "2021-09-08 12:51 PM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -111,7 +111,7 @@
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 266,
-            "earliest": "2021-09-29 08:53 AM"
+            "earliest": "2021-09-22 08:45 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -138,8 +138,8 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1260,
-            "earliest": "2021-10-05 06:20 PM"
+            "total": 1261,
+            "earliest": "2021-09-22 02:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 1,
@@ -150,12 +150,12 @@
             "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-06 12:10 PM"
-        },
-        "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 0,
             "earliest": null
+        },
+        "Melton Indoor Vaccination Centre - Woodgrove": {
+            "total": 1,
+            "earliest": "2021-09-06 02:15 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -234,8 +234,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-22 03:00 PM"
         },
         "Seymour Health": {
             "total": 0,
