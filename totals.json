@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 15:48",
+    "lastUpdated": "2021-09-04 15:53",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1000,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 531,
+            "total": 530,
             "earliest": "2021-09-15 10:36 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 984,
-            "earliest": "2021-11-01 11:40 AM"
+            "total": 985,
+            "earliest": "2021-10-21 12:30 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 7,
-            "earliest": "2021-09-12 12:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -126,8 +126,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 1,
-            "earliest": "2021-09-25 12:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Kyabram District Health Service": {
             "total": 0,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-02 03:00 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 1,
-            "earliest": "2021-09-08 10:44 AM"
+            "total": 0,
+            "earliest": null
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -291,7 +291,7 @@
         },
         "Yarram Medical Centre": {
             "total": 124,
-            "earliest": "2021-10-05 12:36 PM"
+            "earliest": "2021-10-01 01:58 PM"
         }
     }
 }
