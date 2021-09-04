@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 14:28",
+    "lastUpdated": "2021-09-04 14:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1002,
@@ -14,11 +14,11 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-10-09 10:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 544,
+            "total": 543,
             "earliest": "2021-09-15 09:48 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 996,
-            "earliest": "2021-09-27 10:00 AM"
+            "total": 994,
+            "earliest": "2021-11-01 09:40 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 34,
-            "earliest": "2021-09-08 11:30 AM"
+            "total": 22,
+            "earliest": "2021-09-08 12:00 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -147,7 +147,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 1,
-            "earliest": "2021-11-10 10:15 AM"
+            "earliest": "2021-10-09 03:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -195,7 +195,7 @@
         },
         "Northeast Health Wangaratta": {
             "total": 81,
-            "earliest": "2021-11-01 01:55 PM"
+            "earliest": "2021-11-01 01:25 PM"
         },
         "Omeo Medical Centre": {
             "total": 0,
@@ -286,8 +286,8 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "2021-09-20 03:35 PM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
             "total": 130,
