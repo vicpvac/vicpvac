@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 13:08",
+    "lastUpdated": "2021-09-04 13:13",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1003,
@@ -14,28 +14,28 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 2,
-            "earliest": "2021-09-09 07:10 PM"
+            "total": 1,
+            "earliest": "2021-10-03 05:50 PM"
         },
         "Bairnsdale City Oval": {
-            "total": 555,
-            "earliest": "2021-09-15 09:24 AM"
+            "total": 554,
+            "earliest": "2021-09-15 09:36 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 998,
-            "earliest": "2021-10-29 12:30 PM"
+            "total": 999,
+            "earliest": "2021-09-16 03:30 PM"
         },
         "Barwon Valley School": {
             "total": 0,
             "earliest": null
         },
         "Beechworth Vaccination Hub": {
-            "total": 104,
-            "earliest": "2021-10-21 11:00 AM"
+            "total": 105,
+            "earliest": "2021-09-17 02:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
             "total": 0,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 14,
-            "earliest": "2021-09-06 11:00 AM"
+            "total": 5,
+            "earliest": "2021-09-06 12:45 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 379,
+            "total": 377,
             "earliest": "2021-09-20 09:30 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -134,20 +134,20 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-28 10:12 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1298,
             "earliest": "2021-10-05 04:40 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-09-08 09:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-11-08 03:45 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -194,7 +194,7 @@
             "earliest": null
         },
         "Northeast Health Wangaratta": {
-            "total": 89,
+            "total": 88,
             "earliest": "2021-11-01 01:45 PM"
         },
         "Omeo Medical Centre": {
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 134,
-            "earliest": "2021-10-19 09:16 AM"
+            "total": 133,
+            "earliest": "2021-10-19 09:24 AM"
         }
     }
 }
