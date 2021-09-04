@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 01:08",
+    "lastUpdated": "2021-09-05 01:13",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 996,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-09-28 05:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 487,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 275,
+            "total": 274,
             "earliest": "2021-09-27 02:26 PM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-17 01:30 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
