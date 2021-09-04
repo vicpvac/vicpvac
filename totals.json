@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 12:43",
+    "lastUpdated": "2021-09-04 12:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1005,
@@ -18,8 +18,8 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 563,
-            "earliest": "2021-09-15 09:00 AM"
+            "total": 561,
+            "earliest": "2021-09-15 09:12 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 389,
+            "total": 388,
             "earliest": "2021-09-20 08:53 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -146,8 +146,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 2,
-            "earliest": "2021-09-06 08:45 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-26 09:45 AM"
         },
         "NCN Health": {
-            "total": 125,
+            "total": 123,
             "earliest": "2021-09-20 11:20 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -182,16 +182,16 @@
             "earliest": "2021-10-08 03:04 PM"
         },
         "NCN Health Numurkah Pop Up": {
-            "total": 46,
-            "earliest": "2021-10-01 11:12 AM"
+            "total": 45,
+            "earliest": "2021-10-01 11:20 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
             "total": 32,
             "earliest": "2021-10-01 01:52 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-09-28 12:10 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 89,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 140,
-            "earliest": "2021-10-05 12:04 PM"
+            "total": 139,
+            "earliest": "2021-10-19 09:16 AM"
         }
     }
 }
