@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 07:18",
+    "lastUpdated": "2021-09-05 07:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 997,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 486,
+            "total": 485,
             "earliest": "2021-09-21 09:12 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 271,
+            "total": 272,
             "earliest": "2021-09-29 08:53 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -118,8 +118,8 @@
             "earliest": null
         },
         "Horsham": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-08 11:00 AM"
         },
         "Hotel Quarantine \u2013 AHC": {
             "total": 0,
@@ -190,8 +190,8 @@
             "earliest": "2021-10-22 10:40 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "2021-09-18 03:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 69,
@@ -286,8 +286,8 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-08 08:35 AM"
         },
         "Yarram Medical Centre": {
             "total": 116,
