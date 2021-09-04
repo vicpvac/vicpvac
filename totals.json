@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 13:23",
+    "lastUpdated": "2021-09-04 13:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1003,
@@ -34,8 +34,8 @@
             "earliest": null
         },
         "Beechworth Vaccination Hub": {
-            "total": 105,
-            "earliest": "2021-09-17 02:00 PM"
+            "total": 104,
+            "earliest": "2021-10-21 11:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
             "total": 0,
@@ -111,7 +111,7 @@
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 375,
-            "earliest": "2021-09-20 09:30 AM"
+            "earliest": "2021-09-20 09:38 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -126,8 +126,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 1,
-            "earliest": "2021-09-26 11:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Kyabram District Health Service": {
             "total": 0,
@@ -138,16 +138,16 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1297,
-            "earliest": "2021-09-13 02:15 PM"
+            "total": 1294,
+            "earliest": "2021-10-05 04:50 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-17 12:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -174,8 +174,8 @@
             "earliest": "2021-10-26 09:45 AM"
         },
         "NCN Health": {
-            "total": 117,
-            "earliest": "2021-09-29 11:54 AM"
+            "total": 114,
+            "earliest": "2021-09-29 12:10 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 26,
@@ -190,8 +190,8 @@
             "earliest": "2021-10-01 02:08 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-18 10:20 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 87,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 133,
+            "total": 132,
             "earliest": "2021-10-19 09:24 AM"
         }
     }
