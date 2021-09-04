@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-04 18:23",
+    "lastUpdated": "2021-09-04 18:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 998,
-            "earliest": "2021-10-18 10:45 AM"
+            "total": 999,
+            "earliest": "2021-09-25 01:45 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -26,15 +26,15 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 977,
-            "earliest": "2021-11-01 11:40 AM"
+            "total": 976,
+            "earliest": "2021-11-01 12:40 PM"
         },
         "Barwon Valley School": {
             "total": 0,
             "earliest": null
         },
         "Beechworth Vaccination Hub": {
-            "total": 102,
+            "total": 101,
             "earliest": "2021-10-21 11:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
@@ -106,11 +106,11 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "2021-09-10 03:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 310,
+            "total": 311,
             "earliest": "2021-09-20 02:10 PM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -143,11 +143,11 @@
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 3,
-            "earliest": "2021-09-07 10:20 AM"
+            "earliest": "2021-09-14 02:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-03 03:05 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -174,15 +174,15 @@
             "earliest": "2021-10-26 09:45 AM"
         },
         "NCN Health": {
-            "total": 74,
+            "total": 73,
             "earliest": "2021-10-04 12:42 PM"
         },
         "NCN Health Nathalia Pop Up": {
-            "total": 24,
-            "earliest": "2021-10-08 03:12 PM"
+            "total": 23,
+            "earliest": "2021-10-29 10:48 AM"
         },
         "NCN Health Numurkah Pop Up": {
-            "total": 40,
+            "total": 39,
             "earliest": "2021-10-01 12:16 PM"
         },
         "NCN Health Yarrawonga Pop Up": {
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 104,
+            "total": 150,
             "earliest": "2021-09-05 09:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "2021-09-05 01:25 PM"
+            "total": 0,
+            "earliest": null
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 121,
+            "total": 120,
             "earliest": "2021-10-15 12:54 PM"
         }
     }
