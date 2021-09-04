@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-04 17:38",
+    "lastUpdated": "2021-09-04 17:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1000,
-            "earliest": "2021-10-15 09:00 AM"
+            "total": 1001,
+            "earliest": "2021-09-15 11:30 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -18,16 +18,16 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 512,
-            "earliest": "2021-09-14 10:12 AM"
+            "total": 507,
+            "earliest": "2021-09-20 09:48 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 978,
-            "earliest": "2021-11-01 12:40 PM"
+            "total": 979,
+            "earliest": "2021-10-06 12:20 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 320,
+            "total": 319,
             "earliest": "2021-09-27 09:17 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-03 01:25 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -222,8 +222,8 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-05 02:40 PM"
         },
         "Sandown Racecourse": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 119,
+            "total": 120,
             "earliest": "2021-10-19 09:40 AM"
         }
     }
