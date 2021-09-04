@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 15:29",
+    "lastUpdated": "2021-09-04 15:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1001,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 534,
+            "total": 533,
             "earliest": "2021-09-15 10:24 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 986,
-            "earliest": "2021-11-01 11:10 AM"
+            "total": 987,
+            "earliest": "2021-10-30 09:10 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 51,
-            "earliest": "2021-09-10 10:30 AM"
+            "total": 45,
+            "earliest": "2021-09-11 09:45 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-27 03:00 PM"
         },
         "Corryong health": {
             "total": 46,
@@ -138,16 +138,16 @@
             "earliest": "2021-10-29 10:36 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1282,
-            "earliest": "2021-10-05 05:10 PM"
+            "total": 1281,
+            "earliest": "2021-09-28 04:30 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 3,
+            "earliest": "2021-10-28 11:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-26 09:45 AM"
         },
         "NCN Health": {
-            "total": 89,
+            "total": 87,
             "earliest": "2021-09-29 12:34 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -190,11 +190,11 @@
             "earliest": "2021-10-01 01:12 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "2021-10-05 10:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
-            "total": 80,
+            "total": 79,
             "earliest": "2021-11-01 02:10 PM"
         },
         "Omeo Medical Centre": {
