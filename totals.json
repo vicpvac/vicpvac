@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 13:48",
+    "lastUpdated": "2021-09-04 13:53",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1004,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 549,
+            "total": 547,
             "earliest": "2021-09-15 09:48 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 407,
+            "total": 406,
             "earliest": "2021-10-19 08:50 AM"
         },
         "East Wimmera Health Service Charlton": {
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1292,
+            "total": 1290,
             "earliest": "2021-10-05 04:50 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -146,16 +146,16 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-04 02:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 1,
-            "earliest": "2021-09-05 10:55 AM"
+            "total": 0,
+            "earliest": null
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -174,19 +174,19 @@
             "earliest": "2021-10-26 09:45 AM"
         },
         "NCN Health": {
-            "total": 108,
-            "earliest": "2021-09-29 12:34 PM"
+            "total": 107,
+            "earliest": "2021-09-29 12:18 PM"
         },
         "NCN Health Nathalia Pop Up": {
-            "total": 26,
-            "earliest": "2021-10-08 03:04 PM"
+            "total": 25,
+            "earliest": "2021-10-08 03:12 PM"
         },
         "NCN Health Numurkah Pop Up": {
             "total": 42,
             "earliest": "2021-10-01 11:44 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 31,
+            "total": 32,
             "earliest": "2021-10-01 02:08 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 133,
-            "earliest": "2021-10-05 12:36 PM"
+            "total": 132,
+            "earliest": "2021-10-19 09:24 AM"
         }
     }
 }
