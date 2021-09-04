@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-04 12:38",
+    "lastUpdated": "2021-09-04 12:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1006,
-            "earliest": "2021-10-18 09:15 AM"
+            "total": 1005,
+            "earliest": "2021-10-18 09:30 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 564,
+            "total": 563,
             "earliest": "2021-09-15 09:00 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1005,
-            "earliest": "2021-10-30 01:40 PM"
+            "total": 1003,
+            "earliest": "2021-10-29 01:10 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -134,20 +134,20 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 7,
-            "earliest": "2021-09-28 10:52 AM"
+            "total": 0,
+            "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1302,
-            "earliest": "2021-09-29 01:15 PM"
+            "total": 1299,
+            "earliest": "2021-10-05 04:40 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-09-15 10:55 AM"
+            "total": 2,
+            "earliest": "2021-09-06 08:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-26 09:45 AM"
         },
         "NCN Health": {
-            "total": 126,
+            "total": 125,
             "earliest": "2021-09-20 11:20 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -186,12 +186,12 @@
             "earliest": "2021-10-01 11:12 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 33,
+            "total": 32,
             "earliest": "2021-10-01 01:52 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "2021-10-03 01:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 89,
@@ -286,11 +286,11 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "2021-09-15 02:45 PM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 141,
+            "total": 140,
             "earliest": "2021-10-05 12:04 PM"
         }
     }
