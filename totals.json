@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-04 23:03",
+    "lastUpdated": "2021-09-04 23:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 996,
@@ -14,11 +14,11 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-29 09:20 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 488,
+            "total": 487,
             "earliest": "2021-09-21 09:00 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-14 12:04 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1262,
@@ -146,8 +146,8 @@
             "earliest": "2021-10-07 03:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-10-17 09:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -174,8 +174,8 @@
             "earliest": "2021-10-26 09:45 AM"
         },
         "NCN Health": {
-            "total": 72,
-            "earliest": "2021-09-29 10:34 AM"
+            "total": 71,
+            "earliest": "2021-10-05 01:46 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 23,
