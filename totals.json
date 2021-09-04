@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2021-09-05 08:08",
+    "lastUpdated": "2021-09-05 08:13",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 996,
-            "earliest": "2021-10-15 11:45 AM"
+            "total": 997,
+            "earliest": "2021-09-06 09:00 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-28 07:00 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
@@ -66,12 +66,12 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "2021-09-30 04:39 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
-            "total": 45,
-            "earliest": "2021-10-06 10:30 AM"
+            "total": 46,
+            "earliest": "2021-09-07 01:30 PM"
         },
         "Cranbourne Turf Club": {
             "total": 0,
@@ -106,11 +106,11 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-03 11:40 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 269,
+            "total": 268,
             "earliest": "2021-09-29 08:53 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1261,
+            "total": 1260,
             "earliest": "2021-10-05 06:20 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -146,8 +146,8 @@
             "earliest": "2021-10-07 03:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-11-12 12:05 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 116,
+            "total": 117,
             "earliest": "2021-10-05 09:40 AM"
         }
     }
