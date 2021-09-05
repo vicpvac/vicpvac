@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 22:13",
+    "lastUpdated": "2021-09-05 22:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 961,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 901,
+            "total": 902,
             "earliest": "2021-11-03 08:50 AM"
         },
         "Barwon Valley School": {
@@ -146,8 +146,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-11-12 09:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -190,8 +190,8 @@
             "earliest": "2021-10-22 10:40 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "2021-10-05 10:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 55,
@@ -234,8 +234,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-06 12:15 PM"
         },
         "Seymour Health": {
             "total": 0,
