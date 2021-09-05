@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 20:53",
+    "lastUpdated": "2021-09-05 20:58",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 963,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 334,
+            "total": 333,
             "earliest": "2021-09-29 09:36 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 383,
-            "earliest": "2021-09-06 03:20 PM"
+            "total": 382,
+            "earliest": "2021-10-19 09:40 AM"
         },
         "East Wimmera Health Service Charlton": {
             "total": 0,
@@ -274,8 +274,8 @@
             "earliest": null
         },
         "Werribee Mercy": {
-            "total": 1,
-            "earliest": "2021-09-08 03:35 PM"
+            "total": 0,
+            "earliest": null
         },
         "Wonthaggi Town Hall": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 76,
-            "earliest": "2021-10-22 01:42 PM"
+            "total": 75,
+            "earliest": "2021-10-22 01:50 PM"
         }
     }
 }
