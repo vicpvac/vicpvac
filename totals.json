@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2021-09-05 21:13",
+    "lastUpdated": "2021-09-05 21:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 963,
+            "total": 962,
             "earliest": "2021-10-19 12:00 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 330,
+            "total": 328,
             "earliest": "2021-09-29 10:00 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 901,
-            "earliest": "2021-11-03 08:50 AM"
+            "total": 902,
+            "earliest": "2021-11-03 08:40 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "2021-09-09 03:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 177,
@@ -134,16 +134,16 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-14 11:48 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1209,
             "earliest": "2021-10-19 04:00 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-13 11:20 AM"
         },
         "Melbourne Showgrounds": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 73,
-            "earliest": "2021-10-22 02:06 PM"
+            "total": 71,
+            "earliest": "2021-10-22 02:46 PM"
         }
     }
 }
