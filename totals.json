@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 14:28",
+    "lastUpdated": "2021-09-05 14:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 982,
@@ -18,8 +18,8 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 409,
-            "earliest": "2021-09-07 01:00 PM"
+            "total": 407,
+            "earliest": "2021-09-22 10:24 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -238,8 +238,8 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-06 10:40 AM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 107,
+            "total": 106,
             "earliest": "2021-10-19 09:56 AM"
         }
     }
