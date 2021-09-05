@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-06 08:38",
+    "lastUpdated": "2021-09-06 08:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 985,
@@ -10,12 +10,12 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-30 10:30 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 2,
-            "earliest": "2021-09-13 04:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 297,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-09 11:06 AM"
         },
         "Corryong health": {
             "total": 41,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 170,
-            "earliest": "2021-10-20 12:53 PM"
+            "total": 169,
+            "earliest": "2021-10-20 01:57 PM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -146,12 +146,12 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-10-26 10:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-09 10:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 0,
@@ -234,8 +234,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-20 04:00 PM"
         },
         "Seymour Health": {
             "total": 0,
@@ -286,8 +286,8 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "2021-09-21 09:25 AM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
             "total": 68,
