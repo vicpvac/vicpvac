@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 21:28",
+    "lastUpdated": "2021-09-05 21:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 961,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 326,
+            "total": 325,
             "earliest": "2021-09-29 10:12 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -114,8 +114,8 @@
             "earliest": "2021-10-20 12:45 PM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 1,
-            "earliest": "2021-09-21 12:44 PM"
+            "total": 0,
+            "earliest": null
         },
         "Horsham": {
             "total": 0,
@@ -138,12 +138,12 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1209,
+            "total": 1208,
             "earliest": "2021-10-19 04:00 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 1,
-            "earliest": "2021-09-13 11:20 AM"
+            "total": 2,
+            "earliest": "2021-09-06 09:50 AM"
         },
         "Melbourne Showgrounds": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-05 01:30 PM"
         },
         "NCN Health": {
-            "total": 58,
+            "total": 57,
             "earliest": "2021-10-06 01:14 PM"
         },
         "NCN Health Nathalia Pop Up": {
