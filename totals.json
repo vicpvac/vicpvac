@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 22:43",
+    "lastUpdated": "2021-09-05 22:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 960,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 899,
+            "total": 898,
             "earliest": "2021-11-03 08:50 AM"
         },
         "Barwon Valley School": {
@@ -286,8 +286,8 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "2021-09-18 09:55 AM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
             "total": 69,
