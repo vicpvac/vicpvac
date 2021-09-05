@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
 <style>
@@ -15,13 +15,14 @@ html, body {
     padding: 0;
     width: 100%;
     height: 100%;
+    color: #111;
 }
 
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     padding-top: 36px;
-    background-color: #f0f0f8;
+    background-color: #f4f5f7;
     text-align: center;
 }
 
@@ -43,6 +44,21 @@ h1 {
 main {
     max-width: 800px;
     margin: 0 auto;
+}
+
+a, a:visited, a:active {
+    color: #ac5900;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #dd882d;
+}
+
+.updates {
+    font-style: italic;
+    border-bottom: 1px solid #333;
 }
 
 .disclaimer {
@@ -97,6 +113,9 @@ td:nth-child(1) {
             <h1>Victoria Pfizer vaccine availability</h1>
         </div>
         <main>
+            <div class="updates">
+            <p>Update 5/9: you can now follow <a href="https://twitter.com/vicpvac">@vicpvac</a> on Twitter to get notifications when new batches of appointments get added. (kinda experimental)</p>
+            </div>
             <div class="disclaimer">
                 <p class="disclaimer-heading">Disclaimers</p>
                 <p>Pfizer vaccine availability via https://portal.cvms.vic.gov.au/ based on age eligibility. Updated every few minutes. <strong>It is not updated in real time.</strong></p>
@@ -120,7 +139,6 @@ td:nth-child(1) {
             </div>
         </main>
     </body>
-    <script async src="//static.getclicky.com/101331044.js"></script>
     <script>
         fetch("totals.json")
             .then(r => r.json())
@@ -134,7 +152,7 @@ td:nth-child(1) {
                     <td>${totals.results[s].earliest ?? '-'}</td>
                     </tr>
                 `).join("");
-                
+
                 const lastUpdatedEl = document.getElementById('last-updated');
 
                 lastUpdatedEl.innerHTML = totals.lastUpdated;
