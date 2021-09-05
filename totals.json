@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 13:08",
+    "lastUpdated": "2021-09-05 13:13",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 986,
@@ -19,7 +19,7 @@
         },
         "Bairnsdale City Oval": {
             "total": 439,
-            "earliest": "2021-09-22 09:24 AM"
+            "earliest": "2021-09-13 10:00 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Bright Hub - North East VIC": {
-            "total": 40,
-            "earliest": "2021-09-06 01:15 PM"
+            "total": 39,
+            "earliest": "2021-10-25 09:45 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 0,
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 390,
-            "earliest": "2021-10-19 09:10 AM"
+            "total": 391,
+            "earliest": "2021-09-06 11:40 AM"
         },
         "East Wimmera Health Service Charlton": {
             "total": 0,
@@ -138,12 +138,12 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1252,
-            "earliest": "2021-09-06 10:20 AM"
+            "total": 1251,
+            "earliest": "2021-09-11 12:10 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
-            "total": 1,
-            "earliest": "2021-10-08 03:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melbourne Showgrounds": {
             "total": 0,
@@ -170,11 +170,11 @@
             "earliest": "2021-10-27 10:15 AM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 35,
-            "earliest": "2021-10-26 09:45 AM"
+            "total": 36,
+            "earliest": "2021-09-10 01:30 PM"
         },
         "NCN Health": {
-            "total": 66,
+            "total": 65,
             "earliest": "2021-10-06 12:34 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -230,8 +230,8 @@
             "earliest": null
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 1,
-            "earliest": "2021-09-28 02:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 110,
+            "total": 109,
             "earliest": "2021-10-19 09:56 AM"
         }
     }
