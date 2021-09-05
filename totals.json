@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 16:48",
+    "lastUpdated": "2021-09-05 16:53",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 977,
@@ -14,12 +14,12 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-10-07 03:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 380,
-            "earliest": "2021-09-07 12:51 PM"
+            "total": 381,
+            "earliest": "2021-09-14 12:12 PM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -34,7 +34,7 @@
             "earliest": null
         },
         "Beechworth Vaccination Hub": {
-            "total": 95,
+            "total": 94,
             "earliest": "2021-10-22 09:30 AM"
         },
         "Box Hill Town Hall Pfizer": {
@@ -146,8 +146,8 @@
             "earliest": "2021-10-07 03:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-16 12:05 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
