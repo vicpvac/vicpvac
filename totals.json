@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 20:28",
+    "lastUpdated": "2021-09-05 20:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 964,
@@ -18,8 +18,8 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 338,
-            "earliest": "2021-09-28 12:36 PM"
+            "total": 335,
+            "earliest": "2021-09-29 09:36 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Bright Hub - North East VIC": {
-            "total": 38,
-            "earliest": "2021-09-06 01:15 PM"
+            "total": 37,
+            "earliest": "2021-10-25 09:45 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 0,
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 383,
+            "total": 382,
             "earliest": "2021-10-19 09:40 AM"
         },
         "East Wimmera Health Service Charlton": {
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-06 10:25 AM"
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 79,
-            "earliest": "2021-09-07 10:24 AM"
+            "total": 78,
+            "earliest": "2021-10-22 01:42 PM"
         }
     }
 }
