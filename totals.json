@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-06 07:38",
+    "lastUpdated": "2021-09-06 07:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 988,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-01 04:39 PM"
         },
         "Corryong health": {
             "total": 42,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 172,
+            "total": 171,
             "earliest": "2021-10-20 12:45 PM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -170,8 +170,8 @@
             "earliest": "2021-10-27 10:15 AM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 40,
-            "earliest": "2021-09-17 01:45 PM"
+            "total": 39,
+            "earliest": "2021-09-17 02:00 PM"
         },
         "NCN Health": {
             "total": 55,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 1,
-            "earliest": "2021-10-26 12:28 PM"
+            "total": 0,
+            "earliest": null
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-09 11:00 AM"
         },
         "Werribee Mercy": {
             "total": 0,
