@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 20:23",
+    "lastUpdated": "2021-09-05 20:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 964,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 340,
+            "total": 338,
             "earliest": "2021-09-28 12:36 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 905,
+            "total": 904,
             "earliest": "2021-11-02 02:40 PM"
         },
         "Barwon Valley School": {
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 182,
-            "earliest": "2021-10-20 11:57 AM"
+            "total": 180,
+            "earliest": "2021-10-20 12:37 PM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -146,8 +146,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-10-23 03:35 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 78,
-            "earliest": "2021-10-22 01:42 PM"
+            "total": 79,
+            "earliest": "2021-09-07 10:24 AM"
         }
     }
 }
