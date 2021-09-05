@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 21:08",
+    "lastUpdated": "2021-09-05 21:13",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 963,
@@ -34,8 +34,8 @@
             "earliest": null
         },
         "Beechworth Vaccination Hub": {
-            "total": 90,
-            "earliest": "2021-09-09 09:45 AM"
+            "total": 89,
+            "earliest": "2021-10-22 09:45 AM"
         },
         "Box Hill Town Hall Pfizer": {
             "total": 0,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-09 03:50 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 177,
@@ -194,7 +194,7 @@
             "earliest": null
         },
         "Northeast Health Wangaratta": {
-            "total": 56,
+            "total": 55,
             "earliest": "2021-11-03 09:40 AM"
         },
         "Omeo Medical Centre": {
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-10-06 09:32 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 74,
-            "earliest": "2021-10-22 01:58 PM"
+            "total": 73,
+            "earliest": "2021-10-22 02:06 PM"
         }
     }
 }
