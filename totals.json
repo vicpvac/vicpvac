@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 15:33",
+    "lastUpdated": "2021-09-05 15:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 981,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 394,
+            "total": 392,
             "earliest": "2021-09-21 01:24 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 928,
+            "total": 927,
             "earliest": "2021-11-02 11:20 AM"
         },
         "Barwon Valley School": {
@@ -106,11 +106,11 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-06 04:00 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 199,
+            "total": 198,
             "earliest": "2021-10-20 08:45 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -138,8 +138,8 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1227,
-            "earliest": "2021-10-19 11:10 AM"
+            "total": 1229,
+            "earliest": "2021-09-14 05:40 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 100,
-            "earliest": "2021-10-05 12:36 PM"
+            "total": 99,
+            "earliest": "2021-10-19 11:08 AM"
         }
     }
 }
