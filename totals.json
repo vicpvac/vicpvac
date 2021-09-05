@@ -1,25 +1,25 @@
 {
-    "lastUpdated": "2021-09-05 17:58",
+    "lastUpdated": "2021-09-05 18:03",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 972,
-            "earliest": "2021-10-19 10:30 AM"
+            "total": 971,
+            "earliest": "2021-10-19 10:45 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "2021-09-10 07:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 364,
-            "earliest": "2021-09-28 09:48 AM"
+            "total": 362,
+            "earliest": "2021-09-13 09:12 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -42,7 +42,7 @@
             "earliest": null
         },
         "Bright Hub - North East VIC": {
-            "total": 39,
+            "total": 38,
             "earliest": "2021-10-25 09:45 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-06 01:16 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1220,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-26 09:45 AM"
         },
         "NCN Health": {
-            "total": 62,
+            "total": 60,
             "earliest": "2021-10-06 12:50 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 92,
-            "earliest": "2021-10-19 11:08 AM"
+            "total": 91,
+            "earliest": "2021-10-19 11:56 AM"
         }
     }
 }
