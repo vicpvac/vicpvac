@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 20:18",
+    "lastUpdated": "2021-09-05 20:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 964,
@@ -18,16 +18,16 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 342,
-            "earliest": "2021-09-06 11:48 AM"
+            "total": 340,
+            "earliest": "2021-09-28 12:36 PM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 907,
-            "earliest": "2021-11-02 02:20 PM"
+            "total": 905,
+            "earliest": "2021-11-02 02:40 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "2021-09-06 03:24 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 42,
@@ -138,16 +138,16 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1210,
-            "earliest": "2021-10-19 03:40 PM"
+            "total": 1209,
+            "earliest": "2021-10-19 04:00 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-23 03:35 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -186,7 +186,7 @@
             "earliest": "2021-10-22 10:56 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 30,
+            "total": 29,
             "earliest": "2021-10-22 10:40 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 80,
-            "earliest": "2021-10-22 01:26 PM"
+            "total": 78,
+            "earliest": "2021-10-22 01:42 PM"
         }
     }
 }
