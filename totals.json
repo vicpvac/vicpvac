@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 14:53",
+    "lastUpdated": "2021-09-05 14:58",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 981,
@@ -18,15 +18,15 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 401,
-            "earliest": "2021-09-15 10:24 AM"
+            "total": 397,
+            "earliest": "2021-09-27 10:00 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 937,
+            "total": 936,
             "earliest": "2021-11-02 10:10 AM"
         },
         "Barwon Valley School": {
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 387,
+            "total": 388,
             "earliest": "2021-10-19 09:10 AM"
         },
         "East Wimmera Health Service Charlton": {
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 204,
+            "total": 202,
             "earliest": "2021-10-20 08:45 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -146,12 +146,12 @@
             "earliest": "2021-10-06 12:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 2,
-            "earliest": "2021-10-26 09:05 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-06 09:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 0,
@@ -190,8 +190,8 @@
             "earliest": "2021-10-22 10:40 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "2021-10-10 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 65,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "2021-09-09 09:05 AM"
+            "total": 0,
+            "earliest": null
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 102,
+            "total": 101,
             "earliest": "2021-10-19 10:36 AM"
         }
     }
