@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 19:23",
+    "lastUpdated": "2021-09-05 19:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 966,
@@ -15,10 +15,10 @@
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 1,
-            "earliest": "2021-09-06 01:40 PM"
+            "earliest": "2021-10-04 11:00 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 354,
+            "total": 352,
             "earliest": "2021-09-06 01:24 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 913,
-            "earliest": "2021-11-02 12:20 PM"
+            "total": 912,
+            "earliest": "2021-11-02 01:40 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -70,8 +70,8 @@
             "earliest": null
         },
         "Corryong health": {
-            "total": 42,
-            "earliest": "2021-10-06 10:30 AM"
+            "total": 43,
+            "earliest": "2021-09-14 03:45 PM"
         },
         "Cranbourne Turf Club": {
             "total": 0,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 22,
-            "earliest": "2021-09-06 11:20 AM"
+            "total": 3,
+            "earliest": "2021-09-06 12:50 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 185,
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-20 11:40 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1215,
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-14 02:35 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "2021-09-07 11:05 AM"
+            "total": 0,
+            "earliest": null
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 84,
-            "earliest": "2021-10-22 12:46 PM"
+            "total": 82,
+            "earliest": "2021-10-22 01:10 PM"
         }
     }
 }
