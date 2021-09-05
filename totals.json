@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 12:08",
+    "lastUpdated": "2021-09-05 12:13",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 990,
@@ -18,8 +18,8 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 450,
-            "earliest": "2021-09-08 12:44 PM"
+            "total": 446,
+            "earliest": "2021-09-22 09:12 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1,
-            "earliest": "2021-09-08 02:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -134,20 +134,20 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 2,
+            "total": 1,
             "earliest": "2021-10-04 12:28 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1254,
-            "earliest": "2021-09-22 01:00 PM"
+            "total": 1252,
+            "earliest": "2021-10-19 09:10 AM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-09-27 03:25 PM"
+            "total": 2,
+            "earliest": "2021-09-27 10:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -166,8 +166,8 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 38,
-            "earliest": "2021-10-20 02:30 PM"
+            "total": 37,
+            "earliest": "2021-10-27 10:00 AM"
         },
         "Myrtleford Vaccination Hub": {
             "total": 35,
@@ -190,8 +190,8 @@
             "earliest": "2021-10-08 01:00 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "2021-10-05 05:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 68,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 113,
-            "earliest": "2021-10-19 09:40 AM"
+            "total": 111,
+            "earliest": "2021-10-19 09:56 AM"
         }
     }
 }
