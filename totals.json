@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-05 22:03",
+    "lastUpdated": "2021-09-05 22:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 961,
@@ -14,20 +14,20 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-07 06:10 PM"
         },
         "Bairnsdale City Oval": {
-            "total": 323,
-            "earliest": "2021-09-28 02:12 PM"
+            "total": 322,
+            "earliest": "2021-09-29 10:12 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 902,
-            "earliest": "2021-10-29 10:50 AM"
+            "total": 901,
+            "earliest": "2021-11-03 08:50 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 382,
+            "total": 383,
             "earliest": "2021-10-19 09:40 AM"
         },
         "East Wimmera Health Service Charlton": {
