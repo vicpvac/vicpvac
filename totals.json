@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2021-09-05 22:38",
+    "lastUpdated": "2021-09-05 22:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 961,
+            "total": 960,
             "earliest": "2021-10-19 12:00 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 174,
+            "total": 173,
             "earliest": "2021-10-20 12:45 PM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -286,8 +286,8 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-18 09:55 AM"
         },
         "Yarram Medical Centre": {
             "total": 69,
