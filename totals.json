@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-07 07:08",
+    "lastUpdated": "2021-09-07 07:13",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 993,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-08 12:10 PM"
         },
         "Bairnsdale City Oval": {
             "total": 165,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-27 09:24 AM"
         },
         "Corryong health": {
             "total": 40,
@@ -278,8 +278,8 @@
             "earliest": "2021-09-28 10:05 AM"
         },
         "Wonthaggi Town Hall": {
-            "total": 1,
-            "earliest": "2021-09-13 10:36 AM"
+            "total": 0,
+            "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
             "total": 0,
