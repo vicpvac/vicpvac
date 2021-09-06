@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-06 21:08",
+    "lastUpdated": "2021-09-06 21:15",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 967,
@@ -19,7 +19,7 @@
         },
         "Bairnsdale City Oval": {
             "total": 168,
-            "earliest": "2021-10-06 01:48 PM"
+            "earliest": "2021-10-06 01:40 PM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -38,8 +38,8 @@
             "earliest": "2021-10-22 12:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-08 09:00 AM"
         },
         "Bright Hub - North East VIC": {
             "total": 32,
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1216,
+            "total": 1215,
             "earliest": "2021-10-19 04:50 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -174,8 +174,8 @@
             "earliest": "2021-10-26 10:30 AM"
         },
         "NCN Health": {
-            "total": 69,
-            "earliest": "2021-09-11 02:20 PM"
+            "total": 66,
+            "earliest": "2021-09-11 02:34 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 20,
@@ -194,7 +194,7 @@
             "earliest": null
         },
         "Northeast Health Wangaratta": {
-            "total": 36,
+            "total": 35,
             "earliest": "2021-11-03 11:20 AM"
         },
         "Omeo Medical Centre": {
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-26 10:12 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
