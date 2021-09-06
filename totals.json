@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-07 07:53",
+    "lastUpdated": "2021-09-07 07:58",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 992,
@@ -14,12 +14,12 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-06 07:10 PM"
         },
         "Bairnsdale City Oval": {
             "total": 161,
-            "earliest": "2021-10-20 10:36 AM"
+            "earliest": "2021-09-14 11:24 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 338,
-            "earliest": "2021-10-20 09:40 AM"
+            "total": 337,
+            "earliest": "2021-10-20 01:50 PM"
         },
         "East Wimmera Health Service Charlton": {
             "total": 3,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 90,
+            "total": 89,
             "earliest": "2021-10-25 09:41 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1254,
+            "total": 1253,
             "earliest": "2021-10-19 05:00 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
