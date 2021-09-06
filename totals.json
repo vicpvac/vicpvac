@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2021-09-06 20:23",
+    "lastUpdated": "2021-09-06 20:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 969,
+            "total": 968,
             "earliest": "2021-10-20 09:15 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 891,
-            "earliest": "2021-11-04 09:00 AM"
+            "total": 890,
+            "earliest": "2021-11-04 09:10 AM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -38,8 +38,8 @@
             "earliest": "2021-10-22 12:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "2021-09-16 10:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 33,
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 339,
-            "earliest": "2021-10-20 11:40 AM"
+            "total": 338,
+            "earliest": "2021-10-20 01:50 PM"
         },
         "East Wimmera Health Service Charlton": {
             "total": 3,
@@ -138,8 +138,8 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1219,
-            "earliest": "2021-09-18 02:20 PM"
+            "total": 1218,
+            "earliest": "2021-10-19 04:50 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 45,
@@ -174,8 +174,8 @@
             "earliest": "2021-10-26 10:30 AM"
         },
         "NCN Health": {
-            "total": 86,
-            "earliest": "2021-09-11 01:16 PM"
+            "total": 82,
+            "earliest": "2021-09-11 01:24 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 20,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-16 09:05 AM"
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 50,
-            "earliest": "2021-10-19 11:16 AM"
+            "total": 51,
+            "earliest": "2021-09-21 01:56 PM"
         }
     }
 }
