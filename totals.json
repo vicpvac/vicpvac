@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-06 20:38",
+    "lastUpdated": "2021-09-06 20:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 968,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 890,
+            "total": 889,
             "earliest": "2021-11-04 09:10 AM"
         },
         "Barwon Valley School": {
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-02 02:48 PM"
         },
         "Corryong health": {
             "total": 40,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 102,
+            "total": 101,
             "earliest": "2021-10-25 08:53 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1218,
+            "total": 1217,
             "earliest": "2021-10-19 04:50 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -146,8 +146,8 @@
             "earliest": "2021-10-13 09:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-11-09 08:45 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -174,8 +174,8 @@
             "earliest": "2021-10-26 10:30 AM"
         },
         "NCN Health": {
-            "total": 79,
-            "earliest": "2021-09-11 01:40 PM"
+            "total": 77,
+            "earliest": "2021-09-11 01:46 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 20,
@@ -194,7 +194,7 @@
             "earliest": null
         },
         "Northeast Health Wangaratta": {
-            "total": 39,
+            "total": 38,
             "earliest": "2021-11-03 11:20 AM"
         },
         "Omeo Medical Centre": {
