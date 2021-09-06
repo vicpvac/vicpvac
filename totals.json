@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-06 21:03",
+    "lastUpdated": "2021-09-06 21:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 967,
@@ -74,8 +74,8 @@
             "earliest": "2021-10-06 10:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "2021-10-03 10:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-26 10:30 AM"
         },
         "NCN Health": {
-            "total": 70,
+            "total": 69,
             "earliest": "2021-09-11 02:20 PM"
         },
         "NCN Health Nathalia Pop Up": {
