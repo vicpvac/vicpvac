@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-07 00:39",
+    "lastUpdated": "2021-09-07 00:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 994,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 923,
+            "total": 922,
             "earliest": "2021-11-04 10:10 AM"
         },
         "Barwon Valley School": {
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "2021-09-22 11:25 AM"
+            "total": 0,
+            "earliest": null
         },
         "SWH - Camperdown": {
             "total": 0,
