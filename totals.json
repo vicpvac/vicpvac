@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-06 11:38",
+    "lastUpdated": "2021-09-06 11:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 977,
@@ -10,15 +10,15 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "2021-09-07 01:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 2,
-            "earliest": "2021-09-21 10:40 AM"
+            "earliest": "2021-09-13 08:00 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 246,
+            "total": 245,
             "earliest": "2021-10-05 12:20 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 928,
-            "earliest": "2021-11-03 08:40 AM"
+            "total": 927,
+            "earliest": "2021-10-30 12:10 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Bright Hub - North East VIC": {
-            "total": 35,
-            "earliest": "2021-10-04 10:15 AM"
+            "total": 34,
+            "earliest": "2021-10-25 10:30 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-22 12:36 PM"
         },
         "Corryong health": {
             "total": 39,
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 360,
+            "total": 359,
             "earliest": "2021-10-05 11:30 AM"
         },
         "East Wimmera Health Service Charlton": {
@@ -106,12 +106,12 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-20 09:50 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 150,
-            "earliest": "2021-10-22 09:57 AM"
+            "earliest": "2021-09-22 09:01 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -138,24 +138,24 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1240,
-            "earliest": "2021-10-19 04:20 PM"
+            "total": 1241,
+            "earliest": "2021-09-18 09:50 AM"
         },
         "Mansfield District Hospital - Anderson Hall": {
             "total": 21,
             "earliest": "2021-10-13 09:00 AM"
         },
         "Melbourne Showgrounds": {
+            "total": 1,
+            "earliest": "2021-11-01 10:35 AM"
+        },
+        "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
-        "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-20 02:30 PM"
-        },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 1,
-            "earliest": "2021-10-29 01:15 PM"
+            "total": 2,
+            "earliest": "2021-09-21 10:45 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -166,19 +166,19 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 34,
-            "earliest": "2021-10-27 10:15 AM"
+            "total": 33,
+            "earliest": "2021-10-27 10:30 AM"
         },
         "Myrtleford Vaccination Hub": {
             "total": 36,
             "earliest": "2021-10-05 11:00 AM"
         },
         "NCN Health": {
-            "total": 88,
+            "total": 87,
             "earliest": "2021-10-06 02:18 PM"
         },
         "NCN Health Nathalia Pop Up": {
-            "total": 22,
+            "total": 21,
             "earliest": "2021-10-29 10:56 AM"
         },
         "NCN Health Numurkah Pop Up": {
@@ -191,7 +191,7 @@
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
             "total": 1,
-            "earliest": "2021-09-19 08:30 AM"
+            "earliest": "2021-10-07 02:20 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 51,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-01 01:20 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-18 01:55 PM"
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -262,8 +262,8 @@
             "earliest": null
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-07 09:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "WDHS - Balmoral Clinic": {
             "total": 0,
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-20 02:10 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
@@ -291,7 +291,7 @@
         },
         "Yarram Medical Centre": {
             "total": 63,
-            "earliest": "2021-09-28 01:12 PM"
+            "earliest": "2021-09-28 11:48 AM"
         }
     }
 }
