@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-07 06:44",
+    "lastUpdated": "2021-09-07 06:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 993,
@@ -226,8 +226,8 @@
             "earliest": "2021-09-12 09:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-27 03:30 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 1,
-            "earliest": "2021-09-11 11:24 AM"
+            "total": 0,
+            "earliest": null
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 46,
-            "earliest": "2021-10-26 10:20 AM"
+            "total": 47,
+            "earliest": "2021-09-28 10:24 AM"
         }
     }
 }
