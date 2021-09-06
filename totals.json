@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-06 14:43",
+    "lastUpdated": "2021-09-06 14:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 975,
@@ -14,11 +14,11 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-20 08:40 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 208,
+            "total": 207,
             "earliest": "2021-10-06 01:16 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 914,
-            "earliest": "2021-11-02 11:10 AM"
+            "total": 913,
+            "earliest": "2021-11-03 01:10 PM"
         },
         "Barwon Valley School": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-09-29 10:00 AM"
         },
         "Corryong health": {
             "total": 39,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 131,
-            "earliest": "2021-10-22 01:17 PM"
+            "total": 130,
+            "earliest": "2021-10-25 08:45 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1232,
+            "total": 1231,
             "earliest": "2021-10-19 04:30 PM"
         },
         "Mansfield District Hospital - Anderson Hall": {
@@ -146,8 +146,8 @@
             "earliest": "2021-10-13 09:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-10-30 10:35 AM"
+            "total": 2,
+            "earliest": "2021-11-11 02:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -170,12 +170,12 @@
             "earliest": "2021-10-27 10:30 AM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 33,
-            "earliest": "2021-09-17 02:45 PM"
+            "total": 32,
+            "earliest": "2021-10-26 10:30 AM"
         },
         "NCN Health": {
-            "total": 66,
-            "earliest": "2021-09-27 02:30 PM"
+            "total": 64,
+            "earliest": "2021-10-06 03:14 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 20,
@@ -186,12 +186,12 @@
             "earliest": "2021-10-15 02:08 PM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 41,
-            "earliest": "2021-09-11 01:45 PM"
+            "total": 39,
+            "earliest": "2021-09-11 01:53 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-18 11:20 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 43,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-22 04:00 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "2021-09-27 02:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -270,12 +270,12 @@
             "earliest": null
         },
         "WDHS - Hamilton Base Hospital": {
-            "total": 1,
-            "earliest": "2021-09-07 10:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Werribee Mercy": {
-            "total": 34,
-            "earliest": "2021-10-13 08:35 AM"
+            "total": 30,
+            "earliest": "2021-10-12 10:15 AM"
         },
         "Wonthaggi Town Hall": {
             "total": 0,
