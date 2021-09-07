@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-08 01:53",
+    "lastUpdated": "2021-09-08 02:03",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 966,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-02 07:50 PM"
         },
         "Bairnsdale City Oval": {
             "total": 113,
@@ -27,7 +27,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 878,
-            "earliest": "2021-11-03 09:00 AM"
+            "earliest": "2021-11-04 09:50 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 88,
@@ -198,8 +198,8 @@
             "earliest": "2021-10-22 11:36 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "2021-09-24 05:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 10,
