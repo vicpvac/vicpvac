@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-07 20:23",
+    "lastUpdated": "2021-09-07 20:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 971,
-            "earliest": "2021-09-23 01:45 PM"
+            "total": 0,
+            "earliest": null
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -14,40 +14,44 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 2,
-            "earliest": "2021-10-06 01:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 129,
-            "earliest": "2021-09-20 01:24 PM"
+            "total": 0,
+            "earliest": null
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 890,
-            "earliest": "2021-10-29 11:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Beechworth Vaccination Hub": {
-            "total": 89,
-            "earliest": "2021-10-14 01:15 PM"
+            "total": 0,
+            "earliest": null
+        },
+        "Box Hill Town Hall Pfizer": {
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
-            "total": 25,
-            "earliest": "2021-10-25 09:45 AM"
+            "total": 0,
+            "earliest": null
         },
         "Cabrini Elsternwick": {
             "total": 0,
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 35,
-            "earliest": "2021-09-17 11:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 215,
-            "earliest": "2021-09-13 01:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -66,22 +70,22 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 2,
-            "earliest": "2021-09-23 04:24 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
-            "total": 41,
-            "earliest": "2021-10-06 10:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Cranbourne Turf Club": {
             "total": 0,
             "earliest": null
         },
-        "Dandenong Hospital": {
+        "DPV \u2013 Broadmeadows Town Hall": {
             "total": 0,
             "earliest": null
         },
-        "DPV \u2013 Broadmeadows Town Hall": {
+        "Dandenong Hospital": {
             "total": 0,
             "earliest": null
         },
@@ -90,8 +94,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 321,
-            "earliest": "2021-10-12 01:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Eastern Health Mobile Clinic 1": {
             "total": 0,
@@ -106,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 57,
-            "earliest": "2021-09-27 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -134,20 +138,24 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1365,
-            "earliest": "2021-09-23 11:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Mansfield Vaccination Clinic": {
-            "total": 73,
-            "earliest": "2021-09-15 12:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
             "total": 0,
             "earliest": null
         },
+        "Melbourne Museum - Pfizer (REB relocated)": {
+            "total": 0,
+            "earliest": null
+        },
         "Melbourne Showgrounds": {
-            "total": 3,
-            "earliest": "2021-11-07 02:25 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -166,36 +174,36 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 47,
-            "earliest": "2021-09-16 11:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Myrtleford Vaccination Hub": {
-            "total": 38,
-            "earliest": "2021-09-17 10:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "NCN Health": {
-            "total": 59,
-            "earliest": "2021-09-11 02:26 PM"
+            "total": 0,
+            "earliest": null
         },
         "NCN Health Nathalia Pop Up": {
-            "total": 19,
-            "earliest": "2021-09-17 01:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "NCN Health Numurkah Pop Up": {
-            "total": 16,
-            "earliest": "2021-10-01 12:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 18,
-            "earliest": "2021-10-22 11:28 AM"
+            "total": 0,
+            "earliest": null
         },
-        "NH - Plenty Ranges Arts &amp; Convention Centre": {
-            "total": 2,
-            "earliest": "2021-10-09 09:10 AM"
+        "NH - Plenty Ranges Arts & Convention Centre": {
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
-            "total": 15,
-            "earliest": "2021-11-03 12:35 PM"
+            "total": 0,
+            "earliest": null
         },
         "Orbost Regional Health": {
             "total": 0,
@@ -205,29 +213,33 @@
             "total": 0,
             "earliest": null
         },
-        "Ringwood East Community Clinic Pfizer": {
-            "total": 0,
-            "earliest": null
-        },
         "RMH Pfizer": {
             "total": 0,
             "earliest": null
         },
+        "Ringwood East Community Clinic Pfizer": {
+            "total": 0,
+            "earliest": null
+        },
+        "SWH - Camperdown": {
+            "total": 0,
+            "earliest": null
+        },
         "Sandown Racecourse": {
-            "total": 10,
-            "earliest": "2021-09-16 02:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 1,
-            "earliest": "2021-09-29 09:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Seymour Health": {
-            "total": 117,
-            "earliest": "2021-09-14 09:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
@@ -245,15 +257,7 @@
             "total": 0,
             "earliest": null
         },
-        "SWH - Camperdown": {
-            "total": 0,
-            "earliest": null
-        },
         "Traralgon Racecourse": {
-            "total": 0,
-            "earliest": null
-        },
-        "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
@@ -262,6 +266,14 @@
             "earliest": null
         },
         "WDHS \u2013 Hamilton Base Hospital": {
+            "total": 0,
+            "earliest": null
+        },
+        "Warrnambool \u2013 SWH Vaccination Centre": {
+            "total": 0,
+            "earliest": null
+        },
+        "Werribee Mercy": {
             "total": 0,
             "earliest": null
         },
@@ -278,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 39,
-            "earliest": "2021-09-21 11:48 AM"
+            "total": 0,
+            "earliest": null
         }
     }
 }
