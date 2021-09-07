@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-07 23:23",
+    "lastUpdated": "2021-09-07 23:29",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 967,
@@ -50,7 +50,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 98,
+            "total": 95,
             "earliest": "2021-09-16 09:50 AM"
         },
         "Casterton Memorial Hospital": {
@@ -82,8 +82,8 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 1,
-            "earliest": "2021-11-20 03:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-10-31 03:05 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -198,8 +198,8 @@
             "earliest": "2021-10-22 11:36 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-09-23 10:20 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 10,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-01 04:00 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 2,
+            "total": 1,
             "earliest": "2021-09-15 09:30 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
