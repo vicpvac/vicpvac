@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2021-09-07 17:13",
+    "lastUpdated": "2021-09-07 17:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 1003,
+            "total": 1004,
             "earliest": "2021-10-15 10:45 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
@@ -10,15 +10,15 @@
             "earliest": "2021-09-17 11:45 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 790,
+            "total": 788,
             "earliest": "2021-09-08 08:40 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1480,
+            "total": 1474,
             "earliest": "2021-09-08 10:40 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 290,
+            "total": 289,
             "earliest": "2021-09-08 09:24 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -34,15 +34,15 @@
             "earliest": "2021-09-09 10:15 AM"
         },
         "Bright Hub - North East VIC": {
-            "total": 39,
+            "total": 40,
             "earliest": "2021-09-13 11:00 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-11 02:09 PM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 234,
+            "total": 229,
             "earliest": "2021-09-13 03:00 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -62,8 +62,8 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 6,
-            "earliest": "2021-09-09 03:10 PM"
+            "total": 18,
+            "earliest": "2021-09-08 11:30 AM"
         },
         "Convention Centre": {
             "total": 199,
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 340,
+            "total": 339,
             "earliest": "2021-09-15 10:10 AM"
         },
         "Eastern Health Mobile Clinic 1": {
@@ -102,7 +102,7 @@
             "earliest": "2021-09-08 11:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 677,
+            "total": 674,
             "earliest": "2021-09-09 02:50 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -110,7 +110,7 @@
             "earliest": "2021-09-08 09:01 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 203,
+            "total": 204,
             "earliest": "2021-09-08 09:08 AM"
         },
         "Horsham": {
@@ -122,8 +122,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-15 11:40 AM"
         },
         "Kyabram District Health Service": {
             "total": 0,
@@ -134,7 +134,7 @@
             "earliest": "2021-09-10 10:12 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1809,
+            "total": 1845,
             "earliest": "2021-09-08 09:00 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -146,7 +146,7 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 136,
+            "total": 134,
             "earliest": "2021-09-08 09:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -154,7 +154,7 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 915,
+            "total": 914,
             "earliest": "2021-09-08 08:15 AM"
         },
         "Monash Community Outreach": {
@@ -166,8 +166,8 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 65,
-            "earliest": "2021-09-08 10:30 AM"
+            "total": 63,
+            "earliest": "2021-09-15 01:15 PM"
         },
         "Myrtleford Vaccination Hub": {
             "total": 56,
@@ -190,7 +190,7 @@
             "earliest": "2021-10-22 11:28 AM"
         },
         "NH - Plenty Ranges Arts &amp; Convention Centre": {
-            "total": 2497,
+            "total": 2498,
             "earliest": "2021-09-17 09:20 AM"
         },
         "Northeast Health Wangaratta": {
@@ -214,20 +214,20 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 1962,
+            "total": 1955,
             "earliest": "2021-09-08 09:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 327,
-            "earliest": "2021-11-03 11:00 AM"
+            "total": 328,
+            "earliest": "2021-09-28 01:40 PM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 840,
-            "earliest": "2021-10-21 08:40 AM"
+            "total": 838,
+            "earliest": "2021-10-29 08:50 AM"
         },
         "Seymour Health": {
-            "total": 1,
-            "earliest": "2021-09-08 10:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
@@ -250,7 +250,7 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 505,
+            "total": 506,
             "earliest": "2021-09-08 09:10 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
@@ -270,12 +270,12 @@
             "earliest": "2021-09-08 09:00 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 21,
+            "total": 22,
             "earliest": "2021-09-08 08:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 0,
-            "earliest": null
+            "total": 40,
+            "earliest": "2021-09-09 08:15 AM"
         },
         "Yarram Medical Centre": {
             "total": 283,
