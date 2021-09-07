@@ -1,25 +1,25 @@
 {
-    "lastUpdated": "2021-09-07 10:18",
+    "lastUpdated": "2021-09-07 10:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 988,
             "earliest": "2021-10-20 10:45 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-13 03:30 PM"
         },
         "Austin - Olivia Newton John": {
             "total": 0,
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-10-07 04:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 146,
-            "earliest": "2021-09-29 12:12 PM"
+            "total": 145,
+            "earliest": "2021-10-20 11:48 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -27,11 +27,11 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 911,
-            "earliest": "2021-11-04 11:20 AM"
+            "earliest": "2021-11-04 08:40 AM"
         },
         "Beechworth Vaccination Hub": {
-            "total": 85,
-            "earliest": "2021-09-22 02:00 PM"
+            "total": 84,
+            "earliest": "2021-10-07 02:00 PM"
         },
         "Bright Hub - North East VIC": {
             "total": 31,
@@ -98,12 +98,12 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-11 10:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "2021-09-27 12:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 83,
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1252,
-            "earliest": "2021-09-21 06:30 PM"
+            "total": 1249,
+            "earliest": "2021-10-19 03:40 PM"
         },
         "Mansfield Vaccination Clinic": {
             "total": 49,
@@ -146,16 +146,16 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-10-03 08:25 AM"
+            "total": 3,
+            "earliest": "2021-09-16 02:05 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-20 12:50 PM"
-        },
-        "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 0,
             "earliest": null
+        },
+        "Melton Indoor Vaccination Centre - Woodgrove": {
+            "total": 1,
+            "earliest": "2021-10-03 01:25 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-10-05 01:15 PM"
         },
         "NCN Health": {
-            "total": 26,
+            "total": 25,
             "earliest": "2021-10-13 06:14 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -238,12 +238,12 @@
             "earliest": null
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-08 10:30 AM"
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-09-08 12:45 PM"
         },
         "SWH - Camperdown": {
             "total": 0,
