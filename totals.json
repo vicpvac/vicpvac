@@ -1,21 +1,21 @@
 {
-    "lastUpdated": "2021-09-07 10:48",
+    "lastUpdated": "2021-09-07 10:53",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 990,
-            "earliest": "2021-09-10 09:00 AM"
+            "total": 989,
+            "earliest": "2021-09-10 04:00 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-25 04:10 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-10 02:30 PM"
         },
         "Bairnsdale City Oval": {
             "total": 145,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 912,
-            "earliest": "2021-10-07 11:40 AM"
+            "total": 911,
+            "earliest": "2021-11-04 11:30 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 84,
@@ -74,8 +74,8 @@
             "earliest": "2021-10-06 10:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-21 03:10 PM"
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 324,
-            "earliest": "2021-10-20 03:20 PM"
+            "total": 325,
+            "earliest": "2021-09-16 01:55 PM"
         },
         "Eastern Health Mobile Clinic 1": {
             "total": 0,
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-26 12:50 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 82,
@@ -114,24 +114,24 @@
             "earliest": null
         },
         "Horsham": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-14 10:20 AM"
         },
         "Hotel Quarantine \u2013 AHC": {
             "total": 0,
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 1,
-            "earliest": "2021-09-11 10:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Kyabram District Health Service": {
             "total": 0,
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-25 02:12 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1246,
@@ -170,11 +170,11 @@
             "earliest": "2021-10-27 10:30 AM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 31,
-            "earliest": "2021-10-26 10:30 AM"
+            "total": 34,
+            "earliest": "2021-09-10 02:00 PM"
         },
         "NCN Health": {
-            "total": 72,
+            "total": 71,
             "earliest": "2021-10-13 06:22 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -222,8 +222,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-11 03:45 PM"
         },
         "Seymour Health": {
             "total": 0,
@@ -242,8 +242,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "2021-09-08 01:05 PM"
+            "total": 0,
+            "earliest": null
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -262,8 +262,8 @@
             "earliest": null
         },
         "WDHS \u2013 Hamilton Base Hospital": {
-            "total": 1,
-            "earliest": "2021-09-08 03:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Wonthaggi Town Hall": {
             "total": 0,
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 37,
-            "earliest": "2021-10-26 12:04 PM"
+            "total": 38,
+            "earliest": "2021-10-15 02:46 PM"
         }
     }
 }
