@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-07 12:18",
+    "lastUpdated": "2021-09-07 12:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 982,
-            "earliest": "2021-10-12 10:00 AM"
+            "total": 983,
+            "earliest": "2021-09-28 01:15 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-04 12:50 PM"
         },
         "Bairnsdale City Oval": {
             "total": 135,
@@ -26,16 +26,16 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 904,
-            "earliest": "2021-11-04 12:10 PM"
+            "total": 908,
+            "earliest": "2021-10-21 12:40 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 86,
             "earliest": "2021-10-15 10:15 AM"
         },
         "Bright Hub - North East VIC": {
-            "total": 29,
-            "earliest": "2021-10-25 12:45 PM"
+            "total": 30,
+            "earliest": "2021-10-11 02:15 PM"
         },
         "Cabrini Elsternwick": {
             "total": 0,
@@ -134,12 +134,12 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1243,
-            "earliest": "2021-10-19 05:20 PM"
+            "total": 1241,
+            "earliest": "2021-10-19 05:30 PM"
         },
         "Mansfield Vaccination Clinic": {
-            "total": 45,
-            "earliest": "2021-10-05 09:20 AM"
+            "total": 44,
+            "earliest": "2021-10-13 09:10 AM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
             "total": 0,
@@ -147,7 +147,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 1,
-            "earliest": "2021-10-27 08:35 AM"
+            "earliest": "2021-10-26 12:35 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-09-17 03:00 PM"
         },
         "NCN Health": {
-            "total": 54,
+            "total": 53,
             "earliest": "2021-10-13 06:54 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -190,8 +190,8 @@
             "earliest": "2021-10-22 11:28 AM"
         },
         "NH - Plenty Ranges Arts &amp; Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-28 09:00 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 23,
@@ -262,24 +262,24 @@
             "earliest": null
         },
         "WDHS \u2013 Hamilton Base Hospital": {
-            "total": 1,
-            "earliest": "2021-09-09 02:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 1,
-            "earliest": "2021-09-21 11:48 AM"
+            "total": 0,
+            "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-10-03 04:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 38,
-            "earliest": "2021-10-05 01:08 PM"
+            "total": 37,
+            "earliest": "2021-10-19 11:08 AM"
         }
     }
 }
