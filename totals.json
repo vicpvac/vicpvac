@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-07 13:13",
+    "lastUpdated": "2021-09-07 13:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 978,
-            "earliest": "2021-09-24 01:45 PM"
+            "total": 977,
+            "earliest": "2021-10-20 01:15 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -15,11 +15,11 @@
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 1,
-            "earliest": "2021-10-02 01:30 PM"
+            "earliest": "2021-10-04 12:50 PM"
         },
         "Bairnsdale City Oval": {
-            "total": 131,
-            "earliest": "2021-09-22 02:36 PM"
+            "total": 133,
+            "earliest": "2021-09-22 11:12 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-16 05:12 PM"
         },
         "Corryong health": {
             "total": 44,
@@ -91,7 +91,7 @@
         },
         "East Grampians Health Services- Ararat": {
             "total": 322,
-            "earliest": "2021-09-29 10:40 AM"
+            "earliest": "2021-10-06 11:00 AM"
         },
         "Eastern Health Mobile Clinic 1": {
             "total": 0,
@@ -102,12 +102,12 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "2021-09-30 06:30 PM"
+            "total": 2,
+            "earliest": "2021-09-11 03:50 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 74,
-            "earliest": "2021-10-18 02:05 PM"
+            "total": 72,
+            "earliest": "2021-10-25 02:29 PM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -122,8 +122,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 128,
-            "earliest": "2021-09-14 11:00 AM"
+            "total": 138,
+            "earliest": "2021-09-14 11:01 AM"
         },
         "Kyabram District Health Service": {
             "total": 0,
@@ -134,7 +134,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1240,
+            "total": 1234,
             "earliest": "2021-10-19 05:40 PM"
         },
         "Mansfield Vaccination Clinic": {
@@ -147,15 +147,15 @@
         },
         "Melbourne Showgrounds": {
             "total": 1,
-            "earliest": "2021-10-08 12:15 PM"
+            "earliest": "2021-09-21 12:00 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 1,
-            "earliest": "2021-09-29 11:05 AM"
+            "total": 0,
+            "earliest": null
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -174,8 +174,8 @@
             "earliest": "2021-09-21 12:30 PM"
         },
         "NCN Health": {
-            "total": 63,
-            "earliest": "2021-09-09 01:16 PM"
+            "total": 62,
+            "earliest": "2021-09-09 01:24 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 20,
@@ -242,8 +242,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-09-17 10:25 AM"
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -254,8 +254,8 @@
             "earliest": null
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 9,
-            "earliest": "2021-09-08 02:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "WDHS - Balmoral Clinic": {
             "total": 0,
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 36,
-            "earliest": "2021-10-19 11:16 AM"
+            "total": 34,
+            "earliest": "2021-10-26 12:20 PM"
         }
     }
 }
