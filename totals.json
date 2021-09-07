@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-07 12:33",
+    "lastUpdated": "2021-09-07 12:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 979,
-            "earliest": "2021-10-20 01:00 PM"
+            "total": 980,
+            "earliest": "2021-09-16 08:30 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -14,24 +14,24 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-10 12:30 PM"
         },
         "Bairnsdale City Oval": {
-            "total": 134,
-            "earliest": "2021-09-20 02:36 PM"
+            "total": 133,
+            "earliest": "2021-10-25 09:40 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 905,
-            "earliest": "2021-09-16 02:50 PM"
+            "total": 902,
+            "earliest": "2021-10-09 11:10 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 87,
-            "earliest": "2021-09-30 02:45 PM"
+            "earliest": "2021-10-15 10:15 AM"
         },
         "Bright Hub - North East VIC": {
             "total": 29,
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 322,
-            "earliest": "2021-10-21 08:30 AM"
+            "total": 323,
+            "earliest": "2021-10-05 02:00 PM"
         },
         "Eastern Health Mobile Clinic 1": {
             "total": 0,
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1243,
-            "earliest": "2021-09-11 10:40 AM"
+            "total": 1241,
+            "earliest": "2021-10-19 05:30 PM"
         },
         "Mansfield Vaccination Clinic": {
             "total": 43,
@@ -146,8 +146,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 2,
-            "earliest": "2021-09-19 01:35 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -214,8 +214,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 1,
-            "earliest": "2021-10-01 01:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 37,
+            "total": 38,
             "earliest": "2021-10-19 11:08 AM"
         }
     }
