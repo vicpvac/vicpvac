@@ -41,6 +41,10 @@ h1 {
     font-size: 42px;
 }
 
+.line-through {
+    text-decoration: line-through;
+}
+
 main {
     max-width: 800px;
     margin: 0 auto;
@@ -63,10 +67,35 @@ a:hover {
 
 .disclaimer {
     margin-bottom: 30px;
+    border-bottom: 1px solid #333;
 }
 
 .disclaimer-heading {
     font-weight: 600;
+}
+
+.dose-selection {
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+button {
+    display: inline-block;
+    border: 1px solid #ac5900;
+    margin: 0 6px;
+    padding: 6px 12px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    cursor: pointer;
+}
+
+button:first-of-type {
+    margin: 0 3px;
+}
+
+button.selected {
+    background-color: #dd882d;
+    color: #fff;
 }
 
 .table-container {
@@ -115,7 +144,8 @@ td:nth-child(1) {
         </div>
         <main>
             <div class="updates">
-            <p>Update 5/9: you can now follow <a href="https://twitter.com/vicpvac">@vicpvac</a> on Twitter to get notifications when new batches of appointments get added. (kinda experimental)</p>
+            <p>Update 7/9: button added below for those looking for Pfizer booking availability for their second dose.</p>
+            <p>Update 5/9: you can now follow <a href="https://twitter.com/vicpvac">@vicpvac</a> on Twitter to get notifications when new batches of appointments get added. (<span class="line-through">kinda experimental</span> seems to be working okay)</p>
             </div>
             <div class="disclaimer">
                 <p class="disclaimer-heading">Disclaimers</p>
@@ -123,6 +153,10 @@ td:nth-child(1) {
                 <p>This site is not associated with the Victorian Government in any way, just a guy who writes code for a living.</p>
                 <p>All information below is provided on a best effort basis. This page or parts of the page could break at any time. If it does, attempts to fix it will be likely to made when the issue has been made aware.</p>
                 <p>Any questions/enquiries can be directed to vicvacdev@outlook.com</p>
+            </div>
+            <div class="dose-selection">Show availability for:
+                <button id="button-dose-1">First dose</button>
+                <button id="button-dose-2">Second dose</button>
             </div>
             <div>Last updated: <span id="last-updated"></span></div>
             <div class="table-container">
@@ -142,22 +176,46 @@ td:nth-child(1) {
     </body>
     <script async src="//static.getclicky.com/101331044.js"></script>
     <script>
-        fetch("totals.json")
-            .then(r => r.json())
-            .then(totals => {
-                const tableEl = document.getElementById('content-table-body');
+        const renderTotals = totals => {
+            const tableEl = document.getElementById('content-table-body');
 
-                tableEl.innerHTML = Object.keys(totals.results).map(s => `
-                    <tr${totals.results[s].total > 0 ? " class='has-availability'" : ""}>
-                    <td>${s}</td>
-                    <td>${totals.results[s].total}</td>
-                    <td>${totals.results[s].earliest ?? '-'}</td>
-                    </tr>
-                `).join("");
+            tableEl.innerHTML = Object.keys(totals.results).map(s => `
+                <tr${totals.results[s].total > 0 ? " class='has-availability'" : ""}>
+                <td>${s}</td>
+                <td>${totals.results[s].total}</td>
+                <td>${totals.results[s].earliest ?? '-'}</td>
+                </tr>
+            `).join("");
 
-                const lastUpdatedEl = document.getElementById('last-updated');
+            const lastUpdatedEl = document.getElementById('last-updated');
 
-                lastUpdatedEl.innerHTML = totals.lastUpdated;
-            });
+            lastUpdatedEl.innerHTML = totals.lastUpdated;
+        };
+
+        const fetchTotals = doseNo => {
+            fetch("totals" + (doseNo === '1' ? '' : '2') + ".json")
+                .then(r => r.json())
+                .then(renderTotals);
+        };
+
+        const doseSelectionChanged = doseNo => {
+            document.getElementById('button-dose-' + doseNo).className = "selected";
+            document.getElementById('button-dose-' + (doseNo === '1' ? '2' : '1')).className = "";
+            localStorage.setItem('dose-selection', doseNo);
+
+            fetchTotals(doseNo);
+        };
+
+        document.getElementById('button-dose-1').addEventListener('click', () => {
+            doseSelectionChanged('1');
+        });
+
+        document.getElementById('button-dose-2').addEventListener('click', () => {
+            doseSelectionChanged('2');
+        });
+
+        const doseSelection = localStorage.getItem('dose-selection') ?? '1';
+        doseSelectionChanged(doseSelection);
+        
     </script>
 </html>
