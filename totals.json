@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-07 13:18",
+    "lastUpdated": "2021-09-07 13:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 977,
@@ -14,12 +14,12 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "2021-10-04 12:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 133,
-            "earliest": "2021-09-22 11:12 AM"
+            "total": 130,
+            "earliest": "2021-09-27 12:48 PM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -27,11 +27,11 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 894,
-            "earliest": "2021-11-04 12:10 PM"
+            "earliest": "2021-10-18 12:40 PM"
         },
         "Beechworth Vaccination Hub": {
-            "total": 88,
-            "earliest": "2021-09-22 11:00 AM"
+            "total": 87,
+            "earliest": "2021-09-23 12:45 PM"
         },
         "Bright Hub - North East VIC": {
             "total": 29,
@@ -67,7 +67,7 @@
         },
         "Convention Centre": {
             "total": 1,
-            "earliest": "2021-09-16 05:12 PM"
+            "earliest": "2021-09-30 10:00 AM"
         },
         "Corryong health": {
             "total": 44,
@@ -102,12 +102,12 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 2,
-            "earliest": "2021-09-11 03:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 72,
-            "earliest": "2021-10-25 02:29 PM"
+            "total": 71,
+            "earliest": "2021-10-27 08:45 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -122,16 +122,16 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 138,
-            "earliest": "2021-09-14 11:01 AM"
+            "total": 61,
+            "earliest": "2021-09-14 11:35 AM"
         },
         "Kyabram District Health Service": {
             "total": 0,
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-22 12:28 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1234,
@@ -147,7 +147,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 1,
-            "earliest": "2021-09-21 12:00 PM"
+            "earliest": "2021-11-08 01:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "2021-09-21 12:30 PM"
         },
         "NCN Health": {
-            "total": 62,
+            "total": 61,
             "earliest": "2021-09-09 01:24 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -242,8 +242,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 2,
-            "earliest": "2021-09-17 10:25 AM"
+            "total": 0,
+            "earliest": null
         },
         "SWH - Camperdown": {
             "total": 0,
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 34,
-            "earliest": "2021-10-26 12:20 PM"
+            "total": 33,
+            "earliest": "2021-10-26 12:28 PM"
         }
     }
 }
