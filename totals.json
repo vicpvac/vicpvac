@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-07 21:53",
+    "lastUpdated": "2021-09-07 21:58",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 968,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-10 06:00 PM"
         },
         "Bairnsdale City Oval": {
             "total": 114,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 883,
-            "earliest": "2021-10-15 03:10 PM"
+            "total": 880,
+            "earliest": "2021-11-02 02:40 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 89,
@@ -46,12 +46,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "2021-09-17 01:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 163,
-            "earliest": "2021-09-13 01:20 PM"
+            "total": 155,
+            "earliest": "2021-09-15 09:50 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 55,
-            "earliest": "2021-09-08 10:18 AM"
+            "total": 54,
+            "earliest": "2021-10-08 02:05 PM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -138,8 +138,8 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1363,
-            "earliest": "2021-10-04 10:00 AM"
+            "total": 1362,
+            "earliest": "2021-10-04 10:10 AM"
         },
         "Mansfield Vaccination Clinic": {
             "total": 71,
@@ -155,7 +155,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 3,
-            "earliest": "2021-10-20 01:35 PM"
+            "earliest": "2021-11-09 09:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -179,7 +179,7 @@
         },
         "Myrtleford Vaccination Hub": {
             "total": 36,
-            "earliest": "2021-09-17 10:00 AM"
+            "earliest": "2021-09-17 10:15 AM"
         },
         "NCN Health": {
             "total": 56,
@@ -198,8 +198,8 @@
             "earliest": "2021-10-22 11:36 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "2021-09-28 10:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 11,
@@ -238,8 +238,8 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 84,
-            "earliest": "2021-09-14 01:30 PM"
+            "total": 79,
+            "earliest": "2021-09-15 10:10 AM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 36,
-            "earliest": "2021-10-08 03:26 PM"
+            "total": 37,
+            "earliest": "2021-10-08 02:14 PM"
         }
     }
 }
