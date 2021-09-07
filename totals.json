@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-08 07:43",
+    "lastUpdated": "2021-09-08 07:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 967,
             "earliest": "2021-09-23 01:45 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "2021-09-09 10:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 0,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 113,
+            "total": 112,
             "earliest": "2021-09-22 01:36 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 31,
-            "earliest": "2021-09-17 10:50 AM"
+            "total": 28,
+            "earliest": "2021-09-17 11:20 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 48,
+            "total": 47,
             "earliest": "2021-10-27 10:29 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -138,8 +138,8 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1401,
-            "earliest": "2021-10-04 10:20 AM"
+            "total": 1402,
+            "earliest": "2021-09-11 09:30 AM"
         },
         "Mansfield Vaccination Clinic": {
             "total": 73,
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 2,
-            "earliest": "2021-10-17 08:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -238,7 +238,7 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 39,
+            "total": 38,
             "earliest": "2021-09-16 01:10 PM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
