@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-07 23:43",
+    "lastUpdated": "2021-09-07 23:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1000,
@@ -10,11 +10,11 @@
             "earliest": "2021-09-08 07:30 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 675,
+            "total": 674,
             "earliest": "2021-09-08 08:40 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1304,
+            "total": 1302,
             "earliest": "2021-09-08 10:40 AM"
         },
         "Bairnsdale City Oval": {
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1411,
+            "total": 1410,
             "earliest": "2021-09-08 09:00 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -34,7 +34,7 @@
             "earliest": "2021-09-09 10:15 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 96,
+            "total": 97,
             "earliest": "2021-09-09 08:40 AM"
         },
         "Bright Hub - North East VIC": {
@@ -50,7 +50,7 @@
             "earliest": "2021-09-13 03:00 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 109,
+            "total": 107,
             "earliest": "2021-09-08 03:30 PM"
         },
         "Casterton Memorial Hospital": {
@@ -70,7 +70,7 @@
             "earliest": "2021-09-09 03:10 PM"
         },
         "Convention Centre": {
-            "total": 196,
+            "total": 197,
             "earliest": "2021-09-08 09:48 AM"
         },
         "Corryong health": {
@@ -82,8 +82,8 @@
             "earliest": "2021-09-08 09:10 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 1,
-            "earliest": "2021-09-20 05:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -154,7 +154,7 @@
             "earliest": "2021-09-13 09:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 132,
+            "total": 134,
             "earliest": "2021-09-08 10:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -198,7 +198,7 @@
             "earliest": "2021-10-22 11:36 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 2478,
+            "total": 2477,
             "earliest": "2021-09-17 09:20 AM"
         },
         "Northeast Health Wangaratta": {
@@ -218,15 +218,15 @@
             "earliest": null
         },
         "Ringwood East Community Clinic Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-10-15 08:40 AM"
         },
         "SWH - Camperdown": {
             "total": 0,
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 1707,
+            "total": 1706,
             "earliest": "2021-09-08 09:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -234,8 +234,8 @@
             "earliest": "2021-11-01 11:40 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 837,
-            "earliest": "2021-10-28 08:40 AM"
+            "total": 836,
+            "earliest": "2021-10-28 10:00 AM"
         },
         "Seymour Health": {
             "total": 55,
