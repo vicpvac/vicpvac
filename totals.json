@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-07 20:48",
+    "lastUpdated": "2021-09-07 20:53",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 971,
@@ -10,24 +10,24 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "2021-10-05 12:00 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-10-04 10:40 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 127,
-            "earliest": "2021-09-20 01:00 PM"
+            "total": 126,
+            "earliest": "2021-09-20 01:24 PM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 886,
-            "earliest": "2021-11-02 09:30 AM"
+            "total": 884,
+            "earliest": "2021-10-25 10:10 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 89,
@@ -42,16 +42,16 @@
             "earliest": "2021-10-25 09:45 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2021-09-15 08:45 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 0,
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 211,
-            "earliest": "2021-09-13 12:20 PM"
+            "total": 207,
+            "earliest": "2021-09-14 09:40 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 54,
-            "earliest": "2021-10-22 01:49 PM"
+            "total": 55,
+            "earliest": "2021-09-15 01:06 PM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -138,11 +138,11 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1362,
-            "earliest": "2021-10-04 10:00 AM"
+            "total": 1363,
+            "earliest": "2021-10-02 09:30 AM"
         },
         "Mansfield Vaccination Clinic": {
-            "total": 70,
+            "total": 71,
             "earliest": "2021-10-04 09:00 AM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "2021-10-09 12:25 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "2021-09-22 03:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
