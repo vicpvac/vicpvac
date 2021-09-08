@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 03:18",
+    "lastUpdated": "2021-09-09 03:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "15/9 10:30 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -154,15 +154,15 @@
             "earliest": "24/9 1:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 60,
-            "earliest": "10/10 9:25 AM"
+            "total": 61,
+            "earliest": "28/9 9:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 327,
+            "total": 326,
             "earliest": "9/9 11:05 AM"
         },
         "Monash Community Outreach": {
@@ -274,8 +274,8 @@
             "earliest": null
         },
         "Werribee Mercy": {
-            "total": 1,
-            "earliest": "21/9 2:05 PM"
+            "total": 0,
+            "earliest": null
         },
         "Wonthaggi Town Hall": {
             "total": 0,
@@ -286,7 +286,7 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 12,
+            "total": 13,
             "earliest": "9/9 8:45 AM"
         },
         "Yarram Medical Centre": {
