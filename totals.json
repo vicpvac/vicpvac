@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 04:13",
+    "lastUpdated": "2021-09-09 04:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -14,8 +14,8 @@
             "earliest": "9/10 1:10 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "13/9 4:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 87,
@@ -106,7 +106,7 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 3,
+            "total": 2,
             "earliest": "23/9 6:40 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -150,8 +150,8 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 44,
-            "earliest": "24/9 1:20 PM"
+            "total": 45,
+            "earliest": "21/9 2:10 PM"
         },
         "Melbourne Showgrounds": {
             "total": 63,
@@ -254,8 +254,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "21/9 12:55 PM"
+            "total": 0,
+            "earliest": null
         },
         "Traralgon Racecourse": {
             "total": 0,
