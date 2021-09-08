@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 07:23",
+    "lastUpdated": "2021-09-09 07:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 933,
@@ -10,15 +10,15 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 1:40 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "26/9 11:30 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 87,
+            "total": 86,
             "earliest": "21/9 11:36 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "17/9 10:40 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -94,8 +94,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 303,
-            "earliest": "12/10 9:20 AM"
+            "total": 304,
+            "earliest": "5/10 8:40 AM"
         },
         "Eastern Health Mobile Clinic 1": {
             "total": 0,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 6,
-            "earliest": "27/9 12:58 PM"
+            "total": 5,
+            "earliest": "29/10 10:13 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -134,11 +134,11 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "13/9 1:24 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1676,
+            "total": 1675,
             "earliest": "10/9 11:10 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -150,20 +150,20 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 37,
-            "earliest": "24/9 1:50 PM"
+            "total": 38,
+            "earliest": "24/9 1:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 59,
+            "total": 58,
             "earliest": "13/10 11:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "15/9 8:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 314,
-            "earliest": "10/9 3:35 PM"
+            "total": 313,
+            "earliest": "15/9 11:15 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -183,7 +183,7 @@
         },
         "NCN Health": {
             "total": 32,
-            "earliest": "11/9 3:30 PM"
+            "earliest": "13/9 2:10 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 17,
@@ -198,8 +198,8 @@
             "earliest": "22/10 12:56 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 919,
-            "earliest": "12/9 1:00 PM"
+            "total": 921,
+            "earliest": "13/9 11:50 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 2,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 243,
-            "earliest": "13/9 3:20 PM"
+            "total": 244,
+            "earliest": "9/9 11:30 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -238,8 +238,8 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 5,
-            "earliest": "11/9 11:40 AM"
+            "total": 4,
+            "earliest": "11/9 1:30 PM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
