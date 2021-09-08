@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 03:03",
+    "lastUpdated": "2021-09-09 03:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -154,7 +154,7 @@
             "earliest": "24/9 1:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 56,
+            "total": 57,
             "earliest": "30/10 3:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -162,7 +162,7 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 329,
+            "total": 328,
             "earliest": "9/9 11:05 AM"
         },
         "Monash Community Outreach": {
@@ -254,8 +254,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "29/9 3:05 PM"
+            "total": 0,
+            "earliest": null
         },
         "Traralgon Racecourse": {
             "total": 0,
@@ -286,7 +286,7 @@
             "earliest": "26/9 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 14,
+            "total": 13,
             "earliest": "9/9 8:45 AM"
         },
         "Yarram Medical Centre": {
