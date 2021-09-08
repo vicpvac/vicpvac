@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 03:58",
+    "lastUpdated": "2021-09-09 04:03",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -14,8 +14,8 @@
             "earliest": "9/10 1:10 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 2,
-            "earliest": "13/9 4:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 87,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 5:30 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 7,
@@ -162,7 +162,7 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 328,
+            "total": 327,
             "earliest": "9/9 10:35 AM"
         },
         "Monash Community Outreach": {
@@ -234,8 +234,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "18/9 12:50 PM"
         },
         "Seymour Health": {
             "total": 0,
