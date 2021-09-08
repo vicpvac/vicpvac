@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 01:23",
+    "lastUpdated": "2021-09-09 01:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "26/9 5:00 PM"
         },
         "Bairnsdale City Oval": {
             "total": 87,
@@ -30,8 +30,8 @@
             "earliest": "15/10 12:30 PM"
         },
         "Beechworth Vaccination Hub": {
-            "total": 83,
-            "earliest": "21/10 11:45 AM"
+            "total": 84,
+            "earliest": "10/9 1:30 PM"
         },
         "Box Hill Town Hall Pfizer": {
             "total": 0,
@@ -70,8 +70,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "29/9 3:39 PM"
         },
         "Corryong health": {
             "total": 55,
@@ -126,8 +126,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "16/9 9:00 AM"
         },
         "Kyabram District Health Service": {
             "total": 0,
@@ -154,8 +154,8 @@
             "earliest": "24/9 12:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 53,
-            "earliest": "4/11 9:25 AM"
+            "total": 54,
+            "earliest": "2/11 9:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -163,7 +163,7 @@
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 333,
-            "earliest": "9/9 11:25 AM"
+            "earliest": "9/9 11:05 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -178,12 +178,12 @@
             "earliest": "13/10 10:30 AM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 25,
-            "earliest": "10/9 1:15 PM"
+            "total": 24,
+            "earliest": "26/10 11:30 AM"
         },
         "NCN Health": {
-            "total": 31,
-            "earliest": "11/9 3:22 PM"
+            "total": 33,
+            "earliest": "11/9 2:20 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 17,
@@ -227,7 +227,7 @@
         },
         "Sandown Racecourse": {
             "total": 257,
-            "earliest": "13/9 1:50 PM"
+            "earliest": "12/9 1:20 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -274,8 +274,8 @@
             "earliest": null
         },
         "Werribee Mercy": {
-            "total": 2,
-            "earliest": "28/9 8:35 AM"
+            "total": 1,
+            "earliest": "6/10 8:25 AM"
         },
         "Wonthaggi Town Hall": {
             "total": 0,
