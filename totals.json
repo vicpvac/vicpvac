@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 07:33",
+    "lastUpdated": "2021-09-09 07:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 932,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "4/10 3:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 4,
+            "earliest": "9/9 10:00 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -70,8 +70,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "19/9 1:48 PM"
         },
         "Corryong health": {
             "total": 55,
@@ -95,7 +95,7 @@
         },
         "East Grampians Health Services- Ararat": {
             "total": 305,
-            "earliest": "10/9 9:10 AM"
+            "earliest": "15/9 11:40 AM"
         },
         "Eastern Health Mobile Clinic 1": {
             "total": 0,
@@ -154,16 +154,16 @@
             "earliest": "24/9 1:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 58,
-            "earliest": "4/11 9:25 AM"
+            "total": 62,
+            "earliest": "13/10 11:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "1/10 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 311,
-            "earliest": "15/9 11:15 AM"
+            "earliest": "15/9 11:25 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -182,8 +182,8 @@
             "earliest": "26/10 11:30 AM"
         },
         "NCN Health": {
-            "total": 32,
-            "earliest": "13/9 2:10 PM"
+            "total": 31,
+            "earliest": "24/9 2:00 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 17,
@@ -198,7 +198,7 @@
             "earliest": "22/10 12:56 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 919,
+            "total": 918,
             "earliest": "21/9 8:20 AM"
         },
         "Northeast Health Wangaratta": {
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 241,
+            "total": 240,
             "earliest": "14/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -238,7 +238,7 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 4,
+            "total": 5,
             "earliest": "11/9 1:30 PM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
@@ -282,12 +282,12 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "24/9 10:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "17/9 11:55 AM"
         },
         "Yarram Medical Centre": {
             "total": 27,
