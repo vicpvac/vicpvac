@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 01:03",
+    "lastUpdated": "2021-09-09 01:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 933,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "5/10 9:10 AM"
         },
         "Bairnsdale City Oval": {
             "total": 85,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 890,
-            "earliest": "20/9 11:50 AM"
+            "total": 889,
+            "earliest": "26/10 2:20 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 84,
@@ -70,8 +70,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "29/9 9:48 AM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 55,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "21/9 3:10 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 6,
@@ -154,8 +154,8 @@
             "earliest": "24/9 12:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 57,
-            "earliest": "16/10 2:05 PM"
+            "total": 55,
+            "earliest": "20/10 8:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 257,
+            "total": 256,
             "earliest": "13/9 1:50 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -282,11 +282,11 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 4,
+            "total": 7,
             "earliest": "9/9 8:35 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 28,
+            "total": 26,
             "earliest": "9/9 8:45 AM"
         },
         "Yarram Medical Centre": {
