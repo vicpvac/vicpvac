@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 04:43",
+    "lastUpdated": "2021-09-09 04:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "20/9 2:50 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 0,
@@ -62,8 +62,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/10 2:00 PM"
         },
         "Colac Area Health - COPACC": {
             "total": 0,
@@ -162,7 +162,7 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 325,
+            "total": 324,
             "earliest": "9/9 10:35 AM"
         },
         "Monash Community Outreach": {
@@ -254,7 +254,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
+            "total": 2,
             "earliest": "27/9 10:55 AM"
         },
         "Traralgon Racecourse": {
@@ -286,7 +286,7 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 9,
+            "total": 8,
             "earliest": "9/9 8:45 AM"
         },
         "Yarram Medical Centre": {
