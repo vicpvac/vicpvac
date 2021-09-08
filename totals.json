@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 05:23",
+    "lastUpdated": "2021-09-09 05:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "22/9 2:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 0,
@@ -154,8 +154,8 @@
             "earliest": "24/9 1:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 57,
-            "earliest": "1/11 12:25 PM"
+            "total": 58,
+            "earliest": "30/10 9:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -198,7 +198,7 @@
             "earliest": "22/10 12:56 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 918,
+            "total": 919,
             "earliest": "21/9 8:10 AM"
         },
         "Northeast Health Wangaratta": {
@@ -230,8 +230,8 @@
             "earliest": "13/9 2:50 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "16/9 2:00 PM"
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
@@ -286,8 +286,8 @@
             "earliest": "16/9 1:10 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 6,
-            "earliest": "9/9 8:45 AM"
+            "total": 4,
+            "earliest": "9/9 8:55 AM"
         },
         "Yarram Medical Centre": {
             "total": 28,
