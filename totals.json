@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-08 20:18",
+    "lastUpdated": "2021-09-08 20:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 936,
@@ -18,7 +18,7 @@
             "earliest": "8/9 8:20 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 79,
+            "total": 78,
             "earliest": "8/9 11:45 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 900,
+            "total": 902,
             "earliest": "8/9 8:40 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -46,7 +46,7 @@
             "earliest": "8/9 9:45 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 39,
+            "total": 37,
             "earliest": "8/9 9:30 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -62,7 +62,7 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 1,
+            "total": 2,
             "earliest": "8/9 10:45 AM"
         },
         "Colac Area Health - COPACC": {
@@ -70,7 +70,7 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 43,
+            "total": 35,
             "earliest": "8/9 9:24 AM"
         },
         "Corryong health": {
@@ -78,7 +78,7 @@
             "earliest": "8/9 10:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 23,
+            "total": 22,
             "earliest": "8/9 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -94,7 +94,7 @@
             "earliest": "8/9 3:30 PM"
         },
         "East Grampians Health Services- Ararat": {
-            "total": 304,
+            "total": 305,
             "earliest": "8/9 3:45 PM"
         },
         "Eastern Health Mobile Clinic 1": {
@@ -110,8 +110,8 @@
             "earliest": "8/9 10:30 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 10,
-            "earliest": "29/10 10:13 AM"
+            "total": 11,
+            "earliest": "20/10 9:25 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 1,
@@ -150,11 +150,11 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 104,
+            "total": 103,
             "earliest": "8/9 9:30 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 75,
+            "total": 82,
             "earliest": "8/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -162,7 +162,7 @@
             "earliest": "8/9 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 374,
+            "total": 375,
             "earliest": "8/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -194,11 +194,11 @@
             "earliest": "10/9 10:08 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 7,
-            "earliest": "11/9 12:57 PM"
+            "total": 5,
+            "earliest": "22/10 12:56 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1012,
+            "total": 1010,
             "earliest": "8/9 8:50 AM"
         },
         "Northeast Health Wangaratta": {
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 29,
+            "total": 28,
             "earliest": "8/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -234,7 +234,7 @@
             "earliest": "8/9 9:40 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 27,
+            "total": 23,
             "earliest": "8/9 8:45 AM"
         },
         "Seymour Health": {
@@ -258,7 +258,7 @@
             "earliest": "8/9 8:25 AM"
         },
         "Traralgon Racecourse": {
-            "total": 9,
+            "total": 8,
             "earliest": "8/9 9:20 AM"
         },
         "WDHS - Balmoral Clinic": {
@@ -290,7 +290,7 @@
             "earliest": "8/9 8:55 AM"
         },
         "Yarram Medical Centre": {
-            "total": 29,
+            "total": 28,
             "earliest": "26/10 1:24 PM"
         }
     }
