@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 02:03",
+    "lastUpdated": "2021-09-09 02:07",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 975,
@@ -10,11 +10,11 @@
             "earliest": "9/9 8:45 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 414,
+            "total": 415,
             "earliest": "9/9 8:50 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1026,
+            "total": 1025,
             "earliest": "9/9 8:00 AM"
         },
         "Bairnsdale City Oval": {
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1331,
+            "total": 1330,
             "earliest": "9/9 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -50,7 +50,7 @@
             "earliest": "13/9 3:00 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 20,
+            "total": 19,
             "earliest": "9/9 3:30 PM"
         },
         "Casterton Memorial Hospital": {
@@ -70,7 +70,7 @@
             "earliest": "14/9 10:10 AM"
         },
         "Convention Centre": {
-            "total": 1381,
+            "total": 1380,
             "earliest": "9/9 10:36 AM"
         },
         "Corryong health": {
@@ -198,7 +198,7 @@
             "earliest": "22/10 12:56 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 2605,
+            "total": 2604,
             "earliest": "9/9 12:00 PM"
         },
         "Northeast Health Wangaratta": {
@@ -231,7 +231,7 @@
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 269,
-            "earliest": "26/10 1:00 PM"
+            "earliest": "3/11 10:20 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 943,
@@ -254,7 +254,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 308,
+            "total": 307,
             "earliest": "9/9 1:45 PM"
         },
         "Traralgon Racecourse": {
@@ -270,7 +270,7 @@
             "earliest": null
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 636,
+            "total": 635,
             "earliest": "10/9 1:00 PM"
         },
         "Werribee Mercy": {
@@ -282,8 +282,8 @@
             "earliest": "9/9 9:08 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 2,
-            "earliest": "9/9 8:55 AM"
+            "total": 0,
+            "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 20,
