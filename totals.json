@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 05:38",
+    "lastUpdated": "2021-09-09 05:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "4/10 2:40 PM"
         },
         "Bairnsdale City Oval": {
             "total": 88,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 890,
-            "earliest": "20/10 1:20 PM"
+            "total": 889,
+            "earliest": "28/10 10:30 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 84,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "29/9 11:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 6,
@@ -162,7 +162,7 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 322,
+            "total": 320,
             "earliest": "9/9 11:35 AM"
         },
         "Monash Community Outreach": {
@@ -286,7 +286,7 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 6,
+            "total": 5,
             "earliest": "9/9 8:55 AM"
         },
         "Yarram Medical Centre": {
