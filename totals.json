@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 04:23",
+    "lastUpdated": "2021-09-09 04:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "9/9 2:15 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -150,12 +150,12 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 45,
-            "earliest": "21/9 2:10 PM"
+            "total": 44,
+            "earliest": "24/9 1:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 60,
-            "earliest": "27/10 9:55 AM"
+            "total": 59,
+            "earliest": "30/10 3:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
