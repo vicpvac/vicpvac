@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 06:23",
+    "lastUpdated": "2021-09-09 06:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 889,
-            "earliest": "2/10 11:10 AM"
+            "total": 888,
+            "earliest": "28/10 2:10 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 84,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 2,
-            "earliest": "21/9 2:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 0,
@@ -70,8 +70,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "18/9 2:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 55,
@@ -154,16 +154,16 @@
             "earliest": "24/9 1:30 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 58,
-            "earliest": "20/10 10:15 AM"
+            "total": 57,
+            "earliest": "28/10 11:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 321,
-            "earliest": "12/9 10:05 AM"
+            "total": 320,
+            "earliest": "15/9 10:45 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 251,
+            "total": 250,
             "earliest": "13/9 2:50 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 28,
-            "earliest": "14/9 9:00 AM"
+            "total": 27,
+            "earliest": "26/10 1:24 PM"
         }
     }
 }
