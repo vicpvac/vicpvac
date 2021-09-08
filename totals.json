@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-08 20:48",
+    "lastUpdated": "2021-09-08 20:53",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 936,
@@ -10,7 +10,7 @@
             "earliest": "8/9 10:45 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 3,
+            "total": 2,
             "earliest": "8/9 4:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
@@ -18,7 +18,7 @@
             "earliest": "8/9 8:20 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 79,
+            "total": 78,
             "earliest": "8/9 11:45 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -30,23 +30,23 @@
             "earliest": "8/9 8:40 AM"
         },
         "Beechworth Vaccination Hub": {
-            "total": 84,
-            "earliest": "22/9 1:15 PM"
+            "total": 83,
+            "earliest": "21/10 11:45 AM"
         },
         "Box Hill Town Hall Pfizer": {
             "total": 6,
             "earliest": "8/9 10:30 AM"
         },
         "Bright Hub - North East VIC": {
-            "total": 30,
-            "earliest": "18/10 10:45 AM"
+            "total": 31,
+            "earliest": "20/9 12:30 PM"
         },
         "Cabrini Elsternwick": {
             "total": 5,
             "earliest": "8/9 9:45 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 23,
+            "total": 17,
             "earliest": "8/9 9:30 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -110,8 +110,8 @@
             "earliest": "8/9 10:30 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 13,
-            "earliest": "15/9 12:26 PM"
+            "total": 10,
+            "earliest": "29/10 10:13 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -134,11 +134,11 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "27/9 1:00 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1638,
+            "total": 1640,
             "earliest": "8/9 9:00 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -150,11 +150,11 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 99,
+            "total": 97,
             "earliest": "8/9 9:30 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 82,
+            "total": 81,
             "earliest": "8/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -182,7 +182,7 @@
             "earliest": "26/10 11:30 AM"
         },
         "NCN Health": {
-            "total": 31,
+            "total": 32,
             "earliest": "8/9 9:50 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -190,15 +190,15 @@
             "earliest": "29/10 10:56 AM"
         },
         "NCN Health Numurkah Pop Up": {
-            "total": 15,
-            "earliest": "10/9 2:40 PM"
+            "total": 14,
+            "earliest": "1/10 12:48 PM"
         },
         "NCN Health Yarrawonga Pop Up": {
             "total": 5,
             "earliest": "22/10 12:56 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 995,
+            "total": 991,
             "earliest": "8/9 8:50 AM"
         },
         "Northeast Health Wangaratta": {
@@ -210,7 +210,7 @@
             "earliest": null
         },
         "Portland District Health": {
-            "total": 18,
+            "total": 19,
             "earliest": "16/9 8:40 AM"
         },
         "RMH Pfizer": {
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 29,
+            "total": 28,
             "earliest": "8/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -290,8 +290,8 @@
             "earliest": "8/9 8:55 AM"
         },
         "Yarram Medical Centre": {
-            "total": 29,
-            "earliest": "19/10 11:16 AM"
+            "total": 28,
+            "earliest": "26/10 1:24 PM"
         }
     }
 }
