@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-08 21:03",
+    "lastUpdated": "2021-09-08 21:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 936,
@@ -14,11 +14,11 @@
             "earliest": "8/9 4:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 9,
+            "total": 12,
             "earliest": "8/9 8:20 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 77,
+            "total": 78,
             "earliest": "8/9 11:45 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 905,
+            "total": 900,
             "earliest": "8/9 8:40 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -38,15 +38,15 @@
             "earliest": "8/9 10:30 AM"
         },
         "Bright Hub - North East VIC": {
-            "total": 30,
+            "total": 28,
             "earliest": "18/10 10:45 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 6,
+            "total": 5,
             "earliest": "8/9 9:45 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 11,
+            "total": 7,
             "earliest": "8/9 9:30 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -70,7 +70,7 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 13,
+            "total": 11,
             "earliest": "8/9 9:24 AM"
         },
         "Corryong health": {
@@ -82,7 +82,7 @@
             "earliest": "8/9 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 4,
+            "total": 5,
             "earliest": "8/9 4:00 PM"
         },
         "Dandenong Hospital": {
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1640,
+            "total": 1639,
             "earliest": "8/9 9:00 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -150,11 +150,11 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 97,
+            "total": 93,
             "earliest": "8/9 9:30 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 85,
+            "total": 82,
             "earliest": "8/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -178,7 +178,7 @@
             "earliest": "9/9 10:15 AM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 26,
+            "total": 25,
             "earliest": "26/10 11:30 AM"
         },
         "NCN Health": {
@@ -198,7 +198,7 @@
             "earliest": "22/10 12:56 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 988,
+            "total": 986,
             "earliest": "8/9 8:50 AM"
         },
         "Northeast Health Wangaratta": {
@@ -226,11 +226,11 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 317,
+            "total": 319,
             "earliest": "8/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 8,
+            "total": 9,
             "earliest": "8/9 9:40 AM"
         },
         "Sandringham Vaccination Centre": {
@@ -238,7 +238,7 @@
             "earliest": "8/9 8:45 AM"
         },
         "Seymour Health": {
-            "total": 2,
+            "total": 3,
             "earliest": "8/9 10:00 AM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
@@ -278,8 +278,8 @@
             "earliest": "8/9 9:05 AM"
         },
         "Wonthaggi Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "10/9 10:52 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
             "total": 4,
@@ -290,7 +290,7 @@
             "earliest": "8/9 8:55 AM"
         },
         "Yarram Medical Centre": {
-            "total": 28,
+            "total": 27,
             "earliest": "26/10 1:24 PM"
         }
     }
