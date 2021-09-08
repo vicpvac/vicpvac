@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 00:24",
+    "lastUpdated": "2021-09-09 00:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -70,8 +70,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 3:27 PM"
         },
         "Corryong health": {
             "total": 55,
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "27/9 1:56 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1676,
@@ -150,20 +150,20 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 50,
-            "earliest": "23/9 2:40 PM"
+            "total": 49,
+            "earliest": "23/9 2:50 PM"
         },
         "Melbourne Showgrounds": {
             "total": 56,
-            "earliest": "22/10 12:05 PM"
+            "earliest": "25/10 12:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 336,
-            "earliest": "9/9 10:45 AM"
+            "total": 335,
+            "earliest": "9/9 11:05 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -182,8 +182,8 @@
             "earliest": "10/9 1:15 PM"
         },
         "NCN Health": {
-            "total": 29,
-            "earliest": "28/9 11:40 AM"
+            "total": 31,
+            "earliest": "11/9 3:22 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 17,
@@ -198,8 +198,8 @@
             "earliest": "22/10 12:56 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 929,
-            "earliest": "16/9 11:50 AM"
+            "total": 928,
+            "earliest": "21/9 8:10 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 4,
@@ -226,12 +226,12 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 257,
+            "total": 256,
             "earliest": "13/9 1:40 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 1,
-            "earliest": "17/9 10:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "13/9 11:30 AM"
         },
         "WDHS - Balmoral Clinic": {
             "total": 0,
@@ -278,15 +278,15 @@
             "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 1,
-            "earliest": "1/10 11:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
             "total": 17,
             "earliest": "9/9 8:35 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 32,
+            "total": 31,
             "earliest": "9/9 8:45 AM"
         },
         "Yarram Medical Centre": {
