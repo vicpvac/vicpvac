@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 05:43",
+    "lastUpdated": "2021-09-09 05:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -15,7 +15,7 @@
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 1,
-            "earliest": "4/10 2:40 PM"
+            "earliest": "10/10 3:00 PM"
         },
         "Bairnsdale City Oval": {
             "total": 88,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "22/9 10:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 0,
@@ -70,8 +70,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "19/9 1:48 PM"
         },
         "Corryong health": {
             "total": 55,
@@ -154,15 +154,15 @@
             "earliest": "24/9 1:30 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 58,
-            "earliest": "30/10 9:15 AM"
+            "total": 57,
+            "earliest": "1/11 12:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 320,
+            "total": 321,
             "earliest": "9/9 11:35 AM"
         },
         "Monash Community Outreach": {
@@ -183,7 +183,7 @@
         },
         "NCN Health": {
             "total": 33,
-            "earliest": "11/9 2:20 PM"
+            "earliest": "11/9 2:34 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 17,
@@ -198,8 +198,8 @@
             "earliest": "22/10 12:56 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 918,
-            "earliest": "21/9 8:10 AM"
+            "total": 919,
+            "earliest": "20/9 7:00 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 4,
@@ -286,8 +286,8 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 5,
-            "earliest": "9/9 8:55 AM"
+            "total": 4,
+            "earliest": "9/9 9:05 AM"
         },
         "Yarram Medical Centre": {
             "total": 28,
