@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 04:07",
+    "lastUpdated": "2021-09-09 04:13",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 975,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1331,
+            "total": 1330,
             "earliest": "9/9 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -62,8 +62,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "15/10 4:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "Colac Area Health - COPACC": {
             "total": 88,
@@ -106,11 +106,11 @@
             "earliest": "21/9 11:00 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 645,
+            "total": 647,
             "earliest": "11/9 3:00 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 108,
+            "total": 107,
             "earliest": "10/9 9:01 AM"
         },
         "Goods Shed Warragul Railway Station": {
