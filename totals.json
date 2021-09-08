@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 04:38",
+    "lastUpdated": "2021-09-09 04:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "1/10 5:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 6,
@@ -154,8 +154,8 @@
             "earliest": "24/9 1:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 59,
-            "earliest": "10/10 12:35 PM"
+            "total": 58,
+            "earliest": "30/10 3:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 253,
+            "total": 254,
             "earliest": "13/9 2:40 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -254,8 +254,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "27/9 10:55 AM"
         },
         "Traralgon Racecourse": {
             "total": 0,
@@ -286,7 +286,7 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 10,
+            "total": 9,
             "earliest": "9/9 8:45 AM"
         },
         "Yarram Medical Centre": {
