@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 08:03",
+    "lastUpdated": "2021-09-09 08:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 931,
@@ -10,12 +10,12 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "21/9 8:50 AM"
-        },
-        "Austin - Repatriation (Pfizer)": {
             "total": 0,
             "earliest": null
+        },
+        "Austin - Repatriation (Pfizer)": {
+            "total": 1,
+            "earliest": "10/10 8:30 AM"
         },
         "Bairnsdale City Oval": {
             "total": 84,
@@ -70,8 +70,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "11/9 1:24 PM"
         },
         "Corryong health": {
             "total": 55,
@@ -94,7 +94,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 301,
+            "total": 302,
             "earliest": "12/10 9:20 AM"
         },
         "Eastern Health Mobile Clinic 1": {
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1,
-            "earliest": "9/9 1:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -134,15 +134,15 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 2,
+            "total": 1,
             "earliest": "21/9 10:36 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 1675,
+            "total": 1674,
             "earliest": "9/9 12:10 PM"
         },
         "Mansfield Vaccination Clinic": {
-            "total": 74,
+            "total": 73,
             "earliest": "4/10 10:20 AM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
@@ -150,12 +150,12 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 37,
-            "earliest": "24/9 2:10 PM"
+            "total": 34,
+            "earliest": "24/9 2:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 56,
-            "earliest": "5/11 3:25 PM"
+            "total": 55,
+            "earliest": "13/10 2:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -163,7 +163,7 @@
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 309,
-            "earliest": "15/9 11:35 AM"
+            "earliest": "15/9 11:45 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -183,7 +183,7 @@
         },
         "NCN Health": {
             "total": 29,
-            "earliest": "9/9 3:16 PM"
+            "earliest": "27/9 1:10 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 17,
@@ -199,11 +199,11 @@
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
             "total": 919,
-            "earliest": "21/9 8:20 AM"
+            "earliest": "18/9 1:20 PM"
         },
         "Northeast Health Wangaratta": {
-            "total": 2,
-            "earliest": "1/11 9:05 AM"
+            "total": 1,
+            "earliest": "1/11 9:50 AM"
         },
         "Orbost Regional Health": {
             "total": 0,
@@ -226,20 +226,20 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 236,
-            "earliest": "9/9 11:40 AM"
+            "total": 234,
+            "earliest": "14/9 9:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "23/9 9:40 AM"
         },
         "Seymour Health": {
-            "total": 5,
-            "earliest": "11/9 1:30 PM"
+            "total": 4,
+            "earliest": "11/9 3:40 PM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
@@ -254,8 +254,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "9/9 9:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Traralgon Racecourse": {
             "total": 0,
