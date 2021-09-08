@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 04:58",
+    "lastUpdated": "2021-09-09 05:03",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -34,8 +34,8 @@
             "earliest": "30/9 3:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "9/9 11:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 27,
@@ -150,12 +150,12 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 43,
-            "earliest": "24/9 1:20 PM"
+            "total": 44,
+            "earliest": "20/9 3:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 56,
-            "earliest": "2/11 9:55 AM"
+            "total": 57,
+            "earliest": "9/10 10:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "16/9 1:10 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 7,
