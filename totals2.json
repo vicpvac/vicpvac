@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 00:28",
+    "lastUpdated": "2021-09-09 00:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 975,
@@ -10,11 +10,11 @@
             "earliest": "9/9 8:45 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 416,
+            "total": 415,
             "earliest": "9/9 8:50 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1025,
+            "total": 1023,
             "earliest": "9/9 8:00 AM"
         },
         "Bairnsdale City Oval": {
@@ -70,7 +70,7 @@
             "earliest": "14/9 10:10 AM"
         },
         "Convention Centre": {
-            "total": 1381,
+            "total": 1380,
             "earliest": "9/9 10:36 AM"
         },
         "Corryong health": {
@@ -78,12 +78,12 @@
             "earliest": "21/9 1:00 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 1444,
+            "total": 1443,
             "earliest": "14/9 3:20 PM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 1,
-            "earliest": "25/9 5:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -150,11 +150,11 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 347,
+            "total": 346,
             "earliest": "9/9 8:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 234,
+            "total": 236,
             "earliest": "9/9 9:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -163,7 +163,7 @@
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 573,
-            "earliest": "9/9 11:05 AM"
+            "earliest": "9/9 10:45 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 1596,
+            "total": 1597,
             "earliest": "13/9 10:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -286,7 +286,7 @@
             "earliest": "9/9 8:35 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 32,
+            "total": 31,
             "earliest": "9/9 8:45 AM"
         },
         "Yarram Medical Centre": {
