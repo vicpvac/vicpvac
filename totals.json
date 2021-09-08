@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 05:18",
+    "lastUpdated": "2021-09-09 05:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/9 2:50 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 0,
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 251,
+            "total": 250,
             "earliest": "13/9 2:50 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
