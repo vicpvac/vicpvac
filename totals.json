@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 02:38",
+    "lastUpdated": "2021-09-09 02:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 934,
@@ -70,8 +70,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "20/9 1:12 PM"
         },
         "Corryong health": {
             "total": 55,
@@ -162,7 +162,7 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 332,
+            "total": 330,
             "earliest": "9/9 11:05 AM"
         },
         "Monash Community Outreach": {
@@ -198,7 +198,7 @@
             "earliest": "22/10 12:56 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 920,
+            "total": 919,
             "earliest": "21/9 8:10 AM"
         },
         "Northeast Health Wangaratta": {
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 253,
+            "total": 254,
             "earliest": "13/9 2:20 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
