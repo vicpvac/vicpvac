@@ -1,32 +1,32 @@
 {
-    "lastUpdated": "2021-09-09 10:34",
+    "lastUpdated": "2021-09-09 10:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 925,
-            "earliest": "15/9 3:30 PM"
+            "total": 927,
+            "earliest": "15/9 8:30 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
+            "total": 2,
             "earliest": "9/9 8:00 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
+            "total": 3,
             "earliest": "9/9 8:40 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 75,
-            "earliest": "20/9 2:48 PM"
+            "total": 118,
+            "earliest": "13/9 9:00 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 888,
+            "total": 892,
             "earliest": "9/9 8:40 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 81,
+            "total": 79,
             "earliest": "9/9 9:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -70,7 +70,7 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
+            "total": 2,
             "earliest": "9/9 9:12 AM"
         },
         "Corryong health": {
@@ -78,24 +78,24 @@
             "earliest": "21/9 1:15 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 2,
+            "total": 3,
             "earliest": "9/9 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 3,
-            "earliest": "25/9 2:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Dandenong Hospital": {
             "total": 0,
             "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "9/9 10:36 AM"
         },
         "East Grampians Health Services- Ararat": {
-            "total": 297,
-            "earliest": "10/9 9:10 AM"
+            "total": 296,
+            "earliest": "12/10 9:20 AM"
         },
         "Eastern Health Mobile Clinic 1": {
             "total": 0,
@@ -107,11 +107,11 @@
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 1,
-            "earliest": "25/9 10:40 AM"
+            "earliest": "23/9 1:40 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 2,
-            "earliest": "11/10 12:21 PM"
+            "total": 3,
+            "earliest": "27/9 10:10 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -150,11 +150,11 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 10,
+            "total": 9,
             "earliest": "9/9 9:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 101,
+            "total": 74,
             "earliest": "9/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -162,7 +162,7 @@
             "earliest": "9/9 9:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 247,
+            "total": 249,
             "earliest": "9/9 8:55 AM"
         },
         "Monash Community Outreach": {
@@ -183,7 +183,7 @@
         },
         "NCN Health": {
             "total": 72,
-            "earliest": "7/10 11:10 AM"
+            "earliest": "4/10 4:02 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 17,
@@ -198,19 +198,19 @@
             "earliest": "22/10 1:20 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 882,
+            "total": 884,
             "earliest": "9/9 8:40 AM"
         },
         "Northeast Health Wangaratta": {
-            "total": 1,
-            "earliest": "3/11 2:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "Orbost Regional Health": {
             "total": 0,
             "earliest": null
         },
         "Portland District Health": {
-            "total": 12,
+            "total": 11,
             "earliest": "16/9 8:50 AM"
         },
         "RMH Pfizer": {
@@ -226,16 +226,16 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 93,
+            "total": 87,
             "earliest": "9/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 3,
+            "total": 1,
             "earliest": "9/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 1,
-            "earliest": "26/9 11:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Seymour Health": {
             "total": 0,
@@ -247,14 +247,14 @@
         },
         "St John of God Berwick": {
             "total": 92,
-            "earliest": "25/9 9:20 AM"
+            "earliest": "25/9 9:50 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
             "total": 0,
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 2,
+            "total": 3,
             "earliest": "9/9 8:25 AM"
         },
         "Traralgon Racecourse": {
@@ -286,7 +286,7 @@
             "earliest": "9/9 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 2,
+            "total": 3,
             "earliest": "9/9 8:55 AM"
         },
         "Yarram Medical Centre": {
