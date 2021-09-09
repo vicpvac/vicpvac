@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-09 22:09",
+    "lastUpdated": "2021-09-09 22:13",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 899,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 922,
+            "total": 920,
             "earliest": "9/9 8:40 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -66,7 +66,7 @@
             "earliest": "9/9 10:45 AM"
         },
         "Colac Area Health - COPACC": {
-            "total": 8,
+            "total": 6,
             "earliest": "16/9 2:10 PM"
         },
         "Convention Centre": {
@@ -102,11 +102,11 @@
             "earliest": null
         },
         "Ford": {
-            "total": 59,
+            "total": 56,
             "earliest": "9/9 11:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 13,
+            "total": 14,
             "earliest": "9/9 12:50 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 1,
-            "earliest": "27/9 11:32 AM"
+            "total": 0,
+            "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 1968,
@@ -154,11 +154,11 @@
             "earliest": "9/9 9:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 13,
+            "total": 14,
             "earliest": "9/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 4,
+            "total": 3,
             "earliest": "9/9 9:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
@@ -198,7 +198,7 @@
             "earliest": "29/10 10:40 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 627,
+            "total": 626,
             "earliest": "9/9 8:40 AM"
         },
         "Northeast Health Wangaratta": {
@@ -247,7 +247,7 @@
         },
         "St John of God Berwick": {
             "total": 165,
-            "earliest": "4/10 10:10 AM"
+            "earliest": "4/10 9:30 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
             "total": 2,
