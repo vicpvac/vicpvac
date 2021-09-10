@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-11 00:04",
+    "lastUpdated": "2021-09-11 00:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 850,
@@ -27,7 +27,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 950,
-            "earliest": "16/10 9:00 AM"
+            "earliest": "21/10 1:40 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 107,
@@ -70,16 +70,16 @@
             "earliest": "17/9 6:10 PM"
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "29/9 5:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 67,
             "earliest": "23/9 9:15 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 790,
-            "earliest": "9/10 11:20 AM"
+            "total": 788,
+            "earliest": "9/10 11:40 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 0,
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 595,
-            "earliest": "13/10 10:40 AM"
+            "total": 594,
+            "earliest": "13/10 10:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -143,7 +143,7 @@
         },
         "Mansfield Vaccination Clinic": {
             "total": 98,
-            "earliest": "15/9 11:10 AM"
+            "earliest": "15/9 12:00 PM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
             "total": 0,
@@ -154,16 +154,16 @@
             "earliest": "28/9 12:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 2,
-            "earliest": "29/10 8:55 AM"
+            "total": 1,
+            "earliest": "13/9 2:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 1,
-            "earliest": "20/10 11:35 AM"
+            "total": 0,
+            "earliest": null
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -238,8 +238,8 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 11,
-            "earliest": "11/9 10:10 AM"
+            "total": 10,
+            "earliest": "13/9 3:15 PM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
@@ -258,7 +258,7 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 3,
+            "total": 2,
             "earliest": "27/9 10:50 AM"
         },
         "WDHS - Balmoral Clinic": {
