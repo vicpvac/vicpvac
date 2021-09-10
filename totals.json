@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-11 00:59",
+    "lastUpdated": "2021-09-11 01:03",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 850,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 3:40 PM"
         },
         "Bairnsdale City Oval": {
             "total": 205,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 954,
+            "total": 955,
             "earliest": "7/10 10:40 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -78,8 +78,8 @@
             "earliest": "23/9 9:15 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 782,
-            "earliest": "9/10 1:40 PM"
+            "total": 783,
+            "earliest": "5/10 9:10 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 0,
@@ -102,7 +102,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 591,
+            "total": 590,
             "earliest": "13/10 11:20 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -130,8 +130,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 1,
-            "earliest": "2/10 9:30 AM"
+            "total": 2,
+            "earliest": "14/9 1:10 PM"
         },
         "Leongatha Community Clinic": {
             "total": 24,
@@ -142,20 +142,20 @@
             "earliest": "11/9 10:20 AM"
         },
         "Mansfield Vaccination Clinic": {
-            "total": 98,
-            "earliest": "15/9 12:00 PM"
+            "total": 97,
+            "earliest": "16/9 9:00 AM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
             "total": 0,
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 155,
-            "earliest": "25/9 1:30 PM"
+            "total": 153,
+            "earliest": "29/9 8:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "11/9 9:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -230,8 +230,8 @@
             "earliest": "3/10 9:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 284,
-            "earliest": "9/10 9:20 AM"
+            "total": 283,
+            "earliest": "9/10 9:30 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
