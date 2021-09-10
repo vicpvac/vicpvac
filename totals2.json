@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-11 04:49",
+    "lastUpdated": "2021-09-11 04:53",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 884,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 2145,
+            "total": 2144,
             "earliest": "11/9 9:00 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -158,11 +158,11 @@
             "earliest": "11/9 1:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "12/9 11:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 236,
+            "total": 235,
             "earliest": "11/9 8:15 AM"
         },
         "Monash Community Outreach": {
