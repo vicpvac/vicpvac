@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-11 01:23",
+    "lastUpdated": "2021-09-11 01:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 850,
@@ -10,12 +10,12 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "25/9 7:30 PM"
-        },
-        "Austin - Repatriation (Pfizer)": {
             "total": 0,
             "earliest": null
+        },
+        "Austin - Repatriation (Pfizer)": {
+            "total": 1,
+            "earliest": "10/10 2:40 PM"
         },
         "Bairnsdale City Oval": {
             "total": 205,
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 955,
-            "earliest": "12/10 11:50 AM"
+            "total": 954,
+            "earliest": "19/10 2:30 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 107,
@@ -102,12 +102,12 @@
             "earliest": null
         },
         "Ford": {
-            "total": 587,
+            "total": 586,
             "earliest": "13/10 12:50 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 1,
-            "earliest": "12/9 4:00 PM"
+            "earliest": "1/10 11:30 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 18,
@@ -155,15 +155,15 @@
         },
         "Melbourne Showgrounds": {
             "total": 3,
-            "earliest": "29/10 3:05 PM"
+            "earliest": "9/10 12:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "18/9 1:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 1,
-            "earliest": "5/10 3:45 PM"
+            "total": 0,
+            "earliest": null
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -198,8 +198,8 @@
             "earliest": "11/9 2:57 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 743,
-            "earliest": "11/9 8:20 AM"
+            "total": 742,
+            "earliest": "14/9 6:50 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 4,
