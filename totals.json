@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-11 02:03",
+    "lastUpdated": "2021-09-11 02:08",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 850,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 142,
+            "total": 141,
             "earliest": "29/9 11:40 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -70,8 +70,8 @@
             "earliest": "17/9 6:10 PM"
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "27/9 1:51 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 67,
@@ -154,8 +154,8 @@
             "earliest": "29/9 8:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "12/11 12:15 PM"
+            "total": 2,
+            "earliest": "5/10 11:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -198,7 +198,7 @@
             "earliest": "11/9 2:57 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 742,
+            "total": 743,
             "earliest": "14/9 6:50 PM"
         },
         "Northeast Health Wangaratta": {
