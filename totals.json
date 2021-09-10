@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-11 01:33",
+    "lastUpdated": "2021-09-11 01:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 850,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 145,
+            "total": 144,
             "earliest": "28/9 10:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -102,12 +102,12 @@
             "earliest": null
         },
         "Ford": {
-            "total": 586,
+            "total": 587,
             "earliest": "13/10 12:50 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "1/10 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 18,
@@ -150,20 +150,20 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 152,
-            "earliest": "29/9 8:50 AM"
+            "total": 153,
+            "earliest": "12/9 12:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 3,
-            "earliest": "9/10 12:25 PM"
+            "total": 2,
+            "earliest": "6/11 3:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "23/10 12:15 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -198,7 +198,7 @@
             "earliest": "11/9 2:57 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 744,
+            "total": 745,
             "earliest": "11/9 8:20 AM"
         },
         "Northeast Health Wangaratta": {
