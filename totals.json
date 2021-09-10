@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-11 03:18",
+    "lastUpdated": "2021-09-11 03:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 849,
@@ -154,8 +154,8 @@
             "earliest": "29/9 8:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "26/10 12:25 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -226,7 +226,7 @@
             "earliest": "22/9 11:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 969,
+            "total": 968,
             "earliest": "3/10 9:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -254,11 +254,11 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "3/10 8:25 AM"
         },
         "Traralgon Racecourse": {
-            "total": 2,
+            "total": 3,
             "earliest": "14/9 11:33 AM"
         },
         "WDHS - Balmoral Clinic": {
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "22/9 3:35 PM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
             "total": 104,
