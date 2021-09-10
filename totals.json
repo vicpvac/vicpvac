@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-11 00:24",
+    "lastUpdated": "2021-09-11 00:29",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 850,
@@ -42,16 +42,16 @@
             "earliest": "13/9 9:37 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "12/9 12:21 PM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 148,
             "earliest": "29/9 11:10 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 271,
-            "earliest": "24/9 11:50 AM"
+            "total": 270,
+            "earliest": "27/9 9:20 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -154,16 +154,16 @@
             "earliest": "28/9 12:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 12:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "20/9 2:35 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -198,7 +198,7 @@
             "earliest": "29/10 12:56 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 745,
+            "total": 747,
             "earliest": "14/9 6:40 PM"
         },
         "Northeast Health Wangaratta": {
@@ -254,12 +254,12 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "21/9 3:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 4,
-            "earliest": "27/9 10:50 AM"
+            "total": 3,
+            "earliest": "27/9 12:10 PM"
         },
         "WDHS - Balmoral Clinic": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": "16/9 11:40 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 572,
-            "earliest": "11/9 11:00 AM"
+            "total": 571,
+            "earliest": "11/9 1:40 PM"
         },
         "Werribee - St Vincent's Private": {
             "total": 0,
@@ -286,8 +286,8 @@
             "earliest": "16/9 9:00 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 1,
-            "earliest": "16/9 8:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
