@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-11 00:54",
+    "lastUpdated": "2021-09-11 00:59",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 850,
@@ -130,8 +130,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2/10 9:30 AM"
         },
         "Leongatha Community Clinic": {
             "total": 24,
@@ -150,12 +150,12 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 154,
-            "earliest": "29/9 8:40 AM"
+            "total": 155,
+            "earliest": "25/9 1:30 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "11/9 9:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 0,
@@ -198,7 +198,7 @@
             "earliest": "11/9 2:57 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 744,
+            "total": 745,
             "earliest": "14/9 6:40 PM"
         },
         "Northeast Health Wangaratta": {
@@ -226,11 +226,11 @@
             "earliest": "22/9 11:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 974,
-            "earliest": "3/10 9:10 AM"
+            "total": 973,
+            "earliest": "3/10 9:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 285,
+            "total": 284,
             "earliest": "9/10 9:20 AM"
         },
         "Sandringham Vaccination Centre": {
