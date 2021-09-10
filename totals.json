@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-11 06:28",
+    "lastUpdated": "2021-09-11 06:33",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 848,
@@ -163,7 +163,7 @@
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 1,
-            "earliest": "28/9 12:55 PM"
+            "earliest": "1/10 2:05 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -254,11 +254,11 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "3/10 10:55 AM"
         },
         "Traralgon Racecourse": {
-            "total": 4,
+            "total": 5,
             "earliest": "14/9 11:33 AM"
         },
         "WDHS - Balmoral Clinic": {
@@ -294,7 +294,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 104,
+            "total": 105,
             "earliest": "14/9 10:28 AM"
         }
     }
