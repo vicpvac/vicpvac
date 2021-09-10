@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2021-09-10 22:08",
+    "lastUpdated": "2021-09-10 22:13",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 850,
+            "total": 849,
             "earliest": "10/9 3:30 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
@@ -18,7 +18,7 @@
             "earliest": "10/9 8:10 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 204,
+            "total": 203,
             "earliest": "13/9 10:12 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -34,8 +34,8 @@
             "earliest": "10/9 2:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 2,
-            "earliest": "11/9 1:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 22,
@@ -78,7 +78,7 @@
             "earliest": "23/9 9:15 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 818,
+            "total": 817,
             "earliest": "10/9 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -94,7 +94,7 @@
             "earliest": "10/9 11:48 AM"
         },
         "East Grampians Health Services- Ararat": {
-            "total": 275,
+            "total": 276,
             "earliest": "21/9 10:40 AM"
         },
         "Eastern Health Mobile Clinic 1": {
@@ -110,11 +110,11 @@
             "earliest": "10/9 12:00 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 15,
+            "total": 17,
             "earliest": "15/9 9:17 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 340,
+            "total": 337,
             "earliest": "14/9 3:30 PM"
         },
         "Horsham": {
@@ -138,7 +138,7 @@
             "earliest": "10/9 10:12 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 2029,
+            "total": 2028,
             "earliest": "10/9 9:30 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -150,11 +150,11 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 167,
+            "total": 168,
             "earliest": "10/9 10:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 15,
+            "total": 12,
             "earliest": "10/9 9:20 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -198,7 +198,7 @@
             "earliest": "10/9 1:30 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 758,
+            "total": 756,
             "earliest": "10/9 10:50 AM"
         },
         "Northeast Health Wangaratta": {
@@ -238,7 +238,7 @@
             "earliest": "10/9 8:40 AM"
         },
         "Seymour Health": {
-            "total": 18,
+            "total": 19,
             "earliest": "10/9 11:10 AM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
