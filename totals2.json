@@ -1,12 +1,12 @@
 {
-    "lastUpdated": "2021-09-10 22:23",
+    "lastUpdated": "2021-09-10 22:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 885,
             "earliest": "10/9 3:30 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 11,
+            "total": 10,
             "earliest": "10/9 10:45 AM"
         },
         "Austin - Olivia Newton John": {
@@ -14,7 +14,7 @@
             "earliest": "10/9 8:30 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 665,
+            "total": 662,
             "earliest": "10/9 8:10 AM"
         },
         "Bairnsdale City Oval": {
@@ -70,7 +70,7 @@
             "earliest": "14/9 12:10 PM"
         },
         "Convention Centre": {
-            "total": 618,
+            "total": 616,
             "earliest": "10/9 9:36 AM"
         },
         "Corryong health": {
@@ -82,8 +82,8 @@
             "earliest": "10/9 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 1,
-            "earliest": "28/9 5:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -106,15 +106,15 @@
             "earliest": "10/9 8:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 676,
+            "total": 675,
             "earliest": "10/9 12:00 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 106,
+            "total": 108,
             "earliest": "10/9 9:01 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 516,
+            "total": 515,
             "earliest": "10/9 1:40 PM"
         },
         "Horsham": {
@@ -150,11 +150,11 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 556,
+            "total": 554,
             "earliest": "10/9 8:30 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 63,
+            "total": 62,
             "earliest": "10/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -162,7 +162,7 @@
             "earliest": "10/9 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 241,
+            "total": 240,
             "earliest": "10/9 8:55 AM"
         },
         "Monash Community Outreach": {
@@ -218,7 +218,7 @@
             "earliest": null
         },
         "Ringwood East Community Clinic Pfizer": {
-            "total": 4,
+            "total": 5,
             "earliest": "10/9 10:06 AM"
         },
         "SWH - Camperdown": {
@@ -226,15 +226,15 @@
             "earliest": "22/9 10:20 AM"
         },
         "Sandown Racecourse": {
-            "total": 2474,
+            "total": 2473,
             "earliest": "10/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 1150,
+            "total": 1149,
             "earliest": "10/9 9:10 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 778,
+            "total": 780,
             "earliest": "10/9 8:40 AM"
         },
         "Seymour Health": {
@@ -254,11 +254,11 @@
             "earliest": "10/9 9:00 AM"
         },
         "Sunshine Hospital": {
-            "total": 290,
+            "total": 289,
             "earliest": "10/9 8:15 AM"
         },
         "Traralgon Racecourse": {
-            "total": 304,
+            "total": 303,
             "earliest": "10/9 9:56 AM"
         },
         "WDHS - Balmoral Clinic": {
