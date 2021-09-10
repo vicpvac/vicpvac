@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-11 06:23",
+    "lastUpdated": "2021-09-11 06:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 848,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "11/9 9:40 AM"
         },
         "Bairnsdale City Oval": {
             "total": 203,
@@ -162,8 +162,8 @@
             "earliest": null
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/9 12:55 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "19/9 11:55 AM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
             "total": 104,
