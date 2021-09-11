@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-12 03:38",
+    "lastUpdated": "2021-09-12 03:43",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 878,
@@ -14,7 +14,7 @@
             "earliest": "12/9 10:40 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 415,
+            "total": 416,
             "earliest": "12/9 8:00 AM"
         },
         "Bairnsdale City Oval": {
@@ -42,8 +42,8 @@
             "earliest": "13/9 11:00 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "14/9 11:21 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 303,
@@ -70,7 +70,7 @@
             "earliest": "21/9 10:30 AM"
         },
         "Convention Centre": {
-            "total": 517,
+            "total": 516,
             "earliest": "12/9 9:36 AM"
         },
         "Corryong health": {
@@ -286,7 +286,7 @@
             "earliest": "13/9 9:40 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 1123,
+            "total": 1121,
             "earliest": "26/9 3:10 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
