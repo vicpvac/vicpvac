@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-12 01:33",
+    "lastUpdated": "2021-09-12 01:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 846,
@@ -34,7 +34,7 @@
             "earliest": "8/10 1:30 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 559,
+            "total": 558,
             "earliest": "30/9 9:20 AM"
         },
         "Bright Hub - North East VIC": {
@@ -70,16 +70,16 @@
             "earliest": "28/9 3:10 PM"
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "17/9 11:24 AM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 63,
             "earliest": "23/9 9:15 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 621,
-            "earliest": "11/10 9:50 AM"
+            "total": 620,
+            "earliest": "11/10 10:50 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 0,
@@ -106,8 +106,8 @@
             "earliest": "19/10 10:40 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "21/9 1:00 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 6,
@@ -154,16 +154,16 @@
             "earliest": "30/9 8:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 25,
-            "earliest": "24/10 3:25 PM"
+            "total": 23,
+            "earliest": "1/11 2:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1285,
+            "total": 1284,
             "earliest": "5/10 1:10 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 798,
-            "earliest": "11/10 12:05 PM"
+            "total": 799,
+            "earliest": "10/10 9:25 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -198,7 +198,7 @@
             "earliest": "15/10 12:16 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 764,
+            "total": 761,
             "earliest": "17/9 6:40 PM"
         },
         "Northeast Health Wangaratta": {
