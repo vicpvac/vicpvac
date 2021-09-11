@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-12 06:13",
+    "lastUpdated": "2021-09-12 06:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 878,
@@ -10,7 +10,7 @@
             "earliest": "13/9 8:00 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 90,
+            "total": 89,
             "earliest": "12/9 10:40 AM"
         },
         "Austin - Repatriation (Pfizer)": {
@@ -34,7 +34,7 @@
             "earliest": "16/9 11:15 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1012,
+            "total": 1011,
             "earliest": "15/9 12:30 PM"
         },
         "Bright Hub - North East VIC": {
@@ -42,8 +42,8 @@
             "earliest": "13/9 11:00 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 1,
-            "earliest": "19/9 8:27 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 295,
@@ -102,7 +102,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1430,
+            "total": 1429,
             "earliest": "12/9 9:20 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -150,11 +150,11 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 473,
+            "total": 472,
             "earliest": "13/9 9:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 94,
+            "total": 93,
             "earliest": "12/9 10:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -226,11 +226,11 @@
             "earliest": "22/9 10:20 AM"
         },
         "Sandown Racecourse": {
-            "total": 2491,
+            "total": 2492,
             "earliest": "12/9 2:40 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 496,
+            "total": 495,
             "earliest": "4/10 11:20 AM"
         },
         "Sandringham Vaccination Centre": {
