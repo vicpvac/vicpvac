@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-12 05:23",
+    "lastUpdated": "2021-09-12 05:28",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 845,
@@ -254,8 +254,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "12/9 2:15 PM"
         },
         "Traralgon Racecourse": {
             "total": 1,
@@ -286,7 +286,7 @@
             "earliest": "14/9 2:15 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 1082,
+            "total": 1083,
             "earliest": "6/10 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
