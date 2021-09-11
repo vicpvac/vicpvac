@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-12 02:58",
+    "lastUpdated": "2021-09-12 03:03",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 845,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 243,
+            "total": 242,
             "earliest": "15/9 4:20 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -70,8 +70,8 @@
             "earliest": "28/9 3:10 PM"
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "24/9 11:48 AM"
         },
         "Corryong health": {
             "total": 63,
@@ -102,7 +102,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 357,
+            "total": 358,
             "earliest": "19/10 10:40 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -226,7 +226,7 @@
             "earliest": "22/9 1:20 PM"
         },
         "Sandown Racecourse": {
-            "total": 954,
+            "total": 952,
             "earliest": "12/9 2:20 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
