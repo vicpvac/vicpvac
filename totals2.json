@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-12 03:43",
+    "lastUpdated": "2021-09-12 03:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 878,
@@ -42,8 +42,8 @@
             "earliest": "13/9 11:00 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 1,
-            "earliest": "14/9 11:21 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 303,
@@ -70,7 +70,7 @@
             "earliest": "21/9 10:30 AM"
         },
         "Convention Centre": {
-            "total": 516,
+            "total": 517,
             "earliest": "12/9 9:36 AM"
         },
         "Corryong health": {
@@ -78,7 +78,7 @@
             "earliest": "22/9 2:30 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 2106,
+            "total": 2108,
             "earliest": "14/9 9:50 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -102,7 +102,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1432,
+            "total": 1433,
             "earliest": "12/9 9:20 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
