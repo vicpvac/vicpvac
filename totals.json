@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-12 03:13",
+    "lastUpdated": "2021-09-12 03:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 845,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 242,
+            "total": 241,
             "earliest": "15/9 4:20 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -154,8 +154,8 @@
             "earliest": "29/9 12:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 24,
-            "earliest": "1/11 2:15 PM"
+            "total": 25,
+            "earliest": "19/10 3:45 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 1282,
@@ -254,12 +254,12 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "23/9 12:45 PM"
-        },
-        "Traralgon Racecourse": {
             "total": 0,
             "earliest": null
+        },
+        "Traralgon Racecourse": {
+            "total": 1,
+            "earliest": "22/9 9:00 AM"
         },
         "WDHS - Balmoral Clinic": {
             "total": 0,
@@ -286,12 +286,12 @@
             "earliest": "14/9 2:15 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 1087,
+            "total": 1086,
             "earliest": "6/10 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "14/9 11:15 AM"
         },
         "Yarram Medical Centre": {
             "total": 101,
