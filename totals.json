@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 00:57",
+    "lastUpdated": "2021-09-13 01:02",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 830,
@@ -42,8 +42,8 @@
             "earliest": "4/10 10:30 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "16/9 9:39 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 0,
@@ -51,7 +51,7 @@
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 247,
-            "earliest": "16/9 12:10 PM"
+            "earliest": "19/9 3:20 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -70,8 +70,8 @@
             "earliest": "12/10 1:40 PM"
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "19/9 4:30 PM"
         },
         "Corryong health": {
             "total": 60,
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/10 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 1056,
@@ -198,8 +198,8 @@
             "earliest": "15/10 12:16 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 438,
-            "earliest": "24/9 4:50 PM"
+            "total": 437,
+            "earliest": "27/9 7:20 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 478,
+            "total": 479,
             "earliest": "12/10 9:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -270,7 +270,7 @@
             "earliest": null
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 382,
+            "total": 381,
             "earliest": "25/9 1:50 PM"
         },
         "Werribee - St Vincent's Private": {
