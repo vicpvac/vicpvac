@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 07:07",
+    "lastUpdated": "2021-09-13 07:12",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 826,
@@ -18,16 +18,16 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 193,
-            "earliest": "14/9 11:08 AM"
+            "total": 192,
+            "earliest": "14/9 11:16 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1030,
-            "earliest": "28/10 11:50 AM"
+            "total": 1023,
+            "earliest": "29/10 10:40 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 93,
@@ -78,8 +78,8 @@
             "earliest": "23/9 9:15 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 349,
-            "earliest": "13/9 10:00 AM"
+            "total": 346,
+            "earliest": "18/10 2:50 PM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 0,
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 196,
-            "earliest": "26/10 1:00 PM"
+            "total": 194,
+            "earliest": "26/10 1:10 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -114,8 +114,8 @@
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 94,
-            "earliest": "22/9 11:57 AM"
+            "total": 91,
+            "earliest": "22/9 12:09 PM"
         },
         "Horsham": {
             "total": 0,
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 7,
-            "earliest": "4/10 10:12 AM"
+            "total": 5,
+            "earliest": "4/10 10:20 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 2027,
@@ -162,7 +162,7 @@
             "earliest": "12/10 11:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 904,
+            "total": 905,
             "earliest": "18/10 8:25 AM"
         },
         "Monash Community Outreach": {
@@ -198,7 +198,7 @@
             "earliest": "15/10 12:16 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 430,
+            "total": 429,
             "earliest": "27/9 7:50 PM"
         },
         "Northeast Health Wangaratta": {
@@ -234,8 +234,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "13/9 9:40 AM"
         },
         "Seymour Health": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "16/9 3:00 PM"
         },
         "WDHS - Balmoral Clinic": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 372,
-            "earliest": "25/9 3:10 PM"
+            "total": 371,
+            "earliest": "25/9 3:20 PM"
         },
         "Werribee - St Vincent's Private": {
             "total": 0,
@@ -286,7 +286,7 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 660,
+            "total": 659,
             "earliest": "28/10 10:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
@@ -294,8 +294,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 81,
-            "earliest": "14/9 4:20 PM"
+            "total": 79,
+            "earliest": "14/9 4:25 PM"
         }
     }
 }
