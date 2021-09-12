@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 00:17",
+    "lastUpdated": "2021-09-13 00:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 830,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 3,
+            "earliest": "14/9 4:40 PM"
         },
         "Bairnsdale City Oval": {
             "total": 195,
@@ -26,20 +26,20 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1042,
-            "earliest": "28/10 9:50 AM"
+            "total": 1041,
+            "earliest": "28/10 10:10 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 95,
             "earliest": "28/10 10:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 15,
-            "earliest": "15/10 10:40 AM"
+            "total": 11,
+            "earliest": "14/10 2:40 PM"
         },
         "Bright Hub - North East VIC": {
-            "total": 21,
-            "earliest": "11/10 2:15 PM"
+            "total": 22,
+            "earliest": "4/10 10:30 AM"
         },
         "Cabrini Elsternwick": {
             "total": 0,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 253,
-            "earliest": "19/9 3:40 PM"
+            "total": 252,
+            "earliest": "19/9 3:50 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -70,8 +70,8 @@
             "earliest": "12/10 1:40 PM"
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "27/9 4:03 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 61,
@@ -114,8 +114,8 @@
             "earliest": "4/10 12:37 PM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 115,
-            "earliest": "22/9 11:15 AM"
+            "total": 113,
+            "earliest": "22/9 11:21 AM"
         },
         "Horsham": {
             "total": 0,
@@ -246,8 +246,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 458,
-            "earliest": "11/10 9:10 AM"
+            "total": 453,
+            "earliest": "11/10 10:10 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
             "total": 0,
