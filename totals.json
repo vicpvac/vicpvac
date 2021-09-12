@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 02:42",
+    "lastUpdated": "2021-09-13 02:48",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 830,
@@ -106,8 +106,8 @@
             "earliest": "26/10 12:40 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "13/9 3:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 2,
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "30/10 2:05 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 1056,
