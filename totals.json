@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 01:12",
+    "lastUpdated": "2021-09-13 01:17",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 830,
@@ -18,7 +18,7 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 197,
+            "total": 196,
             "earliest": "14/9 10:52 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 203,
-            "earliest": "19/9 12:50 PM"
+            "total": 202,
+            "earliest": "26/10 12:40 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "20/10 12:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 1056,
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 479,
+            "total": 478,
             "earliest": "12/10 9:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 381,
-            "earliest": "25/9 1:50 PM"
+            "total": 380,
+            "earliest": "25/9 2:10 PM"
         },
         "Werribee - St Vincent's Private": {
             "total": 0,
@@ -294,8 +294,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 81,
-            "earliest": "14/9 4:20 PM"
+            "total": 82,
+            "earliest": "14/9 4:15 PM"
         }
     }
 }
