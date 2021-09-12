@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 06:07",
+    "lastUpdated": "2021-09-13 06:12",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 828,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 234,
-            "earliest": "19/9 6:20 PM"
+            "total": 233,
+            "earliest": "19/9 6:30 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -78,7 +78,7 @@
             "earliest": "21/9 4:00 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 356,
+            "total": 357,
             "earliest": "18/10 1:40 PM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -114,8 +114,8 @@
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 103,
-            "earliest": "22/9 11:51 AM"
+            "total": 101,
+            "earliest": "22/9 11:57 AM"
         },
         "Horsham": {
             "total": 0,
@@ -158,8 +158,8 @@
             "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1053,
-            "earliest": "12/10 11:10 AM"
+            "total": 1052,
+            "earliest": "12/10 11:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 909,
@@ -182,8 +182,8 @@
             "earliest": "2/11 9:30 AM"
         },
         "NCN Health": {
-            "total": 53,
-            "earliest": "13/9 11:54 AM"
+            "total": 52,
+            "earliest": "22/9 10:10 AM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 31,
@@ -246,7 +246,7 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 436,
+            "total": 435,
             "earliest": "12/10 8:40 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 1,
-            "earliest": "15/9 10:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "WDHS - Balmoral Clinic": {
             "total": 0,
@@ -294,8 +294,8 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 83,
-            "earliest": "14/9 4:15 PM"
+            "total": 82,
+            "earliest": "14/9 4:20 PM"
         }
     }
 }
