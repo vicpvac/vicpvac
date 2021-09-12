@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 02:07",
+    "lastUpdated": "2021-09-13 02:12",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 830,
@@ -14,8 +14,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "21/9 3:20 PM"
         },
         "Bairnsdale City Oval": {
             "total": 196,
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 475,
+            "total": 476,
             "earliest": "12/10 10:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -286,8 +286,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 667,
-            "earliest": "30/9 1:30 PM"
+            "total": 666,
+            "earliest": "28/10 9:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
