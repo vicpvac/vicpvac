@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 01:27",
+    "lastUpdated": "2021-09-13 01:32",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 864,
@@ -70,7 +70,7 @@
             "earliest": "14/9 12:20 PM"
         },
         "Convention Centre": {
-            "total": 465,
+            "total": 466,
             "earliest": "13/9 2:12 PM"
         },
         "Corryong health": {
@@ -106,7 +106,7 @@
             "earliest": "24/9 9:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 549,
+            "total": 550,
             "earliest": "13/9 10:10 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -198,7 +198,7 @@
             "earliest": "15/10 12:16 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1884,
+            "total": 1885,
             "earliest": "13/9 10:30 AM"
         },
         "Northeast Health Wangaratta": {
@@ -226,7 +226,7 @@
             "earliest": "22/9 10:30 AM"
         },
         "Sandown Racecourse": {
-            "total": 2315,
+            "total": 2314,
             "earliest": "13/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -290,8 +290,8 @@
             "earliest": "28/10 9:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1,
-            "earliest": "18/9 11:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Yarram Medical Centre": {
             "total": 210,
