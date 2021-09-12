@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 01:02",
+    "lastUpdated": "2021-09-13 01:07",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 830,
@@ -42,16 +42,16 @@
             "earliest": "4/10 10:30 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 1,
-            "earliest": "16/9 9:39 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 0,
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 247,
-            "earliest": "19/9 3:20 PM"
+            "total": 248,
+            "earliest": "13/9 7:00 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -71,7 +71,7 @@
         },
         "Convention Centre": {
             "total": 1,
-            "earliest": "19/9 4:30 PM"
+            "earliest": "22/9 3:48 PM"
         },
         "Corryong health": {
             "total": 60,
