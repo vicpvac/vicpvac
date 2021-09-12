@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-13 00:02",
+    "lastUpdated": "2021-09-13 00:07",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 830,
             "earliest": "26/10 8:45 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "22/9 10:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 0,
@@ -18,8 +18,8 @@
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 197,
-            "earliest": "14/9 10:48 AM"
+            "total": 196,
+            "earliest": "14/9 10:52 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -34,8 +34,8 @@
             "earliest": "28/10 10:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 24,
-            "earliest": "14/10 1:30 PM"
+            "total": 22,
+            "earliest": "14/10 1:50 PM"
         },
         "Bright Hub - North East VIC": {
             "total": 22,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 261,
-            "earliest": "19/9 1:50 PM"
+            "total": 256,
+            "earliest": "19/9 3:20 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 205,
-            "earliest": "26/10 11:40 AM"
+            "total": 204,
+            "earliest": "26/10 11:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -114,7 +114,7 @@
             "earliest": "4/10 12:37 PM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 119,
+            "total": 116,
             "earliest": "22/9 11:12 AM"
         },
         "Horsham": {
@@ -134,11 +134,11 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 15,
-            "earliest": "27/9 12:12 PM"
+            "total": 12,
+            "earliest": "28/9 11:24 AM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 2029,
+            "total": 2028,
             "earliest": "13/9 10:00 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -151,7 +151,7 @@
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 1,
-            "earliest": "3/10 10:50 AM"
+            "earliest": "3/10 11:40 AM"
         },
         "Melbourne Showgrounds": {
             "total": 0,
@@ -159,10 +159,10 @@
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 1060,
-            "earliest": "12/10 10:30 AM"
+            "earliest": "2/10 12:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 908,
+            "total": 906,
             "earliest": "15/10 10:15 AM"
         },
         "Monash Community Outreach": {
@@ -246,7 +246,7 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 469,
+            "total": 467,
             "earliest": "11/10 8:50 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 384,
-            "earliest": "25/9 1:20 PM"
+            "total": 383,
+            "earliest": "25/9 1:40 PM"
         },
         "Werribee - St Vincent's Private": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": "28/10 9:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "18/9 11:55 AM"
         },
         "Yarram Medical Centre": {
             "total": 83,
