@@ -1,24 +1,24 @@
 {
-    "lastUpdated": "2021-09-13 08:57",
+    "lastUpdated": "2021-09-13 09:02",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 824,
             "earliest": "26/10 9:45 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "13/9 8:45 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "20/9 5:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
             "earliest": null
         },
         "Bairnsdale City Oval": {
-            "total": 183,
+            "total": 182,
             "earliest": "14/9 11:48 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 968,
-            "earliest": "1/11 11:50 AM"
+            "total": 966,
+            "earliest": "16/10 12:50 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 91,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 204,
-            "earliest": "25/9 3:00 PM"
+            "total": 200,
+            "earliest": "28/9 12:40 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -70,16 +70,16 @@
             "earliest": "12/10 1:50 PM"
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "30/9 12:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 57,
             "earliest": "23/9 9:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 301,
-            "earliest": "20/10 11:10 AM"
+            "total": 296,
+            "earliest": "17/10 3:10 PM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 0,
@@ -94,7 +94,7 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 299,
+            "total": 300,
             "earliest": "14/10 10:40 AM"
         },
         "Eastern Health Mobile Clinic 1": {
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 144,
-            "earliest": "27/10 12:50 PM"
+            "total": 138,
+            "earliest": "27/10 1:20 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -114,8 +114,8 @@
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 27,
-            "earliest": "16/9 9:36 AM"
+            "total": 17,
+            "earliest": "23/9 1:00 PM"
         },
         "Horsham": {
             "total": 0,
@@ -134,15 +134,15 @@
             "earliest": null
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "8/10 12:20 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 2015,
             "earliest": "13/9 11:20 AM"
         },
         "Mansfield Vaccination Clinic": {
-            "total": 93,
+            "total": 92,
             "earliest": "4/10 11:50 AM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
@@ -154,16 +154,16 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "25/10 11:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1016,
-            "earliest": "13/10 10:10 AM"
+            "total": 1015,
+            "earliest": "13/9 8:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 869,
-            "earliest": "14/10 10:55 AM"
+            "earliest": "16/10 1:25 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -198,12 +198,12 @@
             "earliest": null
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 352,
-            "earliest": "28/9 7:20 PM"
+            "total": 350,
+            "earliest": "13/9 8:50 AM"
         },
         "Northeast Health Wangaratta": {
-            "total": 0,
-            "earliest": null
+            "total": 55,
+            "earliest": "13/9 9:15 AM"
         },
         "Orbost Regional Health": {
             "total": 0,
@@ -226,8 +226,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 396,
-            "earliest": "13/10 2:40 PM"
+            "total": 389,
+            "earliest": "14/10 10:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -238,16 +238,16 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 2,
-            "earliest": "16/9 1:10 PM"
+            "total": 1,
+            "earliest": "15/9 1:30 PM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 374,
-            "earliest": "13/10 8:50 AM"
+            "total": 369,
+            "earliest": "13/10 9:20 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
             "total": 0,
@@ -286,8 +286,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 639,
-            "earliest": "29/10 9:50 AM"
+            "total": 636,
+            "earliest": "29/10 10:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 0,
