@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 05:07",
+    "lastUpdated": "2021-09-13 05:12",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 830,
@@ -46,12 +46,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 12:30 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 235,
-            "earliest": "19/9 6:10 PM"
+            "total": 236,
+            "earliest": "13/9 1:50 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -199,7 +199,7 @@
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
             "total": 433,
-            "earliest": "19/9 2:30 PM"
+            "earliest": "19/9 5:40 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -294,7 +294,7 @@
             "earliest": null
         },
         "Yarram Medical Centre": {
-            "total": 81,
+            "total": 82,
             "earliest": "14/9 4:15 PM"
         }
     }
