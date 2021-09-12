@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 00:52",
+    "lastUpdated": "2021-09-13 00:57",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 830,
@@ -34,8 +34,8 @@
             "earliest": "28/10 10:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "15/10 11:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 22,
@@ -50,8 +50,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 246,
-            "earliest": "19/9 4:50 PM"
+            "total": 247,
+            "earliest": "16/9 12:10 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -70,8 +70,8 @@
             "earliest": "12/10 1:40 PM"
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "22/9 3:48 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 60,
@@ -162,8 +162,8 @@
             "earliest": "12/10 10:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 908,
-            "earliest": "15/10 10:15 AM"
+            "total": 907,
+            "earliest": "15/10 10:35 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -198,8 +198,8 @@
             "earliest": "15/10 12:16 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 437,
-            "earliest": "27/9 7:20 PM"
+            "total": 438,
+            "earliest": "24/9 4:50 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -246,7 +246,7 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 442,
+            "total": 441,
             "earliest": "12/10 8:40 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
