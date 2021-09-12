@@ -1,12 +1,12 @@
 {
-    "lastUpdated": "2021-09-13 01:22",
+    "lastUpdated": "2021-09-13 01:27",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 864,
             "earliest": "25/10 1:45 PM"
         },
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
+            "total": 3,
             "earliest": "15/9 10:00 AM"
         },
         "Austin - Olivia Newton John": {
@@ -50,7 +50,7 @@
             "earliest": "13/9 7:20 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 293,
+            "total": 291,
             "earliest": "13/9 3:00 PM"
         },
         "Casterton Memorial Hospital": {
@@ -226,7 +226,7 @@
             "earliest": "22/9 10:30 AM"
         },
         "Sandown Racecourse": {
-            "total": 2313,
+            "total": 2315,
             "earliest": "13/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -246,7 +246,7 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 646,
+            "total": 645,
             "earliest": "15/9 9:10 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
@@ -290,8 +290,8 @@
             "earliest": "28/10 9:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "18/9 11:15 AM"
         },
         "Yarram Medical Centre": {
             "total": 210,
