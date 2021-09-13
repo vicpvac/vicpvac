@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-14 06:34",
+    "lastUpdated": "2021-09-14 06:38",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 775,
@@ -14,8 +14,8 @@
             "earliest": "11/10 2:50 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 463,
-            "earliest": "11/10 12:50 PM"
+            "total": 464,
+            "earliest": "11/10 9:10 AM"
         },
         "Bairnsdale City Oval": {
             "total": 251,
@@ -50,7 +50,7 @@
             "earliest": "22/9 3:50 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 706,
+            "total": 707,
             "earliest": "20/9 3:40 PM"
         },
         "Casterton Memorial Hospital": {
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "17/10 3:10 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -130,12 +130,12 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 31,
-            "earliest": "19/9 1:10 PM"
+            "total": 30,
+            "earliest": "24/9 8:45 AM"
         },
         "Leongatha Community Clinic": {
-            "total": 1,
-            "earliest": "20/9 9:08 AM"
+            "total": 0,
+            "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 2037,
@@ -154,7 +154,7 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 2,
+            "total": 3,
             "earliest": "12/10 11:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -162,8 +162,8 @@
             "earliest": "14/10 1:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 727,
-            "earliest": "1/10 2:55 PM"
+            "total": 726,
+            "earliest": "4/10 12:55 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -198,8 +198,8 @@
             "earliest": "18/9 11:14 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 14,
-            "earliest": "28/9 8:10 AM"
+            "total": 16,
+            "earliest": "20/9 3:00 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 74,
@@ -294,12 +294,12 @@
             "earliest": "15/9 4:00 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 537,
-            "earliest": "16/10 9:50 AM"
+            "total": 536,
+            "earliest": "29/10 10:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1588,
-            "earliest": "27/9 10:55 AM"
+            "total": 1586,
+            "earliest": "27/9 11:15 AM"
         },
         "Yarram Medical Centre": {
             "total": 15,
