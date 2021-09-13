@@ -1,20 +1,20 @@
 {
-    "lastUpdated": "2021-09-14 07:06",
+    "lastUpdated": "2021-09-14 07:10",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 814,
-            "earliest": "7/10 1:30 PM"
+            "total": 813,
+            "earliest": "27/10 11:15 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
             "total": 1,
             "earliest": "14/9 12:45 PM"
         },
         "Austin - Olivia Newton John": {
-            "total": 487,
+            "total": 488,
             "earliest": "14/9 8:50 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 620,
+            "total": 621,
             "earliest": "14/9 8:50 AM"
         },
         "Bairnsdale City Oval": {
@@ -30,11 +30,11 @@
             "earliest": "14/9 11:10 AM"
         },
         "Beechworth Vaccination Hub": {
-            "total": 140,
+            "total": 141,
             "earliest": "16/9 11:30 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 534,
+            "total": 533,
             "earliest": "21/9 10:40 AM"
         },
         "Bright Hub - North East VIC": {
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 410,
+            "total": 411,
             "earliest": "14/9 7:20 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -62,15 +62,15 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "19/10 1:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Colac Area Health - COPACC": {
             "total": 91,
             "earliest": "14/9 11:50 AM"
         },
         "Convention Centre": {
-            "total": 486,
+            "total": 488,
             "earliest": "14/9 1:00 PM"
         },
         "Corryong health": {
@@ -102,7 +102,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 917,
+            "total": 916,
             "earliest": "16/9 3:00 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -154,7 +154,7 @@
             "earliest": "14/9 8:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 37,
+            "total": 38,
             "earliest": "14/9 9:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -162,8 +162,8 @@
             "earliest": "5/10 11:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 1956,
-            "earliest": "14/9 11:45 AM"
+            "total": 1955,
+            "earliest": "22/9 1:25 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -198,11 +198,11 @@
             "earliest": "18/9 11:14 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1456,
+            "total": 1455,
             "earliest": "15/9 11:00 AM"
         },
         "Northeast Health Wangaratta": {
-            "total": 297,
+            "total": 296,
             "earliest": "15/9 9:45 AM"
         },
         "Orbost Regional Health": {
@@ -294,7 +294,7 @@
             "earliest": "14/9 10:28 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 645,
+            "total": 643,
             "earliest": "14/9 3:30 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
