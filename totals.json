@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-13 23:51",
+    "lastUpdated": "2021-09-13 23:55",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 778,
@@ -34,7 +34,7 @@
             "earliest": "15/10 1:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 25,
+            "total": 26,
             "earliest": "13/9 9:30 AM"
         },
         "Bright Hub - North East VIC": {
@@ -78,7 +78,7 @@
             "earliest": "15/9 2:00 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 30,
+            "total": 31,
             "earliest": "13/9 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -110,7 +110,7 @@
             "earliest": "13/9 11:50 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 165,
+            "total": 164,
             "earliest": "15/9 8:35 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -150,11 +150,11 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 4,
+            "total": 6,
             "earliest": "13/9 9:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 9,
+            "total": 8,
             "earliest": "13/9 9:10 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -226,7 +226,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 125,
+            "total": 122,
             "earliest": "13/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -262,7 +262,7 @@
             "earliest": "13/9 9:51 AM"
         },
         "Sunshine Hospital": {
-            "total": 6,
+            "total": 7,
             "earliest": "13/9 9:25 AM"
         },
         "Traralgon Racecourse": {
@@ -282,8 +282,8 @@
             "earliest": "15/10 10:50 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 1,
-            "earliest": "12/10 11:45 AM"
+            "total": 0,
+            "earliest": null
         },
         "Werribee Mercy": {
             "total": 0,
@@ -294,11 +294,11 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 535,
+            "total": 536,
             "earliest": "13/9 10:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1613,
+            "total": 1612,
             "earliest": "13/9 8:15 AM"
         },
         "Yarram Medical Centre": {
