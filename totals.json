@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-14 05:58",
+    "lastUpdated": "2021-09-14 06:02",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 776,
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "14/9 1:00 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 840,
@@ -294,12 +294,12 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 535,
-            "earliest": "16/10 9:50 AM"
+            "total": 536,
+            "earliest": "1/10 11:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1592,
-            "earliest": "27/9 9:35 AM"
+            "total": 1591,
+            "earliest": "27/9 9:45 AM"
         },
         "Yarram Medical Centre": {
             "total": 14,
