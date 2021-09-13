@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-14 00:54",
+    "lastUpdated": "2021-09-14 00:58",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 777,
@@ -46,12 +46,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 368,
+            "total": 366,
             "earliest": "22/9 3:30 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 712,
-            "earliest": "20/9 2:40 PM"
+            "earliest": "16/9 1:40 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -82,8 +82,8 @@
             "earliest": "31/10 3:20 PM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 2:15 PM"
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -163,7 +163,7 @@
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 729,
-            "earliest": "14/9 4:40 PM"
+            "earliest": "14/9 4:50 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -266,7 +266,7 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 2,
+            "total": 1,
             "earliest": "14/9 1:39 PM"
         },
         "WDHS - Balmoral Clinic": {
@@ -282,8 +282,8 @@
             "earliest": "15/10 10:50 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 1,
-            "earliest": "13/10 10:05 AM"
+            "total": 0,
+            "earliest": null
         },
         "Werribee Mercy": {
             "total": 0,
@@ -298,7 +298,7 @@
             "earliest": "29/10 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1603,
+            "total": 1602,
             "earliest": "27/9 8:45 AM"
         },
         "Yarram Medical Centre": {
