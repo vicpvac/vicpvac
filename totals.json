@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-14 03:30",
+    "lastUpdated": "2021-09-14 03:34",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 777,
             "earliest": "27/10 11:45 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "17/9 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 433,
@@ -198,8 +198,8 @@
             "earliest": "18/9 11:14 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 15,
-            "earliest": "21/9 9:30 AM"
+            "total": 16,
+            "earliest": "15/9 9:40 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 74,
