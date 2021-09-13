@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-14 04:18",
+    "lastUpdated": "2021-09-14 04:22",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 777,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 367,
-            "earliest": "22/9 3:40 PM"
+            "total": 366,
+            "earliest": "22/9 3:50 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 708,
@@ -150,12 +150,12 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "3/10 12:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "29/10 10:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 839,
@@ -294,8 +294,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 535,
-            "earliest": "9/10 2:10 PM"
+            "total": 534,
+            "earliest": "29/10 10:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 1597,
