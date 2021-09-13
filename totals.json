@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-14 00:23",
+    "lastUpdated": "2021-09-14 00:27",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 777,
@@ -10,12 +10,12 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 439,
+            "total": 438,
             "earliest": "11/10 1:50 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 466,
-            "earliest": "11/10 12:20 PM"
+            "total": 465,
+            "earliest": "11/10 12:40 PM"
         },
         "Bairnsdale City Oval": {
             "total": 252,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 374,
-            "earliest": "22/9 2:50 PM"
+            "total": 373,
+            "earliest": "22/9 3:10 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 713,
@@ -70,8 +70,8 @@
             "earliest": "19/10 1:50 PM"
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "22/9 1:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 53,
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "19/10 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 840,
@@ -263,7 +263,7 @@
         },
         "Sunshine Hospital": {
             "total": 1,
-            "earliest": "16/9 2:55 PM"
+            "earliest": "30/9 2:15 PM"
         },
         "Traralgon Racecourse": {
             "total": 2,
