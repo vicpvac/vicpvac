@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-14 00:11",
+    "lastUpdated": "2021-09-14 00:16",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 777,
             "earliest": "27/10 11:45 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "23/9 8:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 441,
@@ -34,7 +34,7 @@
             "earliest": "15/10 1:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 23,
+            "total": 22,
             "earliest": "31/10 10:40 AM"
         },
         "Bright Hub - North East VIC": {
@@ -46,12 +46,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 374,
-            "earliest": "22/9 2:50 PM"
+            "total": 375,
+            "earliest": "22/9 2:40 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 712,
-            "earliest": "20/9 2:40 PM"
+            "total": 713,
+            "earliest": "20/9 11:00 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "24/9 11:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -114,7 +114,7 @@
             "earliest": "15/9 8:35 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 267,
+            "total": 268,
             "earliest": "28/9 10:00 AM"
         },
         "Horsham": {
@@ -154,12 +154,12 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "14/11 10:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 841,
-            "earliest": "17/10 3:30 PM"
+            "total": 840,
+            "earliest": "19/10 1:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 732,
@@ -198,11 +198,11 @@
             "earliest": "18/9 11:14 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 14,
-            "earliest": "3/10 5:40 PM"
+            "total": 15,
+            "earliest": "27/9 7:10 PM"
         },
         "Northeast Health Wangaratta": {
-            "total": 73,
+            "total": 74,
             "earliest": "15/9 11:39 AM"
         },
         "Orbost Regional Health": {
@@ -294,16 +294,16 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 533,
+            "total": 534,
             "earliest": "25/10 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1606,
-            "earliest": "27/9 8:25 AM"
+            "total": 1604,
+            "earliest": "27/9 8:35 AM"
         },
         "Yarram Medical Centre": {
-            "total": 15,
-            "earliest": "21/9 10:24 AM"
+            "total": 14,
+            "earliest": "1/10 2:53 PM"
         }
     }
 }
