@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-15 06:18",
+    "lastUpdated": "2021-09-15 06:22",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 738,
@@ -134,8 +134,8 @@
             "earliest": "16/9 10:00 AM"
         },
         "Leongatha Community Clinic": {
-            "total": 1,
-            "earliest": "26/10 10:52 AM"
+            "total": 0,
+            "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
             "total": 2147,
@@ -154,7 +154,7 @@
             "earliest": "9/10 10:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 106,
+            "total": 107,
             "earliest": "18/9 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -199,7 +199,7 @@
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
             "total": 6,
-            "earliest": "15/9 9:20 AM"
+            "earliest": "16/9 12:50 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 0,
@@ -234,8 +234,8 @@
             "earliest": "9/10 9:40 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "20/9 4:00 PM"
         },
         "Seymour Health": {
             "total": 0,
