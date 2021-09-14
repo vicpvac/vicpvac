@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-15 00:23",
+    "lastUpdated": "2021-09-15 00:27",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 737,
@@ -62,15 +62,15 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "19/10 11:00 AM"
         },
         "Colac Area Health - COPACC": {
             "total": 12,
             "earliest": "19/10 1:40 PM"
         },
         "Convention Centre": {
-            "total": 301,
+            "total": 302,
             "earliest": "21/9 3:18 PM"
         },
         "Corryong health": {
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "15/9 11:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 57,
@@ -134,11 +134,11 @@
             "earliest": "25/9 10:30 AM"
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "5/10 3:08 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 2147,
+            "total": 2146,
             "earliest": "15/9 10:40 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -151,10 +151,10 @@
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 1,
-            "earliest": "3/10 10:10 AM"
+            "earliest": "13/10 2:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 106,
+            "total": 105,
             "earliest": "18/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -162,7 +162,7 @@
             "earliest": "1/11 12:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 730,
+            "total": 729,
             "earliest": "17/10 3:45 PM"
         },
         "Monash Community Outreach": {
@@ -222,16 +222,16 @@
             "earliest": null
         },
         "SWH - Camperdown": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "15/9 2:00 PM"
         },
         "Sandown Racecourse": {
-            "total": 56,
-            "earliest": "24/9 10:20 AM"
+            "total": 55,
+            "earliest": "10/10 3:00 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 58,
-            "earliest": "8/10 9:10 AM"
+            "earliest": "8/10 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
@@ -254,7 +254,7 @@
             "earliest": null
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
-            "total": 19,
+            "total": 18,
             "earliest": "15/9 2:05 PM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
@@ -294,7 +294,7 @@
             "earliest": "23/9 10:21 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 529,
+            "total": 528,
             "earliest": "22/10 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
