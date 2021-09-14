@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-15 04:38",
+    "lastUpdated": "2021-09-15 04:42",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 738,
@@ -50,7 +50,7 @@
             "earliest": "5/10 12:15 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 844,
+            "total": 843,
             "earliest": "15/9 5:30 PM"
         },
         "Casterton Memorial Hospital": {
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "16/9 12:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 57,
@@ -162,7 +162,7 @@
             "earliest": "29/10 10:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 728,
+            "total": 729,
             "earliest": "14/10 11:05 AM"
         },
         "Monash Community Outreach": {
