@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-15 02:54",
+    "lastUpdated": "2021-09-15 02:58",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 738,
@@ -14,8 +14,8 @@
             "earliest": "13/10 11:40 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 299,
-            "earliest": "26/9 3:40 PM"
+            "total": 298,
+            "earliest": "13/10 11:40 AM"
         },
         "Bairnsdale City Oval": {
             "total": 234,
@@ -34,8 +34,8 @@
             "earliest": "28/10 12:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "1/10 9:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 8,
@@ -154,7 +154,7 @@
             "earliest": "26/9 1:10 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 103,
+            "total": 101,
             "earliest": "18/9 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -262,7 +262,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 4,
+            "total": 3,
             "earliest": "29/9 8:45 AM"
         },
         "Traralgon Racecourse": {
