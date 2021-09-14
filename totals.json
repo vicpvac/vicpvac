@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-14 23:47",
+    "lastUpdated": "2021-09-14 23:51",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 742,
@@ -14,7 +14,7 @@
             "earliest": "13/10 11:30 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 308,
+            "total": 307,
             "earliest": "14/9 9:00 AM"
         },
         "Bairnsdale City Oval": {
@@ -34,7 +34,7 @@
             "earliest": "28/10 12:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 5,
+            "total": 4,
             "earliest": "14/9 9:24 AM"
         },
         "Bright Hub - North East VIC": {
@@ -50,7 +50,7 @@
             "earliest": "14/9 8:50 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 872,
+            "total": 871,
             "earliest": "14/9 9:00 AM"
         },
         "Casterton Memorial Hospital": {
@@ -150,8 +150,8 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "29/9 1:40 PM"
         },
         "Melbourne Showgrounds": {
             "total": 119,
@@ -226,12 +226,12 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 89,
+            "total": 90,
             "earliest": "14/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 75,
-            "earliest": "5/10 10:40 AM"
+            "total": 70,
+            "earliest": "6/10 9:20 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 16,
@@ -282,7 +282,7 @@
             "earliest": "14/9 10:00 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 7,
+            "total": 5,
             "earliest": "14/9 1:05 PM"
         },
         "Werribee Mercy": {
@@ -302,7 +302,7 @@
             "earliest": "14/9 8:55 AM"
         },
         "Yarram Medical Centre": {
-            "total": 4,
+            "total": 5,
             "earliest": "14/9 4:00 PM"
         }
     }
