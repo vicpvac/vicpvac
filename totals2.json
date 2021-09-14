@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-15 00:58",
+    "lastUpdated": "2021-09-15 01:02",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1107,
@@ -14,7 +14,7 @@
             "earliest": "15/9 12:40 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 441,
+            "total": 442,
             "earliest": "15/9 12:00 PM"
         },
         "Bairnsdale City Oval": {
@@ -138,7 +138,7 @@
             "earliest": "17/9 1:40 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 2577,
+            "total": 2578,
             "earliest": "15/9 9:00 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -154,7 +154,7 @@
             "earliest": "15/9 9:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 989,
+            "total": 988,
             "earliest": "15/9 11:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -198,7 +198,7 @@
             "earliest": "25/9 10:02 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1347,
+            "total": 1346,
             "earliest": "15/9 2:20 PM"
         },
         "Northeast Health Wangaratta": {
@@ -226,11 +226,11 @@
             "earliest": "15/9 2:00 PM"
         },
         "Sandown Racecourse": {
-            "total": 2001,
+            "total": 2002,
             "earliest": "15/9 2:20 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 378,
+            "total": 377,
             "earliest": "5/10 10:00 AM"
         },
         "Sandringham Vaccination Centre": {
@@ -262,7 +262,7 @@
             "earliest": "15/9 9:30 AM"
         },
         "Sunshine Hospital": {
-            "total": 1332,
+            "total": 1331,
             "earliest": "15/9 8:25 AM"
         },
         "Traralgon Racecourse": {
@@ -282,8 +282,8 @@
             "earliest": "16/9 10:20 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 1,
-            "earliest": "6/10 2:25 PM"
+            "total": 0,
+            "earliest": null
         },
         "Werribee Mercy": {
             "total": 0,
@@ -294,7 +294,7 @@
             "earliest": "15/9 9:00 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 587,
+            "total": 588,
             "earliest": "16/9 3:30 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
