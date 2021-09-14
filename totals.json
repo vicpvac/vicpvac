@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-14 23:42",
+    "lastUpdated": "2021-09-14 23:47",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 742,
@@ -34,7 +34,7 @@
             "earliest": "28/10 12:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 4,
+            "total": 5,
             "earliest": "14/9 9:24 AM"
         },
         "Bright Hub - North East VIC": {
@@ -42,7 +42,7 @@
             "earliest": "1/11 11:45 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 205,
+            "total": 204,
             "earliest": "14/9 9:57 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
@@ -150,11 +150,11 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 3,
-            "earliest": "3/10 8:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 117,
+            "total": 119,
             "earliest": "14/9 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -162,7 +162,7 @@
             "earliest": "14/9 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 737,
+            "total": 738,
             "earliest": "14/9 8:35 AM"
         },
         "Monash Community Outreach": {
@@ -226,11 +226,11 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 86,
+            "total": 89,
             "earliest": "14/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 77,
+            "total": 75,
             "earliest": "5/10 10:40 AM"
         },
         "Sandringham Vaccination Centre": {
@@ -258,11 +258,11 @@
             "earliest": "14/9 2:51 PM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 3,
-            "earliest": "15/9 2:00 PM"
+            "total": 1,
+            "earliest": "15/9 2:15 PM"
         },
         "Sunshine Hospital": {
-            "total": 13,
+            "total": 12,
             "earliest": "14/9 9:15 AM"
         },
         "Traralgon Racecourse": {
@@ -278,11 +278,11 @@
             "earliest": "15/9 11:40 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 72,
+            "total": 71,
             "earliest": "14/9 10:00 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 6,
+            "total": 7,
             "earliest": "14/9 1:05 PM"
         },
         "Werribee Mercy": {
@@ -302,7 +302,7 @@
             "earliest": "14/9 8:55 AM"
         },
         "Yarram Medical Centre": {
-            "total": 3,
+            "total": 4,
             "earliest": "14/9 4:00 PM"
         }
     }
