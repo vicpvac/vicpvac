@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-15 00:18",
+    "lastUpdated": "2021-09-15 00:23",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 737,
@@ -26,16 +26,16 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1048,
-            "earliest": "27/10 2:40 PM"
+            "total": 1047,
+            "earliest": "1/11 8:50 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 74,
             "earliest": "28/10 12:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "24/9 1:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 8,
@@ -46,12 +46,12 @@
             "earliest": "18/9 1:45 PM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 120,
-            "earliest": "28/9 11:10 AM"
+            "total": 119,
+            "earliest": "5/10 11:45 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 849,
-            "earliest": "15/9 2:10 PM"
+            "total": 848,
+            "earliest": "19/9 5:50 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -70,7 +70,7 @@
             "earliest": "19/10 1:40 PM"
         },
         "Convention Centre": {
-            "total": 300,
+            "total": 301,
             "earliest": "21/9 3:18 PM"
         },
         "Corryong health": {
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "15/9 11:10 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 57,
@@ -154,7 +154,7 @@
             "earliest": "3/10 10:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 105,
+            "total": 106,
             "earliest": "18/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -226,12 +226,12 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 54,
-            "earliest": "30/10 1:40 PM"
+            "total": 56,
+            "earliest": "24/9 10:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 60,
-            "earliest": "8/10 9:00 AM"
+            "total": 58,
+            "earliest": "8/10 9:10 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
@@ -294,7 +294,7 @@
             "earliest": "23/9 10:21 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 527,
+            "total": 529,
             "earliest": "22/10 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
