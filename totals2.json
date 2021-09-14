@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-14 20:58",
+    "lastUpdated": "2021-09-14 21:02",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1113,
@@ -198,7 +198,7 @@
             "earliest": "25/9 10:02 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1379,
+            "total": 1381,
             "earliest": "14/9 8:10 AM"
         },
         "Northeast Health Wangaratta": {
@@ -226,15 +226,15 @@
             "earliest": "22/9 10:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 2002,
+            "total": 2007,
             "earliest": "14/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 523,
-            "earliest": "15/9 10:30 AM"
+            "total": 519,
+            "earliest": "2/10 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 724,
+            "total": 722,
             "earliest": "14/9 8:40 AM"
         },
         "Seymour Health": {
@@ -258,8 +258,8 @@
             "earliest": "14/9 2:51 PM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 1,
-            "earliest": "17/9 2:36 PM"
+            "total": 0,
+            "earliest": null
         },
         "Sunshine Hospital": {
             "total": 320,
@@ -274,7 +274,7 @@
             "earliest": null
         },
         "WDHS \u2013 Hamilton Base Hospital": {
-            "total": 523,
+            "total": 522,
             "earliest": "15/9 1:40 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
@@ -282,7 +282,7 @@
             "earliest": "14/9 9:00 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 5,
+            "total": 6,
             "earliest": "14/9 1:05 PM"
         },
         "Werribee Mercy": {
@@ -294,11 +294,11 @@
             "earliest": "14/9 10:28 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 602,
+            "total": 601,
             "earliest": "14/9 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1208,
+            "total": 1204,
             "earliest": "14/9 8:25 AM"
         },
         "Yarram Medical Centre": {
