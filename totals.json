@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-15 00:27",
+    "lastUpdated": "2021-09-15 00:32",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 737,
@@ -42,8 +42,8 @@
             "earliest": "1/11 11:45 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 203,
-            "earliest": "18/9 1:45 PM"
+            "total": 202,
+            "earliest": "24/9 7:45 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 119,
@@ -63,7 +63,7 @@
         },
         "Cohealth City Town Hall": {
             "total": 1,
-            "earliest": "19/10 11:00 AM"
+            "earliest": "15/9 10:40 AM"
         },
         "Colac Area Health - COPACC": {
             "total": 12,
@@ -150,11 +150,11 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 1,
-            "earliest": "13/10 2:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 105,
+            "total": 106,
             "earliest": "18/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -162,7 +162,7 @@
             "earliest": "1/11 12:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 729,
+            "total": 728,
             "earliest": "17/10 3:45 PM"
         },
         "Monash Community Outreach": {
@@ -226,8 +226,8 @@
             "earliest": "15/9 2:00 PM"
         },
         "Sandown Racecourse": {
-            "total": 55,
-            "earliest": "10/10 3:00 PM"
+            "total": 54,
+            "earliest": "30/10 1:40 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 58,
@@ -262,11 +262,11 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 3,
+            "earliest": "15/9 8:35 AM"
         },
         "Traralgon Racecourse": {
-            "total": 40,
+            "total": 39,
             "earliest": "15/9 9:09 AM"
         },
         "WDHS - Balmoral Clinic": {
@@ -290,16 +290,16 @@
             "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 135,
-            "earliest": "23/9 10:21 AM"
+            "total": 134,
+            "earliest": "23/9 10:39 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
             "total": 528,
             "earliest": "22/10 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1315,
-            "earliest": "27/9 8:15 AM"
+            "total": 1316,
+            "earliest": "19/9 11:45 AM"
         },
         "Yarram Medical Centre": {
             "total": 3,
