@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-16 00:38",
+    "lastUpdated": "2021-09-16 00:42",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 725,
@@ -70,7 +70,7 @@
             "earliest": "23/9 2:50 PM"
         },
         "Convention Centre": {
-            "total": 74,
+            "total": 73,
             "earliest": "26/9 3:48 PM"
         },
         "Corryong health": {
@@ -102,7 +102,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 187,
+            "total": 188,
             "earliest": "22/9 9:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -226,8 +226,8 @@
             "earliest": "22/9 3:40 PM"
         },
         "Sandown Racecourse": {
-            "total": 35,
-            "earliest": "27/10 11:30 AM"
+            "total": 33,
+            "earliest": "31/10 9:40 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -262,7 +262,7 @@
             "earliest": "16/9 10:03 AM"
         },
         "Sunshine Hospital": {
-            "total": 4,
+            "total": 3,
             "earliest": "17/9 11:15 AM"
         },
         "Traralgon Racecourse": {
@@ -302,8 +302,8 @@
             "earliest": "28/9 10:55 AM"
         },
         "Yarram Medical Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "21/9 4:05 PM"
         }
     }
 }
