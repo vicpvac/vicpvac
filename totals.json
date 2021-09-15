@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-16 08:06",
+    "lastUpdated": "2021-09-16 08:11",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 745,
@@ -10,11 +10,11 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 186,
+            "total": 184,
             "earliest": "16/9 8:40 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 259,
+            "total": 258,
             "earliest": "16/9 8:00 AM"
         },
         "Bairnsdale City Oval": {
@@ -26,8 +26,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1036,
-            "earliest": "22/10 2:50 PM"
+            "total": 1037,
+            "earliest": "14/10 9:40 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 81,
@@ -47,11 +47,11 @@
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 73,
-            "earliest": "2/10 2:10 PM"
+            "earliest": "17/9 12:30 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 748,
-            "earliest": "19/9 1:20 PM"
+            "total": 747,
+            "earliest": "24/9 3:40 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -71,15 +71,15 @@
         },
         "Convention Centre": {
             "total": 75,
-            "earliest": "18/9 10:48 AM"
+            "earliest": "22/9 5:12 PM"
         },
         "Corryong health": {
             "total": 66,
             "earliest": "29/9 10:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "5/10 9:30 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 189,
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 275,
-            "earliest": "19/9 9:00 AM"
+            "total": 273,
+            "earliest": "19/9 9:40 AM"
         },
         "East Grampians Health Services- Ararat": {
             "total": 247,
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 181,
-            "earliest": "22/9 10:40 AM"
+            "total": 180,
+            "earliest": "22/9 10:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -114,12 +114,12 @@
             "earliest": "30/9 7:32 PM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 17,
+            "total": 19,
             "earliest": "17/9 10:10 AM"
         },
         "Horsham": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "17/9 1:10 PM"
         },
         "Hotel Quarantine \u2013 AHC": {
             "total": 0,
@@ -130,8 +130,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 1,
-            "earliest": "19/9 9:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Leongatha Community Clinic": {
             "total": 0,
@@ -150,20 +150,20 @@
             "earliest": null
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 3,
+            "total": 4,
             "earliest": "16/9 8:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 4,
-            "earliest": "9/10 11:25 AM"
+            "total": 7,
+            "earliest": "20/9 9:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 781,
-            "earliest": "3/11 11:10 AM"
+            "total": 780,
+            "earliest": "3/11 11:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 709,
-            "earliest": "30/9 10:35 AM"
+            "total": 708,
+            "earliest": "20/10 12:15 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -198,11 +198,11 @@
             "earliest": "25/9 9:30 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 44,
+            "total": 48,
             "earliest": "16/9 8:30 AM"
         },
         "Northeast Health Wangaratta": {
-            "total": 50,
+            "total": 48,
             "earliest": "16/9 3:24 PM"
         },
         "Orbost Regional Health": {
@@ -226,8 +226,8 @@
             "earliest": "22/9 3:40 PM"
         },
         "Sandown Racecourse": {
-            "total": 33,
-            "earliest": "31/10 9:40 AM"
+            "total": 34,
+            "earliest": "29/10 11:30 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -262,8 +262,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 2,
-            "earliest": "23/9 1:35 PM"
+            "total": 3,
+            "earliest": "27/9 11:45 AM"
         },
         "Traralgon Racecourse": {
             "total": 24,
@@ -282,15 +282,15 @@
             "earliest": "16/10 2:10 PM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 70,
-            "earliest": "16/9 8:50 AM"
+            "total": 68,
+            "earliest": "22/9 8:50 AM"
         },
         "Werribee Mercy": {
             "total": 0,
             "earliest": null
         },
         "Wonthaggi Town Hall": {
-            "total": 144,
+            "total": 145,
             "earliest": "16/9 9:09 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
@@ -299,7 +299,7 @@
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 1225,
-            "earliest": "19/9 1:05 PM"
+            "earliest": "20/9 1:05 PM"
         },
         "Yarram Medical Centre": {
             "total": 1,
