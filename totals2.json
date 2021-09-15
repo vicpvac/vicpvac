@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-16 00:03",
+    "lastUpdated": "2021-09-16 00:07",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1064,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1867,
+            "total": 1866,
             "earliest": "16/9 9:00 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -50,7 +50,7 @@
             "earliest": "16/9 3:10 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 1010,
+            "total": 1009,
             "earliest": "16/9 9:10 AM"
         },
         "Casterton Memorial Hospital": {
@@ -62,8 +62,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "22/10 2:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Colac Area Health - COPACC": {
             "total": 61,
@@ -71,14 +71,14 @@
         },
         "Convention Centre": {
             "total": 533,
-            "earliest": "16/9 9:00 AM"
+            "earliest": "16/9 3:48 PM"
         },
         "Corryong health": {
             "total": 79,
             "earliest": "16/9 11:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1918,
+            "total": 1917,
             "earliest": "16/9 9:30 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -154,7 +154,7 @@
             "earliest": "16/9 8:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 942,
+            "total": 941,
             "earliest": "17/9 9:50 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -234,8 +234,8 @@
             "earliest": "24/10 10:10 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 2520,
-            "earliest": "20/9 1:15 PM"
+            "total": 2515,
+            "earliest": "22/9 3:30 PM"
         },
         "Seymour Health": {
             "total": 1,
@@ -262,7 +262,7 @@
             "earliest": "16/9 10:03 AM"
         },
         "Sunshine Hospital": {
-            "total": 1361,
+            "total": 1362,
             "earliest": "16/9 10:55 AM"
         },
         "Traralgon Racecourse": {
