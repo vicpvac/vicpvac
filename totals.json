@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-16 05:06",
+    "lastUpdated": "2021-09-16 05:10",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 725,
@@ -42,7 +42,7 @@
             "earliest": "1/11 12:45 PM"
         },
         "Cabrini Elsternwick": {
-            "total": 45,
+            "total": 44,
             "earliest": "26/9 7:51 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
@@ -78,8 +78,8 @@
             "earliest": "16/9 11:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "20/9 2:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 195,
@@ -106,8 +106,8 @@
             "earliest": "22/9 9:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "16/9 4:50 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 16,
@@ -298,8 +298,8 @@
             "earliest": "22/9 2:10 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1226,
-            "earliest": "28/9 10:45 AM"
+            "total": 1227,
+            "earliest": "19/9 11:05 AM"
         },
         "Yarram Medical Centre": {
             "total": 1,
