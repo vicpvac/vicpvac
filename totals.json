@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-16 02:46",
+    "lastUpdated": "2021-09-16 02:50",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 725,
@@ -10,7 +10,7 @@
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 157,
+            "total": 156,
             "earliest": "14/10 11:50 AM"
         },
         "Austin - Repatriation (Pfizer)": {
@@ -78,8 +78,8 @@
             "earliest": "16/9 11:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "29/9 3:10 PM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 196,
@@ -199,7 +199,7 @@
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
             "total": 1,
-            "earliest": "7/10 3:00 PM"
+            "earliest": "28/9 2:30 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 47,
@@ -226,7 +226,7 @@
             "earliest": "22/9 3:40 PM"
         },
         "Sandown Racecourse": {
-            "total": 34,
+            "total": 35,
             "earliest": "23/10 2:30 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -298,7 +298,7 @@
             "earliest": "5/11 9:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1227,
+            "total": 1226,
             "earliest": "28/9 10:45 AM"
         },
         "Yarram Medical Centre": {
