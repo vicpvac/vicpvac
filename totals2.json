@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-17 05:30",
+    "lastUpdated": "2021-09-17 05:34",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1514,
             "earliest": "17/9 9:00 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "30/9 2:45 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 50,
@@ -26,7 +26,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1981,
+            "total": 1982,
             "earliest": "17/9 1:40 PM"
         },
         "Beechworth Vaccination Hub": {
@@ -70,7 +70,7 @@
             "earliest": "21/9 10:40 AM"
         },
         "Convention Centre": {
-            "total": 445,
+            "total": 446,
             "earliest": "18/9 9:12 AM"
         },
         "Corryong health": {
@@ -162,7 +162,7 @@
             "earliest": "10/10 3:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 2916,
+            "total": 2915,
             "earliest": "22/9 1:35 PM"
         },
         "Monash Community Outreach": {
@@ -234,8 +234,8 @@
             "earliest": "4/11 10:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 2312,
-            "earliest": "29/9 11:30 AM"
+            "total": 2313,
+            "earliest": "17/9 8:45 AM"
         },
         "Seymour Health": {
             "total": 0,
