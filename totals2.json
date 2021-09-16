@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-17 03:43",
+    "lastUpdated": "2021-09-17 03:46",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1516,
             "earliest": "17/9 9:00 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "30/9 2:45 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 50,
@@ -46,12 +46,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 455,
+            "total": 456,
             "earliest": "17/9 3:00 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 1103,
-            "earliest": "17/9 12:00 PM"
+            "total": 1102,
+            "earliest": "17/9 3:00 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -158,7 +158,7 @@
             "earliest": "17/9 10:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 777,
+            "total": 776,
             "earliest": "10/10 3:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
@@ -226,7 +226,7 @@
             "earliest": "22/9 11:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 1948,
+            "total": 1949,
             "earliest": "17/9 11:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
