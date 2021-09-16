@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-17 02:30",
+    "lastUpdated": "2021-09-17 02:34",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 658,
@@ -27,7 +27,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 1032,
-            "earliest": "20/10 8:50 AM"
+            "earliest": "21/10 9:50 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 69,
@@ -106,16 +106,16 @@
             "earliest": "17/9 11:10 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 35,
-            "earliest": "18/9 1:30 PM"
+            "total": 34,
+            "earliest": "22/9 10:00 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 0,
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/9 1:30 PM"
         },
         "Horsham": {
             "total": 0,
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 147,
+            "total": 128,
             "earliest": "17/9 10:10 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -146,11 +146,11 @@
             "earliest": "17/9 3:10 PM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
-            "total": 2079,
-            "earliest": "22/9 12:20 PM"
+            "total": 2096,
+            "earliest": "22/9 10:10 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 101,
+            "total": 102,
             "earliest": "1/10 4:50 PM"
         },
         "Melbourne Showgrounds": {
@@ -198,8 +198,8 @@
             "earliest": "18/9 12:06 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "29/9 8:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 0,
