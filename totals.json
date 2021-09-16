@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-17 06:22",
+    "lastUpdated": "2021-09-17 06:26",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 658,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 2,
-            "earliest": "8/10 12:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 629,
@@ -70,16 +70,16 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 2,
-            "earliest": "27/9 1:15 PM"
+            "total": 1,
+            "earliest": "30/9 3:03 PM"
         },
         "Corryong health": {
             "total": 80,
             "earliest": "29/9 10:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "10/10 9:10 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 27,
@@ -106,8 +106,8 @@
             "earliest": "31/10 9:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 35,
-            "earliest": "21/9 9:40 AM"
+            "total": 33,
+            "earliest": "22/9 10:10 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 0,
@@ -146,7 +146,7 @@
             "earliest": "17/9 3:10 PM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
-            "total": 2210,
+            "total": 2211,
             "earliest": "17/9 10:50 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
@@ -154,7 +154,7 @@
             "earliest": "25/10 1:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 70,
+            "total": 71,
             "earliest": "27/9 2:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -162,7 +162,7 @@
             "earliest": "4/11 12:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 757,
+            "total": 756,
             "earliest": "27/9 11:45 AM"
         },
         "Monash Community Outreach": {
@@ -182,7 +182,7 @@
             "earliest": "2/11 11:45 AM"
         },
         "NCN Health": {
-            "total": 417,
+            "total": 418,
             "earliest": "22/9 12:02 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -227,7 +227,7 @@
         },
         "Sandown Racecourse": {
             "total": 17,
-            "earliest": "12/10 11:30 AM"
+            "earliest": "18/10 11:40 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
