@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2021-09-16 22:15",
+    "lastUpdated": "2021-09-16 22:18",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
-            "total": 669,
+            "total": 668,
             "earliest": "16/9 9:15 AM"
         },
         "Alfred Health - Pfizer Community Clinic": {
@@ -10,15 +10,15 @@
             "earliest": "16/9 11:30 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 53,
+            "total": 54,
             "earliest": "16/9 11:40 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 103,
+            "total": 102,
             "earliest": "16/9 8:00 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 233,
+            "total": 234,
             "earliest": "18/9 12:14 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -46,7 +46,7 @@
             "earliest": "16/9 10:03 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 29,
+            "total": 28,
             "earliest": "16/9 8:50 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -62,8 +62,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "22/10 10:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Colac Area Health - COPACC": {
             "total": 0,
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 97,
+            "total": 96,
             "earliest": "16/9 10:40 AM"
         },
         "East Grampians Health Services- Ararat": {
@@ -102,11 +102,11 @@
             "earliest": null
         },
         "Ford": {
-            "total": 41,
+            "total": 42,
             "earliest": "16/9 8:40 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 66,
+            "total": 64,
             "earliest": "16/9 11:30 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -158,11 +158,11 @@
             "earliest": "16/9 9:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 771,
+            "total": 772,
             "earliest": "16/9 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 772,
+            "total": 770,
             "earliest": "16/9 9:05 AM"
         },
         "Monash Community Outreach": {
@@ -226,7 +226,7 @@
             "earliest": "28/9 9:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 53,
+            "total": 51,
             "earliest": "16/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -254,7 +254,7 @@
             "earliest": "16/9 11:00 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
-            "total": 159,
+            "total": 158,
             "earliest": "16/9 1:55 PM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
