@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-17 05:38",
+    "lastUpdated": "2021-09-17 05:42",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 658,
@@ -114,8 +114,8 @@
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "8/10 2:20 PM"
         },
         "Horsham": {
             "total": 0,
@@ -158,7 +158,7 @@
             "earliest": "10/10 11:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 774,
+            "total": 775,
             "earliest": "4/11 12:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
