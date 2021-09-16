@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-17 02:26",
+    "lastUpdated": "2021-09-17 02:30",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 1515,
@@ -10,11 +10,11 @@
             "earliest": "24/9 10:45 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 52,
-            "earliest": "21/9 10:40 AM"
+            "total": 51,
+            "earliest": "25/9 7:40 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 192,
+            "total": 191,
             "earliest": "17/9 8:50 AM"
         },
         "Bairnsdale City Oval": {
@@ -50,7 +50,7 @@
             "earliest": "17/9 3:00 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 1101,
+            "total": 1102,
             "earliest": "17/9 3:00 PM"
         },
         "Casterton Memorial Hospital": {
@@ -62,16 +62,16 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "28/10 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Colac Area Health - COPACC": {
             "total": 65,
             "earliest": "21/9 10:40 AM"
         },
         "Convention Centre": {
-            "total": 446,
-            "earliest": "18/9 9:12 AM"
+            "total": 447,
+            "earliest": "17/9 2:12 PM"
         },
         "Corryong health": {
             "total": 92,
@@ -138,7 +138,7 @@
             "earliest": "17/9 12:04 PM"
         },
         "Macintosh Center-Shepparton Show grounds": {
-            "total": 244,
+            "total": 214,
             "earliest": "17/9 10:10 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -146,15 +146,15 @@
             "earliest": "17/9 3:10 PM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
-            "total": 2404,
-            "earliest": "22/9 3:00 PM"
+            "total": 2434,
+            "earliest": "22/9 12:20 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 1152,
             "earliest": "18/9 12:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1186,
+            "total": 1187,
             "earliest": "17/9 10:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -262,7 +262,7 @@
             "earliest": "17/9 1:24 PM"
         },
         "Sunshine Hospital": {
-            "total": 1337,
+            "total": 1338,
             "earliest": "17/9 9:35 AM"
         },
         "Traralgon Racecourse": {
@@ -302,7 +302,7 @@
             "earliest": "17/9 8:25 AM"
         },
         "Yarram Medical Centre": {
-            "total": 93,
+            "total": 92,
             "earliest": "21/9 9:00 AM"
         }
     }
