@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-17 04:30",
+    "lastUpdated": "2021-09-17 04:34",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 659,
@@ -27,7 +27,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 1032,
-            "earliest": "1/10 10:10 AM"
+            "earliest": "21/10 8:40 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 69,
@@ -78,8 +78,8 @@
             "earliest": "29/9 10:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "19/9 9:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 27,
@@ -163,7 +163,7 @@
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 754,
-            "earliest": "20/9 1:35 PM"
+            "earliest": "21/9 8:25 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
