@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-17 06:06",
+    "lastUpdated": "2021-09-17 06:10",
     "results": {
         "Albury Wodonga Health - Wodonga Vaccination Site": {
             "total": 659,
@@ -14,8 +14,8 @@
             "earliest": "16/10 5:10 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 82,
-            "earliest": "16/10 12:50 PM"
+            "total": 81,
+            "earliest": "16/10 1:20 PM"
         },
         "Bairnsdale City Oval": {
             "total": 231,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "8/10 12:00 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 630,
@@ -70,16 +70,16 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "30/9 3:03 PM"
+            "total": 2,
+            "earliest": "17/9 10:24 AM"
         },
         "Corryong health": {
             "total": 80,
             "earliest": "29/9 10:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "17/9 10:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 27,
@@ -150,8 +150,8 @@
             "earliest": "17/9 10:50 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 100,
-            "earliest": "25/10 1:40 PM"
+            "total": 101,
+            "earliest": "17/9 3:20 PM"
         },
         "Melbourne Showgrounds": {
             "total": 69,
@@ -227,7 +227,7 @@
         },
         "Sandown Racecourse": {
             "total": 17,
-            "earliest": "12/10 11:30 AM"
+            "earliest": "15/10 11:40 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -235,7 +235,7 @@
         },
         "Sandringham Vaccination Centre": {
             "total": 291,
-            "earliest": "17/9 8:45 AM"
+            "earliest": "25/9 1:40 PM"
         },
         "Seymour Health": {
             "total": 0,
@@ -294,11 +294,11 @@
             "earliest": "30/9 9:00 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 484,
-            "earliest": "6/10 3:10 PM"
+            "total": 483,
+            "earliest": "7/11 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1189,
+            "total": 1190,
             "earliest": "17/9 8:40 AM"
         },
         "Yarram Medical Centre": {
