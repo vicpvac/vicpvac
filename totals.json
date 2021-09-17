@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-18 06:18",
+    "lastUpdated": "2021-09-18 06:22",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 563,
+            "total": 564,
             "earliest": "20/9 5:00 PM"
         },
         "Casterton Memorial Hospital": {
@@ -155,11 +155,11 @@
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 90,
-            "earliest": "2/10 1:20 PM"
+            "earliest": "6/10 10:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 56,
-            "earliest": "18/9 10:25 AM"
+            "total": 55,
+            "earliest": "3/10 10:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 758,
@@ -266,8 +266,8 @@
             "earliest": "18/9 9:24 AM"
         },
         "Sunshine Hospital": {
-            "total": 46,
-            "earliest": "18/9 10:45 AM"
+            "total": 45,
+            "earliest": "19/9 8:15 AM"
         },
         "Traralgon Racecourse": {
             "total": 0,
@@ -310,8 +310,8 @@
             "earliest": "19/9 9:35 AM"
         },
         "Yarram Medical Centre": {
-            "total": 1,
-            "earliest": "8/10 3:26 PM"
+            "total": 0,
+            "earliest": null
         }
     }
 }
