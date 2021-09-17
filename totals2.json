@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-18 02:50",
+    "lastUpdated": "2021-09-18 02:54",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "27/9 1:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 11,
@@ -46,8 +46,8 @@
             "earliest": "11/10 11:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 997,
-            "earliest": "28/9 11:20 AM"
+            "total": 996,
+            "earliest": "28/9 3:30 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -266,7 +266,7 @@
             "earliest": "18/9 9:12 AM"
         },
         "Sunshine Hospital": {
-            "total": 1410,
+            "total": 1411,
             "earliest": "18/9 8:15 AM"
         },
         "Traralgon Racecourse": {
