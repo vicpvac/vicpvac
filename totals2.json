@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-18 03:54",
+    "lastUpdated": "2021-09-18 03:58",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,7 +30,7 @@
             "earliest": "23/9 10:15 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 30,
+            "total": 31,
             "earliest": "27/9 11:20 AM"
         },
         "Bright Hub - North East VIC": {
@@ -38,15 +38,15 @@
             "earliest": "20/9 11:45 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 1,
-            "earliest": "18/9 11:51 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 340,
+            "total": 339,
             "earliest": "11/10 11:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 995,
+            "total": 996,
             "earliest": "18/9 12:50 PM"
         },
         "Casterton Memorial Hospital": {
@@ -230,7 +230,7 @@
             "earliest": "22/9 11:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 1876,
+            "total": 1877,
             "earliest": "18/9 9:40 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -250,7 +250,7 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 41,
+            "total": 40,
             "earliest": "20/9 11:00 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
