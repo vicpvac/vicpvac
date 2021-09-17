@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2021-09-18 00:07",
+    "lastUpdated": "2021-09-18 00:11",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "3/10 7:30 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 21,
-            "earliest": "17/10 3:40 PM"
+            "total": 20,
+            "earliest": "17/10 3:50 PM"
         },
         "Bairnsdale City Oval": {
             "total": 193,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 565,
-            "earliest": "19/9 6:20 PM"
+            "total": 564,
+            "earliest": "30/9 6:00 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -162,8 +162,8 @@
             "earliest": "7/10 11:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 761,
-            "earliest": "22/10 11:30 AM"
+            "total": 763,
+            "earliest": "15/10 1:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 707,
@@ -266,8 +266,8 @@
             "earliest": "18/9 9:00 AM"
         },
         "Sunshine Hospital": {
-            "total": 53,
-            "earliest": "18/9 8:36 AM"
+            "total": 50,
+            "earliest": "19/9 8:15 AM"
         },
         "Traralgon Racecourse": {
             "total": 0,
