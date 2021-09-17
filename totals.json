@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-18 00:31",
+    "lastUpdated": "2021-09-18 00:35",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "9/10 3:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 20,
@@ -38,16 +38,16 @@
             "earliest": "11/10 2:45 PM"
         },
         "Cabrini Elsternwick": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "25/9 9:51 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 0,
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 566,
-            "earliest": "22/9 11:10 AM"
+            "total": 565,
+            "earliest": "4/10 1:00 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -78,8 +78,8 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 21,
-            "earliest": "7/10 1:45 PM"
+            "total": 20,
+            "earliest": "21/10 11:45 AM"
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -159,7 +159,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 53,
-            "earliest": "7/10 11:45 AM"
+            "earliest": "15/10 10:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 763,
@@ -266,7 +266,7 @@
             "earliest": "18/9 9:00 AM"
         },
         "Sunshine Hospital": {
-            "total": 49,
+            "total": 47,
             "earliest": "18/9 10:05 AM"
         },
         "Traralgon Racecourse": {
@@ -302,12 +302,12 @@
             "earliest": "29/9 12:15 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 465,
+            "total": 466,
             "earliest": "20/9 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1020,
-            "earliest": "19/9 1:55 PM"
+            "total": 1021,
+            "earliest": "18/9 10:55 AM"
         },
         "Yarram Medical Centre": {
             "total": 1,
