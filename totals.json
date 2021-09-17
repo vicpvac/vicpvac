@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-18 06:30",
+    "lastUpdated": "2021-09-18 06:34",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "1/10 10:50 AM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 19,
@@ -22,8 +22,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1014,
-            "earliest": "16/10 11:40 AM"
+            "total": 1013,
+            "earliest": "1/11 8:40 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 59,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 562,
+            "total": 561,
             "earliest": "5/10 9:40 AM"
         },
         "Casterton Memorial Hospital": {
@@ -74,11 +74,11 @@
             "earliest": "30/9 9:45 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "10/10 9:10 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 19,
+            "total": 20,
             "earliest": "21/10 1:00 PM"
         },
         "Dandenong Hospital": {
@@ -158,15 +158,15 @@
             "earliest": "2/10 1:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 55,
-            "earliest": "3/10 10:05 AM"
+            "total": 54,
+            "earliest": "14/10 9:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 757,
             "earliest": "6/11 12:10 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 706,
+            "total": 707,
             "earliest": "20/9 8:55 AM"
         },
         "Monash Community Outreach": {
@@ -234,12 +234,12 @@
             "earliest": "31/10 3:40 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 1,
-            "earliest": "18/9 2:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 43,
-            "earliest": "1/10 8:40 AM"
+            "total": 42,
+            "earliest": "11/10 4:20 PM"
         },
         "Seymour Health": {
             "total": 0,
