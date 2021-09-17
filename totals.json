@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-18 06:54",
+    "lastUpdated": "2021-09-18 06:58",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -66,15 +66,15 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "27/9 10:00 AM"
         },
         "Corryong health": {
             "total": 65,
             "earliest": "30/9 9:45 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
+            "total": 2,
             "earliest": "18/9 11:50 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -158,16 +158,16 @@
             "earliest": "2/10 1:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 54,
-            "earliest": "9/10 1:25 PM"
+            "total": 53,
+            "earliest": "14/10 9:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 758,
+            "total": 759,
             "earliest": "4/10 3:10 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 708,
-            "earliest": "2/10 3:25 PM"
+            "earliest": "3/10 12:35 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -202,7 +202,7 @@
             "earliest": "18/9 11:34 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 290,
+            "total": 291,
             "earliest": "18/9 8:10 AM"
         },
         "Northeast Health Wangaratta": {
@@ -234,8 +234,8 @@
             "earliest": "31/10 3:40 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "29/10 9:20 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 42,
@@ -266,7 +266,7 @@
             "earliest": "18/9 9:12 AM"
         },
         "Sunshine Hospital": {
-            "total": 46,
+            "total": 45,
             "earliest": "19/9 8:15 AM"
         },
         "Traralgon Racecourse": {
