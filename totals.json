@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-18 00:47",
+    "lastUpdated": "2021-09-18 00:51",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "21/9 10:20 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 564,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/9 4:48 PM"
         },
         "Corryong health": {
             "total": 65,
@@ -154,11 +154,11 @@
             "earliest": "18/9 11:20 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 90,
-            "earliest": "6/10 10:20 AM"
+            "total": 89,
+            "earliest": "25/10 1:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 54,
+            "total": 55,
             "earliest": "7/10 11:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -202,7 +202,7 @@
             "earliest": "18/9 11:34 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 293,
+            "total": 292,
             "earliest": "21/9 10:20 AM"
         },
         "Northeast Health Wangaratta": {
@@ -302,8 +302,8 @@
             "earliest": "29/9 12:15 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 465,
-            "earliest": "2/10 1:10 PM"
+            "total": 464,
+            "earliest": "3/11 12:30 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 1022,
