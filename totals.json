@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-18 06:10",
+    "lastUpdated": "2021-09-18 06:14",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "18/9 9:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 563,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/9 3:30 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 1,
@@ -158,11 +158,11 @@
             "earliest": "2/10 1:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 57,
+            "total": 56,
             "earliest": "18/9 10:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 759,
+            "total": 758,
             "earliest": "18/9 1:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
@@ -267,7 +267,7 @@
         },
         "Sunshine Hospital": {
             "total": 48,
-            "earliest": "18/9 8:20 AM"
+            "earliest": "18/9 10:45 AM"
         },
         "Traralgon Racecourse": {
             "total": 0,
