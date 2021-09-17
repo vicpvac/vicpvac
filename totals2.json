@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-09-18 07:27",
+    "lastUpdated": "2021-09-18 07:31",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 2,
             "earliest": "7/10 7:30 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 11,
+            "total": 10,
             "earliest": "20/9 8:10 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 64,
+            "total": 65,
             "earliest": "21/9 2:50 PM"
         },
         "Bairnsdale City Oval": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1989,
+            "total": 1988,
             "earliest": "18/9 9:10 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -42,12 +42,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 336,
+            "total": 335,
             "earliest": "11/10 11:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 997,
-            "earliest": "18/9 9:00 AM"
+            "total": 995,
+            "earliest": "26/9 1:30 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -74,7 +74,7 @@
             "earliest": "30/9 9:45 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1702,
+            "total": 1701,
             "earliest": "18/9 3:20 PM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -102,7 +102,7 @@
             "earliest": "22/9 2:50 PM"
         },
         "Ford": {
-            "total": 1589,
+            "total": 1587,
             "earliest": "18/9 11:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "Kilmore District Health Sub Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "21/9 2:20 PM"
         },
         "Kyneton - Central Highlands Rural Health": {
             "total": 148,
@@ -162,8 +162,8 @@
             "earliest": "18/9 1:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 759,
-            "earliest": "6/10 3:30 PM"
+            "total": 758,
+            "earliest": "15/10 1:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 2893,
@@ -202,7 +202,7 @@
             "earliest": "18/9 11:34 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1350,
+            "total": 1347,
             "earliest": "18/9 9:30 AM"
         },
         "Northeast Health Wangaratta": {
@@ -230,7 +230,7 @@
             "earliest": "22/9 11:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 1877,
+            "total": 1878,
             "earliest": "19/9 2:30 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -239,7 +239,7 @@
         },
         "Sandringham Vaccination Centre": {
             "total": 2056,
-            "earliest": "21/9 12:00 PM"
+            "earliest": "11/10 8:30 AM"
         },
         "Seymour Health": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 41,
-            "earliest": "20/9 11:00 AM"
+            "total": 40,
+            "earliest": "20/9 1:30 PM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
             "total": 0,
@@ -262,8 +262,8 @@
             "earliest": null
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 22,
-            "earliest": "18/9 9:00 AM"
+            "total": 21,
+            "earliest": "18/9 9:12 AM"
         },
         "Sunshine Hospital": {
             "total": 1405,
@@ -294,7 +294,7 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 1453,
+            "total": 1454,
             "earliest": "18/9 9:00 AM"
         },
         "Wonthaggi Town Hall": {
