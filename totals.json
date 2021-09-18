@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-19 07:22",
+    "lastUpdated": "2021-09-19 07:26",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1012,
+            "total": 1011,
             "earliest": "25/10 12:10 PM"
         },
         "Beechworth Vaccination Hub": {
@@ -30,8 +30,8 @@
             "earliest": "22/9 10:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "19/9 12:10 PM"
         },
         "Bright Hub - North East VIC": {
             "total": 2,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "21/9 2:06 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 64,
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "20/9 2:40 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -126,7 +126,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 126,
+            "total": 125,
             "earliest": "1/10 2:50 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -154,16 +154,16 @@
             "earliest": "20/9 10:00 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 70,
-            "earliest": "19/9 11:10 AM"
+            "total": 69,
+            "earliest": "25/10 2:10 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 25,
+            "total": 29,
             "earliest": "19/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 756,
-            "earliest": "24/9 3:30 PM"
+            "earliest": "9/10 10:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 1010,
@@ -282,8 +282,8 @@
             "earliest": "22/9 11:00 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 11,
-            "earliest": "30/10 2:10 PM"
+            "total": 12,
+            "earliest": "22/9 10:10 AM"
         },
         "Werribee - St Vincent's Private": {
             "total": 41,
@@ -302,12 +302,12 @@
             "earliest": "22/9 2:00 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 455,
-            "earliest": "8/11 9:10 AM"
+            "total": 456,
+            "earliest": "22/10 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 910,
-            "earliest": "1/10 9:55 AM"
+            "total": 911,
+            "earliest": "22/9 9:25 AM"
         },
         "Yarram Medical Centre": {
             "total": 3,
