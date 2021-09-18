@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-19 06:26",
+    "lastUpdated": "2021-09-19 06:30",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 12:00 PM"
         },
         "Corryong health": {
             "total": 65,
@@ -86,8 +86,8 @@
             "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "19/9 8:30 AM"
         },
         "East Grampians Health Services- Ararat": {
             "total": 213,
@@ -158,11 +158,11 @@
             "earliest": "25/10 2:10 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 25,
-            "earliest": "19/9 11:10 AM"
+            "total": 26,
+            "earliest": "19/9 11:20 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 758,
+            "total": 757,
             "earliest": "4/10 10:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
