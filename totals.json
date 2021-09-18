@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-19 00:11",
+    "lastUpdated": "2021-09-19 00:16",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/9 2:20 PM"
         },
         "Bairnsdale City Oval": {
             "total": 176,
@@ -155,15 +155,15 @@
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 70,
-            "earliest": "2/10 11:00 AM"
+            "earliest": "9/10 9:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 34,
-            "earliest": "19/9 10:40 AM"
+            "total": 32,
+            "earliest": "19/9 10:50 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 759,
-            "earliest": "29/9 1:10 PM"
+            "total": 758,
+            "earliest": "5/10 2:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 1011,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 1,
-            "earliest": "11/10 1:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
             "total": 0,
