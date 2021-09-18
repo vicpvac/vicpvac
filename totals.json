@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-19 07:26",
+    "lastUpdated": "2021-09-19 07:30",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "22/9 10:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "19/9 12:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 2,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/9 11:24 AM"
         },
         "Corryong health": {
             "total": 64,
@@ -106,8 +106,8 @@
             "earliest": "20/9 2:40 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/9 10:30 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 46,
@@ -162,11 +162,11 @@
             "earliest": "19/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 756,
-            "earliest": "9/10 10:50 AM"
+            "total": 758,
+            "earliest": "19/9 9:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 1010,
+            "total": 1009,
             "earliest": "19/9 11:20 AM"
         },
         "Monash Community Outreach": {
@@ -306,8 +306,8 @@
             "earliest": "22/10 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 911,
-            "earliest": "22/9 9:25 AM"
+            "total": 910,
+            "earliest": "1/10 9:55 AM"
         },
         "Yarram Medical Centre": {
             "total": 3,
