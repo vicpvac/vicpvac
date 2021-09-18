@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-19 04:46",
+    "lastUpdated": "2021-09-19 04:50",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -58,8 +58,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "21/9 2:40 PM"
         },
         "Colac Area Health - COPACC": {
             "total": 70,
@@ -102,7 +102,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1508,
+            "total": 1507,
             "earliest": "19/9 8:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
