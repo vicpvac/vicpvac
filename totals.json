@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-19 01:26",
+    "lastUpdated": "2021-09-19 01:30",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": "9/10 6:00 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "10/10 12:40 PM"
         },
         "Bairnsdale City Oval": {
             "total": 176,
@@ -22,8 +22,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1012,
-            "earliest": "16/10 1:10 PM"
+            "total": 1011,
+            "earliest": "30/10 1:50 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 55,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "14/10 6:45 PM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 534,
@@ -154,12 +154,12 @@
             "earliest": "20/9 10:00 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 69,
-            "earliest": "25/10 2:10 PM"
+            "total": 70,
+            "earliest": "30/9 10:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 34,
-            "earliest": "19/9 10:50 AM"
+            "total": 35,
+            "earliest": "19/9 10:10 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 757,
