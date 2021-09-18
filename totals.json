@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-19 07:18",
+    "lastUpdated": "2021-09-19 07:22",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "25/9 9:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 177,
@@ -38,8 +38,8 @@
             "earliest": "25/10 1:15 PM"
         },
         "Cabrini Elsternwick": {
-            "total": 1,
-            "earliest": "19/9 8:03 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 1,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "21/9 2:06 PM"
         },
         "Corryong health": {
             "total": 64,
@@ -159,14 +159,14 @@
         },
         "Melbourne Showgrounds": {
             "total": 25,
-            "earliest": "19/9 11:40 AM"
+            "earliest": "19/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 755,
-            "earliest": "15/10 8:50 AM"
+            "total": 756,
+            "earliest": "24/9 3:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 1009,
+            "total": 1010,
             "earliest": "19/9 11:20 AM"
         },
         "Monash Community Outreach": {
@@ -266,7 +266,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 109,
+            "total": 110,
             "earliest": "19/9 9:00 AM"
         },
         "Traralgon Racecourse": {
@@ -294,8 +294,8 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 618,
-            "earliest": "22/10 1:15 PM"
+            "total": 620,
+            "earliest": "22/9 4:00 PM"
         },
         "Wonthaggi Town Hall": {
             "total": 48,
