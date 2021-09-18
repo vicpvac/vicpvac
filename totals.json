@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-19 07:02",
+    "lastUpdated": "2021-09-19 07:06",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,12 +42,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "27/9 8:50 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 538,
-            "earliest": "19/9 2:10 PM"
+            "total": 537,
+            "earliest": "22/9 2:20 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 2,
-            "earliest": "19/9 2:36 PM"
+            "total": 3,
+            "earliest": "21/9 2:00 PM"
         },
         "Corryong health": {
             "total": 65,
@@ -158,8 +158,8 @@
             "earliest": "25/10 2:10 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 24,
-            "earliest": "19/9 10:50 AM"
+            "total": 26,
+            "earliest": "19/9 10:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 757,
@@ -230,8 +230,8 @@
             "earliest": "28/9 9:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "31/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -295,7 +295,7 @@
         },
         "Wodonga Vaccination Hub": {
             "total": 618,
-            "earliest": "5/10 2:15 PM"
+            "earliest": "22/10 1:15 PM"
         },
         "Wonthaggi Town Hall": {
             "total": 48,
