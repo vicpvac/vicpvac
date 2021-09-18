@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-19 05:18",
+    "lastUpdated": "2021-09-19 05:22",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -58,8 +58,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "21/9 2:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Colac Area Health - COPACC": {
             "total": 70,
@@ -310,7 +310,7 @@
             "earliest": "19/9 9:55 AM"
         },
         "Yarram Medical Centre": {
-            "total": 86,
+            "total": 87,
             "earliest": "21/9 9:00 AM"
         }
     }
