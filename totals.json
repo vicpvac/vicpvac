@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-20 00:07",
+    "lastUpdated": "2021-09-20 00:11",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "13/10 6:30 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 969,
+            "total": 968,
             "earliest": "27/10 1:20 PM"
         },
         "Beechworth Vaccination Hub": {
@@ -42,12 +42,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "20/9 12:00 PM"
+            "total": 2,
+            "earliest": "21/9 10:30 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 424,
-            "earliest": "28/9 12:40 PM"
+            "total": 423,
+            "earliest": "2/10 2:40 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -74,8 +74,8 @@
             "earliest": "30/9 9:45 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "31/10 2:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 0,
@@ -126,7 +126,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 62,
+            "total": 61,
             "earliest": "22/9 11:10 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -167,7 +167,7 @@
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 783,
-            "earliest": "20/9 11:55 AM"
+            "earliest": "22/9 12:25 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -202,11 +202,11 @@
             "earliest": "25/9 11:06 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 75,
+            "total": 73,
             "earliest": "24/9 3:50 PM"
         },
         "Northeast Health Wangaratta": {
-            "total": 195,
+            "total": 194,
             "earliest": "23/9 1:05 PM"
         },
         "Orbost Regional Health": {
@@ -306,7 +306,7 @@
             "earliest": "6/10 12:30 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 721,
+            "total": 720,
             "earliest": "20/9 12:50 PM"
         },
         "Yarram Medical Centre": {
