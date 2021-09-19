@@ -1,12 +1,12 @@
 {
-    "lastUpdated": "2021-09-20 07:07",
+    "lastUpdated": "2021-09-20 07:11",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "26/10 2:00 PM"
         },
         "Austin - Olivia Newton John": {
-            "total": 7,
+            "total": 6,
             "earliest": "20/9 10:10 AM"
         },
         "Austin - Repatriation (Pfizer)": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1830,
+            "total": 1831,
             "earliest": "20/9 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -66,7 +66,7 @@
             "earliest": "21/9 11:10 AM"
         },
         "Convention Centre": {
-            "total": 892,
+            "total": 890,
             "earliest": "20/9 11:00 AM"
         },
         "Corryong health": {
@@ -74,8 +74,8 @@
             "earliest": "22/9 1:45 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 1496,
-            "earliest": "23/9 10:50 AM"
+            "total": 1495,
+            "earliest": "5/10 1:00 PM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 147,
@@ -106,8 +106,8 @@
             "earliest": "20/9 8:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 116,
-            "earliest": "21/9 12:20 PM"
+            "total": 118,
+            "earliest": "20/9 10:00 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 72,
@@ -158,7 +158,7 @@
             "earliest": "20/9 12:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1108,
+            "total": 1110,
             "earliest": "20/9 8:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -282,7 +282,7 @@
             "earliest": "21/9 1:20 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 372,
+            "total": 371,
             "earliest": "29/9 12:10 PM"
         },
         "Werribee - St Vincent's Private": {
@@ -298,16 +298,16 @@
             "earliest": "20/9 9:30 AM"
         },
         "Wonthaggi Town Hall": {
-            "total": 160,
-            "earliest": "20/9 4:24 PM"
+            "total": 161,
+            "earliest": "20/9 10:00 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
             "total": 456,
-            "earliest": "30/9 12:10 PM"
+            "earliest": "20/9 3:50 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 2035,
-            "earliest": "20/9 1:10 PM"
+            "total": 2031,
+            "earliest": "20/9 1:20 PM"
         },
         "Yarram Medical Centre": {
             "total": 74,
