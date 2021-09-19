@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-09-20 00:55",
+    "lastUpdated": "2021-09-20 01:00",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "13/10 10:45 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 7,
+            "total": 8,
             "earliest": "20/9 8:10 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 24,
+            "total": 22,
             "earliest": "21/9 6:50 PM"
         },
         "Bairnsdale City Oval": {
@@ -42,7 +42,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 200,
+            "total": 199,
             "earliest": "11/10 12:45 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -126,8 +126,8 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 142,
-            "earliest": "22/9 11:20 AM"
+            "total": 141,
+            "earliest": "22/9 11:30 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
             "total": 44,
@@ -158,7 +158,7 @@
             "earliest": "26/9 8:30 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1109,
+            "total": 1107,
             "earliest": "20/9 8:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -202,7 +202,7 @@
             "earliest": "25/9 11:06 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1009,
+            "total": 1008,
             "earliest": "20/9 9:20 AM"
         },
         "Northeast Health Wangaratta": {
@@ -234,8 +234,8 @@
             "earliest": "20/9 11:40 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 104,
-            "earliest": "13/11 1:30 PM"
+            "total": 105,
+            "earliest": "23/9 10:10 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 1988,
@@ -266,8 +266,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1252,
-            "earliest": "20/9 11:15 AM"
+            "total": 1251,
+            "earliest": "20/9 8:55 AM"
         },
         "Traralgon Racecourse": {
             "total": 52,
