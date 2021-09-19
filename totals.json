@@ -1,12 +1,12 @@
 {
-    "lastUpdated": "2021-09-19 22:35",
+    "lastUpdated": "2021-09-19 22:39",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 6,
+            "total": 5,
             "earliest": "19/9 12:40 PM"
         },
         "Austin - Repatriation (Pfizer)": {
@@ -34,8 +34,8 @@
             "earliest": "19/9 8:40 AM"
         },
         "Bright Hub - North East VIC": {
-            "total": 1,
-            "earliest": "20/9 1:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "Cabrini Elsternwick": {
             "total": 1,
@@ -46,7 +46,7 @@
             "earliest": "19/9 9:40 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 445,
+            "total": 444,
             "earliest": "19/9 9:30 AM"
         },
         "Casterton Memorial Hospital": {
@@ -62,11 +62,11 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "19/10 3:30 PM"
         },
         "Convention Centre": {
-            "total": 9,
+            "total": 10,
             "earliest": "19/9 9:48 AM"
         },
         "Corryong health": {
@@ -126,7 +126,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 85,
+            "total": 83,
             "earliest": "21/9 12:20 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -154,7 +154,7 @@
             "earliest": "20/9 11:40 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 36,
+            "total": 37,
             "earliest": "19/9 8:50 AM"
         },
         "Melbourne Showgrounds": {
@@ -162,11 +162,11 @@
             "earliest": "19/9 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 735,
+            "total": 737,
             "earliest": "19/9 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 829,
+            "total": 826,
             "earliest": "19/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -230,7 +230,7 @@
             "earliest": "29/9 9:50 AM"
         },
         "Sandown Racecourse": {
-            "total": 31,
+            "total": 30,
             "earliest": "19/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -238,7 +238,7 @@
             "earliest": "19/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 21,
+            "total": 20,
             "earliest": "19/9 8:30 AM"
         },
         "Seymour Health": {
