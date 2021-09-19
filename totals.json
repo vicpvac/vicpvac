@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-19 18:54",
+    "lastUpdated": "2021-09-19 18:59",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 980,
+            "total": 981,
             "earliest": "19/9 8:40 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -46,7 +46,7 @@
             "earliest": "19/9 9:40 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 478,
+            "total": 473,
             "earliest": "19/9 9:30 AM"
         },
         "Casterton Memorial Hospital": {
@@ -142,8 +142,8 @@
             "earliest": "8/10 2:45 PM"
         },
         "Leongatha Community Clinic": {
-            "total": 1,
-            "earliest": "18/10 1:56 PM"
+            "total": 0,
+            "earliest": null
         },
         "Mansfield Vaccination Clinic": {
             "total": 100,
@@ -158,15 +158,15 @@
             "earliest": "19/9 8:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 19,
+            "total": 20,
             "earliest": "19/9 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 739,
+            "total": 737,
             "earliest": "19/9 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 874,
+            "total": 872,
             "earliest": "19/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -202,11 +202,11 @@
             "earliest": "25/9 10:58 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 187,
+            "total": 183,
             "earliest": "19/9 8:50 AM"
         },
         "Northeast Health Wangaratta": {
-            "total": 222,
+            "total": 221,
             "earliest": "23/9 10:45 AM"
         },
         "Orbost Regional Health": {
@@ -302,11 +302,11 @@
             "earliest": "30/9 1:48 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 442,
+            "total": 441,
             "earliest": "19/9 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 751,
+            "total": 750,
             "earliest": "19/9 10:05 AM"
         },
         "Yarram Medical Centre": {
