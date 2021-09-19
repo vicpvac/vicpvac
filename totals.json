@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-20 00:22",
+    "lastUpdated": "2021-09-20 00:28",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "20/9 11:10 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 1,
@@ -158,15 +158,15 @@
             "earliest": "26/10 1:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 5,
-            "earliest": "25/10 11:25 AM"
+            "total": 7,
+            "earliest": "30/9 11:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 750,
             "earliest": "8/11 1:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 784,
+            "total": 785,
             "earliest": "22/9 12:25 PM"
         },
         "Monash Community Outreach": {
@@ -266,8 +266,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "3/10 12:05 PM"
+            "total": 0,
+            "earliest": null
         },
         "Traralgon Racecourse": {
             "total": 0,
@@ -302,8 +302,8 @@
             "earliest": "30/9 10:57 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 432,
-            "earliest": "9/11 8:50 AM"
+            "total": 434,
+            "earliest": "6/10 12:30 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 719,
