@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-20 00:19",
+    "lastUpdated": "2021-09-20 00:22",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 2,
-            "earliest": "7/10 3:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 92,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 423,
-            "earliest": "30/9 3:40 PM"
+            "total": 422,
+            "earliest": "7/10 12:30 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -126,7 +126,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 61,
+            "total": 60,
             "earliest": "22/9 11:10 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -134,8 +134,8 @@
             "earliest": "21/9 11:30 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "21/9 10:30 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
             "total": 97,
@@ -158,8 +158,8 @@
             "earliest": "26/10 1:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 3,
-            "earliest": "5/10 12:15 PM"
+            "total": 5,
+            "earliest": "25/10 11:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 750,
@@ -202,8 +202,8 @@
             "earliest": "25/9 11:06 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 70,
-            "earliest": "24/9 3:50 PM"
+            "total": 73,
+            "earliest": "23/9 8:00 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 194,
@@ -267,7 +267,7 @@
         },
         "Sunshine Hospital": {
             "total": 1,
-            "earliest": "29/9 3:25 PM"
+            "earliest": "3/10 12:05 PM"
         },
         "Traralgon Racecourse": {
             "total": 0,
@@ -306,7 +306,7 @@
             "earliest": "9/11 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 720,
+            "total": 719,
             "earliest": "20/9 12:50 PM"
         },
         "Yarram Medical Centre": {
