@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-20 05:58",
+    "lastUpdated": "2021-09-20 06:02",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,12 +42,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "10/10 9:30 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 422,
-            "earliest": "6/10 12:50 PM"
+            "earliest": "20/9 12:10 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -158,7 +158,7 @@
             "earliest": "26/10 2:10 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 2,
+            "total": 3,
             "earliest": "29/10 11:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -230,8 +230,8 @@
             "earliest": "29/9 9:50 AM"
         },
         "Sandown Racecourse": {
-            "total": 1,
-            "earliest": "29/10 10:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -302,8 +302,8 @@
             "earliest": "30/9 10:57 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 434,
-            "earliest": "8/11 11:30 AM"
+            "total": 435,
+            "earliest": "11/10 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 717,
