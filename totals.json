@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-20 02:10",
+    "lastUpdated": "2021-09-20 02:14",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": "19/10 3:30 PM"
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "3/10 2:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 64,
@@ -142,8 +142,8 @@
             "earliest": "21/9 12:15 PM"
         },
         "Leongatha Community Clinic": {
-            "total": 3,
-            "earliest": "20/9 12:04 PM"
+            "total": 2,
+            "earliest": "20/9 12:44 PM"
         },
         "Mansfield Vaccination Clinic": {
             "total": 99,
@@ -158,8 +158,8 @@
             "earliest": "26/10 2:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "22/10 12:25 PM"
+            "total": 2,
+            "earliest": "19/10 2:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 750,
@@ -306,7 +306,7 @@
             "earliest": "8/11 11:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 719,
+            "total": 720,
             "earliest": "20/9 1:10 PM"
         },
         "Yarram Medical Centre": {
