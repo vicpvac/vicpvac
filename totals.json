@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-20 06:06",
+    "lastUpdated": "2021-09-20 06:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "10/10 9:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 422,
@@ -86,8 +86,8 @@
             "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 1,
-            "earliest": "20/9 11:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "East Grampians Health Services- Ararat": {
             "total": 199,
@@ -106,8 +106,8 @@
             "earliest": "20/9 8:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "24/9 5:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 0,
@@ -126,7 +126,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 45,
+            "total": 44,
             "earliest": "22/9 12:20 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -198,7 +198,7 @@
             "earliest": "15/10 10:16 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 156,
+            "total": 157,
             "earliest": "25/9 11:06 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
