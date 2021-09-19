@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-20 00:31",
+    "lastUpdated": "2021-09-20 00:36",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "11/10 11:50 AM"
         },
         "Bairnsdale City Oval": {
             "total": 92,
@@ -47,7 +47,7 @@
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 422,
-            "earliest": "7/10 12:30 PM"
+            "earliest": "26/9 5:00 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -126,7 +126,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 60,
+            "total": 59,
             "earliest": "22/9 11:10 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -166,7 +166,7 @@
             "earliest": "8/11 1:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 785,
+            "total": 784,
             "earliest": "25/9 11:55 AM"
         },
         "Monash Community Outreach": {
@@ -306,7 +306,7 @@
             "earliest": "28/10 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 720,
+            "total": 721,
             "earliest": "20/9 12:50 PM"
         },
         "Yarram Medical Centre": {
