@@ -1,12 +1,12 @@
 {
-    "lastUpdated": "2021-09-21 02:54",
+    "lastUpdated": "2021-09-21 02:58",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 1,
             "earliest": "20/10 7:45 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 3,
+            "total": 4,
             "earliest": "21/9 11:00 AM"
         },
         "Austin - Repatriation (Pfizer)": {
@@ -38,8 +38,8 @@
             "earliest": "25/10 11:30 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 1,
-            "earliest": "26/9 8:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 149,
@@ -154,11 +154,11 @@
             "earliest": "21/9 10:30 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 733,
+            "total": 732,
             "earliest": "27/9 3:10 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1109,
+            "total": 1110,
             "earliest": "21/9 9:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -238,7 +238,7 @@
             "earliest": "13/11 9:20 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 1952,
+            "total": 1951,
             "earliest": "20/10 4:00 PM"
         },
         "Seymour Health": {
