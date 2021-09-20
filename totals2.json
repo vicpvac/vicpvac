@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-21 01:31",
+    "lastUpdated": "2021-09-21 01:34",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 2,
@@ -30,8 +30,8 @@
             "earliest": "23/9 10:15 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "15/10 10:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 2,
@@ -162,7 +162,7 @@
             "earliest": "21/9 9:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 745,
+            "total": 746,
             "earliest": "5/10 2:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
@@ -234,8 +234,8 @@
             "earliest": "23/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 26,
-            "earliest": "13/11 9:20 AM"
+            "total": 27,
+            "earliest": "1/11 1:10 PM"
         },
         "Sandringham Vaccination Centre": {
             "total": 1954,
