@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-21 01:26",
+    "lastUpdated": "2021-09-21 01:30",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "14/10 4:30 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 293,
@@ -162,8 +162,8 @@
             "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 743,
-            "earliest": "10/11 8:50 AM"
+            "total": 744,
+            "earliest": "5/10 2:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 593,
