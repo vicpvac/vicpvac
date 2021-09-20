@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-20 22:39",
+    "lastUpdated": "2021-09-20 22:42",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1176,
+            "total": 1177,
             "earliest": "20/9 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -38,15 +38,15 @@
             "earliest": "1/11 9:45 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 1,
-            "earliest": "26/9 9:03 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 41,
             "earliest": "20/9 9:20 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 321,
+            "total": 323,
             "earliest": "20/9 9:00 AM"
         },
         "Casterton Memorial Hospital": {
@@ -66,7 +66,7 @@
             "earliest": "19/10 1:40 PM"
         },
         "Convention Centre": {
-            "total": 16,
+            "total": 15,
             "earliest": "20/9 9:12 AM"
         },
         "Corryong health": {
@@ -126,7 +126,7 @@
             "earliest": null
         },
         "IPC Health \u2013 Caroline Springs Leisure Centre": {
-            "total": 3,
+            "total": 4,
             "earliest": "20/9 11:40 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -238,7 +238,7 @@
             "earliest": "20/9 9:20 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 13,
+            "total": 14,
             "earliest": "20/9 8:30 AM"
         },
         "Seymour Health": {
@@ -310,7 +310,7 @@
             "earliest": "20/9 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 500,
+            "total": 497,
             "earliest": "20/9 8:25 AM"
         },
         "Yarram Medical Centre": {
