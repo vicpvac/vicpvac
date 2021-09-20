@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-21 02:22",
+    "lastUpdated": "2021-09-21 02:26",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -58,8 +58,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/10 2:00 PM"
         },
         "Colac Area Health - COPACC": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "30/9 2:45 PM"
+            "total": 0,
+            "earliest": null
         },
         "Traralgon Racecourse": {
             "total": 0,
@@ -314,8 +314,8 @@
             "earliest": "8/10 9:55 AM"
         },
         "Yarram Medical Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/9 12:28 PM"
         }
     }
 }
