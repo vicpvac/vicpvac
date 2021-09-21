@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-22 06:18",
+    "lastUpdated": "2021-09-22 06:22",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": "22/9 1:40 PM"
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "1/10 4:51 PM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
             "total": 155,
@@ -298,7 +298,7 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 564,
+            "total": 563,
             "earliest": "15/10 1:00 PM"
         },
         "Wonthaggi Town Hall": {
