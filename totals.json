@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-22 08:11",
+    "lastUpdated": "2021-09-22 08:15",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "8/10 12:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
@@ -22,8 +22,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1309,
-            "earliest": "28/9 9:50 AM"
+            "total": 1310,
+            "earliest": "25/9 3:10 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 36,
@@ -42,11 +42,11 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "1/10 12:10 PM"
+            "total": 2,
+            "earliest": "25/9 9:10 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 272,
+            "total": 271,
             "earliest": "23/9 9:30 AM"
         },
         "Casterton Memorial Hospital": {
@@ -66,8 +66,8 @@
             "earliest": "22/9 1:40 PM"
         },
         "Convention Centre": {
-            "total": 3,
-            "earliest": "24/9 1:48 PM"
+            "total": 6,
+            "earliest": "22/9 4:12 PM"
         },
         "Corryong health": {
             "total": 155,
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 230,
-            "earliest": "28/9 10:40 AM"
+            "total": 234,
+            "earliest": "22/9 1:30 PM"
         },
         "Eastern Health Mobile Clinic 1": {
             "total": 0,
@@ -102,15 +102,15 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1,
-            "earliest": "22/9 10:10 AM"
+            "total": 2,
+            "earliest": "22/9 10:40 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 254,
+            "total": 253,
             "earliest": "22/9 8:38 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -134,7 +134,7 @@
             "earliest": "28/9 9:30 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 63,
+            "total": 64,
             "earliest": "24/9 8:00 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
@@ -154,11 +154,11 @@
             "earliest": "22/9 10:40 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 1,
-            "earliest": "29/10 2:10 PM"
+            "total": 4,
+            "earliest": "30/9 12:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 3,
+            "total": 4,
             "earliest": "23/9 8:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -186,7 +186,7 @@
             "earliest": "5/10 1:00 PM"
         },
         "NCN Health": {
-            "total": 378,
+            "total": 379,
             "earliest": "22/9 12:30 PM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -214,8 +214,8 @@
             "earliest": null
         },
         "Portland District Health": {
-            "total": 39,
-            "earliest": "23/9 2:40 PM"
+            "total": 38,
+            "earliest": "29/10 8:40 AM"
         },
         "RMH Pfizer": {
             "total": 0,
@@ -230,19 +230,19 @@
             "earliest": null
         },
         "Sandown Racecourse": {
+            "total": 2,
+            "earliest": "16/10 1:30 PM"
+        },
+        "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
-        "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 1,
-            "earliest": "1/10 10:00 AM"
-        },
         "Sandringham Vaccination Centre": {
-            "total": 1,
-            "earliest": "22/9 11:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Seymour Health": {
-            "total": 79,
+            "total": 77,
             "earliest": "24/9 9:45 AM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "7/10 8:30 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 7,
-            "earliest": "23/9 9:25 AM"
+            "total": 5,
+            "earliest": "27/9 11:55 AM"
         },
         "Traralgon Racecourse": {
             "total": 0,
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 113,
-            "earliest": "22/9 12:50 PM"
+            "total": 111,
+            "earliest": "8/10 9:40 AM"
         },
         "Werribee Mercy": {
             "total": 0,
@@ -303,15 +303,15 @@
         },
         "Wonthaggi Town Hall": {
             "total": 1,
-            "earliest": "23/9 11:42 AM"
+            "earliest": "30/9 1:12 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 339,
-            "earliest": "12/11 9:10 AM"
+            "total": 338,
+            "earliest": "12/11 9:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 352,
-            "earliest": "23/9 11:35 AM"
+            "total": 353,
+            "earliest": "23/9 12:35 PM"
         },
         "Yarram Medical Centre": {
             "total": 0,
