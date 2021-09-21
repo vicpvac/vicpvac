@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-22 09:03",
+    "lastUpdated": "2021-09-22 09:07",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -7,11 +7,11 @@
         },
         "Austin - Olivia Newton John": {
             "total": 1,
-            "earliest": "28/9 3:00 PM"
+            "earliest": "30/9 1:50 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 2,
-            "earliest": "4/10 8:40 AM"
+            "total": 1,
+            "earliest": "14/10 2:20 PM"
         },
         "Bairnsdale City Oval": {
             "total": 63,
@@ -30,15 +30,15 @@
             "earliest": "4/11 1:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "22/9 9:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 0,
             "earliest": null
         },
         "Cabrini Elsternwick": {
-            "total": 2,
+            "total": 1,
             "earliest": "22/9 9:15 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 276,
-            "earliest": "22/9 12:00 PM"
+            "total": 274,
+            "earliest": "23/9 1:30 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -58,27 +58,27 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "23/9 11:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Colac Area Health - COPACC": {
             "total": 10,
             "earliest": "22/9 1:50 PM"
         },
         "Convention Centre": {
-            "total": 1,
+            "total": 3,
             "earliest": "22/9 9:48 AM"
         },
         "Corryong health": {
-            "total": 155,
-            "earliest": "23/9 11:30 AM"
+            "total": 156,
+            "earliest": "23/9 10:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "27/9 10:50 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 1,
+            "total": 2,
             "earliest": "24/9 5:00 PM"
         },
         "Dandenong Hospital": {
@@ -99,23 +99,23 @@
         },
         "Eastland Vaccination Clinic Pfizer": {
             "total": 25,
-            "earliest": "22/9 10:20 AM"
+            "earliest": "22/9 10:30 AM"
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "19/10 11:20 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 244,
+            "total": 242,
             "earliest": "22/9 8:38 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "22/9 11:36 AM"
         },
         "Horsham": {
             "total": 4,
@@ -126,20 +126,20 @@
             "earliest": null
         },
         "IPC Health \u2013 Caroline Springs Leisure Centre": {
-            "total": 1,
-            "earliest": "23/9 4:25 PM"
+            "total": 0,
+            "earliest": null
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
             "total": 299,
             "earliest": "28/9 9:30 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 59,
-            "earliest": "28/9 8:10 AM"
+            "total": 60,
+            "earliest": "24/9 8:50 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
-            "total": 79,
-            "earliest": "15/10 11:45 AM"
+            "total": 80,
+            "earliest": "24/9 2:45 PM"
         },
         "Leongatha Community Clinic": {
             "total": 0,
@@ -154,20 +154,20 @@
             "earliest": "22/9 10:40 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 1,
-            "earliest": "25/9 12:40 PM"
+            "total": 5,
+            "earliest": "22/9 3:10 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 3,
-            "earliest": "28/9 12:35 PM"
+            "total": 1,
+            "earliest": "25/10 10:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 738,
             "earliest": "11/11 8:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 536,
-            "earliest": "30/9 8:15 AM"
+            "total": 540,
+            "earliest": "22/9 11:00 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -182,8 +182,8 @@
             "earliest": "23/9 1:30 PM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 6,
-            "earliest": "5/10 1:00 PM"
+            "total": 5,
+            "earliest": "8/10 11:30 AM"
         },
         "NCN Health": {
             "total": 379,
@@ -202,7 +202,7 @@
             "earliest": "25/9 12:42 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1933,
+            "total": 1932,
             "earliest": "22/9 10:00 AM"
         },
         "Northeast Health Wangaratta": {
@@ -230,16 +230,16 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 3,
-            "earliest": "23/9 1:40 PM"
+            "total": 2,
+            "earliest": "6/10 2:40 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "25/9 9:20 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 1,
-            "earliest": "3/10 3:00 PM"
+            "earliest": "9/10 4:20 PM"
         },
         "Seymour Health": {
             "total": 74,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "27/9 3:25 PM"
         },
         "Traralgon Racecourse": {
             "total": 0,
@@ -286,12 +286,12 @@
             "earliest": "13/10 1:20 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 1,
-            "earliest": "23/9 1:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 110,
-            "earliest": "8/10 9:40 AM"
+            "total": 156,
+            "earliest": "27/9 8:15 AM"
         },
         "Werribee Mercy": {
             "total": 0,
@@ -302,15 +302,15 @@
             "earliest": "22/9 10:30 AM"
         },
         "Wonthaggi Town Hall": {
-            "total": 2,
+            "total": 3,
             "earliest": "23/9 9:54 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 337,
-            "earliest": "1/10 1:30 PM"
+            "total": 334,
+            "earliest": "12/11 10:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 379,
+            "total": 378,
             "earliest": "22/9 12:00 PM"
         },
         "Yarram Medical Centre": {
