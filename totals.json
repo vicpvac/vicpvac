@@ -1,20 +1,20 @@
 {
-    "lastUpdated": "2021-09-22 07:51",
+    "lastUpdated": "2021-09-22 07:55",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
+            "total": 1,
+            "earliest": "10/10 7:10 PM"
+        },
+        "Austin - Repatriation (Pfizer)": {
             "total": 0,
             "earliest": null
         },
-        "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "12/10 11:50 AM"
-        },
         "Bairnsdale City Oval": {
-            "total": 62,
+            "total": 63,
             "earliest": "22/9 1:56 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1308,
+            "total": 1309,
             "earliest": "23/9 2:40 PM"
         },
         "Beechworth Vaccination Hub": {
@@ -58,24 +58,24 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "29/9 2:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Colac Area Health - COPACC": {
             "total": 8,
             "earliest": "22/9 1:40 PM"
         },
         "Convention Centre": {
-            "total": 3,
-            "earliest": "24/9 11:00 AM"
+            "total": 2,
+            "earliest": "25/9 4:00 PM"
         },
         "Corryong health": {
             "total": 155,
             "earliest": "23/9 11:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "22/9 10:40 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 0,
@@ -102,15 +102,15 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/9 10:10 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 257,
+            "total": 256,
             "earliest": "22/9 8:38 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -134,8 +134,8 @@
             "earliest": "28/9 9:30 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 59,
-            "earliest": "28/9 8:20 AM"
+            "total": 60,
+            "earliest": "25/9 12:00 PM"
         },
         "Kyneton - Central Highlands Rural Health": {
             "total": 80,
@@ -158,12 +158,12 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 8,
-            "earliest": "25/9 12:55 PM"
+            "total": 4,
+            "earliest": "30/9 10:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 741,
-            "earliest": "29/10 12:30 PM"
+            "total": 740,
+            "earliest": "11/11 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 536,
@@ -186,8 +186,8 @@
             "earliest": "8/10 11:30 AM"
         },
         "NCN Health": {
-            "total": 379,
-            "earliest": "24/9 11:38 AM"
+            "total": 380,
+            "earliest": "22/9 12:30 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 0,
@@ -202,12 +202,12 @@
             "earliest": "25/9 12:34 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1933,
+            "total": 1934,
             "earliest": "23/9 3:30 PM"
         },
         "Northeast Health Wangaratta": {
-            "total": 122,
-            "earliest": "22/9 3:45 PM"
+            "total": 121,
+            "earliest": "1/11 9:20 AM"
         },
         "Orbost Regional Health": {
             "total": 0,
@@ -230,8 +230,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "12/10 11:30 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "29/9 10:25 AM"
+            "total": 3,
+            "earliest": "25/9 9:55 AM"
         },
         "Traralgon Racecourse": {
             "total": 0,
