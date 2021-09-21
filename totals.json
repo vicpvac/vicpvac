@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-22 02:26",
+    "lastUpdated": "2021-09-22 02:30",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -26,7 +26,7 @@
             "earliest": "1/10 1:10 PM"
         },
         "Beechworth Vaccination Hub": {
-            "total": 34,
+            "total": 35,
             "earliest": "4/11 1:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "24/9 12:00 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 275,
@@ -158,8 +158,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 3,
-            "earliest": "24/9 10:55 AM"
+            "total": 2,
+            "earliest": "6/10 1:15 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 740,
@@ -230,8 +230,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "18/10 11:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -298,8 +298,8 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 564,
-            "earliest": "11/10 2:00 PM"
+            "total": 563,
+            "earliest": "15/10 1:00 PM"
         },
         "Wonthaggi Town Hall": {
             "total": 0,
