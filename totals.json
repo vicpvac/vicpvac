@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-22 00:39",
+    "lastUpdated": "2021-09-22 00:43",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1307,
+            "total": 1308,
             "earliest": "1/10 1:10 PM"
         },
         "Beechworth Vaccination Hub": {
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/9 11:20 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 275,
@@ -66,8 +66,8 @@
             "earliest": "22/9 1:40 PM"
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "23/9 3:00 PM"
         },
         "Corryong health": {
             "total": 155,
@@ -158,8 +158,8 @@
             "earliest": "26/10 3:10 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "12/11 12:55 PM"
+            "total": 0,
+            "earliest": null
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 742,
@@ -242,8 +242,8 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 83,
-            "earliest": "27/9 9:30 AM"
+            "total": 82,
+            "earliest": "27/9 10:15 AM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
