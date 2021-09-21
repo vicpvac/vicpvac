@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-22 01:34",
+    "lastUpdated": "2021-09-22 01:39",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "23/9 1:30 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/10 12:30 PM"
         },
         "Bright Hub - North East VIC": {
             "total": 0,
@@ -154,11 +154,11 @@
             "earliest": "22/9 9:45 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 708,
+            "total": 707,
             "earliest": "23/9 11:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1137,
+            "total": 1138,
             "earliest": "24/9 10:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -166,7 +166,7 @@
             "earliest": "11/11 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 2552,
+            "total": 2551,
             "earliest": "27/9 10:55 AM"
         },
         "Monash Community Outreach": {
@@ -270,7 +270,7 @@
             "earliest": "22/9 3:30 PM"
         },
         "Sunshine Hospital": {
-            "total": 1318,
+            "total": 1317,
             "earliest": "22/9 9:25 AM"
         },
         "Traralgon Racecourse": {
