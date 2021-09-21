@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-22 07:55",
+    "lastUpdated": "2021-09-22 07:59",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -23,7 +23,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 1309,
-            "earliest": "23/9 2:40 PM"
+            "earliest": "27/9 10:30 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 36,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 273,
+            "total": 272,
             "earliest": "25/9 11:40 AM"
         },
         "Casterton Memorial Hospital": {
@@ -67,15 +67,15 @@
         },
         "Convention Centre": {
             "total": 2,
-            "earliest": "25/9 4:00 PM"
+            "earliest": "24/9 11:00 AM"
         },
         "Corryong health": {
             "total": 155,
             "earliest": "23/9 11:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 2,
-            "earliest": "22/9 10:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 0,
@@ -86,8 +86,8 @@
             "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "24/9 3:50 PM"
         },
         "East Grampians Health Services- Ararat": {
             "total": 230,
@@ -103,14 +103,14 @@
         },
         "Ford": {
             "total": 1,
-            "earliest": "22/9 10:10 AM"
+            "earliest": "25/9 3:10 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 256,
+            "total": 255,
             "earliest": "22/9 8:38 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -126,8 +126,8 @@
             "earliest": null
         },
         "IPC Health \u2013 Caroline Springs Leisure Centre": {
-            "total": 2,
-            "earliest": "22/9 11:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
             "total": 299,
@@ -138,11 +138,11 @@
             "earliest": "25/9 12:00 PM"
         },
         "Kyneton - Central Highlands Rural Health": {
-            "total": 80,
+            "total": 78,
             "earliest": "15/10 11:45 AM"
         },
         "Leongatha Community Clinic": {
-            "total": 1,
+            "total": 2,
             "earliest": "1/10 2:15 PM"
         },
         "Mansfield Vaccination Clinic": {
@@ -158,8 +158,8 @@
             "earliest": null
         },
         "Melbourne Showgrounds": {
-            "total": 4,
-            "earliest": "30/9 10:25 AM"
+            "total": 5,
+            "earliest": "23/9 8:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 740,
@@ -167,7 +167,7 @@
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 536,
-            "earliest": "25/10 10:05 AM"
+            "earliest": "26/9 12:15 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -198,11 +198,11 @@
             "earliest": "15/10 10:24 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 133,
-            "earliest": "25/9 12:34 PM"
+            "total": 132,
+            "earliest": "25/9 12:42 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1934,
+            "total": 1936,
             "earliest": "23/9 3:30 PM"
         },
         "Northeast Health Wangaratta": {
@@ -231,7 +231,7 @@
         },
         "Sandown Racecourse": {
             "total": 1,
-            "earliest": "12/10 11:30 AM"
+            "earliest": "26/9 10:40 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -242,7 +242,7 @@
             "earliest": null
         },
         "Seymour Health": {
-            "total": 81,
+            "total": 80,
             "earliest": "24/9 9:45 AM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
@@ -262,7 +262,7 @@
             "earliest": null
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 19,
+            "total": 18,
             "earliest": "22/9 1:10 PM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 3,
-            "earliest": "25/9 9:55 AM"
+            "total": 5,
+            "earliest": "22/9 10:00 AM"
         },
         "Traralgon Racecourse": {
             "total": 0,
@@ -290,27 +290,27 @@
             "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 112,
-            "earliest": "8/10 9:30 AM"
+            "total": 111,
+            "earliest": "8/10 9:40 AM"
         },
         "Werribee Mercy": {
             "total": 0,
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 561,
-            "earliest": "25/10 1:45 PM"
+            "total": 562,
+            "earliest": "23/9 1:45 PM"
         },
         "Wonthaggi Town Hall": {
             "total": 0,
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 338,
-            "earliest": "12/11 9:50 AM"
+            "total": 339,
+            "earliest": "12/11 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 350,
+            "total": 349,
             "earliest": "22/9 8:35 AM"
         },
         "Yarram Medical Centre": {
