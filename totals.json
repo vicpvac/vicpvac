@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-22 05:51",
+    "lastUpdated": "2021-09-22 05:54",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "24/9 12:10 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 260,
@@ -182,7 +182,7 @@
             "earliest": "23/9 1:30 PM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 7,
+            "total": 6,
             "earliest": "8/10 11:15 AM"
         },
         "NCN Health": {
@@ -206,7 +206,7 @@
             "earliest": "27/9 12:50 PM"
         },
         "Northeast Health Wangaratta": {
-            "total": 121,
+            "total": 122,
             "earliest": "1/11 9:20 AM"
         },
         "Orbost Regional Health": {
@@ -290,8 +290,8 @@
             "earliest": "22/9 11:10 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 114,
-            "earliest": "27/9 12:45 PM"
+            "total": 113,
+            "earliest": "8/10 9:30 AM"
         },
         "Werribee Mercy": {
             "total": 0,
