@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-22 07:42",
+    "lastUpdated": "2021-09-22 07:46",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "12/10 11:50 AM"
         },
         "Bairnsdale City Oval": {
             "total": 62,
@@ -22,8 +22,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1310,
-            "earliest": "25/9 11:50 AM"
+            "total": 1309,
+            "earliest": "22/9 1:20 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 36,
@@ -42,7 +42,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
+            "total": 2,
             "earliest": "23/9 12:20 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -66,7 +66,7 @@
             "earliest": "22/9 1:40 PM"
         },
         "Convention Centre": {
-            "total": 3,
+            "total": 4,
             "earliest": "24/9 11:00 AM"
         },
         "Corryong health": {
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 259,
+            "total": 257,
             "earliest": "22/9 8:38 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -138,7 +138,7 @@
             "earliest": "28/9 8:20 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
-            "total": 82,
+            "total": 81,
             "earliest": "15/10 11:45 AM"
         },
         "Leongatha Community Clinic": {
@@ -154,20 +154,20 @@
             "earliest": "22/9 10:30 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "25/9 2:30 PM"
         },
         "Melbourne Showgrounds": {
             "total": 5,
-            "earliest": "30/9 10:25 AM"
+            "earliest": "23/9 8:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 741,
             "earliest": "29/10 12:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 537,
-            "earliest": "22/9 10:45 AM"
+            "total": 536,
+            "earliest": "25/10 10:05 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -202,8 +202,8 @@
             "earliest": "25/9 12:34 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1932,
-            "earliest": "26/9 7:00 PM"
+            "total": 1933,
+            "earliest": "23/9 6:30 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 122,
@@ -271,7 +271,7 @@
         },
         "Sunshine Hospital": {
             "total": 1,
-            "earliest": "22/9 1:00 PM"
+            "earliest": "22/9 11:45 AM"
         },
         "Traralgon Racecourse": {
             "total": 0,
@@ -298,8 +298,8 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 562,
-            "earliest": "22/9 1:45 PM"
+            "total": 561,
+            "earliest": "25/10 1:45 PM"
         },
         "Wonthaggi Town Hall": {
             "total": 0,
@@ -310,7 +310,7 @@
             "earliest": "12/11 9:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 350,
+            "total": 351,
             "earliest": "22/9 8:35 AM"
         },
         "Yarram Medical Centre": {
