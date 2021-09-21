@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-22 05:38",
+    "lastUpdated": "2021-09-22 05:42",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -238,8 +238,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "23/9 3:30 PM"
         },
         "Seymour Health": {
             "total": 81,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
-            "total": 1,
-            "earliest": "22/9 10:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
             "total": 17,
@@ -310,8 +310,8 @@
             "earliest": "12/10 11:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 352,
-            "earliest": "11/10 11:55 AM"
+            "total": 351,
+            "earliest": "11/10 12:25 PM"
         },
         "Yarram Medical Centre": {
             "total": 0,
