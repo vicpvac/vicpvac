@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-22 07:10",
+    "lastUpdated": "2021-09-22 07:14",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "7/10 3:45 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1311,
+            "total": 1310,
             "earliest": "24/9 12:20 PM"
         },
         "Beechworth Vaccination Hub": {
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 275,
-            "earliest": "26/9 3:10 PM"
+            "total": 274,
+            "earliest": "23/9 1:10 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "East Grampians Health Services- Ararat": {
-            "total": 231,
-            "earliest": "23/9 3:50 PM"
+            "total": 230,
+            "earliest": "30/9 9:00 AM"
         },
         "Eastern Health Mobile Clinic 1": {
             "total": 0,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 259,
+            "total": 260,
             "earliest": "22/9 8:38 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -158,8 +158,8 @@
             "earliest": "26/10 1:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 3,
-            "earliest": "12/10 3:25 PM"
+            "total": 5,
+            "earliest": "22/9 8:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 740,
@@ -202,8 +202,8 @@
             "earliest": "25/9 12:34 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1931,
-            "earliest": "23/9 9:00 AM"
+            "total": 1930,
+            "earliest": "27/9 12:50 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 122,
@@ -290,8 +290,8 @@
             "earliest": "22/9 11:10 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 113,
-            "earliest": "23/9 9:00 AM"
+            "total": 112,
+            "earliest": "8/10 9:30 AM"
         },
         "Werribee Mercy": {
             "total": 0,
@@ -310,7 +310,7 @@
             "earliest": "12/11 9:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 350,
+            "total": 349,
             "earliest": "11/10 12:35 PM"
         },
         "Yarram Medical Centre": {
