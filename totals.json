@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-22 05:10",
+    "lastUpdated": "2021-09-22 05:14",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "22/9 9:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 274,
@@ -66,8 +66,8 @@
             "earliest": "22/9 1:40 PM"
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/9 10:18 AM"
         },
         "Corryong health": {
             "total": 155,
@@ -298,7 +298,7 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 563,
+            "total": 564,
             "earliest": "15/10 1:00 PM"
         },
         "Wonthaggi Town Hall": {
