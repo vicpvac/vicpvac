@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-22 01:07",
+    "lastUpdated": "2021-09-22 01:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -74,8 +74,8 @@
             "earliest": "23/9 11:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "14/10 10:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 2,
@@ -102,8 +102,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1,
-            "earliest": "25/9 8:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -159,7 +159,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 1,
-            "earliest": "26/10 3:35 PM"
+            "earliest": "25/10 2:55 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 741,
@@ -282,15 +282,15 @@
             "earliest": null
         },
         "WDHS \u2013 Hamilton Base Hospital": {
-            "total": 67,
-            "earliest": "13/10 1:10 PM"
+            "total": 66,
+            "earliest": "13/10 1:20 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 0,
             "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 115,
+            "total": 116,
             "earliest": "6/10 8:25 AM"
         },
         "Werribee Mercy": {
