@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2021-09-23 07:27",
+    "lastUpdated": "2021-09-23 07:31",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "2/10 5:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 2,
-            "earliest": "3/10 8:50 PM"
+            "total": 3,
+            "earliest": "23/9 9:40 AM"
         },
         "Bairnsdale City Oval": {
             "total": 45,
@@ -26,12 +26,12 @@
             "earliest": "24/9 1:30 PM"
         },
         "Beechworth Vaccination Hub": {
-            "total": 99,
+            "total": 98,
             "earliest": "30/9 3:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "26/9 3:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 0,
@@ -42,11 +42,11 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 2,
-            "earliest": "26/9 2:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 242,
+            "total": 243,
             "earliest": "24/9 3:10 PM"
         },
         "Casterton Memorial Hospital": {
@@ -102,8 +102,8 @@
             "earliest": "30/9 8:40 AM"
         },
         "Ford": {
-            "total": 1,
-            "earliest": "23/9 1:00 PM"
+            "total": 2,
+            "earliest": "23/9 9:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -155,19 +155,19 @@
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 99,
-            "earliest": "24/9 3:10 PM"
+            "earliest": "23/9 3:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 2,
-            "earliest": "26/9 12:55 PM"
+            "total": 4,
+            "earliest": "23/9 9:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 747,
             "earliest": "11/11 11:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 500,
-            "earliest": "25/9 11:45 AM"
+            "total": 498,
+            "earliest": "20/10 3:45 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -230,15 +230,15 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 2,
-            "earliest": "25/9 9:00 AM"
+            "total": 3,
+            "earliest": "26/9 2:10 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 1,
+            "total": 2,
             "earliest": "24/9 4:40 PM"
         },
         "Seymour Health": {
@@ -270,7 +270,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
+            "total": 2,
             "earliest": "23/9 10:25 AM"
         },
         "Traralgon Racecourse": {
@@ -306,12 +306,12 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 310,
+            "total": 309,
             "earliest": "24/9 9:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 300,
-            "earliest": "7/10 10:25 AM"
+            "total": 302,
+            "earliest": "26/9 11:25 AM"
         },
         "Yarram Medical Centre": {
             "total": 0,
