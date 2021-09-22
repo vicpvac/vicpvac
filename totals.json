@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-23 06:02",
+    "lastUpdated": "2021-09-23 06:06",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 3:10 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 1,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1245,
+            "total": 1244,
             "earliest": "26/9 9:20 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -166,8 +166,8 @@
             "earliest": "11/11 11:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 500,
-            "earliest": "27/10 11:45 AM"
+            "total": 499,
+            "earliest": "29/10 12:15 PM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "23/9 10:25 AM"
         },
         "Traralgon Racecourse": {
             "total": 0,
