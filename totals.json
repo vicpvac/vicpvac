@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-09-23 07:43",
+    "lastUpdated": "2021-09-23 07:46",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "8/10 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 0,
@@ -11,7 +11,7 @@
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 1,
-            "earliest": "26/9 4:20 PM"
+            "earliest": "7/10 11:30 AM"
         },
         "Bairnsdale City Oval": {
             "total": 45,
@@ -102,12 +102,12 @@
             "earliest": "30/9 8:40 AM"
         },
         "Ford": {
-            "total": 2,
+            "total": 1,
             "earliest": "23/9 9:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 1,
-            "earliest": "28/9 12:10 PM"
+            "earliest": "26/9 10:00 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 86,
@@ -138,8 +138,8 @@
             "earliest": "26/9 11:50 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
-            "total": 58,
-            "earliest": "12/10 11:30 AM"
+            "total": 57,
+            "earliest": "19/10 9:45 AM"
         },
         "Leongatha Community Clinic": {
             "total": 0,
@@ -230,8 +230,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 2,
-            "earliest": "29/9 10:30 AM"
+            "total": 1,
+            "earliest": "1/10 9:30 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "26/9 1:45 PM"
+            "total": 0,
+            "earliest": null
         },
         "Traralgon Racecourse": {
             "total": 0,
@@ -306,8 +306,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 308,
-            "earliest": "3/10 11:50 AM"
+            "total": 309,
+            "earliest": "26/9 1:50 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 301,
