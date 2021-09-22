@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-23 05:34",
+    "lastUpdated": "2021-09-23 05:38",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "27/9 6:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 45,
@@ -30,8 +30,8 @@
             "earliest": "30/9 3:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "24/9 12:50 PM"
         },
         "Bright Hub - North East VIC": {
             "total": 0,
@@ -138,8 +138,8 @@
             "earliest": "29/9 2:00 PM"
         },
         "Kyneton - Central Highlands Rural Health": {
-            "total": 58,
-            "earliest": "24/9 10:30 AM"
+            "total": 57,
+            "earliest": "15/10 12:30 PM"
         },
         "Leongatha Community Clinic": {
             "total": 1,
@@ -158,15 +158,15 @@
             "earliest": "1/11 12:30 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "4/10 11:15 AM"
+            "total": 2,
+            "earliest": "12/10 2:45 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 747,
             "earliest": "11/11 11:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 500,
+            "total": 501,
             "earliest": "23/9 11:45 AM"
         },
         "Monash Community Outreach": {
