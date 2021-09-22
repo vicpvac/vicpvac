@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-23 06:30",
+    "lastUpdated": "2021-09-23 06:34",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1244,
+            "total": 1245,
             "earliest": "26/9 9:20 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -30,8 +30,8 @@
             "earliest": "30/9 3:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "25/9 8:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 0,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 242,
-            "earliest": "11/10 1:20 PM"
+            "total": 243,
+            "earliest": "23/9 1:30 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 3:50 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 88,
@@ -306,8 +306,8 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 307,
-            "earliest": "15/11 8:50 AM"
+            "total": 308,
+            "earliest": "31/10 10:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 299,
