@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-24 03:26",
+    "lastUpdated": "2021-09-24 03:31",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 2,
@@ -58,8 +58,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "24/9 3:20 PM"
         },
         "Colac Area Health - COPACC": {
             "total": 92,
@@ -162,7 +162,7 @@
             "earliest": "24/9 9:40 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 889,
+            "total": 890,
             "earliest": "24/9 9:50 AM"
         },
         "Melbourne Showgrounds": {
