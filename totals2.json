@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-24 01:47",
+    "lastUpdated": "2021-09-24 01:51",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 2,
@@ -10,7 +10,7 @@
             "earliest": "6/10 7:30 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 23,
+            "total": 24,
             "earliest": "24/9 3:40 PM"
         },
         "Bairnsdale City Oval": {
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Eastland Vaccination Clinic Pfizer": {
-            "total": 1,
-            "earliest": "24/9 10:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Ford": {
             "total": 1174,
@@ -162,11 +162,11 @@
             "earliest": "24/9 9:40 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 890,
+            "total": 889,
             "earliest": "24/9 9:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1305,
+            "total": 1304,
             "earliest": "24/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
