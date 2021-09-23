@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-24 06:15",
+    "lastUpdated": "2021-09-24 06:18",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 1,
@@ -10,7 +10,7 @@
             "earliest": "24/9 8:30 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 22,
+            "total": 23,
             "earliest": "24/9 3:40 PM"
         },
         "Bairnsdale City Oval": {
@@ -30,7 +30,7 @@
             "earliest": "1/10 2:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 2,
+            "total": 1,
             "earliest": "24/9 10:40 AM"
         },
         "Bright Hub - North East VIC": {
@@ -38,8 +38,8 @@
             "earliest": "27/9 2:45 PM"
         },
         "Cabrini Elsternwick": {
-            "total": 1,
-            "earliest": "24/9 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 237,
@@ -166,7 +166,7 @@
             "earliest": "24/9 9:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1302,
+            "total": 1301,
             "earliest": "24/9 12:55 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -238,7 +238,7 @@
             "earliest": "29/9 9:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 1280,
+            "total": 1279,
             "earliest": "26/9 9:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
