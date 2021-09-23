@@ -1,12 +1,12 @@
 {
-    "lastUpdated": "2021-09-24 06:47",
+    "lastUpdated": "2021-09-24 06:51",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 1,
             "earliest": "5/10 8:45 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 3,
+            "total": 2,
             "earliest": "24/9 8:30 AM"
         },
         "Austin - Repatriation (Pfizer)": {
@@ -46,7 +46,7 @@
             "earliest": "25/9 9:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 689,
+            "total": 690,
             "earliest": "24/9 12:50 PM"
         },
         "Casterton Memorial Hospital": {
@@ -58,16 +58,16 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "24/9 11:10 AM"
         },
         "Colac Area Health - COPACC": {
             "total": 92,
             "earliest": "28/9 11:30 AM"
         },
         "Convention Centre": {
-            "total": 922,
-            "earliest": "24/9 9:24 AM"
+            "total": 921,
+            "earliest": "24/9 10:36 AM"
         },
         "Corryong health": {
             "total": 146,
@@ -110,7 +110,7 @@
             "earliest": "28/10 1:30 PM"
         },
         "Ford": {
-            "total": 1173,
+            "total": 1174,
             "earliest": "24/9 9:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -170,7 +170,7 @@
             "earliest": "24/9 12:10 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 764,
+            "total": 763,
             "earliest": "8/10 11:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
@@ -210,7 +210,7 @@
             "earliest": "25/9 1:06 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 858,
+            "total": 857,
             "earliest": "26/9 4:30 PM"
         },
         "Northeast Health Wangaratta": {
@@ -306,7 +306,7 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 1126,
+            "total": 1127,
             "earliest": "24/9 10:00 AM"
         },
         "Wonthaggi Town Hall": {
@@ -314,11 +314,11 @@
             "earliest": "25/9 9:09 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 304,
+            "total": 303,
             "earliest": "26/10 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 2086,
+            "total": 2085,
             "earliest": "24/9 8:25 AM"
         },
         "Yarram Medical Centre": {
