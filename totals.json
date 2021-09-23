@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-24 01:26",
+    "lastUpdated": "2021-09-24 01:31",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Eastland Vaccination Clinic Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "24/9 10:40 AM"
         },
         "Ford": {
             "total": 0,
@@ -170,8 +170,8 @@
             "earliest": "24/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 757,
-            "earliest": "11/11 1:50 PM"
+            "total": 758,
+            "earliest": "26/10 2:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 610,
@@ -318,7 +318,7 @@
             "earliest": "7/11 10:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 482,
+            "total": 483,
             "earliest": "24/9 8:25 AM"
         },
         "Yarram Medical Centre": {
