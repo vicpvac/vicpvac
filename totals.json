@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-24 17:27",
+    "lastUpdated": "2021-09-24 17:31",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 8:10 AM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 6,
@@ -42,7 +42,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 23,
+            "total": 24,
             "earliest": "24/9 8:50 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -74,11 +74,11 @@
             "earliest": "30/9 1:30 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 17,
+            "total": 18,
             "earliest": "24/9 9:50 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 3,
+            "total": 2,
             "earliest": "24/9 10:15 AM"
         },
         "DPV Health Fawkner": {
@@ -110,7 +110,7 @@
             "earliest": "24/9 9:50 AM"
         },
         "Ford": {
-            "total": 6,
+            "total": 5,
             "earliest": "24/9 9:00 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -134,7 +134,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 181,
+            "total": 182,
             "earliest": "24/9 10:30 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -142,7 +142,7 @@
             "earliest": "28/9 10:40 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 119,
+            "total": 118,
             "earliest": "24/9 12:30 PM"
         },
         "Kyneton - Central Highlands Rural Health": {
@@ -163,14 +163,14 @@
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 84,
-            "earliest": "29/10 4:50 PM"
+            "earliest": "28/9 10:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 16,
+            "total": 15,
             "earliest": "24/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 747,
+            "total": 746,
             "earliest": "24/9 11:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
@@ -294,7 +294,7 @@
             "earliest": "28/9 1:20 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 49,
+            "total": 48,
             "earliest": "24/9 10:10 AM"
         },
         "Werribee - St Vincent's Private": {
@@ -318,7 +318,7 @@
             "earliest": "24/9 10:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 461,
+            "total": 459,
             "earliest": "24/9 8:15 AM"
         },
         "Yarram Medical Centre": {
