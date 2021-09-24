@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-24 21:26",
+    "lastUpdated": "2021-09-24 21:31",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "11/10 12:30 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 8,
@@ -66,7 +66,7 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 10,
+            "total": 9,
             "earliest": "24/9 9:36 AM"
         },
         "Corryong health": {
@@ -166,7 +166,7 @@
             "earliest": "1/11 12:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 15,
+            "total": 16,
             "earliest": "24/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -174,7 +174,7 @@
             "earliest": "24/9 11:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 537,
+            "total": 536,
             "earliest": "24/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 7,
+            "total": 8,
             "earliest": "24/9 10:05 AM"
         },
         "Traralgon Racecourse": {
@@ -314,7 +314,7 @@
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 281,
+            "total": 283,
             "earliest": "24/9 10:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
