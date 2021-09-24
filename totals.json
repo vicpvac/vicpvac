@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-24 21:03",
+    "lastUpdated": "2021-09-24 21:07",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,7 +10,7 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 8,
+            "total": 9,
             "earliest": "24/9 8:10 AM"
         },
         "Bairnsdale City Oval": {
@@ -38,11 +38,11 @@
             "earliest": null
         },
         "Cabrini Elsternwick": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "25/9 10:09 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 25,
+            "total": 24,
             "earliest": "24/9 8:50 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -246,7 +246,7 @@
             "earliest": "24/9 9:10 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 17,
+            "total": 16,
             "earliest": "24/9 8:30 AM"
         },
         "Seymour Health": {
@@ -294,7 +294,7 @@
             "earliest": "28/9 1:30 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 29,
+            "total": 28,
             "earliest": "24/9 10:10 AM"
         },
         "Werribee - St Vincent's Private": {
@@ -318,7 +318,7 @@
             "earliest": "24/9 10:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 446,
+            "total": 447,
             "earliest": "24/9 8:15 AM"
         },
         "Yarram Medical Centre": {
