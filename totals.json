@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-25 00:19",
+    "lastUpdated": "2021-09-25 00:22",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "11/11 10:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "25/9 10:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 0,
@@ -62,8 +62,8 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 1,
-            "earliest": "12/10 3:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Convention Centre": {
             "total": 0,
@@ -298,7 +298,7 @@
             "earliest": "25/9 9:50 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 46,
+            "total": 45,
             "earliest": "6/10 11:35 AM"
         },
         "Werribee Mercy": {
