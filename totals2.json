@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-24 21:11",
+    "lastUpdated": "2021-09-24 21:15",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 4,
@@ -10,7 +10,7 @@
             "earliest": "24/9 8:30 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 15,
+            "total": 14,
             "earliest": "24/9 8:10 AM"
         },
         "Bairnsdale City Oval": {
@@ -38,8 +38,8 @@
             "earliest": "27/9 12:45 PM"
         },
         "Cabrini Elsternwick": {
-            "total": 1,
-            "earliest": "25/9 10:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 168,
@@ -66,7 +66,7 @@
             "earliest": "28/9 11:40 AM"
         },
         "Convention Centre": {
-            "total": 887,
+            "total": 886,
             "earliest": "24/9 9:36 AM"
         },
         "Corryong health": {
@@ -134,7 +134,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 195,
+            "total": 194,
             "earliest": "24/9 10:30 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -166,7 +166,7 @@
             "earliest": "24/9 8:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1233,
+            "total": 1232,
             "earliest": "24/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -174,7 +174,7 @@
             "earliest": "24/9 11:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 2593,
+            "total": 2591,
             "earliest": "24/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -238,11 +238,11 @@
             "earliest": "28/9 2:20 PM"
         },
         "Sandown Racecourse": {
-            "total": 1284,
+            "total": 1282,
             "earliest": "24/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 11,
+            "total": 10,
             "earliest": "24/9 9:10 AM"
         },
         "Sandringham Vaccination Centre": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1406,
+            "total": 1405,
             "earliest": "24/9 8:15 AM"
         },
         "Traralgon Racecourse": {
@@ -318,7 +318,7 @@
             "earliest": "24/9 10:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 2013,
+            "total": 2014,
             "earliest": "24/9 8:15 AM"
         },
         "Yarram Medical Centre": {
