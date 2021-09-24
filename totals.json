@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-24 20:39",
+    "lastUpdated": "2021-09-24 20:43",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "12/10 8:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 8,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 18,
+            "total": 19,
             "earliest": "24/9 9:00 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -110,11 +110,11 @@
             "earliest": "24/9 9:50 AM"
         },
         "Ford": {
-            "total": 6,
+            "total": 5,
             "earliest": "24/9 9:00 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 3,
+            "total": 4,
             "earliest": "24/9 12:00 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -162,11 +162,11 @@
             "earliest": "24/9 9:00 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 76,
-            "earliest": "29/10 2:30 PM"
+            "total": 77,
+            "earliest": "28/9 10:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 15,
+            "total": 17,
             "earliest": "24/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -174,7 +174,7 @@
             "earliest": "24/9 11:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 540,
+            "total": 538,
             "earliest": "24/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 9,
+            "total": 8,
             "earliest": "24/9 10:05 AM"
         },
         "Traralgon Racecourse": {
@@ -294,11 +294,11 @@
             "earliest": "28/9 1:30 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 31,
+            "total": 30,
             "earliest": "24/9 10:10 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 48,
+            "total": 47,
             "earliest": "8/10 3:50 PM"
         },
         "Werribee Mercy": {
