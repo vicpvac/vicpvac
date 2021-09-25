@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-25 21:11",
+    "lastUpdated": "2021-09-25 21:15",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": "25/9 12:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "26/9 6:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 7,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 15,
+            "total": 14,
             "earliest": "25/9 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -46,7 +46,7 @@
             "earliest": "25/9 9:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 163,
+            "total": 162,
             "earliest": "25/9 9:10 AM"
         },
         "Casterton Memorial Hospital": {
@@ -163,7 +163,7 @@
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 61,
-            "earliest": "27/9 10:30 AM"
+            "earliest": "26/9 2:20 PM"
         },
         "Melbourne Showgrounds": {
             "total": 9,
@@ -210,7 +210,7 @@
             "earliest": "25/9 10:02 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 39,
+            "total": 40,
             "earliest": "25/9 8:00 AM"
         },
         "Northeast Health Wangaratta": {
@@ -238,7 +238,7 @@
             "earliest": "28/9 10:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 39,
+            "total": 40,
             "earliest": "25/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -250,15 +250,15 @@
             "earliest": "25/9 8:30 AM"
         },
         "Seymour Health": {
-            "total": 6,
-            "earliest": "29/9 3:40 PM"
+            "total": 5,
+            "earliest": "30/9 10:20 AM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 4,
+            "total": 3,
             "earliest": "25/9 2:40 PM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 16,
+            "total": 17,
             "earliest": "25/9 8:15 AM"
         },
         "Traralgon Racecourse": {
@@ -318,7 +318,7 @@
             "earliest": "25/9 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 309,
+            "total": 310,
             "earliest": "25/9 8:40 AM"
         },
         "Yarram Medical Centre": {
