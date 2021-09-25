@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-26 07:06",
+    "lastUpdated": "2021-09-26 07:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "11/10 2:30 PM"
         },
         "Bairnsdale City Oval": {
             "total": 3,
@@ -66,8 +66,8 @@
             "earliest": "12/10 3:50 PM"
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "26/9 9:48 AM"
         },
         "Corryong health": {
             "total": 136,
@@ -318,7 +318,7 @@
             "earliest": "26/9 11:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 258,
+            "total": 257,
             "earliest": "26/9 8:50 AM"
         },
         "Yarram Medical Centre": {
