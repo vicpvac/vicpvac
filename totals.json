@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-25 23:20",
+    "lastUpdated": "2021-09-25 23:23",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 15,
+            "total": 17,
             "earliest": "25/9 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -66,7 +66,7 @@
             "earliest": "12/10 3:50 PM"
         },
         "Convention Centre": {
-            "total": 6,
+            "total": 5,
             "earliest": "25/9 9:00 AM"
         },
         "Corryong health": {
@@ -122,8 +122,8 @@
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 1,
-            "earliest": "2/10 11:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Horsham": {
             "total": 0,
@@ -166,15 +166,15 @@
             "earliest": "1/11 12:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 9,
+            "total": 10,
             "earliest": "25/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 749,
+            "total": 751,
             "earliest": "25/9 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 424,
+            "total": 423,
             "earliest": "25/9 9:45 AM"
         },
         "Monash Community Outreach": {
@@ -318,7 +318,7 @@
             "earliest": "25/9 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 306,
+            "total": 307,
             "earliest": "25/9 8:40 AM"
         },
         "Yarram Medical Centre": {
