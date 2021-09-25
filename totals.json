@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-25 21:43",
+    "lastUpdated": "2021-09-25 21:47",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": "25/9 12:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "28/9 8:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 7,
@@ -38,7 +38,7 @@
             "earliest": null
         },
         "Cabrini Elsternwick": {
-            "total": 2,
+            "total": 1,
             "earliest": "25/9 9:51 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
@@ -78,7 +78,7 @@
             "earliest": "25/9 9:10 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 5,
+            "total": 4,
             "earliest": "25/9 11:00 AM"
         },
         "DPV Health Fawkner": {
@@ -214,8 +214,8 @@
             "earliest": "25/9 8:00 AM"
         },
         "Northeast Health Wangaratta": {
-            "total": 12,
-            "earliest": "26/10 1:10 PM"
+            "total": 11,
+            "earliest": "9/11 11:55 AM"
         },
         "Orbost Regional Health": {
             "total": 0,
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 16,
+            "total": 17,
             "earliest": "25/9 8:15 AM"
         },
         "Traralgon Racecourse": {
@@ -318,7 +318,7 @@
             "earliest": "25/9 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 315,
+            "total": 314,
             "earliest": "25/9 8:40 AM"
         },
         "Yarram Medical Centre": {
