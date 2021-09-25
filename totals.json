@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-25 18:31",
+    "lastUpdated": "2021-09-25 18:34",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": "25/9 12:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "4/10 7:50 PM"
         },
         "Bairnsdale City Oval": {
             "total": 5,
@@ -34,8 +34,8 @@
             "earliest": "25/9 9:40 AM"
         },
         "Bright Hub - North East VIC": {
-            "total": 1,
-            "earliest": "18/10 11:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Cabrini Elsternwick": {
             "total": 1,
@@ -46,7 +46,7 @@
             "earliest": "25/9 9:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 171,
+            "total": 170,
             "earliest": "25/9 9:10 AM"
         },
         "Casterton Memorial Hospital": {
@@ -122,8 +122,8 @@
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/9 12:44 PM"
         },
         "Horsham": {
             "total": 0,
@@ -162,11 +162,11 @@
             "earliest": "27/9 12:15 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 62,
-            "earliest": "1/11 12:40 PM"
+            "total": 63,
+            "earliest": "29/9 1:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 10,
+            "total": 12,
             "earliest": "25/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -238,7 +238,7 @@
             "earliest": "28/9 10:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 39,
+            "total": 40,
             "earliest": "25/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -299,7 +299,7 @@
         },
         "Werribee - St Vincent's Private": {
             "total": 26,
-            "earliest": "11/10 11:20 AM"
+            "earliest": "5/10 8:35 AM"
         },
         "Werribee Mercy": {
             "total": 0,
