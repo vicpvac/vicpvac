@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-25 14:27",
+    "lastUpdated": "2021-09-25 14:31",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,11 +10,11 @@
             "earliest": "25/9 12:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2/10 10:20 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 4,
+            "total": 3,
             "earliest": "25/9 9:03 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -30,8 +30,8 @@
             "earliest": "14/10 9:45 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "27/10 3:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 0,
@@ -66,7 +66,7 @@
             "earliest": "5/10 2:00 PM"
         },
         "Convention Centre": {
-            "total": 2,
+            "total": 3,
             "earliest": "25/9 9:00 AM"
         },
         "Corryong health": {
@@ -74,7 +74,7 @@
             "earliest": "30/9 1:30 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 9,
+            "total": 10,
             "earliest": "25/9 9:10 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -166,7 +166,7 @@
             "earliest": "1/11 12:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 8,
+            "total": 7,
             "earliest": "25/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -174,7 +174,7 @@
             "earliest": "25/9 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 394,
+            "total": 395,
             "earliest": "25/9 9:45 AM"
         },
         "Monash Community Outreach": {
@@ -194,7 +194,7 @@
             "earliest": "12/10 2:45 PM"
         },
         "NCN Health": {
-            "total": 286,
+            "total": 287,
             "earliest": "25/9 9:38 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -210,7 +210,7 @@
             "earliest": "25/9 10:02 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 21,
+            "total": 20,
             "earliest": "25/9 8:00 AM"
         },
         "Northeast Health Wangaratta": {
@@ -238,11 +238,11 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 22,
+            "total": 23,
             "earliest": "25/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 12,
+            "total": 14,
             "earliest": "25/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
@@ -306,7 +306,7 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 514,
+            "total": 513,
             "earliest": "29/10 8:30 AM"
         },
         "Wonthaggi Town Hall": {
@@ -314,11 +314,11 @@
             "earliest": "25/9 10:48 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 271,
+            "total": 272,
             "earliest": "25/9 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 340,
+            "total": 339,
             "earliest": "25/9 8:40 AM"
         },
         "Yarram Medical Centre": {
