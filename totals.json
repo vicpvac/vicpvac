@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-26 00:07",
+    "lastUpdated": "2021-09-26 00:11",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,8 +22,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1,
-            "earliest": "4/11 1:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Beechworth Vaccination Hub": {
             "total": 80,
@@ -222,8 +222,8 @@
             "earliest": null
         },
         "Portland District Health": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "29/10 1:00 PM"
         },
         "RMH Pfizer": {
             "total": 0,
@@ -294,7 +294,7 @@
             "earliest": "28/9 1:40 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 41,
+            "total": 40,
             "earliest": "27/9 9:20 AM"
         },
         "Werribee - St Vincent's Private": {
