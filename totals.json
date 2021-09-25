@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-25 14:47",
+    "lastUpdated": "2021-09-25 14:51",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -114,8 +114,8 @@
             "earliest": "25/9 9:10 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "3/10 1:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 0,
@@ -163,14 +163,14 @@
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 69,
-            "earliest": "1/11 12:40 PM"
+            "earliest": "28/9 1:00 PM"
         },
         "Melbourne Showgrounds": {
             "total": 10,
             "earliest": "25/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 752,
+            "total": 751,
             "earliest": "25/9 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
@@ -210,7 +210,7 @@
             "earliest": "25/9 10:02 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 21,
+            "total": 20,
             "earliest": "25/9 8:00 AM"
         },
         "Northeast Health Wangaratta": {
@@ -238,15 +238,15 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 23,
+            "total": 24,
             "earliest": "25/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 15,
+            "total": 13,
             "earliest": "25/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 13,
+            "total": 15,
             "earliest": "25/9 8:30 AM"
         },
         "Seymour Health": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 17,
+            "total": 16,
             "earliest": "25/9 8:15 AM"
         },
         "Traralgon Racecourse": {
@@ -294,12 +294,12 @@
             "earliest": "28/9 1:40 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 3,
+            "total": 45,
             "earliest": "25/9 10:10 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 31,
-            "earliest": "28/9 9:35 AM"
+            "total": 30,
+            "earliest": "6/10 1:15 PM"
         },
         "Werribee Mercy": {
             "total": 0,
@@ -314,11 +314,11 @@
             "earliest": "25/9 10:48 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 273,
+            "total": 272,
             "earliest": "25/9 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 340,
+            "total": 343,
             "earliest": "25/9 8:40 AM"
         },
         "Yarram Medical Centre": {
