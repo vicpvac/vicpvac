@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-25 20:55",
+    "lastUpdated": "2021-09-25 20:58",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": "25/9 12:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "26/9 7:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 7,
@@ -46,7 +46,7 @@
             "earliest": "25/9 9:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 162,
+            "total": 164,
             "earliest": "25/9 9:10 AM"
         },
         "Casterton Memorial Hospital": {
@@ -62,11 +62,11 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "12/10 3:50 PM"
         },
         "Convention Centre": {
-            "total": 4,
+            "total": 5,
             "earliest": "25/9 9:00 AM"
         },
         "Corryong health": {
@@ -118,8 +118,8 @@
             "earliest": "25/9 9:30 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "20/10 2:13 PM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 1,
@@ -146,12 +146,12 @@
             "earliest": "25/9 10:30 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
-            "total": 122,
+            "total": 121,
             "earliest": "28/9 10:15 AM"
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 3:15 PM"
         },
         "Mansfield Vaccination Clinic": {
             "total": 80,
@@ -210,7 +210,7 @@
             "earliest": "25/9 10:02 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 39,
+            "total": 40,
             "earliest": "25/9 8:00 AM"
         },
         "Northeast Health Wangaratta": {
@@ -238,7 +238,7 @@
             "earliest": "28/9 10:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 39,
+            "total": 40,
             "earliest": "25/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -246,7 +246,7 @@
             "earliest": "25/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 23,
+            "total": 22,
             "earliest": "25/9 8:30 AM"
         },
         "Seymour Health": {
