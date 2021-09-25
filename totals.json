@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-25 15:47",
+    "lastUpdated": "2021-09-25 15:51",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -26,11 +26,11 @@
             "earliest": "25/9 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
-            "total": 81,
+            "total": 80,
             "earliest": "11/11 10:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 9,
+            "total": 8,
             "earliest": "25/9 9:40 AM"
         },
         "Bright Hub - North East VIC": {
@@ -94,8 +94,8 @@
             "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "27/9 10:00 AM"
         },
         "East Grampians Health Services- Ararat": {
             "total": 122,
@@ -110,11 +110,11 @@
             "earliest": "25/9 8:30 AM"
         },
         "Ford": {
-            "total": 5,
+            "total": 4,
             "earliest": "25/9 9:10 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 3,
+            "total": 4,
             "earliest": "25/9 9:30 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -162,8 +162,8 @@
             "earliest": "27/9 12:15 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 68,
-            "earliest": "2/10 11:30 AM"
+            "total": 66,
+            "earliest": "1/11 12:40 PM"
         },
         "Melbourne Showgrounds": {
             "total": 8,
@@ -206,7 +206,7 @@
             "earliest": "15/10 1:36 PM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 114,
+            "total": 112,
             "earliest": "25/9 10:02 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
@@ -242,11 +242,11 @@
             "earliest": "25/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 17,
+            "total": 16,
             "earliest": "25/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 20,
+            "total": 21,
             "earliest": "25/9 8:30 AM"
         },
         "Seymour Health": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 16,
+            "total": 15,
             "earliest": "25/9 8:15 AM"
         },
         "Traralgon Racecourse": {
@@ -294,7 +294,7 @@
             "earliest": "28/9 1:00 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 49,
+            "total": 50,
             "earliest": "25/9 10:10 AM"
         },
         "Werribee - St Vincent's Private": {
@@ -322,8 +322,8 @@
             "earliest": "25/9 8:40 AM"
         },
         "Yarram Medical Centre": {
-            "total": 1,
-            "earliest": "28/9 4:35 PM"
+            "total": 0,
+            "earliest": null
         }
     }
 }
