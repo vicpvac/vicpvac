@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-26 00:19",
+    "lastUpdated": "2021-09-26 00:23",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,12 +42,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "9/10 2:45 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 143,
-            "earliest": "13/10 10:50 AM"
+            "total": 144,
+            "earliest": "5/10 11:00 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -78,8 +78,8 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 1,
-            "earliest": "21/10 3:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "DPV Health Fawkner": {
             "total": 0,
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 2:05 PM"
         },
         "Traralgon Racecourse": {
             "total": 0,
