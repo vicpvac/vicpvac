@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-26 01:26",
+    "lastUpdated": "2021-09-26 01:31",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 1,
@@ -30,8 +30,8 @@
             "earliest": "30/9 10:30 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "13/10 2:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 1,
@@ -66,7 +66,7 @@
             "earliest": "28/9 11:40 AM"
         },
         "Convention Centre": {
-            "total": 692,
+            "total": 691,
             "earliest": "26/9 10:24 AM"
         },
         "Corryong health": {
@@ -162,11 +162,11 @@
             "earliest": "27/9 12:15 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 753,
-            "earliest": "4/10 11:20 AM"
+            "total": 754,
+            "earliest": "1/10 3:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1286,
+            "total": 1285,
             "earliest": "26/9 10:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -238,7 +238,7 @@
             "earliest": "28/9 10:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 1202,
+            "total": 1201,
             "earliest": "26/9 11:40 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -314,7 +314,7 @@
             "earliest": "30/9 9:18 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 272,
+            "total": 271,
             "earliest": "30/9 3:50 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
