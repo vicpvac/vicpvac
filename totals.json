@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-25 21:23",
+    "lastUpdated": "2021-09-25 21:26",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": "25/9 12:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "26/9 6:00 PM"
         },
         "Bairnsdale City Oval": {
             "total": 7,
@@ -42,11 +42,11 @@
             "earliest": "25/9 9:51 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 24,
+            "total": 25,
             "earliest": "25/9 9:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 163,
+            "total": 161,
             "earliest": "25/9 9:10 AM"
         },
         "Casterton Memorial Hospital": {
@@ -110,7 +110,7 @@
             "earliest": "25/9 8:30 AM"
         },
         "Ford": {
-            "total": 6,
+            "total": 5,
             "earliest": "25/9 9:10 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -134,7 +134,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 121,
+            "total": 122,
             "earliest": "25/9 9:30 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -142,7 +142,7 @@
             "earliest": "28/9 10:50 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 94,
+            "total": 93,
             "earliest": "25/9 10:30 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
@@ -174,7 +174,7 @@
             "earliest": "25/9 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 425,
+            "total": 426,
             "earliest": "25/9 9:45 AM"
         },
         "Monash Community Outreach": {
@@ -242,7 +242,7 @@
             "earliest": "25/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 16,
+            "total": 17,
             "earliest": "25/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
@@ -250,15 +250,15 @@
             "earliest": "25/9 8:30 AM"
         },
         "Seymour Health": {
-            "total": 5,
-            "earliest": "30/9 10:20 AM"
+            "total": 4,
+            "earliest": "30/9 11:10 AM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 3,
+            "total": 2,
             "earliest": "25/9 2:40 PM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
@@ -298,7 +298,7 @@
             "earliest": "25/9 10:10 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 23,
+            "total": 22,
             "earliest": "11/10 11:40 AM"
         },
         "Werribee Mercy": {
@@ -318,7 +318,7 @@
             "earliest": "25/9 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 311,
+            "total": 312,
             "earliest": "25/9 8:40 AM"
         },
         "Yarram Medical Centre": {
