@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-25 18:27",
+    "lastUpdated": "2021-09-25 18:31",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": "25/9 12:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "26/9 7:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 5,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 18,
+            "total": 17,
             "earliest": "25/9 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -30,7 +30,7 @@
             "earliest": "8/10 10:15 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 10,
+            "total": 9,
             "earliest": "25/9 9:40 AM"
         },
         "Bright Hub - North East VIC": {
@@ -114,7 +114,7 @@
             "earliest": "25/9 9:10 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 4,
+            "total": 3,
             "earliest": "25/9 9:30 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -166,7 +166,7 @@
             "earliest": "1/11 12:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 11,
+            "total": 10,
             "earliest": "25/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -238,7 +238,7 @@
             "earliest": "28/9 10:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 40,
+            "total": 39,
             "earliest": "25/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -250,7 +250,7 @@
             "earliest": "25/9 8:30 AM"
         },
         "Seymour Health": {
-            "total": 8,
+            "total": 7,
             "earliest": "28/9 1:00 PM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "WDHS \u2013 Hamilton Base Hospital": {
-            "total": 45,
+            "total": 44,
             "earliest": "28/9 1:40 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
