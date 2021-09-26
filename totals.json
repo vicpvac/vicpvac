@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-27 02:54",
+    "lastUpdated": "2021-09-27 02:58",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,8 +22,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "19/11 11:00 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 77,
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 62,
-            "earliest": "28/9 4:25 PM"
+            "total": 61,
+            "earliest": "28/9 4:35 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
             "total": 381,
