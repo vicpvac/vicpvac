@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-27 07:31",
+    "lastUpdated": "2021-09-27 07:35",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "30/9 8:15 AM"
-        },
-        "Austin - Olivia Newton John": {
             "total": 0,
             "earliest": null
+        },
+        "Austin - Olivia Newton John": {
+            "total": 1,
+            "earliest": "11/10 1:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 2,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1560,
+            "total": 1558,
             "earliest": "27/9 10:20 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -66,7 +66,7 @@
             "earliest": "28/9 11:40 AM"
         },
         "Convention Centre": {
-            "total": 594,
+            "total": 592,
             "earliest": "27/9 9:00 AM"
         },
         "Corryong health": {
@@ -74,7 +74,7 @@
             "earliest": "30/9 1:30 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 944,
+            "total": 945,
             "earliest": "27/9 9:20 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 894,
+            "total": 893,
             "earliest": "27/9 10:40 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -162,11 +162,11 @@
             "earliest": "27/9 11:10 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 683,
-            "earliest": "28/9 3:20 PM"
+            "total": 682,
+            "earliest": "4/10 12:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1362,
+            "total": 1363,
             "earliest": "27/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -174,7 +174,7 @@
             "earliest": "15/11 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 2501,
+            "total": 2503,
             "earliest": "27/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -238,12 +238,12 @@
             "earliest": "29/9 9:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 1149,
+            "total": 1150,
             "earliest": "30/9 9:30 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 10:30 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 1737,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 1,
-            "earliest": "12/10 3:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
             "total": 0,
@@ -278,11 +278,11 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1492,
+            "total": 1491,
             "earliest": "14/10 10:15 AM"
         },
         "Traralgon Racecourse": {
-            "total": 115,
+            "total": 116,
             "earliest": "27/9 1:20 PM"
         },
         "WDHS - Balmoral Clinic": {
@@ -294,7 +294,7 @@
             "earliest": "28/9 1:00 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 259,
+            "total": 260,
             "earliest": "27/9 9:40 AM"
         },
         "Werribee - St Vincent's Private": {
@@ -318,11 +318,11 @@
             "earliest": "17/11 1:10 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1796,
+            "total": 1797,
             "earliest": "27/9 8:15 AM"
         },
         "Yarram Medical Centre": {
-            "total": 213,
+            "total": 212,
             "earliest": "1/10 1:58 PM"
         }
     }

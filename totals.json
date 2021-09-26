@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-27 07:30",
+    "lastUpdated": "2021-09-27 07:34",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "11/10 1:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
@@ -66,7 +66,7 @@
             "earliest": "28/9 2:10 PM"
         },
         "Convention Centre": {
-            "total": 3,
+            "total": 2,
             "earliest": "27/9 9:00 AM"
         },
         "Corryong health": {
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "27/9 11:10 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -166,7 +166,7 @@
             "earliest": "28/10 3:10 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 46,
+            "total": 47,
             "earliest": "27/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -174,7 +174,7 @@
             "earliest": "15/11 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 361,
+            "total": 362,
             "earliest": "27/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -210,8 +210,8 @@
             "earliest": "2/10 11:06 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "28/9 4:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 277,
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 2:36 PM"
         },
         "WDHS - Balmoral Clinic": {
             "total": 0,
@@ -294,7 +294,7 @@
             "earliest": "28/9 1:00 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 24,
+            "total": 25,
             "earliest": "27/9 9:40 AM"
         },
         "Werribee - St Vincent's Private": {
