@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-09-26 21:55",
+    "lastUpdated": "2021-09-26 21:59",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "2/10 6:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 6,
+            "total": 7,
             "earliest": "26/9 8:10 AM"
         },
         "Bairnsdale City Oval": {
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 71,
-            "earliest": "28/9 4:10 PM"
+            "total": 70,
+            "earliest": "28/9 4:15 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
             "total": 381,
@@ -174,7 +174,7 @@
             "earliest": "26/9 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 408,
+            "total": 409,
             "earliest": "26/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 13,
+            "total": 14,
             "earliest": "26/9 9:05 AM"
         },
         "Traralgon Racecourse": {
@@ -298,8 +298,8 @@
             "earliest": "27/9 9:50 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 2,
-            "earliest": "4/10 12:00 PM"
+            "total": 3,
+            "earliest": "27/9 11:40 AM"
         },
         "Werribee Mercy": {
             "total": 0,
