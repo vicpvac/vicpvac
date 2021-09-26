@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-09-26 21:14",
+    "lastUpdated": "2021-09-26 21:19",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "27/9 9:20 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 4,
+            "total": 5,
             "earliest": "26/9 8:10 AM"
         },
         "Bairnsdale City Oval": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 21,
+            "total": 22,
             "earliest": "26/9 8:40 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -58,15 +58,15 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "29/9 11:40 AM"
         },
         "Colac Area Health - COPACC": {
             "total": 0,
             "earliest": null
         },
         "Convention Centre": {
-            "total": 6,
+            "total": 7,
             "earliest": "26/9 10:00 AM"
         },
         "Corryong health": {
@@ -78,7 +78,7 @@
             "earliest": "26/9 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 3,
+            "total": 2,
             "earliest": "26/9 10:30 AM"
         },
         "DPV Health Fawkner": {
@@ -118,8 +118,8 @@
             "earliest": "26/9 3:00 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 3:40 PM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -166,7 +166,7 @@
             "earliest": "26/9 2:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 57,
+            "total": 56,
             "earliest": "26/9 9:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 97,
-            "earliest": "27/9 9:00 AM"
+            "total": 96,
+            "earliest": "27/9 9:20 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
             "total": 0,
@@ -306,19 +306,19 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 505,
-            "earliest": "9/11 9:45 AM"
+            "total": 504,
+            "earliest": "9/11 10:15 AM"
         },
         "Wonthaggi Town Hall": {
             "total": 0,
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 253,
+            "total": 254,
             "earliest": "26/9 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 260,
+            "total": 259,
             "earliest": "26/9 9:20 AM"
         },
         "Yarram Medical Centre": {
