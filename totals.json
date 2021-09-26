@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-27 05:34",
+    "lastUpdated": "2021-09-27 05:38",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "27/9 6:50 PM"
         },
         "Bairnsdale City Oval": {
             "total": 1,
@@ -166,12 +166,12 @@
             "earliest": "1/11 12:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 43,
+            "total": 42,
             "earliest": "27/9 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 767,
-            "earliest": "18/10 1:10 PM"
+            "total": 766,
+            "earliest": "15/11 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 360,
