@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-26 22:27",
+    "lastUpdated": "2021-09-26 22:34",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "27/9 4:00 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 5,
@@ -42,11 +42,11 @@
             "earliest": "26/9 8:39 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 32,
+            "total": 31,
             "earliest": "26/9 8:50 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 123,
+            "total": 122,
             "earliest": "26/9 9:30 AM"
         },
         "Casterton Memorial Hospital": {
@@ -78,7 +78,7 @@
             "earliest": "26/9 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 2,
+            "total": 3,
             "earliest": "26/9 10:30 AM"
         },
         "DPV Health Fawkner": {
@@ -118,8 +118,8 @@
             "earliest": "26/9 3:00 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 1,
-            "earliest": "30/9 3:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
             "total": 0,
@@ -166,15 +166,15 @@
             "earliest": "26/9 2:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 55,
+            "total": 54,
             "earliest": "26/9 9:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 754,
+            "total": 755,
             "earliest": "26/9 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 407,
+            "total": 406,
             "earliest": "26/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -194,8 +194,8 @@
             "earliest": "28/9 1:45 PM"
         },
         "NCN Health": {
-            "total": 240,
-            "earliest": "29/9 1:14 PM"
+            "total": 239,
+            "earliest": "29/9 1:40 PM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 0,
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 13,
+            "total": 14,
             "earliest": "26/9 9:05 AM"
         },
         "Traralgon Racecourse": {
