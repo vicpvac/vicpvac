@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-27 06:38",
+    "lastUpdated": "2021-09-27 06:42",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/9 5:00 PM"
         },
         "Bairnsdale City Oval": {
             "total": 1,
@@ -162,7 +162,7 @@
             "earliest": "27/9 12:40 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 38,
+            "total": 37,
             "earliest": "1/11 12:50 PM"
         },
         "Melbourne Showgrounds": {
@@ -238,8 +238,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 2,
-            "earliest": "30/9 9:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
