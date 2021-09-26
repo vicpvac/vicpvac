@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-27 00:16",
+    "lastUpdated": "2021-09-27 00:23",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "28/9 1:10 PM"
         },
         "Bairnsdale City Oval": {
             "total": 1,
@@ -42,12 +42,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 2,
-            "earliest": "28/9 9:30 AM"
+            "total": 1,
+            "earliest": "2/10 12:00 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 104,
-            "earliest": "13/10 1:00 PM"
+            "total": 102,
+            "earliest": "13/10 1:10 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -66,12 +66,12 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 1,
-            "earliest": "27/9 9:48 AM"
+            "total": 0,
+            "earliest": null
         },
         "Corryong health": {
-            "total": 134,
-            "earliest": "29/9 11:15 AM"
+            "total": 133,
+            "earliest": "30/9 1:30 PM"
         },
         "Cranbourne Turf Club": {
             "total": 0,
@@ -158,15 +158,15 @@
             "earliest": "29/9 12:20 PM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
-            "total": 2446,
-            "earliest": "27/9 12:20 PM"
+            "total": 2445,
+            "earliest": "27/9 12:40 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 42,
-            "earliest": "29/9 12:50 PM"
+            "earliest": "27/9 11:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 47,
+            "total": 46,
             "earliest": "27/9 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
