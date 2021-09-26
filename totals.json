@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-09-26 16:39",
+    "lastUpdated": "2021-09-26 16:43",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "26/9 4:50 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 3,
+            "total": 4,
             "earliest": "26/9 8:10 AM"
         },
         "Bairnsdale City Oval": {
@@ -30,7 +30,7 @@
             "earliest": "11/11 9:30 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 11,
+            "total": 12,
             "earliest": "26/9 9:10 AM"
         },
         "Bright Hub - North East VIC": {
@@ -46,7 +46,7 @@
             "earliest": "26/9 8:50 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 132,
+            "total": 131,
             "earliest": "26/9 9:30 AM"
         },
         "Casterton Memorial Hospital": {
@@ -66,7 +66,7 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 6,
+            "total": 5,
             "earliest": "26/9 10:00 AM"
         },
         "Corryong health": {
@@ -114,7 +114,7 @@
             "earliest": "26/9 8:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 2,
+            "total": 3,
             "earliest": "26/9 3:00 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -122,8 +122,8 @@
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 1,
-            "earliest": "28/9 10:44 AM"
+            "total": 0,
+            "earliest": null
         },
         "Horsham": {
             "total": 0,
@@ -162,11 +162,11 @@
             "earliest": "27/9 12:20 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 50,
+            "total": 49,
             "earliest": "26/9 2:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 9,
+            "total": 10,
             "earliest": "26/9 9:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -206,11 +206,11 @@
             "earliest": "15/10 1:36 PM"
         },
         "NCN Health Yarrawonga Pop Up": {
-            "total": 92,
-            "earliest": "2/10 10:42 AM"
+            "total": 91,
+            "earliest": "2/10 11:06 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 22,
+            "total": 23,
             "earliest": "26/9 8:40 AM"
         },
         "Northeast Health Wangaratta": {
@@ -238,15 +238,15 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 26,
+            "total": 25,
             "earliest": "26/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 20,
+            "total": 21,
             "earliest": "26/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 17,
+            "total": 18,
             "earliest": "26/9 8:30 AM"
         },
         "Seymour Health": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 12,
+            "total": 11,
             "earliest": "26/9 9:05 AM"
         },
         "Traralgon Racecourse": {
