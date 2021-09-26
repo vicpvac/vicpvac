@@ -1,20 +1,20 @@
 {
-    "lastUpdated": "2021-09-26 14:15",
+    "lastUpdated": "2021-09-26 14:19",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 5:00 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 2,
             "earliest": "26/9 8:10 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 3,
+            "total": 2,
             "earliest": "29/9 12:24 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -94,7 +94,7 @@
             "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 2,
+            "total": 1,
             "earliest": "26/9 11:00 AM"
         },
         "East Grampians Health Services- Ararat": {
@@ -114,8 +114,8 @@
             "earliest": "26/9 8:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "29/9 3:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 0,
@@ -163,10 +163,10 @@
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 50,
-            "earliest": "29/9 9:30 AM"
+            "earliest": "1/11 12:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 7,
+            "total": 8,
             "earliest": "26/9 9:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -174,7 +174,7 @@
             "earliest": "26/9 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 380,
+            "total": 379,
             "earliest": "26/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -210,7 +210,7 @@
             "earliest": "1/10 12:32 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 8,
+            "total": 6,
             "earliest": "26/9 9:40 AM"
         },
         "Northeast Health Wangaratta": {
@@ -238,7 +238,7 @@
             "earliest": "28/9 4:30 PM"
         },
         "Sandown Racecourse": {
-            "total": 9,
+            "total": 11,
             "earliest": "26/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -246,7 +246,7 @@
             "earliest": "26/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 2,
+            "total": 3,
             "earliest": "26/9 8:30 AM"
         },
         "Seymour Health": {
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "30/9 11:50 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
             "total": 0,
@@ -298,7 +298,7 @@
             "earliest": "27/9 9:30 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 10,
+            "total": 9,
             "earliest": "11/10 1:55 PM"
         },
         "Werribee Mercy": {
@@ -306,19 +306,19 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 507,
-            "earliest": "9/11 9:15 AM"
+            "total": 506,
+            "earliest": "9/11 9:45 AM"
         },
         "Wonthaggi Town Hall": {
             "total": 0,
             "earliest": null
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 256,
+            "total": 257,
             "earliest": "26/9 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 241,
+            "total": 240,
             "earliest": "26/9 9:20 AM"
         },
         "Yarram Medical Centre": {
