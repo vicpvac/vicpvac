@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-27 07:38",
+    "lastUpdated": "2021-09-27 07:42",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "11/10 1:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1,
-            "earliest": "27/9 11:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -166,7 +166,7 @@
             "earliest": "28/10 3:10 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 46,
+            "total": 45,
             "earliest": "27/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -210,8 +210,8 @@
             "earliest": "2/10 11:06 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "27/9 7:40 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 277,
@@ -238,8 +238,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 1,
-            "earliest": "30/9 10:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -306,7 +306,7 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 504,
+            "total": 505,
             "earliest": "30/9 2:15 PM"
         },
         "Wonthaggi Town Hall": {
@@ -318,7 +318,7 @@
             "earliest": "17/11 1:10 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 221,
+            "total": 220,
             "earliest": "27/9 8:15 AM"
         },
         "Yarram Medical Centre": {
