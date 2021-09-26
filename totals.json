@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-26 15:35",
+    "lastUpdated": "2021-09-26 15:39",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 21,
+            "total": 22,
             "earliest": "26/9 8:40 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -42,11 +42,11 @@
             "earliest": "26/9 8:39 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 28,
+            "total": 27,
             "earliest": "26/9 8:50 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 135,
+            "total": 134,
             "earliest": "26/9 9:30 AM"
         },
         "Casterton Memorial Hospital": {
@@ -78,7 +78,7 @@
             "earliest": "26/9 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 10,
+            "total": 9,
             "earliest": "26/9 10:30 AM"
         },
         "DPV Health Fawkner": {
@@ -106,7 +106,7 @@
             "earliest": null
         },
         "Eastland Vaccination Clinic Pfizer": {
-            "total": 4,
+            "total": 5,
             "earliest": "26/9 11:30 AM"
         },
         "Ford": {
@@ -114,7 +114,7 @@
             "earliest": "26/9 8:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 2,
+            "total": 1,
             "earliest": "26/9 3:00 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -126,8 +126,8 @@
             "earliest": null
         },
         "Horsham": {
-            "total": 1,
-            "earliest": "28/9 9:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Hotel Quarantine \u2013 AHC": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "26/9 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 367,
+            "total": 368,
             "earliest": "26/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -234,19 +234,19 @@
             "earliest": null
         },
         "SWH - Camperdown": {
-            "total": 1,
-            "earliest": "28/9 4:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 14,
+            "total": 15,
             "earliest": "26/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 19,
+            "total": 20,
             "earliest": "26/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 13,
+            "total": 14,
             "earliest": "26/9 8:30 AM"
         },
         "Seymour Health": {
@@ -270,7 +270,7 @@
             "earliest": null
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 66,
+            "total": 99,
             "earliest": "27/9 9:00 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 10,
+            "total": 9,
             "earliest": "26/9 9:05 AM"
         },
         "Traralgon Racecourse": {
@@ -298,8 +298,8 @@
             "earliest": "27/9 9:40 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 8,
-            "earliest": "27/9 2:05 PM"
+            "total": 7,
+            "earliest": "8/10 2:00 PM"
         },
         "Werribee Mercy": {
             "total": 0,
