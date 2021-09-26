@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-09-26 14:31",
+    "lastUpdated": "2021-09-26 14:35",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 2,
-            "earliest": "3/10 1:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 2,
+            "total": 3,
             "earliest": "26/9 8:10 AM"
         },
         "Bairnsdale City Oval": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 17,
+            "total": 20,
             "earliest": "26/9 8:40 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -42,11 +42,11 @@
             "earliest": "26/9 8:39 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 23,
+            "total": 22,
             "earliest": "26/9 8:50 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 135,
+            "total": 134,
             "earliest": "26/9 9:30 AM"
         },
         "Casterton Memorial Hospital": {
@@ -78,7 +78,7 @@
             "earliest": "26/9 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 14,
+            "total": 15,
             "earliest": "26/9 10:30 AM"
         },
         "DPV Health Fawkner": {
@@ -94,11 +94,11 @@
             "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 2,
+            "total": 1,
             "earliest": "26/9 11:00 AM"
         },
         "East Grampians Health Services- Ararat": {
-            "total": 121,
+            "total": 122,
             "earliest": "12/10 10:40 AM"
         },
         "Eastern Health Mobile Clinic 1": {
@@ -110,7 +110,7 @@
             "earliest": "26/9 11:30 AM"
         },
         "Ford": {
-            "total": 3,
+            "total": 2,
             "earliest": "26/9 8:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -146,7 +146,7 @@
             "earliest": "26/9 9:10 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
-            "total": 117,
+            "total": 118,
             "earliest": "28/9 10:30 AM"
         },
         "Leongatha Community Clinic": {
@@ -158,12 +158,12 @@
             "earliest": "29/9 2:30 PM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
-            "total": 2462,
+            "total": 2461,
             "earliest": "27/9 12:20 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 49,
-            "earliest": "1/11 12:50 PM"
+            "total": 50,
+            "earliest": "29/9 11:10 AM"
         },
         "Melbourne Showgrounds": {
             "total": 9,
@@ -238,7 +238,7 @@
             "earliest": "28/9 4:30 PM"
         },
         "Sandown Racecourse": {
-            "total": 11,
+            "total": 10,
             "earliest": "26/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -246,7 +246,7 @@
             "earliest": "26/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 4,
+            "total": 3,
             "earliest": "26/9 8:30 AM"
         },
         "Seymour Health": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 11,
+            "total": 10,
             "earliest": "26/9 9:05 AM"
         },
         "Traralgon Racecourse": {
@@ -298,8 +298,8 @@
             "earliest": "27/9 9:30 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 9,
-            "earliest": "11/10 2:15 PM"
+            "total": 11,
+            "earliest": "30/9 2:15 PM"
         },
         "Werribee Mercy": {
             "total": 0,
