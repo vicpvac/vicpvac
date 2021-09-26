@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-27 02:30",
+    "lastUpdated": "2021-09-27 02:34",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "29/9 4:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "15/11 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 360,
+            "total": 361,
             "earliest": "27/9 8:15 AM"
         },
         "Monash Community Outreach": {
