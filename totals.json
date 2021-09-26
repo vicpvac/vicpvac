@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-27 07:06",
+    "lastUpdated": "2021-09-27 07:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -23,7 +23,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 2,
-            "earliest": "20/10 3:10 PM"
+            "earliest": "8/10 1:40 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 77,
@@ -66,8 +66,8 @@
             "earliest": "28/9 2:40 PM"
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 5:27 PM"
         },
         "Corryong health": {
             "total": 133,
@@ -110,12 +110,12 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1,
-            "earliest": "18/10 12:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1,
-            "earliest": "22/10 11:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 0,
@@ -162,7 +162,7 @@
             "earliest": "27/9 12:40 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 39,
+            "total": 41,
             "earliest": "28/9 1:40 PM"
         },
         "Melbourne Showgrounds": {
@@ -238,12 +238,12 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 1,
-            "earliest": "8/10 4:00 PM"
-        },
-        "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
             "earliest": null
+        },
+        "Sandown Racecourse Drive Through Vaccination Clinic": {
+            "total": 1,
+            "earliest": "30/9 2:30 PM"
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
