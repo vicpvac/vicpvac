@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-27 05:07",
+    "lastUpdated": "2021-09-27 05:11",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "30/9 10:30 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "14/10 2:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 4,
@@ -238,7 +238,7 @@
             "earliest": "28/9 2:40 PM"
         },
         "Sandown Racecourse": {
-            "total": 1147,
+            "total": 1148,
             "earliest": "30/9 11:40 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
