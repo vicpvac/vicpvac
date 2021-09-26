@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-27 01:15",
+    "lastUpdated": "2021-09-27 01:19",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "15/11 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 2504,
+            "total": 2503,
             "earliest": "27/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -250,8 +250,8 @@
             "earliest": "21/10 9:20 AM"
         },
         "Seymour Health": {
-            "total": 1,
-            "earliest": "30/9 3:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
@@ -318,7 +318,7 @@
             "earliest": "16/10 12:30 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1797,
+            "total": 1796,
             "earliest": "27/9 8:15 AM"
         },
         "Yarram Medical Centre": {
