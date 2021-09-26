@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-26 22:07",
+    "lastUpdated": "2021-09-26 22:11",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "14/10 2:00 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 5,
@@ -71,7 +71,7 @@
         },
         "Corryong health": {
             "total": 134,
-            "earliest": "30/9 1:15 PM"
+            "earliest": "29/9 11:15 AM"
         },
         "Cranbourne Turf Club": {
             "total": 15,
@@ -110,7 +110,7 @@
             "earliest": "26/9 10:50 AM"
         },
         "Ford": {
-            "total": 11,
+            "total": 9,
             "earliest": "26/9 8:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -174,7 +174,7 @@
             "earliest": "26/9 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 409,
+            "total": 410,
             "earliest": "26/9 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -242,7 +242,7 @@
             "earliest": "26/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 21,
+            "total": 20,
             "earliest": "26/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
