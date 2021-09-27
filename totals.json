@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-27 22:59",
+    "lastUpdated": "2021-09-27 23:03",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "11/11 11:15 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2/11 1:50 PM"
         },
         "Bright Hub - North East VIC": {
             "total": 1,
@@ -46,7 +46,7 @@
             "earliest": "27/9 8:40 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 76,
+            "total": 75,
             "earliest": "27/9 9:00 AM"
         },
         "Casterton Memorial Hospital": {
@@ -94,7 +94,7 @@
             "earliest": "28/9 9:20 AM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 328,
+            "total": 327,
             "earliest": "27/9 9:40 AM"
         },
         "East Grampians Health Services- Ararat": {
@@ -166,7 +166,7 @@
             "earliest": "27/9 8:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 54,
+            "total": 55,
             "earliest": "27/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -238,7 +238,7 @@
             "earliest": "28/9 9:50 AM"
         },
         "Sandown Racecourse": {
-            "total": 33,
+            "total": 32,
             "earliest": "27/9 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -298,7 +298,7 @@
             "earliest": "27/9 4:00 PM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 312,
+            "total": 310,
             "earliest": "27/9 8:35 AM"
         },
         "Werribee Mercy": {
@@ -330,7 +330,7 @@
             "earliest": null
         },
         "Your Community Health Mobile Clinic": {
-            "total": 31,
+            "total": 30,
             "earliest": "28/9 1:40 PM"
         }
     }
