@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-28 05:18",
+    "lastUpdated": "2021-09-28 05:22",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -34,8 +34,8 @@
             "earliest": "2/11 10:50 AM"
         },
         "Bright Hub - North East VIC": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "11/10 3:00 PM"
         },
         "Cabrini Elsternwick": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "15/11 11:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 288,
+            "total": 287,
             "earliest": "28/9 8:25 AM"
         },
         "Monash Community Outreach": {
@@ -238,8 +238,8 @@
             "earliest": "28/9 9:50 AM"
         },
         "Sandown Racecourse": {
-            "total": 1,
-            "earliest": "28/9 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
