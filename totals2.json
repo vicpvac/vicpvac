@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2021-09-28 04:50",
+    "lastUpdated": "2021-09-28 04:54",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 7,
+            "total": 6,
             "earliest": "28/9 1:15 PM"
         },
         "Austin - Olivia Newton John": {
@@ -34,8 +34,8 @@
             "earliest": "31/10 8:40 AM"
         },
         "Bright Hub - North East VIC": {
-            "total": 1,
-            "earliest": "11/10 3:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Cabrini Elsternwick": {
             "total": 0,
@@ -238,7 +238,7 @@
             "earliest": "28/9 9:50 AM"
         },
         "Sandown Racecourse": {
-            "total": 1118,
+            "total": 1117,
             "earliest": "29/9 4:00 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
