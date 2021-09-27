@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-28 04:06",
+    "lastUpdated": "2021-09-28 04:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 116,
+            "total": 115,
             "earliest": "28/9 9:20 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -66,11 +66,11 @@
             "earliest": "30/9 3:00 PM"
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/9 10:00 AM"
         },
         "Corryong health": {
-            "total": 126,
+            "total": 127,
             "earliest": "30/9 3:30 PM"
         },
         "Cranbourne Turf Club": {
@@ -166,7 +166,7 @@
             "earliest": "7/10 10:30 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 2,
+            "total": 3,
             "earliest": "7/10 9:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
