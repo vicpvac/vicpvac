@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-28 00:07",
+    "lastUpdated": "2021-09-28 00:11",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 117,
+            "total": 118,
             "earliest": "28/9 9:20 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/9 12:10 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 61,
@@ -58,8 +58,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 2:00 PM"
         },
         "Colac Area Health - COPACC": {
             "total": 1,
@@ -166,7 +166,7 @@
             "earliest": "9/10 9:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 4,
+            "total": 5,
             "earliest": "4/10 9:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
