@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-28 04:30",
+    "lastUpdated": "2021-09-28 04:34",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 3:00 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -174,7 +174,7 @@
             "earliest": "15/11 11:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 287,
+            "total": 288,
             "earliest": "28/9 8:25 AM"
         },
         "Monash Community Outreach": {
