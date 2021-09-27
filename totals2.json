@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-28 05:30",
+    "lastUpdated": "2021-09-28 05:34",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 6,
@@ -190,7 +190,7 @@
             "earliest": "30/9 10:00 AM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 16,
+            "total": 15,
             "earliest": "28/9 1:45 PM"
         },
         "NCN Health": {
@@ -210,11 +210,11 @@
             "earliest": "1/10 1:44 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 414,
+            "total": 413,
             "earliest": "3/10 1:20 PM"
         },
         "Northeast Health Wangaratta": {
-            "total": 324,
+            "total": 325,
             "earliest": "28/9 2:30 PM"
         },
         "Orbost Regional Health": {
@@ -238,12 +238,12 @@
             "earliest": "28/9 9:50 AM"
         },
         "Sandown Racecourse": {
-            "total": 1116,
+            "total": 1115,
             "earliest": "29/9 4:00 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 1,
-            "earliest": "6/10 2:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Sandringham Vaccination Centre": {
             "total": 1742,
