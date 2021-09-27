@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-28 07:11",
+    "lastUpdated": "2021-09-28 07:14",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,19 +10,19 @@
             "earliest": "15/10 9:40 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "3/10 5:10 PM"
         },
         "Bairnsdale City Oval": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/9 10:36 AM"
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 114,
+            "total": 113,
             "earliest": "28/9 9:20 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -66,7 +66,7 @@
             "earliest": "30/9 1:40 PM"
         },
         "Convention Centre": {
-            "total": 2,
+            "total": 1,
             "earliest": "28/9 10:12 AM"
         },
         "Corryong health": {
@@ -155,7 +155,7 @@
         },
         "Mansfield Vaccination Clinic": {
             "total": 96,
-            "earliest": "29/9 9:00 AM"
+            "earliest": "29/9 10:30 AM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
             "total": 2462,
@@ -166,7 +166,7 @@
             "earliest": "1/11 12:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 5,
+            "total": 6,
             "earliest": "28/9 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -210,8 +210,8 @@
             "earliest": "2/10 11:46 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "29/9 6:30 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 263,
@@ -247,7 +247,7 @@
         },
         "Sandringham Vaccination Centre": {
             "total": 1,
-            "earliest": "15/10 8:50 AM"
+            "earliest": "29/9 10:15 AM"
         },
         "Seymour Health": {
             "total": 1,
@@ -322,7 +322,7 @@
             "earliest": "18/11 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 135,
+            "total": 136,
             "earliest": "28/9 8:15 AM"
         },
         "Yarram Medical Centre": {
