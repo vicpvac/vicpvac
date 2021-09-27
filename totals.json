@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-28 06:58",
+    "lastUpdated": "2021-09-28 07:02",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "9/10 4:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 0,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 62,
-            "earliest": "1/10 3:10 PM"
+            "total": 61,
+            "earliest": "14/10 2:20 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -66,7 +66,7 @@
             "earliest": "30/9 1:40 PM"
         },
         "Convention Centre": {
-            "total": 1,
+            "total": 2,
             "earliest": "28/9 10:12 AM"
         },
         "Corryong health": {
@@ -107,7 +107,7 @@
         },
         "Eastland Vaccination Clinic Pfizer": {
             "total": 1,
-            "earliest": "28/9 1:30 PM"
+            "earliest": "3/10 9:10 AM"
         },
         "Ford": {
             "total": 1,
@@ -122,8 +122,8 @@
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 1:32 PM"
         },
         "Horsham": {
             "total": 90,
@@ -146,7 +146,7 @@
             "earliest": "6/10 8:40 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
-            "total": 110,
+            "total": 111,
             "earliest": "28/9 11:45 AM"
         },
         "Leongatha Community Clinic": {
@@ -166,12 +166,12 @@
             "earliest": "1/11 12:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1,
-            "earliest": "1/10 11:35 AM"
+            "total": 2,
+            "earliest": "28/9 11:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 758,
-            "earliest": "1/11 2:30 PM"
+            "total": 759,
+            "earliest": "2/10 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 286,
@@ -246,8 +246,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 2,
-            "earliest": "28/9 1:00 PM"
+            "total": 1,
+            "earliest": "29/9 1:40 PM"
         },
         "Seymour Health": {
             "total": 1,
@@ -322,7 +322,7 @@
             "earliest": "18/11 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 134,
+            "total": 135,
             "earliest": "1/10 11:55 AM"
         },
         "Yarram Medical Centre": {
