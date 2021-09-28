@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-29 06:38",
+    "lastUpdated": "2021-09-29 06:42",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 11:00 AM"
         },
         "Bairnsdale City Oval": {
             "total": 1,
@@ -62,8 +62,8 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 2:20 PM"
         },
         "Convention Centre": {
             "total": 2,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1,
-            "earliest": "6/10 12:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -238,16 +238,16 @@
             "earliest": "29/9 1:00 PM"
         },
         "Sandown Racecourse": {
-            "total": 1,
-            "earliest": "16/10 10:00 AM"
+            "total": 2,
+            "earliest": "29/9 3:50 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "9/10 12:00 PM"
         },
         "Seymour Health": {
             "total": 1,
