@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-29 00:02",
+    "lastUpdated": "2021-09-29 00:07",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 4,
@@ -58,15 +58,15 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/10 2:10 PM"
         },
         "Colac Area Health - COPACC": {
             "total": 63,
             "earliest": "30/9 3:00 PM"
         },
         "Convention Centre": {
-            "total": 740,
+            "total": 739,
             "earliest": "29/9 11:00 AM"
         },
         "Corryong health": {
@@ -74,8 +74,8 @@
             "earliest": "6/10 10:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 826,
-            "earliest": "29/9 11:20 AM"
+            "total": 825,
+            "earliest": "30/9 9:20 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 2,
@@ -114,7 +114,7 @@
             "earliest": "29/9 11:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 366,
+            "total": 365,
             "earliest": "3/10 2:10 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -166,12 +166,12 @@
             "earliest": "4/10 11:30 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1391,
+            "total": 1390,
             "earliest": "29/9 9:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 750,
-            "earliest": "9/10 2:50 PM"
+            "total": 749,
+            "earliest": "10/10 10:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 2413,
@@ -234,20 +234,20 @@
             "earliest": null
         },
         "SWH - Camperdown": {
-            "total": 126,
+            "total": 125,
             "earliest": "29/9 9:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 1175,
+            "total": 1176,
             "earliest": "1/10 2:20 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 5,
+            "total": 4,
             "earliest": "19/10 11:40 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 1763,
-            "earliest": "29/9 8:40 AM"
+            "total": 1762,
+            "earliest": "7/10 1:30 PM"
         },
         "Seymour Health": {
             "total": 1,
@@ -278,11 +278,11 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1471,
+            "total": 1472,
             "earliest": "29/9 8:35 AM"
         },
         "Traralgon Racecourse": {
-            "total": 604,
+            "total": 603,
             "earliest": "29/9 10:12 AM"
         },
         "WDHS - Balmoral Clinic": {
