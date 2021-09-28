@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-29 06:26",
+    "lastUpdated": "2021-09-29 06:30",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 5,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1542,
+            "total": 1541,
             "earliest": "29/9 10:10 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -122,7 +122,7 @@
             "earliest": "29/9 8:40 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 32,
+            "total": 33,
             "earliest": "29/9 11:27 AM"
         },
         "Horsham": {
@@ -170,12 +170,12 @@
             "earliest": "29/9 9:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 749,
-            "earliest": "6/10 8:50 AM"
+            "total": 748,
+            "earliest": "13/11 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 2414,
-            "earliest": "29/9 9:05 AM"
+            "total": 2415,
+            "earliest": "29/9 8:25 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -238,7 +238,7 @@
             "earliest": "29/9 9:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 1181,
+            "total": 1182,
             "earliest": "29/9 11:30 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 4,
-            "earliest": "29/9 3:10 PM"
+            "total": 3,
+            "earliest": "30/9 8:40 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
             "total": 0,
@@ -322,7 +322,7 @@
             "earliest": "9/10 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1667,
+            "total": 1666,
             "earliest": "29/9 8:15 AM"
         },
         "Yarram Medical Centre": {
@@ -330,8 +330,8 @@
             "earliest": "1/10 1:03 PM"
         },
         "Your Community Health Mobile Clinic": {
-            "total": 26,
-            "earliest": "29/9 2:40 PM"
+            "total": 27,
+            "earliest": "29/9 1:40 PM"
         }
     }
 }
