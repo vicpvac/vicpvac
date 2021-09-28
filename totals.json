@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-09-28 17:59",
+    "lastUpdated": "2021-09-28 18:03",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "5/10 4:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 11,
+            "total": 8,
             "earliest": "28/9 8:00 AM"
         },
         "Bairnsdale City Oval": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 208,
+            "total": 209,
             "earliest": "28/9 8:50 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -30,7 +30,7 @@
             "earliest": "11/11 12:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 7,
+            "total": 6,
             "earliest": "28/9 9:00 AM"
         },
         "Bright Hub - North East VIC": {
@@ -46,7 +46,7 @@
             "earliest": "28/9 8:40 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 67,
+            "total": 66,
             "earliest": "28/9 9:00 AM"
         },
         "Casterton Memorial Hospital": {
@@ -94,7 +94,7 @@
             "earliest": "28/9 9:00 AM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 279,
+            "total": 278,
             "earliest": "28/9 10:40 AM"
         },
         "East Grampians Health Services- Ararat": {
@@ -122,8 +122,8 @@
             "earliest": "29/9 1:22 PM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 3,
-            "earliest": "28/9 11:00 AM"
+            "total": 4,
+            "earliest": "28/9 10:24 AM"
         },
         "Horsham": {
             "total": 84,
@@ -134,7 +134,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 180,
+            "total": 178,
             "earliest": "28/9 10:30 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -162,11 +162,11 @@
             "earliest": "28/9 10:15 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 35,
+            "total": 34,
             "earliest": "28/9 9:50 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 119,
+            "total": 121,
             "earliest": "28/9 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -215,15 +215,15 @@
         },
         "Northeast Health Wangaratta": {
             "total": 257,
-            "earliest": "5/11 8:50 AM"
+            "earliest": "3/11 10:35 AM"
         },
         "Orbost Regional Health": {
             "total": 0,
             "earliest": null
         },
         "Portland District Health": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/10 11:00 AM"
         },
         "RMH Pfizer": {
             "total": 0,
@@ -234,11 +234,11 @@
             "earliest": null
         },
         "SWH - Camperdown": {
-            "total": 11,
+            "total": 12,
             "earliest": "28/9 9:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 33,
+            "total": 36,
             "earliest": "28/9 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -246,7 +246,7 @@
             "earliest": "28/9 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 23,
+            "total": 21,
             "earliest": "28/9 9:30 AM"
         },
         "Seymour Health": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 42,
+            "total": 43,
             "earliest": "28/9 8:15 AM"
         },
         "Traralgon Racecourse": {
@@ -298,7 +298,7 @@
             "earliest": "28/9 9:10 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 236,
+            "total": 234,
             "earliest": "28/9 8:15 AM"
         },
         "Werribee Mercy": {
