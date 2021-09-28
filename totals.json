@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-29 00:19",
+    "lastUpdated": "2021-09-29 00:22",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -74,12 +74,12 @@
             "earliest": "6/10 10:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "30/10 2:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 1,
-            "earliest": "14/10 10:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "DPV Health Fawkner": {
             "total": 0,
@@ -118,7 +118,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 1,
+            "total": 2,
             "earliest": "29/9 8:40 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -146,8 +146,8 @@
             "earliest": "29/9 4:30 PM"
         },
         "Kyneton - Central Highlands Rural Health": {
-            "total": 101,
-            "earliest": "5/10 2:15 PM"
+            "total": 100,
+            "earliest": "19/10 11:45 AM"
         },
         "Leongatha Community Clinic": {
             "total": 76,
@@ -322,7 +322,7 @@
             "earliest": "6/10 2:30 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 89,
+            "total": 88,
             "earliest": "11/10 8:35 AM"
         },
         "Yarram Medical Centre": {
