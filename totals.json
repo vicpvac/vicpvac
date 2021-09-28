@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-29 07:10",
+    "lastUpdated": "2021-09-29 07:14",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -14,8 +14,8 @@
             "earliest": "4/10 6:30 PM"
         },
         "Bairnsdale City Oval": {
-            "total": 1,
-            "earliest": "29/9 12:24 PM"
+            "total": 0,
+            "earliest": null
         },
         "Ballan Vaccination Clinic": {
             "total": 0,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 51,
+            "total": 50,
             "earliest": "29/9 10:40 AM"
         },
         "Casterton Memorial Hospital": {
@@ -134,7 +134,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 91,
+            "total": 92,
             "earliest": "29/9 11:10 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -166,7 +166,7 @@
             "earliest": "30/9 9:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 62,
+            "total": 63,
             "earliest": "29/9 9:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -210,7 +210,7 @@
             "earliest": "2/10 11:46 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 5,
+            "total": 6,
             "earliest": "29/9 8:00 AM"
         },
         "Northeast Health Wangaratta": {
@@ -238,16 +238,16 @@
             "earliest": "29/9 1:00 PM"
         },
         "Sandown Racecourse": {
+            "total": 1,
+            "earliest": "2/10 3:30 PM"
+        },
+        "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
             "earliest": null
         },
-        "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 1,
-            "earliest": "9/10 9:50 AM"
-        },
         "Sandringham Vaccination Centre": {
-            "total": 2,
-            "earliest": "30/9 2:50 PM"
+            "total": 3,
+            "earliest": "29/9 4:10 PM"
         },
         "Seymour Health": {
             "total": 2,
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 5,
+            "total": 6,
             "earliest": "29/9 8:15 AM"
         },
         "Traralgon Racecourse": {
