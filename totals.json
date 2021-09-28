@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2021-09-29 06:54",
+    "lastUpdated": "2021-09-29 06:58",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "29/9 8:00 AM"
-        },
-        "Austin - Repatriation (Pfizer)": {
             "total": 0,
             "earliest": null
+        },
+        "Austin - Repatriation (Pfizer)": {
+            "total": 1,
+            "earliest": "30/9 1:40 PM"
         },
         "Bairnsdale City Oval": {
             "total": 1,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 180,
+            "total": 179,
             "earliest": "3/10 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -34,8 +34,8 @@
             "earliest": null
         },
         "Bright Hub - North East VIC": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "1/11 9:30 AM"
         },
         "Cabrini Elsternwick": {
             "total": 0,
@@ -74,8 +74,8 @@
             "earliest": "6/10 10:00 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "14/10 10:20 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 1,
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "EACH - Kilsyth": {
-            "total": 268,
+            "total": 267,
             "earliest": "29/9 12:40 PM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
@@ -134,7 +134,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 90,
+            "total": 91,
             "earliest": "29/9 11:10 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -186,7 +186,7 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 9,
+            "total": 10,
             "earliest": "7/10 1:15 PM"
         },
         "Myrtleford Vaccination Hub": {
@@ -238,8 +238,8 @@
             "earliest": "29/9 1:00 PM"
         },
         "Sandown Racecourse": {
-            "total": 1,
-            "earliest": "29/9 3:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
@@ -282,7 +282,7 @@
             "earliest": "29/9 8:15 AM"
         },
         "Traralgon Racecourse": {
-            "total": 422,
+            "total": 423,
             "earliest": "29/9 11:20 AM"
         },
         "WDHS - Balmoral Clinic": {
