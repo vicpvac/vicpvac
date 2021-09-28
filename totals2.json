@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-29 00:46",
+    "lastUpdated": "2021-09-29 00:51",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 3,
@@ -58,15 +58,15 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "29/9 11:00 AM"
         },
         "Colac Area Health - COPACC": {
             "total": 63,
             "earliest": "30/9 3:00 PM"
         },
         "Convention Centre": {
-            "total": 737,
+            "total": 735,
             "earliest": "29/9 10:12 AM"
         },
         "Corryong health": {
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Eastland Vaccination Clinic Pfizer": {
-            "total": 1,
-            "earliest": "29/9 2:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Ford": {
             "total": 1545,
@@ -134,7 +134,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 100,
+            "total": 102,
             "earliest": "29/9 11:10 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -162,11 +162,11 @@
             "earliest": "29/9 9:00 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 711,
-            "earliest": "4/10 11:30 AM"
+            "total": 713,
+            "earliest": "1/10 1:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1385,
+            "total": 1386,
             "earliest": "29/9 9:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -298,7 +298,7 @@
             "earliest": "30/9 11:50 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 219,
+            "total": 218,
             "earliest": "4/10 2:15 PM"
         },
         "Werribee Mercy": {
@@ -318,8 +318,8 @@
             "earliest": "29/9 10:07 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 220,
-            "earliest": "9/10 8:30 AM"
+            "total": 221,
+            "earliest": "29/9 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 1658,
