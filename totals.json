@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-29 04:02",
+    "lastUpdated": "2021-09-29 04:06",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "29/9 2:30 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 52,
@@ -66,7 +66,7 @@
             "earliest": "30/9 3:00 PM"
         },
         "Convention Centre": {
-            "total": 5,
+            "total": 4,
             "earliest": "29/9 9:36 AM"
         },
         "Corryong health": {
@@ -166,7 +166,7 @@
             "earliest": "30/9 9:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 65,
+            "total": 66,
             "earliest": "29/9 9:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -298,8 +298,8 @@
             "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 215,
-            "earliest": "8/10 8:50 AM"
+            "total": 216,
+            "earliest": "29/9 2:30 PM"
         },
         "Werribee Mercy": {
             "total": 0,
@@ -322,7 +322,7 @@
             "earliest": "1/10 1:10 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 92,
+            "total": 91,
             "earliest": "29/9 11:15 AM"
         },
         "Yarram Medical Centre": {
