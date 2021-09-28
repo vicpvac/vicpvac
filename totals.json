@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-29 07:06",
+    "lastUpdated": "2021-09-29 07:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "4/10 6:30 PM"
         },
         "Bairnsdale City Oval": {
             "total": 1,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "29/9 2:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 51,
@@ -166,7 +166,7 @@
             "earliest": "30/9 9:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 61,
+            "total": 62,
             "earliest": "29/9 9:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -246,8 +246,8 @@
             "earliest": "9/10 9:50 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 3,
-            "earliest": "29/9 8:40 AM"
+            "total": 2,
+            "earliest": "30/9 2:50 PM"
         },
         "Seymour Health": {
             "total": 2,
@@ -278,11 +278,11 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 3,
+            "total": 5,
             "earliest": "29/9 8:15 AM"
         },
         "Traralgon Racecourse": {
-            "total": 422,
+            "total": 421,
             "earliest": "29/9 11:20 AM"
         },
         "WDHS - Balmoral Clinic": {
