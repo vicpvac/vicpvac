@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-29 02:54",
+    "lastUpdated": "2021-09-29 02:58",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,11 +42,11 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "10/10 12:30 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 53,
+            "total": 52,
             "earliest": "29/9 10:40 AM"
         },
         "Casterton Memorial Hospital": {
@@ -162,8 +162,8 @@
             "earliest": "29/9 9:00 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 22,
-            "earliest": "1/10 4:40 PM"
+            "total": 21,
+            "earliest": "1/11 1:10 PM"
         },
         "Melbourne Showgrounds": {
             "total": 65,
