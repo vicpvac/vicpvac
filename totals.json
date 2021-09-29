@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-30 03:42",
+    "lastUpdated": "2021-09-30 03:46",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "9/10 4:00 PM"
         },
         "Bairnsdale City Oval": {
             "total": 178,
@@ -66,7 +66,7 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 164,
+            "total": 162,
             "earliest": "30/9 9:48 AM"
         },
         "Corryong health": {
@@ -162,7 +162,7 @@
             "earliest": "30/9 9:50 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 18,
+            "total": 19,
             "earliest": "3/10 9:30 AM"
         },
         "Melbourne Showgrounds": {
