@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-09-30 04:22",
+    "lastUpdated": "2021-09-30 04:26",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2/10 3:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 1,
@@ -210,7 +210,7 @@
             "earliest": "2/10 11:54 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 5,
+            "total": 4,
             "earliest": "30/9 1:10 PM"
         },
         "Northeast Health Wangaratta": {
