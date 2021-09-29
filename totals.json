@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-09-30 03:06",
+    "lastUpdated": "2021-09-30 03:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -78,8 +78,8 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "30/9 5:00 PM"
         },
         "DPV Health Fawkner": {
             "total": 0,
@@ -142,7 +142,7 @@
             "earliest": "5/10 9:40 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 40,
+            "total": 39,
             "earliest": "1/10 8:40 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
@@ -238,8 +238,8 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 28,
-            "earliest": "2/10 2:30 PM"
+            "total": 29,
+            "earliest": "3/10 9:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 0,
