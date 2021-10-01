@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-02 00:42",
+    "lastUpdated": "2021-10-02 00:46",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "14/10 1:10 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -74,7 +74,7 @@
             "earliest": "14/10 10:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 31,
+            "total": 32,
             "earliest": "2/10 2:00 PM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -94,8 +94,8 @@
             "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 212,
-            "earliest": "2/10 10:45 AM"
+            "total": 211,
+            "earliest": "2/10 10:55 AM"
         },
         "East Grampians Health Services- Ararat": {
             "total": 156,
@@ -162,7 +162,7 @@
             "earliest": "2/10 12:50 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 103,
+            "total": 102,
             "earliest": "26/10 2:30 PM"
         },
         "Melbourne Showgrounds": {
