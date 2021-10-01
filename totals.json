@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-02 01:18",
+    "lastUpdated": "2021-10-02 01:22",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2/10 12:12 PM"
         },
         "Corryong health": {
             "total": 91,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 83,
+            "total": 82,
             "earliest": "3/10 2:30 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 220,
-            "earliest": "4/10 1:10 PM"
+            "total": 221,
+            "earliest": "2/10 2:30 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
             "total": 569,
@@ -162,8 +162,8 @@
             "earliest": "2/10 12:50 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 102,
-            "earliest": "2/10 10:50 AM"
+            "total": 101,
+            "earliest": "2/10 8:40 AM"
         },
         "Melbourne Showgrounds": {
             "total": 178,
@@ -210,8 +210,8 @@
             "earliest": "15/10 11:44 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "8/10 4:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 611,
