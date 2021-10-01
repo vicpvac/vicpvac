@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-02 04:14",
+    "lastUpdated": "2021-10-02 04:18",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 73,
@@ -58,8 +58,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "15/10 3:05 PM"
         },
         "Colac Area Health - COPACC": {
             "total": 59,
@@ -166,8 +166,8 @@
             "earliest": "2/10 12:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 2028,
-            "earliest": "17/10 8:25 AM"
+            "total": 2027,
+            "earliest": "19/10 8:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 762,
@@ -238,7 +238,7 @@
             "earliest": "5/10 9:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 1721,
+            "total": 1720,
             "earliest": "2/10 9:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -310,7 +310,7 @@
             "earliest": "3/10 5:25 PM"
         },
         "Wodonga Vaccination Hub": {
-            "total": 971,
+            "total": 970,
             "earliest": "2/10 11:15 AM"
         },
         "Wonthaggi Town Hall": {
@@ -322,7 +322,7 @@
             "earliest": "5/10 11:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 2309,
+            "total": 2308,
             "earliest": "2/10 8:10 AM"
         },
         "Yarram Medical Centre": {
