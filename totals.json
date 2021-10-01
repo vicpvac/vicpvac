@@ -1,12 +1,12 @@
 {
-    "lastUpdated": "2021-10-01 16:55",
+    "lastUpdated": "2021-10-01 16:59",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "25/10 8:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 5,
+            "total": 6,
             "earliest": "1/10 8:30 AM"
         },
         "Austin - Repatriation (Pfizer)": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 340,
+            "total": 339,
             "earliest": "1/10 8:50 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -30,7 +30,7 @@
             "earliest": "7/10 1:15 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 5,
+            "total": 7,
             "earliest": "1/10 9:50 AM"
         },
         "Bright Hub - North East VIC": {
@@ -46,7 +46,7 @@
             "earliest": "1/10 8:40 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 16,
+            "total": 14,
             "earliest": "1/10 9:10 AM"
         },
         "Casterton Memorial Hospital": {
@@ -66,7 +66,7 @@
             "earliest": "19/10 3:40 PM"
         },
         "Convention Centre": {
-            "total": 9,
+            "total": 10,
             "earliest": "1/10 9:30 AM"
         },
         "Corryong health": {
@@ -74,12 +74,12 @@
             "earliest": "14/10 1:30 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 34,
+            "total": 36,
             "earliest": "1/10 9:20 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 86,
-            "earliest": "18/10 9:45 AM"
+            "total": 85,
+            "earliest": "18/10 10:30 AM"
         },
         "DPV Health Fawkner": {
             "total": 0,
@@ -90,11 +90,11 @@
             "earliest": null
         },
         "EACH - Kilsyth": {
-            "total": 47,
+            "total": 46,
             "earliest": "1/10 9:50 AM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 247,
+            "total": 246,
             "earliest": "1/10 9:20 AM"
         },
         "East Grampians Health Services- Ararat": {
@@ -106,11 +106,11 @@
             "earliest": null
         },
         "Eastland Vaccination Clinic Pfizer": {
-            "total": 48,
+            "total": 42,
             "earliest": "1/10 9:20 AM"
         },
         "Ford": {
-            "total": 180,
+            "total": 179,
             "earliest": "1/10 8:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -142,7 +142,7 @@
             "earliest": "5/10 10:20 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 47,
+            "total": 46,
             "earliest": "1/10 8:50 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
@@ -166,15 +166,15 @@
             "earliest": "1/10 12:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 152,
+            "total": 155,
             "earliest": "1/10 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 11,
+            "total": 10,
             "earliest": "1/10 9:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 46,
+            "total": 45,
             "earliest": "1/10 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -186,7 +186,7 @@
             "earliest": null
         },
         "Mt Beauty Vaccination Hub": {
-            "total": 89,
+            "total": 86,
             "earliest": "14/10 9:45 AM"
         },
         "Myrtleford Vaccination Hub": {
@@ -214,7 +214,7 @@
             "earliest": "1/10 7:50 AM"
         },
         "Northeast Health Wangaratta": {
-            "total": 655,
+            "total": 656,
             "earliest": "1/10 9:00 AM"
         },
         "Orbost Regional Health": {
@@ -238,11 +238,11 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 62,
+            "total": 66,
             "earliest": "1/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 50,
+            "total": 47,
             "earliest": "1/10 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
@@ -258,7 +258,7 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 2,
+            "total": 3,
             "earliest": "1/10 3:40 PM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "WDHS \u2013 Hamilton Base Hospital": {
-            "total": 10,
-            "earliest": "27/10 1:40 PM"
+            "total": 11,
+            "earliest": "20/10 1:10 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
             "total": 9,
@@ -310,27 +310,27 @@
             "earliest": "3/10 12:55 PM"
         },
         "Wodonga Vaccination Hub": {
-            "total": 715,
+            "total": 714,
             "earliest": "1/10 9:00 AM"
         },
         "Wonthaggi Town Hall": {
-            "total": 324,
+            "total": 323,
             "earliest": "1/10 9:00 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 16,
+            "total": 15,
             "earliest": "1/10 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 49,
+            "total": 48,
             "earliest": "1/10 8:15 AM"
         },
         "Yarram Medical Centre": {
-            "total": 15,
+            "total": 14,
             "earliest": "1/10 12:30 PM"
         },
         "Your Community Health Mobile Clinic": {
-            "total": 57,
+            "total": 56,
             "earliest": "1/10 10:10 AM"
         }
     }
