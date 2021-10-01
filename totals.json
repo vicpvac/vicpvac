@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-02 07:18",
+    "lastUpdated": "2021-10-02 07:22",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,11 +10,11 @@
             "earliest": "14/10 8:00 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "5/10 11:10 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 104,
+            "total": 103,
             "earliest": "4/10 2:44 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -42,12 +42,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 2,
+            "total": 1,
             "earliest": "2/10 11:20 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "19/10 10:50 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -163,15 +163,15 @@
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
             "total": 100,
-            "earliest": "2/10 1:20 PM"
+            "earliest": "3/10 9:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 181,
+            "total": 183,
             "earliest": "2/10 1:45 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 10,
-            "earliest": "5/11 2:30 PM"
+            "total": 11,
+            "earliest": "3/11 11:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 35,
@@ -323,7 +323,7 @@
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 91,
-            "earliest": "2/10 8:15 AM"
+            "earliest": "2/10 8:20 AM"
         },
         "Yarram Medical Centre": {
             "total": 0,
