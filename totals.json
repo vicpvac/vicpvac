@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-02 00:35",
+    "lastUpdated": "2021-10-02 00:38",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 315,
+            "total": 314,
             "earliest": "3/10 1:20 PM"
         },
         "Beechworth Vaccination Hub": {
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2/10 2:51 PM"
         },
         "Corryong health": {
             "total": 91,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 86,
-            "earliest": "3/10 2:20 PM"
+            "total": 84,
+            "earliest": "3/10 2:30 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -162,11 +162,11 @@
             "earliest": "2/10 12:50 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 101,
+            "total": 103,
             "earliest": "26/10 2:30 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 183,
+            "total": 182,
             "earliest": "13/10 8:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -246,8 +246,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 1,
-            "earliest": "2/10 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Seymour Health": {
             "total": 109,
@@ -318,11 +318,11 @@
             "earliest": "4/10 10:28 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 19,
-            "earliest": "2/11 12:50 PM"
+            "total": 21,
+            "earliest": "8/10 2:30 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 92,
+            "total": 94,
             "earliest": "2/10 8:10 AM"
         },
         "Yarram Medical Centre": {
