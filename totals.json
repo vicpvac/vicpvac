@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-02 02:30",
+    "lastUpdated": "2021-10-02 02:34",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 1,
-            "earliest": "5/10 1:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -166,7 +166,7 @@
             "earliest": "10/10 10:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 178,
+            "total": 177,
             "earliest": "21/10 1:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -210,7 +210,7 @@
             "earliest": "15/10 11:44 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 2,
+            "total": 1,
             "earliest": "2/10 9:00 AM"
         },
         "Northeast Health Wangaratta": {
@@ -330,7 +330,7 @@
             "earliest": null
         },
         "Your Community Health Mobile Clinic": {
-            "total": 22,
+            "total": 21,
             "earliest": "2/10 12:00 PM"
         }
     }
