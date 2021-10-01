@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-02 03:06",
+    "lastUpdated": "2021-10-02 03:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "11/10 11:00 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -74,7 +74,7 @@
             "earliest": "14/10 10:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 31,
+            "total": 32,
             "earliest": "4/10 9:50 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 220,
-            "earliest": "4/10 1:10 PM"
+            "total": 219,
+            "earliest": "4/10 1:20 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
             "total": 569,
