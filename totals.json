@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-02 05:26",
+    "lastUpdated": "2021-10-02 05:30",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 315,
+            "total": 314,
             "earliest": "2/10 3:10 PM"
         },
         "Beechworth Vaccination Hub": {
@@ -222,8 +222,8 @@
             "earliest": null
         },
         "Portland District Health": {
-            "total": 1,
-            "earliest": "2/10 11:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "RMH Pfizer": {
             "total": 0,
@@ -322,7 +322,7 @@
             "earliest": "19/10 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 92,
+            "total": 93,
             "earliest": "2/10 8:10 AM"
         },
         "Yarram Medical Centre": {
