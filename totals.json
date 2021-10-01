@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-02 03:50",
+    "lastUpdated": "2021-10-02 03:54",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "2/10 3:24 PM"
         },
         "Corryong health": {
             "total": 91,
@@ -166,7 +166,7 @@
             "earliest": "2/10 12:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 181,
+            "total": 180,
             "earliest": "17/10 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -242,8 +242,8 @@
             "earliest": "2/10 9:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 1,
-            "earliest": "2/10 11:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
