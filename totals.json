@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-02 02:34",
+    "lastUpdated": "2021-10-02 02:38",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "11/10 2:00 PM"
         },
         "Bairnsdale City Oval": {
             "total": 106,
@@ -78,7 +78,7 @@
             "earliest": "4/10 9:50 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 45,
+            "total": 44,
             "earliest": "19/10 11:45 AM"
         },
         "DPV Health Fawkner": {
