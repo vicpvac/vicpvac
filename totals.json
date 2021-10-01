@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-10-02 02:50",
+    "lastUpdated": "2021-10-02 02:54",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "3/10 3:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 314,
+            "total": 315,
             "earliest": "2/10 3:10 PM"
         },
         "Beechworth Vaccination Hub": {
@@ -162,11 +162,11 @@
             "earliest": "2/10 12:50 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 100,
+            "total": 101,
             "earliest": "10/10 10:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 179,
+            "total": 178,
             "earliest": "11/10 2:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -210,7 +210,7 @@
             "earliest": "15/10 11:44 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 2,
+            "total": 1,
             "earliest": "2/10 9:00 AM"
         },
         "Northeast Health Wangaratta": {
