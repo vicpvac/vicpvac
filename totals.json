@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-03 00:26",
+    "lastUpdated": "2021-10-03 00:30",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -74,8 +74,8 @@
             "earliest": "14/10 10:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "3/10 3:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 5,
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "3/10 9:25 AM"
         },
         "Traralgon Racecourse": {
             "total": 1,
