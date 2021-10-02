@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-03 06:10",
+    "lastUpdated": "2021-10-03 06:14",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "7/10 10:30 AM"
         },
         "Bairnsdale City Oval": {
             "total": 85,
@@ -306,8 +306,8 @@
             "earliest": null
         },
         "Whitten Oval - Footscray": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "3/10 8:15 AM"
         },
         "Wodonga Vaccination Hub": {
             "total": 694,
