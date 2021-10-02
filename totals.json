@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-03 00:58",
+    "lastUpdated": "2021-10-03 01:02",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "28/10 12:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "26/10 1:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 2,
@@ -66,8 +66,8 @@
             "earliest": "5/10 3:00 PM"
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "3/10 4:36 PM"
         },
         "Corryong health": {
             "total": 91,
@@ -142,8 +142,8 @@
             "earliest": "5/10 11:40 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 2,
-            "earliest": "3/10 9:30 AM"
+            "total": 1,
+            "earliest": "6/10 8:20 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
             "total": 90,
@@ -166,7 +166,7 @@
             "earliest": "28/10 1:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 190,
+            "total": 189,
             "earliest": "11/10 8:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "3/10 9:25 AM"
+            "total": 0,
+            "earliest": null
         },
         "Traralgon Racecourse": {
             "total": 1,
