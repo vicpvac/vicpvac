@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-02 16:39",
+    "lastUpdated": "2021-10-02 16:43",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,11 +10,11 @@
             "earliest": "2/10 12:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 7,
+            "total": 8,
             "earliest": "2/10 8:10 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 86,
+            "total": 87,
             "earliest": "4/10 5:25 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 372,
+            "total": 373,
             "earliest": "2/10 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -42,7 +42,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 9,
+            "total": 10,
             "earliest": "2/10 8:40 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -58,8 +58,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 2,
-            "earliest": "28/10 11:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Colac Area Health - COPACC": {
             "total": 1,
@@ -78,8 +78,8 @@
             "earliest": "2/10 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 19,
-            "earliest": "20/10 12:15 PM"
+            "total": 20,
+            "earliest": "16/10 3:15 PM"
         },
         "DPV Health Fawkner": {
             "total": 0,
@@ -90,11 +90,11 @@
             "earliest": null
         },
         "EACH - Kilsyth": {
-            "total": 1,
-            "earliest": "4/10 1:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 200,
+            "total": 199,
             "earliest": "2/10 8:45 AM"
         },
         "East Grampians Health Services- Ararat": {
@@ -122,7 +122,7 @@
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 2,
+            "total": 1,
             "earliest": "2/10 11:15 AM"
         },
         "Horsham": {
@@ -150,23 +150,23 @@
             "earliest": "5/10 1:30 PM"
         },
         "Leongatha Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "4/10 11:32 AM"
         },
         "Mansfield Vaccination Clinic": {
             "total": 78,
             "earliest": "5/10 11:50 AM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
-            "total": 2354,
+            "total": 2349,
             "earliest": "2/10 9:30 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 88,
+            "total": 87,
             "earliest": "2/10 10:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 228,
+            "total": 225,
             "earliest": "2/10 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -174,7 +174,7 @@
             "earliest": "2/10 8:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 74,
+            "total": 73,
             "earliest": "2/10 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -210,7 +210,7 @@
             "earliest": "2/10 9:38 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 12,
+            "total": 13,
             "earliest": "2/10 8:10 AM"
         },
         "Northeast Health Wangaratta": {
@@ -238,15 +238,15 @@
             "earliest": "5/10 9:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 85,
+            "total": 84,
             "earliest": "2/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 21,
+            "total": 22,
             "earliest": "2/10 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 22,
+            "total": 23,
             "earliest": "2/10 8:30 AM"
         },
         "Seymour Health": {
@@ -258,7 +258,7 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 5,
+            "total": 4,
             "earliest": "2/10 9:10 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
@@ -294,11 +294,11 @@
             "earliest": "27/10 1:50 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 13,
+            "total": 12,
             "earliest": "2/10 9:00 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 740,
+            "total": 739,
             "earliest": "7/10 8:35 AM"
         },
         "Werribee Mercy": {
@@ -306,11 +306,11 @@
             "earliest": null
         },
         "Whitten Oval - Footscray": {
-            "total": 16,
+            "total": 15,
             "earliest": "2/10 8:30 AM"
         },
         "Wodonga Vaccination Hub": {
-            "total": 692,
+            "total": 691,
             "earliest": "2/10 11:30 AM"
         },
         "Wonthaggi Town Hall": {
@@ -322,7 +322,7 @@
             "earliest": "2/10 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 70,
+            "total": 69,
             "earliest": "2/10 8:15 AM"
         },
         "Yarram Medical Centre": {
