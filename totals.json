@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-03 06:22",
+    "lastUpdated": "2021-10-03 06:26",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -46,7 +46,7 @@
             "earliest": "5/10 1:45 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 6,
+            "total": 7,
             "earliest": "3/10 9:10 AM"
         },
         "Casterton Memorial Hospital": {
@@ -66,7 +66,7 @@
             "earliest": "5/10 3:00 PM"
         },
         "Convention Centre": {
-            "total": 2,
+            "total": 1,
             "earliest": "3/10 9:00 AM"
         },
         "Corryong health": {
@@ -162,7 +162,7 @@
             "earliest": "4/10 11:50 AM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 66,
+            "total": 67,
             "earliest": "3/10 8:40 AM"
         },
         "Melbourne Showgrounds": {
@@ -210,8 +210,8 @@
             "earliest": "22/10 10:40 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1,
-            "earliest": "3/10 4:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "Northeast Health Wangaratta": {
             "total": 575,
