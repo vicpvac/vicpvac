@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-03 05:38",
+    "lastUpdated": "2021-10-03 05:42",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "7/10 10:30 AM"
         },
         "Bairnsdale City Oval": {
             "total": 85,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 2,
-            "earliest": "3/10 9:20 AM"
+            "total": 1,
+            "earliest": "7/10 7:15 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 4,
@@ -174,7 +174,7 @@
             "earliest": "25/10 11:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 58,
+            "total": 60,
             "earliest": "25/10 8:15 AM"
         },
         "Monash Community Outreach": {
