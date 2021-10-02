@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2021-10-03 00:14",
+    "lastUpdated": "2021-10-03 00:19",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "3/10 9:30 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "3/10 11:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 85,
@@ -78,8 +78,8 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 4,
-            "earliest": "26/10 2:00 PM"
+            "total": 5,
+            "earliest": "19/10 3:15 PM"
         },
         "DPV Health Fawkner": {
             "total": 0,
@@ -170,11 +170,11 @@
             "earliest": "8/10 11:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 4,
-            "earliest": "14/11 12:10 PM"
+            "total": 5,
+            "earliest": "25/10 2:10 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 61,
+            "total": 60,
             "earliest": "22/10 1:15 PM"
         },
         "Monash Community Outreach": {
@@ -194,7 +194,7 @@
             "earliest": "15/10 9:45 AM"
         },
         "NCN Health": {
-            "total": 323,
+            "total": 322,
             "earliest": "12/10 10:58 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -210,8 +210,8 @@
             "earliest": "15/10 1:20 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 2,
-            "earliest": "3/10 3:20 PM"
+            "total": 1,
+            "earliest": "8/10 10:00 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 576,
