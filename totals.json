@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-03 04:10",
+    "lastUpdated": "2021-10-03 04:14",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -74,8 +74,8 @@
             "earliest": "14/10 10:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "3/10 10:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 2,
@@ -166,7 +166,7 @@
             "earliest": "3/10 11:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 190,
+            "total": 189,
             "earliest": "3/10 9:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -238,7 +238,7 @@
             "earliest": "5/10 9:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 33,
+            "total": 32,
             "earliest": "3/10 9:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/10 2:00 PM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
             "total": 167,
