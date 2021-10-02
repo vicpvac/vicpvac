@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-03 00:38",
+    "lastUpdated": "2021-10-03 00:42",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "28/10 12:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "26/10 1:30 PM"
         },
         "Bright Hub - North East VIC": {
             "total": 2,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 2,
+            "total": 1,
             "earliest": "3/10 9:40 AM"
         },
         "Casterton Memorial Hospital": {
@@ -106,8 +106,8 @@
             "earliest": null
         },
         "Eastland Vaccination Clinic Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "4/10 1:10 PM"
         },
         "Ford": {
             "total": 303,
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 1,
-            "earliest": "3/10 9:25 AM"
+            "total": 0,
+            "earliest": null
         },
         "Traralgon Racecourse": {
             "total": 1,
