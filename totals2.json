@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-03 01:34",
+    "lastUpdated": "2021-10-03 01:38",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 31,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1656,
+            "total": 1655,
             "earliest": "3/10 9:10 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -42,12 +42,12 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 50,
-            "earliest": "3/10 11:10 AM"
+            "total": 49,
+            "earliest": "6/10 3:15 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 482,
-            "earliest": "7/10 11:50 AM"
+            "total": 483,
+            "earliest": "3/10 9:40 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -142,8 +142,8 @@
             "earliest": "5/10 11:40 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 1,
-            "earliest": "6/10 8:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Kyneton - Central Highlands Rural Health": {
             "total": 89,
@@ -167,7 +167,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 1836,
-            "earliest": "7/10 12:45 PM"
+            "earliest": "18/10 10:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 751,
@@ -243,7 +243,7 @@
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 14,
-            "earliest": "20/10 3:00 PM"
+            "earliest": "21/10 9:20 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 2231,
@@ -322,7 +322,7 @@
             "earliest": "11/10 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1964,
+            "total": 1963,
             "earliest": "3/10 8:00 AM"
         },
         "Yarram Medical Centre": {
