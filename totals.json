@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-10-03 00:34",
+    "lastUpdated": "2021-10-03 00:38",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
             "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1,
-            "earliest": "11/10 8:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 0,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 1,
+            "total": 2,
             "earliest": "3/10 9:40 AM"
         },
         "Casterton Memorial Hospital": {
@@ -62,8 +62,8 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 1,
-            "earliest": "12/10 2:00 PM"
+            "total": 2,
+            "earliest": "5/10 3:00 PM"
         },
         "Convention Centre": {
             "total": 0,
@@ -306,8 +306,8 @@
             "earliest": null
         },
         "Whitten Oval - Footscray": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "3/10 12:25 PM"
         },
         "Wodonga Vaccination Hub": {
             "total": 694,
