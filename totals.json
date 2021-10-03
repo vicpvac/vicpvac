@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-03 23:46",
+    "lastUpdated": "2021-10-03 23:51",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -58,8 +58,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "14/10 11:07 AM"
         },
         "Colac Area Health - COPACC": {
             "total": 0,
@@ -150,8 +150,8 @@
             "earliest": "22/10 10:15 AM"
         },
         "Leongatha Community Clinic": {
-            "total": 4,
-            "earliest": "18/10 9:08 AM"
+            "total": 3,
+            "earliest": "19/10 9:40 AM"
         },
         "Mansfield Vaccination Clinic": {
             "total": 82,
@@ -162,7 +162,7 @@
             "earliest": "4/10 1:10 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 132,
+            "total": 131,
             "earliest": "3/10 8:40 AM"
         },
         "Melbourne Showgrounds": {
@@ -174,7 +174,7 @@
             "earliest": "3/10 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 141,
+            "total": 142,
             "earliest": "3/10 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -238,7 +238,7 @@
             "earliest": "5/10 9:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 91,
+            "total": 90,
             "earliest": "3/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -318,11 +318,11 @@
             "earliest": "4/10 12:12 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 54,
+            "total": 55,
             "earliest": "3/10 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 53,
+            "total": 54,
             "earliest": "3/10 8:10 AM"
         },
         "Yarram Medical Centre": {
