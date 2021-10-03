@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-03 23:42",
+    "lastUpdated": "2021-10-03 23:46",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -14,7 +14,7 @@
             "earliest": "3/10 10:00 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 83,
+            "total": 84,
             "earliest": "4/10 2:28 PM"
         },
         "Ballan Vaccination Clinic": {
@@ -122,8 +122,8 @@
             "earliest": "20/10 2:53 PM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 1,
-            "earliest": "29/10 1:32 PM"
+            "total": 0,
+            "earliest": null
         },
         "Horsham": {
             "total": 44,
@@ -162,11 +162,11 @@
             "earliest": "4/10 1:10 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 133,
+            "total": 132,
             "earliest": "3/10 8:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 265,
+            "total": 266,
             "earliest": "3/10 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -174,7 +174,7 @@
             "earliest": "3/10 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 140,
+            "total": 141,
             "earliest": "3/10 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -238,7 +238,7 @@
             "earliest": "5/10 9:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 88,
+            "total": 91,
             "earliest": "3/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -262,7 +262,7 @@
             "earliest": "3/10 11:20 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
-            "total": 139,
+            "total": 138,
             "earliest": "5/10 9:15 AM"
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
