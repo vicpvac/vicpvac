@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-04 00:23",
+    "lastUpdated": "2021-10-04 00:27",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "21/10 11:15 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "22/10 9:50 AM"
         },
         "Bright Hub - North East VIC": {
             "total": 4,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 1,
-            "earliest": "5/10 12:40 PM"
+            "total": 3,
+            "earliest": "22/10 9:10 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -74,12 +74,12 @@
             "earliest": "6/10 9:45 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 8,
-            "earliest": "4/10 2:50 PM"
+            "total": 7,
+            "earliest": "22/10 11:40 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 14,
-            "earliest": "27/10 11:30 AM"
+            "total": 15,
+            "earliest": "27/10 5:00 PM"
         },
         "DPV Health Fawkner": {
             "total": 0,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 241,
-            "earliest": "5/10 10:30 AM"
+            "total": 240,
+            "earliest": "5/10 10:40 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -167,14 +167,14 @@
         },
         "Melbourne Showgrounds": {
             "total": 232,
-            "earliest": "21/10 12:45 PM"
+            "earliest": "23/10 9:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 37,
             "earliest": "29/10 11:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 142,
+            "total": 140,
             "earliest": "18/10 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -238,8 +238,8 @@
             "earliest": "5/10 9:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 57,
-            "earliest": "19/10 9:20 AM"
+            "total": 56,
+            "earliest": "22/10 11:40 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 1,
@@ -251,7 +251,7 @@
         },
         "Seymour Health": {
             "total": 69,
-            "earliest": "5/10 10:30 AM"
+            "earliest": "4/10 1:15 PM"
         },
         "St George Greek Orthodox Church Hall - Thornbury": {
             "total": 0,
@@ -262,15 +262,15 @@
             "earliest": null
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
-            "total": 134,
-            "earliest": "5/10 9:15 AM"
+            "total": 131,
+            "earliest": "5/10 9:30 AM"
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
             "total": 0,
             "earliest": null
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 258,
+            "total": 257,
             "earliest": "5/10 10:40 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
@@ -318,11 +318,11 @@
             "earliest": "4/10 12:36 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 49,
+            "total": 50,
             "earliest": "19/10 11:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 16,
+            "total": 17,
             "earliest": "12/10 8:15 AM"
         },
         "Yarram Medical Centre": {
