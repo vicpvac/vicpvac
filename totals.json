@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-04 05:50",
+    "lastUpdated": "2021-10-04 05:54",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "7/10 9:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 82,
@@ -74,7 +74,7 @@
             "earliest": "6/10 9:45 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 9,
+            "total": 10,
             "earliest": "17/10 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -166,16 +166,16 @@
             "earliest": "25/10 1:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 249,
-            "earliest": "26/10 12:55 PM"
+            "total": 250,
+            "earliest": "15/10 10:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 45,
-            "earliest": "27/10 3:10 PM"
+            "total": 44,
+            "earliest": "30/10 12:10 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 154,
-            "earliest": "9/10 1:25 PM"
+            "total": 153,
+            "earliest": "18/10 8:15 AM"
         },
         "Monash Community Outreach": {
             "total": 0,
@@ -262,7 +262,7 @@
             "earliest": null
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
-            "total": 120,
+            "total": 119,
             "earliest": "5/10 9:45 AM"
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
@@ -282,8 +282,8 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "27/10 2:04 PM"
         },
         "WDHS - Balmoral Clinic": {
             "total": 0,
@@ -294,8 +294,8 @@
             "earliest": "27/10 2:10 PM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 4,
-            "earliest": "29/10 2:30 PM"
+            "total": 5,
+            "earliest": "22/10 1:30 PM"
         },
         "Werribee - St Vincent's Private": {
             "total": 666,
@@ -310,7 +310,7 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 684,
+            "total": 685,
             "earliest": "4/10 11:30 AM"
         },
         "Wonthaggi Town Hall": {
