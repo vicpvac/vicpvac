@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-04 00:51",
+    "lastUpdated": "2021-10-04 00:54",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,8 +10,8 @@
             "earliest": null
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1,
-            "earliest": "12/10 8:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bairnsdale City Oval": {
             "total": 84,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 387,
+            "total": 388,
             "earliest": "15/10 3:10 PM"
         },
         "Beechworth Vaccination Hub": {
@@ -30,8 +30,8 @@
             "earliest": "21/10 11:15 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "26/10 2:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 4,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 3,
+            "total": 5,
             "earliest": "22/10 9:20 AM"
         },
         "Casterton Memorial Hospital": {
@@ -58,8 +58,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/10 12:30 PM"
         },
         "Colac Area Health - COPACC": {
             "total": 0,
@@ -74,8 +74,8 @@
             "earliest": "6/10 9:45 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 4,
-            "earliest": "23/10 10:00 AM"
+            "total": 2,
+            "earliest": "24/10 9:40 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 16,
@@ -162,19 +162,19 @@
             "earliest": "4/10 12:40 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 123,
-            "earliest": "27/10 1:30 PM"
+            "total": 126,
+            "earliest": "26/10 1:30 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 240,
-            "earliest": "24/10 11:55 AM"
+            "total": 239,
+            "earliest": "26/10 10:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 40,
-            "earliest": "16/10 2:10 PM"
+            "total": 38,
+            "earliest": "31/10 11:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 143,
+            "total": 144,
             "earliest": "16/10 12:15 PM"
         },
         "Monash Community Outreach": {
@@ -270,8 +270,8 @@
             "earliest": null
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 256,
-            "earliest": "5/10 10:30 AM"
+            "total": 255,
+            "earliest": "5/10 10:40 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
             "total": 0,
@@ -322,7 +322,7 @@
             "earliest": "22/10 11:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 15,
+            "total": 16,
             "earliest": "12/10 8:15 AM"
         },
         "Yarram Medical Centre": {
