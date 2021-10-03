@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2021-10-04 06:46",
+    "lastUpdated": "2021-10-04 06:51",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "20/10 3:15 PM"
         },
         "Austin - Olivia Newton John": {
             "total": 3,
-            "earliest": "23/10 9:30 AM"
+            "earliest": "26/10 12:30 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 101,
-            "earliest": "25/10 4:40 PM"
+            "earliest": "26/10 1:00 PM"
         },
         "Bairnsdale City Oval": {
             "total": 253,
@@ -23,7 +23,7 @@
         },
         "Ballarat Community Clinic- Pfizer": {
             "total": 1638,
-            "earliest": "10/10 12:40 PM"
+            "earliest": "10/10 12:50 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 77,
@@ -42,7 +42,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 122,
+            "total": 123,
             "earliest": "25/10 12:00 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
@@ -67,19 +67,19 @@
         },
         "Convention Centre": {
             "total": 788,
-            "earliest": "12/10 4:27 PM"
+            "earliest": "5/10 2:42 PM"
         },
         "Corryong health": {
             "total": 106,
             "earliest": "6/10 9:45 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1327,
+            "total": 1330,
             "earliest": "9/10 2:30 PM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 34,
-            "earliest": "25/10 12:00 PM"
+            "total": 36,
+            "earliest": "23/10 11:15 AM"
         },
         "DPV Health Fawkner": {
             "total": 0,
@@ -94,7 +94,7 @@
             "earliest": "28/10 12:10 PM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 46,
+            "total": 45,
             "earliest": "4/10 3:20 PM"
         },
         "East Grampians Health Services- Ararat": {
@@ -114,11 +114,11 @@
             "earliest": "5/10 10:40 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 975,
+            "total": 973,
             "earliest": "5/10 11:50 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 156,
+            "total": 155,
             "earliest": "4/10 8:45 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -142,8 +142,8 @@
             "earliest": "5/10 11:50 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 1,
-            "earliest": "5/10 8:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Kyneton - Central Highlands Rural Health": {
             "total": 87,
@@ -158,23 +158,23 @@
             "earliest": "5/10 9:10 AM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
-            "total": 2526,
+            "total": 2525,
             "earliest": "4/10 1:50 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 945,
+            "total": 946,
             "earliest": "11/10 1:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1877,
-            "earliest": "19/10 12:05 PM"
+            "total": 1881,
+            "earliest": "13/10 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 835,
-            "earliest": "28/10 11:50 AM"
+            "total": 838,
+            "earliest": "4/10 12:10 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 2843,
+            "total": 2844,
             "earliest": "4/10 11:55 AM"
         },
         "Monash Community Outreach": {
@@ -210,8 +210,8 @@
             "earliest": "10/10 10:18 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 482,
-            "earliest": "19/10 9:40 AM"
+            "total": 483,
+            "earliest": "1/11 4:40 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 733,
@@ -238,7 +238,7 @@
             "earliest": "5/10 9:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 1906,
+            "total": 1910,
             "earliest": "10/10 1:20 PM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -246,8 +246,8 @@
             "earliest": "22/10 9:20 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 2312,
-            "earliest": "23/10 9:50 AM"
+            "total": 2311,
+            "earliest": "24/10 8:40 AM"
         },
         "Seymour Health": {
             "total": 68,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 9,
-            "earliest": "22/10 2:40 PM"
+            "total": 10,
+            "earliest": "18/10 10:40 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
             "total": 114,
@@ -278,11 +278,11 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 3382,
+            "total": 3383,
             "earliest": "4/10 12:55 PM"
         },
         "Traralgon Racecourse": {
-            "total": 231,
+            "total": 230,
             "earliest": "4/10 1:40 PM"
         },
         "WDHS - Balmoral Clinic": {
@@ -318,11 +318,11 @@
             "earliest": "4/10 12:36 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 342,
+            "total": 343,
             "earliest": "26/10 10:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 1827,
+            "total": 1828,
             "earliest": "5/10 12:15 PM"
         },
         "Yarram Medical Centre": {
