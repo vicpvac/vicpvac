@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-05 00:10",
+    "lastUpdated": "2021-10-05 00:15",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -74,8 +74,8 @@
             "earliest": "21/10 9:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1,
-            "earliest": "9/10 3:10 PM"
+            "total": 0,
+            "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
             "total": 24,
@@ -110,8 +110,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 89,
-            "earliest": "19/10 1:50 PM"
+            "total": 90,
+            "earliest": "7/10 3:10 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 0,
@@ -150,7 +150,7 @@
             "earliest": "2/11 11:15 AM"
         },
         "Leongatha Community Clinic": {
-            "total": 115,
+            "total": 114,
             "earliest": "5/10 9:45 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -166,12 +166,12 @@
             "earliest": "27/10 2:30 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 2048,
-            "earliest": "15/10 1:05 PM"
+            "total": 2049,
+            "earliest": "18/10 12:35 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 415,
-            "earliest": "16/10 2:10 PM"
+            "total": 414,
+            "earliest": "2/11 11:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 362,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "5/10 10:40 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
             "total": 0,
@@ -270,7 +270,7 @@
             "earliest": null
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 74,
+            "total": 73,
             "earliest": "13/10 10:50 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
@@ -298,8 +298,8 @@
             "earliest": "22/10 11:20 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 580,
-            "earliest": "19/10 9:45 AM"
+            "total": 581,
+            "earliest": "19/10 9:25 AM"
         },
         "Werribee Mercy": {
             "total": 0,
@@ -322,8 +322,8 @@
             "earliest": "27/10 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 603,
-            "earliest": "13/10 12:45 PM"
+            "total": 598,
+            "earliest": "13/10 12:55 PM"
         },
         "Yarram Medical Centre": {
             "total": 9,
