@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-05 00:50",
+    "lastUpdated": "2021-10-05 00:54",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "8/10 2:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "4/11 11:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 5,
@@ -43,10 +43,10 @@
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
             "total": 258,
-            "earliest": "1/11 10:40 AM"
+            "earliest": "2/11 10:10 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 503,
+            "total": 501,
             "earliest": "25/10 11:30 AM"
         },
         "Casterton Memorial Hospital": {
@@ -78,8 +78,8 @@
             "earliest": "27/10 9:20 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 44,
-            "earliest": "31/10 4:00 PM"
+            "total": 45,
+            "earliest": "28/10 2:45 PM"
         },
         "DPV Health Fawkner": {
             "total": 0,
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "EACH - Kilsyth": {
-            "total": 34,
-            "earliest": "4/11 12:50 PM"
+            "total": 33,
+            "earliest": "4/11 1:10 PM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
             "total": 0,
@@ -110,7 +110,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 997,
+            "total": 998,
             "earliest": "7/10 10:30 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -170,8 +170,8 @@
             "earliest": "26/10 9:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1219,
-            "earliest": "2/11 11:10 AM"
+            "total": 1220,
+            "earliest": "23/10 10:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 2680,
@@ -210,7 +210,7 @@
             "earliest": "22/10 1:04 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 690,
+            "total": 689,
             "earliest": "28/10 1:00 PM"
         },
         "Northeast Health Wangaratta": {
@@ -238,16 +238,16 @@
             "earliest": "5/10 11:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 1689,
-            "earliest": "14/10 3:40 PM"
+            "total": 1690,
+            "earliest": "5/10 9:40 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 93,
             "earliest": "3/11 11:30 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 2239,
-            "earliest": "28/10 10:20 AM"
+            "total": 2240,
+            "earliest": "7/10 9:30 AM"
         },
         "Seymour Health": {
             "total": 0,
@@ -258,8 +258,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 12,
-            "earliest": "4/11 9:40 AM"
+            "total": 11,
+            "earliest": "4/11 9:50 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
             "total": 0,
@@ -318,8 +318,8 @@
             "earliest": "5/10 2:04 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 521,
-            "earliest": "24/10 10:30 AM"
+            "total": 520,
+            "earliest": "25/10 10:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 1834,
