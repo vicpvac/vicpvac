@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-05 05:06",
+    "lastUpdated": "2021-10-05 05:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "6/10 2:30 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
             "total": 521,
@@ -166,7 +166,7 @@
             "earliest": "28/10 1:40 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 2047,
+            "total": 2048,
             "earliest": "5/10 10:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -262,8 +262,8 @@
             "earliest": null
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
-            "total": 1,
-            "earliest": "5/10 3:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
             "total": 0,
