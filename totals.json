@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-05 06:43",
+    "lastUpdated": "2021-10-05 06:47",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "5/10 1:50 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -167,7 +167,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 2048,
-            "earliest": "27/10 8:15 AM"
+            "earliest": "7/10 12:25 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 417,
@@ -298,7 +298,7 @@
             "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 580,
+            "total": 581,
             "earliest": "18/10 1:15 PM"
         },
         "Werribee Mercy": {
