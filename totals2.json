@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-05 04:06",
+    "lastUpdated": "2021-10-05 04:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,7 +10,7 @@
             "earliest": "19/10 8:50 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 497,
+            "total": 495,
             "earliest": "18/10 1:10 PM"
         },
         "Bairnsdale City Oval": {
@@ -30,8 +30,8 @@
             "earliest": "8/10 2:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "1/11 2:10 PM"
+            "total": 2,
+            "earliest": "23/10 1:00 PM"
         },
         "Bright Hub - North East VIC": {
             "total": 5,
@@ -67,7 +67,7 @@
         },
         "Convention Centre": {
             "total": 468,
-            "earliest": "6/10 9:12 AM"
+            "earliest": "12/10 10:00 AM"
         },
         "Corryong health": {
             "total": 113,
@@ -142,8 +142,8 @@
             "earliest": "6/10 10:40 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 1,
-            "earliest": "5/10 8:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Kyneton - Central Highlands Rural Health": {
             "total": 71,
@@ -166,7 +166,7 @@
             "earliest": "18/10 11:20 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 2119,
+            "total": 2118,
             "earliest": "26/10 8:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
