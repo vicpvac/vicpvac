@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-05 04:22",
+    "lastUpdated": "2021-10-05 04:26",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": "26/10 10:20 AM"
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "5/10 11:00 AM"
         },
         "Corryong health": {
             "total": 98,
@@ -174,7 +174,7 @@
             "earliest": "2/11 12:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 362,
+            "total": 363,
             "earliest": "25/10 12:15 PM"
         },
         "Monash Community Outreach": {
@@ -195,7 +195,7 @@
         },
         "NCN Health": {
             "total": 384,
-            "earliest": "18/10 11:22 AM"
+            "earliest": "18/10 11:46 AM"
         },
         "NCN Health Nathalia Pop Up": {
             "total": 5,
@@ -246,8 +246,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 1,
-            "earliest": "5/10 9:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Seymour Health": {
             "total": 0,
@@ -282,7 +282,7 @@
             "earliest": "15/11 10:25 AM"
         },
         "Traralgon Racecourse": {
-            "total": 81,
+            "total": 80,
             "earliest": "16/10 9:24 AM"
         },
         "WDHS - Balmoral Clinic": {
