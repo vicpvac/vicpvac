@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-05 03:06",
+    "lastUpdated": "2021-10-05 03:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "5/10 3:20 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
             "total": 519,
@@ -246,8 +246,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 1,
-            "earliest": "29/10 4:30 PM"
+            "total": 2,
+            "earliest": "5/10 9:00 AM"
         },
         "Seymour Health": {
             "total": 0,

@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-05 03:06",
+    "lastUpdated": "2021-10-05 03:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -134,8 +134,8 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "5/10 3:20 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
             "total": 519,
@@ -211,7 +211,7 @@
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
             "total": 694,
-            "earliest": "5/10 11:10 AM"
+            "earliest": "7/11 1:50 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 742,
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 2905,
-            "earliest": "10/10 12:35 PM"
+            "total": 2904,
+            "earliest": "13/10 11:55 AM"
         },
         "Traralgon Racecourse": {
             "total": 210,
@@ -318,7 +318,7 @@
             "earliest": "5/10 2:04 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 518,
+            "total": 517,
             "earliest": "14/10 3:45 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
