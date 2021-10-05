@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-06 02:14",
+    "lastUpdated": "2021-10-06 02:18",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "6/10 11:30 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 0,
@@ -114,8 +114,8 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/10 4:20 PM"
         },
         "Gippsland Regional Sports Complex - Sale": {
             "total": 2,
@@ -162,11 +162,11 @@
             "earliest": "14/10 1:50 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 177,
+            "total": 178,
             "earliest": "26/10 2:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 2228,
+            "total": 2227,
             "earliest": "21/10 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -238,7 +238,7 @@
             "earliest": "6/10 10:20 AM"
         },
         "Sandown Racecourse": {
-            "total": 188,
+            "total": 190,
             "earliest": "6/10 9:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
