@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-10-05 23:55",
+    "lastUpdated": "2021-10-05 23:59",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 15,
             "earliest": "5/10 8:00 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 1715,
+            "total": 1714,
             "earliest": "5/10 8:40 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 816,
+            "total": 815,
             "earliest": "5/10 8:10 AM"
         },
         "Bairnsdale City Oval": {
@@ -30,7 +30,7 @@
             "earliest": "14/10 2:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 18,
+            "total": 19,
             "earliest": "5/10 8:30 AM"
         },
         "Bright Hub - North East VIC": {
@@ -46,7 +46,7 @@
             "earliest": "5/10 9:30 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 559,
+            "total": 558,
             "earliest": "5/10 9:40 AM"
         },
         "Casterton Memorial Hospital": {
@@ -74,7 +74,7 @@
             "earliest": "12/10 1:30 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 1411,
+            "total": 1412,
             "earliest": "5/10 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -166,11 +166,11 @@
             "earliest": "5/10 8:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 2389,
+            "total": 2388,
             "earliest": "5/10 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1231,
+            "total": 1230,
             "earliest": "5/10 9:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
@@ -242,7 +242,7 @@
             "earliest": "5/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 153,
+            "total": 154,
             "earliest": "5/10 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
@@ -262,7 +262,7 @@
             "earliest": "5/10 8:40 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
-            "total": 1,
+            "total": 2,
             "earliest": "5/10 4:00 PM"
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
@@ -278,7 +278,7 @@
             "earliest": null
         },
         "Sunshine Hospital": {
-            "total": 2791,
+            "total": 2792,
             "earliest": "5/10 8:25 AM"
         },
         "Traralgon Racecourse": {
@@ -330,8 +330,8 @@
             "earliest": "5/10 10:04 AM"
         },
         "Your Community Health Mobile Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "6/10 11:00 AM"
         }
     }
 }

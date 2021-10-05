@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-10-05 23:54",
+    "lastUpdated": "2021-10-05 23:59",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 1,
             "earliest": "5/10 10:00 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 1701,
+            "total": 1700,
             "earliest": "5/10 4:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 799,
+            "total": 798,
             "earliest": "5/10 8:10 AM"
         },
         "Bairnsdale City Oval": {
@@ -30,7 +30,7 @@
             "earliest": "14/10 2:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 4,
+            "total": 5,
             "earliest": "5/10 9:40 AM"
         },
         "Bright Hub - North East VIC": {
@@ -166,11 +166,11 @@
             "earliest": "5/10 8:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 2249,
+            "total": 2248,
             "earliest": "5/10 9:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 438,
+            "total": 437,
             "earliest": "5/10 9:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
@@ -210,7 +210,7 @@
             "earliest": "16/10 10:42 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 416,
+            "total": 415,
             "earliest": "5/10 9:00 AM"
         },
         "Northeast Health Wangaratta": {
@@ -262,7 +262,7 @@
             "earliest": "5/10 8:40 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
-            "total": 1,
+            "total": 2,
             "earliest": "5/10 4:00 PM"
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
@@ -330,8 +330,8 @@
             "earliest": "5/10 10:04 AM"
         },
         "Your Community Health Mobile Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "6/10 11:00 AM"
         }
     }
 }
