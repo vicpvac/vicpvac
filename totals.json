@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-06 05:10",
+    "lastUpdated": "2021-10-06 05:14",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -66,8 +66,8 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "6/10 2:00 PM"
         },
         "Corryong health": {
             "total": 91,
@@ -162,8 +162,8 @@
             "earliest": "14/10 1:50 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 178,
-            "earliest": "25/10 3:00 PM"
+            "total": 177,
+            "earliest": "26/10 2:30 PM"
         },
         "Melbourne Showgrounds": {
             "total": 2225,
@@ -298,8 +298,8 @@
             "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 537,
-            "earliest": "21/10 9:25 AM"
+            "total": 536,
+            "earliest": "21/10 9:35 AM"
         },
         "Werribee Mercy": {
             "total": 0,
