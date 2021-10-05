@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-06 00:30",
+    "lastUpdated": "2021-10-06 00:35",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -46,8 +46,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "19/10 11:10 AM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -74,7 +74,7 @@
             "earliest": "21/10 10:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 112,
+            "total": 111,
             "earliest": "6/10 9:10 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -90,8 +90,8 @@
             "earliest": null
         },
         "EACH - Kilsyth": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "8/10 9:20 AM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
             "total": 0,
@@ -118,7 +118,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 2,
+            "total": 3,
             "earliest": "13/10 2:37 PM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -162,12 +162,12 @@
             "earliest": "14/10 1:50 PM"
         },
         "Melbourne Museum - Pfizer (REB relocated)": {
-            "total": 180,
-            "earliest": "26/10 1:40 PM"
+            "total": 179,
+            "earliest": "26/10 2:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 2233,
-            "earliest": "20/10 2:35 PM"
+            "total": 2232,
+            "earliest": "21/10 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 430,
@@ -210,8 +210,8 @@
             "earliest": "16/10 10:42 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 374,
-            "earliest": "12/10 8:50 AM"
+            "total": 375,
+            "earliest": "6/10 12:50 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 358,
@@ -238,7 +238,7 @@
             "earliest": "6/10 10:20 AM"
         },
         "Sandown Racecourse": {
-            "total": 191,
+            "total": 190,
             "earliest": "6/10 9:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -270,7 +270,7 @@
             "earliest": null
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 73,
+            "total": 72,
             "earliest": "14/10 2:12 PM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
@@ -322,7 +322,7 @@
             "earliest": "22/10 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 517,
+            "total": 518,
             "earliest": "7/10 8:50 AM"
         },
         "Yarram Medical Centre": {
