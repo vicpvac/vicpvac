@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-06 05:26",
+    "lastUpdated": "2021-10-06 05:30",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "6/10 12:30 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 0,
@@ -78,7 +78,7 @@
             "earliest": "6/10 9:10 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 36,
+            "total": 35,
             "earliest": "31/10 11:00 AM"
         },
         "DPV Health Fawkner": {
