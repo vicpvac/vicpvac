@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-07 01:55",
+    "lastUpdated": "2021-10-07 01:58",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 1,
@@ -30,8 +30,8 @@
             "earliest": "22/10 1:15 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "3/11 11:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 8,
@@ -46,8 +46,8 @@
             "earliest": "8/10 11:45 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 848,
-            "earliest": "7/10 3:50 PM"
+            "total": 850,
+            "earliest": "7/10 3:20 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -66,7 +66,7 @@
             "earliest": "7/10 10:40 AM"
         },
         "Convention Centre": {
-            "total": 833,
+            "total": 834,
             "earliest": "8/10 12:48 PM"
         },
         "Corryong health": {
@@ -226,7 +226,7 @@
             "earliest": "23/10 2:34 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1945,
+            "total": 1947,
             "earliest": "7/10 9:10 AM"
         },
         "Northeast Health Wangaratta": {
@@ -347,7 +347,7 @@
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 1193,
-            "earliest": "7/10 11:45 AM"
+            "earliest": "8/10 10:35 AM"
         },
         "Yarram Medical Centre": {
             "total": 96,
