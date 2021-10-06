@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-07 02:23",
+    "lastUpdated": "2021-10-07 02:26",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": "8/10 9:24 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "8/10 11:45 AM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 151,
@@ -130,7 +130,7 @@
             "earliest": "7/10 11:50 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 4,
+            "total": 3,
             "earliest": "8/10 12:52 PM"
         },
         "Glen Eira Community In-reach Vaccination Service": {
@@ -138,7 +138,7 @@
             "earliest": null
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 331,
+            "total": 332,
             "earliest": "7/10 9:32 AM"
         },
         "Horsham": {
@@ -258,7 +258,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 137,
+            "total": 136,
             "earliest": "7/10 9:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
