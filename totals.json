@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-07 01:15",
+    "lastUpdated": "2021-10-07 01:19",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": "8/10 9:24 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
-            "earliest": "7/10 1:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 151,
@@ -78,7 +78,7 @@
             "earliest": "7/10 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 30,
+            "total": 29,
             "earliest": "7/10 5:00 PM"
         },
         "DPV Health Epping Secondary College": {
@@ -182,7 +182,7 @@
             "earliest": "7/10 10:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1234,
+            "total": 1235,
             "earliest": "12/10 10:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -190,7 +190,7 @@
             "earliest": "26/10 2:10 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 964,
+            "total": 965,
             "earliest": "7/10 8:25 AM"
         },
         "Monash Community Outreach": {
