@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-07 07:23",
+    "lastUpdated": "2021-10-07 07:27",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": "8/10 9:36 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 2,
-            "earliest": "9/10 12:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 145,
@@ -62,7 +62,7 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 23,
+            "total": 22,
             "earliest": "7/10 10:40 AM"
         },
         "Convention Centre": {
@@ -126,7 +126,7 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 167,
+            "total": 166,
             "earliest": "7/10 11:50 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -154,7 +154,7 @@
             "earliest": "8/10 4:25 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
-            "total": 477,
+            "total": 478,
             "earliest": "7/10 2:20 PM"
         },
         "Kilmore District Health Sub Hub": {
@@ -346,15 +346,15 @@
             "earliest": "4/11 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 339,
-            "earliest": "17/10 1:15 PM"
+            "total": 340,
+            "earliest": "14/10 8:45 AM"
         },
         "Yarram Medical Centre": {
             "total": 0,
             "earliest": null
         },
         "Your Community Health Mobile Clinic": {
-            "total": 14,
+            "total": 13,
             "earliest": "7/10 11:10 AM"
         }
     }

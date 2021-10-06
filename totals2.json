@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-07 07:23",
+    "lastUpdated": "2021-10-07 07:27",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 1,
@@ -11,7 +11,7 @@
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 1755,
-            "earliest": "10/10 10:00 AM"
+            "earliest": "7/10 11:40 AM"
         },
         "Bairnsdale City Oval": {
             "total": 128,
@@ -30,8 +30,8 @@
             "earliest": "22/10 1:15 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "4/11 9:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 8,
@@ -42,8 +42,8 @@
             "earliest": "8/10 9:36 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 329,
-            "earliest": "9/10 12:00 PM"
+            "total": 328,
+            "earliest": "16/10 11:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 848,
@@ -62,11 +62,11 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 68,
+            "total": 67,
             "earliest": "7/10 10:40 AM"
         },
         "Convention Centre": {
-            "total": 831,
+            "total": 832,
             "earliest": "8/10 9:12 AM"
         },
         "Corryong health": {
@@ -74,7 +74,7 @@
             "earliest": "12/10 2:00 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 1398,
+            "total": 1399,
             "earliest": "7/10 9:30 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -122,15 +122,15 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1140,
+            "total": 1143,
             "earliest": "7/10 10:10 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1065,
+            "total": 1061,
             "earliest": "7/10 11:50 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 70,
+            "total": 69,
             "earliest": "8/10 9:48 AM"
         },
         "Glen Eira Community In-reach Vaccination Service": {
@@ -154,7 +154,7 @@
             "earliest": "8/10 4:25 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
-            "total": 477,
+            "total": 478,
             "earliest": "7/10 2:20 PM"
         },
         "Kilmore District Health Sub Hub": {
@@ -186,8 +186,8 @@
             "earliest": "7/10 12:45 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 1222,
-            "earliest": "18/10 10:10 AM"
+            "total": 1221,
+            "earliest": "1/11 12:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 3139,
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 15,
-            "earliest": "19/10 10:50 AM"
+            "total": 13,
+            "earliest": "21/10 2:00 PM"
         },
         "St Vincent\u2019s Hospital Melbourne - Pfizer": {
             "total": 0,
@@ -338,23 +338,23 @@
             "earliest": "19/10 12:45 PM"
         },
         "Wonthaggi Town Hall": {
-            "total": 46,
+            "total": 45,
             "earliest": "11/10 10:36 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 515,
+            "total": 516,
             "earliest": "8/10 2:10 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 1194,
-            "earliest": "9/10 2:45 PM"
+            "earliest": "14/10 8:45 AM"
         },
         "Yarram Medical Centre": {
             "total": 96,
             "earliest": "8/10 3:50 PM"
         },
         "Your Community Health Mobile Clinic": {
-            "total": 14,
+            "total": 13,
             "earliest": "7/10 11:10 AM"
         }
     }
