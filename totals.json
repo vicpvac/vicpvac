@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-07 00:19",
+    "lastUpdated": "2021-10-07 00:23",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,20 +30,20 @@
             "earliest": "28/10 9:45 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "14/10 10:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 6,
             "earliest": "25/10 1:45 PM"
         },
         "Cabrini Elsternwick": {
-            "total": 9,
+            "total": 8,
             "earliest": "8/10 9:24 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "7/10 11:30 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 153,
@@ -74,7 +74,7 @@
             "earliest": "21/10 11:15 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 56,
+            "total": 57,
             "earliest": "7/10 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -126,7 +126,7 @@
             "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 169,
+            "total": 168,
             "earliest": "7/10 11:50 AM"
         },
         "Gippsland Regional Sports Complex - Sale": {
@@ -190,7 +190,7 @@
             "earliest": "26/10 2:10 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 963,
+            "total": 964,
             "earliest": "7/10 8:25 AM"
         },
         "Monash Community Outreach": {
@@ -250,7 +250,7 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 489,
+            "total": 488,
             "earliest": "7/10 9:30 AM"
         },
         "SWH - Camperdown": {
@@ -258,7 +258,7 @@
             "earliest": null
         },
         "Sandown Racecourse": {
-            "total": 139,
+            "total": 140,
             "earliest": "7/10 9:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -335,7 +335,7 @@
         },
         "Wodonga Vaccination Hub": {
             "total": 646,
-            "earliest": "7/10 9:15 AM"
+            "earliest": "18/10 1:30 PM"
         },
         "Wonthaggi Town Hall": {
             "total": 32,
@@ -354,7 +354,7 @@
             "earliest": null
         },
         "Your Community Health Mobile Clinic": {
-            "total": 16,
+            "total": 15,
             "earliest": "7/10 11:10 AM"
         }
     }
