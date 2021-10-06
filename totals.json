@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-07 01:11",
+    "lastUpdated": "2021-10-07 01:15",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -42,8 +42,8 @@
             "earliest": "8/10 9:24 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "7/10 1:00 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
             "total": 151,
@@ -78,7 +78,7 @@
             "earliest": "7/10 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 31,
+            "total": 30,
             "earliest": "7/10 5:00 PM"
         },
         "DPV Health Epping Secondary College": {
@@ -183,7 +183,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 1234,
-            "earliest": "7/10 12:35 PM"
+            "earliest": "12/10 10:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 437,
@@ -262,8 +262,8 @@
             "earliest": "7/10 9:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "31/10 2:00 PM"
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
@@ -322,7 +322,7 @@
             "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 502,
+            "total": 501,
             "earliest": "7/10 10:45 AM"
         },
         "Werribee Mercy": {
