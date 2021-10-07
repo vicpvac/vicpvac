@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2021-10-08 00:07",
+    "lastUpdated": "2021-10-08 00:11",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "8/10 8:45 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 1586,
             "earliest": "10/10 10:30 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 693,
-            "earliest": "13/10 11:00 AM"
+            "total": 692,
+            "earliest": "17/10 2:00 PM"
         },
         "Bairnsdale City Oval": {
             "total": 96,
@@ -27,7 +27,7 @@
         },
         "Beechworth Vaccination Hub": {
             "total": 77,
-            "earliest": "8/10 9:30 AM"
+            "earliest": "28/10 1:15 PM"
         },
         "Box Hill Town Hall Pfizer": {
             "total": 0,
@@ -162,12 +162,12 @@
             "earliest": "11/10 11:50 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
-            "total": 66,
-            "earliest": "19/10 11:45 AM"
+            "total": 65,
+            "earliest": "26/10 9:15 AM"
         },
         "La Trobe University (Pfizer)": {
-            "total": 98,
-            "earliest": "11/10 12:30 PM"
+            "total": 97,
+            "earliest": "12/10 9:40 AM"
         },
         "Leongatha Community Clinic": {
             "total": 90,
@@ -182,8 +182,8 @@
             "earliest": "18/10 10:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1243,
-            "earliest": "8/10 9:25 AM"
+            "total": 1242,
+            "earliest": "22/10 3:05 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 447,
@@ -230,8 +230,8 @@
             "earliest": "8/10 12:40 PM"
         },
         "Northeast Health Wangaratta": {
-            "total": 299,
-            "earliest": "15/10 10:50 AM"
+            "total": 300,
+            "earliest": "8/10 9:00 AM"
         },
         "Orbost Regional Health": {
             "total": 0,
@@ -250,8 +250,8 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 443,
-            "earliest": "10/10 12:10 PM"
+            "total": 444,
+            "earliest": "10/10 9:20 AM"
         },
         "SWH - Camperdown": {
             "total": 133,
@@ -294,7 +294,7 @@
             "earliest": "18/10 9:24 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 357,
+            "total": 358,
             "earliest": "8/10 9:15 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
