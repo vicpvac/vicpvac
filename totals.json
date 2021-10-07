@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-08 07:06",
+    "lastUpdated": "2021-10-08 07:11",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -46,7 +46,7 @@
             "earliest": null
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 83,
+            "total": 84,
             "earliest": "14/10 12:50 PM"
         },
         "Casterton Memorial Hospital": {
@@ -62,7 +62,7 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 20,
+            "total": 19,
             "earliest": "14/10 9:50 AM"
         },
         "Convention Centre": {
@@ -122,8 +122,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "8/10 8:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 402,
@@ -286,7 +286,7 @@
             "earliest": null
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
-            "total": 160,
+            "total": 159,
             "earliest": "8/10 9:30 AM"
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
@@ -294,7 +294,7 @@
             "earliest": "18/10 9:24 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 358,
+            "total": 357,
             "earliest": "8/10 9:15 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
