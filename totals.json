@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2021-10-08 07:11",
+    "lastUpdated": "2021-10-08 07:15",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "8/10 11:30 AM"
         },
         "Austin - Olivia Newton John": {
             "total": 1585,
             "earliest": "15/10 2:40 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 691,
-            "earliest": "18/10 2:10 PM"
+            "total": 692,
+            "earliest": "9/10 4:00 PM"
         },
         "Bairnsdale City Oval": {
             "total": 96,
@@ -22,8 +22,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 218,
-            "earliest": "1/11 10:40 AM"
+            "total": 219,
+            "earliest": "1/11 10:00 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 77,
@@ -182,11 +182,11 @@
             "earliest": "18/10 10:40 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1240,
+            "total": 1241,
             "earliest": "18/10 11:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 447,
+            "total": 446,
             "earliest": "3/11 11:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
@@ -346,7 +346,7 @@
             "earliest": "5/11 9:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 289,
+            "total": 288,
             "earliest": "8/10 8:00 AM"
         },
         "Yarram Medical Centre": {
