@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-08 01:34",
+    "lastUpdated": "2021-10-08 01:39",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "28/10 1:15 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "30/10 10:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 0,
@@ -46,7 +46,7 @@
             "earliest": "8/10 12:45 PM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 86,
+            "total": 85,
             "earliest": "8/10 10:40 AM"
         },
         "Casterton Memorial Hospital": {
@@ -306,8 +306,8 @@
             "earliest": "8/10 10:55 AM"
         },
         "Traralgon Racecourse": {
-            "total": 1,
-            "earliest": "20/10 2:29 PM"
+            "total": 2,
+            "earliest": "14/10 11:08 AM"
         },
         "WDHS - Balmoral Clinic": {
             "total": 0,
