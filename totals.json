@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-10-08 09:39",
+    "lastUpdated": "2021-10-08 09:43",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "8/10 11:45 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1586,
+            "total": 1584,
             "earliest": "11/10 12:40 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 700,
+            "total": 701,
             "earliest": "8/10 8:20 AM"
         },
         "Bairnsdale City Oval": {
@@ -30,8 +30,8 @@
             "earliest": "28/10 1:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "28/10 12:40 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 1,
@@ -42,11 +42,11 @@
             "earliest": "8/10 9:36 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 1,
+            "total": 3,
             "earliest": "8/10 9:00 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 87,
+            "total": 90,
             "earliest": "8/10 8:40 AM"
         },
         "Casterton Memorial Hospital": {
@@ -54,7 +54,7 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 123,
+            "total": 124,
             "earliest": "11/10 12:20 PM"
         },
         "Cohealth Glenroy College Pop-up Clinic": {
@@ -74,12 +74,12 @@
             "earliest": "12/10 2:45 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 121,
+            "total": 124,
             "earliest": "8/10 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 36,
-            "earliest": "8/10 10:45 AM"
+            "total": 35,
+            "earliest": "16/10 4:30 PM"
         },
         "DPV Health Epping Secondary College": {
             "total": 0,
@@ -102,15 +102,15 @@
             "earliest": null
         },
         "EACH - Kilsyth": {
-            "total": 497,
-            "earliest": "9/10 9:50 AM"
+            "total": 496,
+            "earliest": "11/10 11:40 AM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
             "total": 390,
             "earliest": "11/10 12:40 PM"
         },
         "East Grampians Health Services- Ararat": {
-            "total": 126,
+            "total": 125,
             "earliest": "19/10 10:00 AM"
         },
         "Eastern Health Mobile Clinic 1": {
@@ -138,7 +138,7 @@
             "earliest": "8/10 1:30 PM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 238,
+            "total": 239,
             "earliest": "9/10 9:48 AM"
         },
         "Horsham": {
@@ -158,8 +158,8 @@
             "earliest": "12/10 11:10 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 7,
-            "earliest": "10/10 9:30 AM"
+            "total": 8,
+            "earliest": "9/10 10:00 AM"
         },
         "Kyneton - Central Highlands Rural Health": {
             "total": 66,
@@ -178,19 +178,19 @@
             "earliest": "11/10 12:10 PM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
-            "total": 2088,
+            "total": 2087,
             "earliest": "8/10 9:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1253,
+            "total": 1252,
             "earliest": "11/10 9:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 449,
+            "total": 447,
             "earliest": "9/10 8:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 909,
+            "total": 908,
             "earliest": "8/10 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -210,7 +210,7 @@
             "earliest": "22/10 10:00 AM"
         },
         "NCN Health": {
-            "total": 314,
+            "total": 313,
             "earliest": "20/10 10:18 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -226,7 +226,7 @@
             "earliest": "29/10 1:52 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 473,
+            "total": 475,
             "earliest": "8/10 8:00 AM"
         },
         "Northeast Health Wangaratta": {
@@ -250,15 +250,15 @@
             "earliest": "9/10 2:30 PM"
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 441,
-            "earliest": "8/10 4:50 PM"
+            "total": 437,
+            "earliest": "9/10 8:40 AM"
         },
         "SWH - Camperdown": {
             "total": 129,
             "earliest": "12/10 10:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 285,
+            "total": 284,
             "earliest": "8/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -278,8 +278,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 46,
-            "earliest": "10/10 4:40 PM"
+            "total": 44,
+            "earliest": "11/10 1:10 PM"
         },
         "St Vincent\u2019s Hospital Melbourne - Pfizer": {
             "total": 0,
@@ -302,7 +302,7 @@
             "earliest": "8/10 1:24 PM"
         },
         "Sunshine Hospital": {
-            "total": 1739,
+            "total": 1738,
             "earliest": "8/10 11:25 AM"
         },
         "Traralgon Racecourse": {
@@ -322,7 +322,7 @@
             "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 682,
+            "total": 681,
             "earliest": "8/10 8:35 AM"
         },
         "Werribee Mercy": {
@@ -342,12 +342,12 @@
             "earliest": "11/10 12:44 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 264,
+            "total": 265,
             "earliest": "8/10 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 285,
-            "earliest": "11/10 8:35 AM"
+            "total": 286,
+            "earliest": "8/10 11:50 AM"
         },
         "Yarram Medical Centre": {
             "total": 3,
