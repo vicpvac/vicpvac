@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-10 07:03",
+    "lastUpdated": "2021-10-10 07:07",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -46,7 +46,7 @@
             "earliest": "7/11 10:30 AM"
         },
         "Campbellfield Ford Complex Walk Ins-Pfizer": {
-            "total": 110,
+            "total": 109,
             "earliest": "10/10 8:30 AM"
         },
         "Casterton Memorial Hospital": {
@@ -166,8 +166,8 @@
             "earliest": "5/11 10:45 AM"
         },
         "La Trobe University (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "10/10 12:30 PM"
         },
         "Leongatha Community Clinic": {
             "total": 176,
@@ -190,7 +190,7 @@
             "earliest": "28/10 3:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 910,
+            "total": 909,
             "earliest": "10/10 11:45 AM"
         },
         "Monash Community Outreach": {
@@ -322,8 +322,8 @@
             "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 582,
-            "earliest": "12/10 12:45 PM"
+            "total": 583,
+            "earliest": "12/10 10:15 AM"
         },
         "Werribee Mercy": {
             "total": 0,
