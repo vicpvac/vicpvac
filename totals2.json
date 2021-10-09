@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-10-09 23:43",
+    "lastUpdated": "2021-10-09 23:47",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "26/10 1:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1558,
+            "total": 1557,
             "earliest": "9/10 8:10 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 1764,
+            "total": 1766,
             "earliest": "9/10 9:20 AM"
         },
         "Bairnsdale City Oval": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 1087,
+            "total": 1086,
             "earliest": "9/10 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -30,7 +30,7 @@
             "earliest": "21/10 9:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 16,
+            "total": 15,
             "earliest": "9/10 9:20 AM"
         },
         "Bright Hub - North East VIC": {
@@ -74,7 +74,7 @@
             "earliest": "12/10 3:15 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 1764,
+            "total": 1763,
             "earliest": "9/10 9:00 AM"
         },
         "DPV \u2013 Broadmeadows Town Hall": {
@@ -182,7 +182,7 @@
             "earliest": "9/10 9:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1308,
+            "total": 1305,
             "earliest": "9/10 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -190,7 +190,7 @@
             "earliest": "9/10 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 1719,
+            "total": 1721,
             "earliest": "9/10 8:15 AM"
         },
         "Monash Community Outreach": {
@@ -226,7 +226,7 @@
             "earliest": "15/10 2:00 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1650,
+            "total": 1651,
             "earliest": "9/10 8:30 AM"
         },
         "Northeast Health Wangaratta": {
@@ -266,7 +266,7 @@
             "earliest": "9/10 9:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 2517,
+            "total": 2516,
             "earliest": "9/10 9:00 AM"
         },
         "Seymour Health": {
@@ -302,7 +302,7 @@
             "earliest": "9/10 8:45 AM"
         },
         "Sunshine Hospital": {
-            "total": 1724,
+            "total": 1718,
             "earliest": "9/10 8:25 AM"
         },
         "Traralgon Racecourse": {
