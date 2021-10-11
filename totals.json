@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-10-12 07:07",
+    "lastUpdated": "2021-10-12 07:11",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "12/10 11:45 AM"
         },
         "Austin - Olivia Newton John": {
             "total": 1413,
@@ -22,12 +22,12 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 151,
+            "total": 150,
             "earliest": "2/11 1:50 PM"
         },
         "Beechworth Vaccination Hub": {
-            "total": 77,
-            "earliest": "4/11 9:45 AM"
+            "total": 78,
+            "earliest": "15/10 10:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
             "total": 0,
@@ -98,8 +98,8 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 17,
-            "earliest": "29/10 1:30 PM"
+            "total": 16,
+            "earliest": "30/10 9:30 AM"
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -142,8 +142,8 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 122,
-            "earliest": "27/10 2:29 PM"
+            "total": 121,
+            "earliest": "1/11 9:49 AM"
         },
         "Goods Shed Warragul Railway Station": {
             "total": 240,
@@ -190,15 +190,15 @@
             "earliest": "14/10 1:30 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1088,
+            "total": 1089,
             "earliest": "13/10 1:45 PM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 251,
+            "total": 252,
             "earliest": "21/10 9:10 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 794,
+            "total": 793,
             "earliest": "12/10 8:25 AM"
         },
         "Monash Community Outreach": {
@@ -346,8 +346,8 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 688,
-            "earliest": "1/11 1:45 PM"
+            "total": 689,
+            "earliest": "1/11 11:30 AM"
         },
         "Wonthaggi Town Hall": {
             "total": 738,
