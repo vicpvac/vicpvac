@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-12 02:02",
+    "lastUpdated": "2021-10-12 02:06",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 3,
@@ -74,7 +74,7 @@
             "earliest": "14/10 1:40 PM"
         },
         "Convention Centre": {
-            "total": 1094,
+            "total": 1093,
             "earliest": "12/10 10:24 AM"
         },
         "Corryong health": {
@@ -174,8 +174,8 @@
             "earliest": "29/10 2:45 PM"
         },
         "La Trobe University (Pfizer)": {
-            "total": 1,
-            "earliest": "14/10 11:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Leongatha Community Clinic": {
             "total": 265,
@@ -191,7 +191,7 @@
         },
         "Melbourne Showgrounds": {
             "total": 2335,
-            "earliest": "12/10 2:55 PM"
+            "earliest": "12/10 8:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 394,
