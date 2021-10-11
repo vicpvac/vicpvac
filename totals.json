@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-10-12 01:11",
+    "lastUpdated": "2021-10-12 01:15",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "12/10 11:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 1413,
@@ -22,8 +22,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 154,
-            "earliest": "2/11 1:50 PM"
+            "total": 155,
+            "earliest": "12/10 9:50 AM"
         },
         "Beechworth Vaccination Hub": {
             "total": 76,
@@ -98,7 +98,7 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 22,
+            "total": 21,
             "earliest": "27/10 9:45 AM"
         },
         "Dandenong Hospital": {
