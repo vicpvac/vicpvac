@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-12 01:34",
+    "lastUpdated": "2021-10-12 01:39",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "4/11 9:45 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "27/10 3:50 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 3,
@@ -58,8 +58,8 @@
             "earliest": "12/10 10:50 AM"
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "22/10 3:10 PM"
+            "total": 2,
+            "earliest": "20/10 11:10 AM"
         },
         "Cohealth Gleneagles Secondary College Pop up clinic": {
             "total": 64,
@@ -366,7 +366,7 @@
             "earliest": "12/10 11:08 AM"
         },
         "Your Community Health Mobile Clinic": {
-            "total": 23,
+            "total": 24,
             "earliest": "13/10 10:40 AM"
         }
     }
