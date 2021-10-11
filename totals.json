@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2021-10-11 17:55",
+    "lastUpdated": "2021-10-11 17:59",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 62,
+            "total": 61,
             "earliest": "11/10 1:15 PM"
         },
         "Austin - Olivia Newton John": {
@@ -10,7 +10,7 @@
             "earliest": "11/10 9:00 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 603,
+            "total": 600,
             "earliest": "11/10 8:40 AM"
         },
         "Bairnsdale City Oval": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 182,
+            "total": 183,
             "earliest": "11/10 9:10 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -82,7 +82,7 @@
             "earliest": "27/10 11:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 97,
+            "total": 96,
             "earliest": "11/10 9:00 AM"
         },
         "DPV Health Epping Secondary College": {
@@ -130,11 +130,11 @@
             "earliest": "11/10 3:00 PM"
         },
         "Ford": {
-            "total": 2,
+            "total": 1,
             "earliest": "11/10 10:40 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 194,
+            "total": 196,
             "earliest": "11/10 9:40 AM"
         },
         "French Street \u2013 Pop up \u2013 DPV Health": {
@@ -194,11 +194,11 @@
             "earliest": "11/10 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 262,
+            "total": 263,
             "earliest": "11/10 8:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 856,
+            "total": 855,
             "earliest": "11/10 8:35 AM"
         },
         "Monash Community Outreach": {
@@ -222,7 +222,7 @@
             "earliest": "22/10 11:45 AM"
         },
         "NCN Health": {
-            "total": 298,
+            "total": 299,
             "earliest": "11/10 9:38 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -270,7 +270,7 @@
             "earliest": "12/10 10:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 318,
+            "total": 317,
             "earliest": "11/10 9:10 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -278,7 +278,7 @@
             "earliest": "11/10 10:00 AM"
         },
         "Sandringham Vaccination Centre": {
-            "total": 4,
+            "total": 5,
             "earliest": "11/10 8:50 AM"
         },
         "Seymour Health": {
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 2,
+            "total": 3,
             "earliest": "11/10 2:20 PM"
         },
         "St Vincent\u2019s Hospital Melbourne - Pfizer": {
@@ -298,7 +298,7 @@
             "earliest": null
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
-            "total": 305,
+            "total": 306,
             "earliest": "14/10 2:45 PM"
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
@@ -330,11 +330,11 @@
             "earliest": "14/10 10:30 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
-            "total": 1,
-            "earliest": "30/10 11:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 472,
+            "total": 516,
             "earliest": "11/10 8:15 AM"
         },
         "Werribee Mercy": {
@@ -358,7 +358,7 @@
             "earliest": "11/10 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 185,
+            "total": 184,
             "earliest": "11/10 8:35 AM"
         },
         "Yarram Medical Centre": {
@@ -366,7 +366,7 @@
             "earliest": null
         },
         "Your Community Health Mobile Clinic": {
-            "total": 34,
+            "total": 35,
             "earliest": "13/10 9:40 AM"
         }
     }
