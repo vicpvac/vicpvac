@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-12 01:28",
+    "lastUpdated": "2021-10-12 01:34",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -174,8 +174,8 @@
             "earliest": "29/10 2:45 PM"
         },
         "La Trobe University (Pfizer)": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "14/10 11:10 AM"
         },
         "Leongatha Community Clinic": {
             "total": 147,
@@ -314,8 +314,8 @@
             "earliest": "12/10 1:08 PM"
         },
         "Sunshine Hospital": {
-            "total": 198,
-            "earliest": "12/10 9:55 AM"
+            "total": 197,
+            "earliest": "12/10 1:45 PM"
         },
         "Traralgon Racecourse": {
             "total": 36,
@@ -358,7 +358,7 @@
             "earliest": "8/11 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 173,
+            "total": 174,
             "earliest": "14/10 8:15 AM"
         },
         "Yarram Medical Centre": {
@@ -366,7 +366,7 @@
             "earliest": "12/10 11:08 AM"
         },
         "Your Community Health Mobile Clinic": {
-            "total": 24,
+            "total": 23,
             "earliest": "13/10 10:40 AM"
         }
     }
