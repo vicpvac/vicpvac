@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-12 06:23",
+    "lastUpdated": "2021-10-12 06:27",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 2,
@@ -30,8 +30,8 @@
             "earliest": "21/10 11:00 AM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "27/10 11:40 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 4,
@@ -134,7 +134,7 @@
             "earliest": "20/10 10:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1233,
+            "total": 1232,
             "earliest": "12/10 9:40 AM"
         },
         "French Street \u2013 Pop up \u2013 DPV Health": {
@@ -238,8 +238,8 @@
             "earliest": "23/10 10:18 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1303,
-            "earliest": "12/10 10:40 AM"
+            "total": 1304,
+            "earliest": "12/10 10:10 AM"
         },
         "Northeast Health Wangaratta": {
             "total": 486,
@@ -271,7 +271,7 @@
         },
         "Sandown Racecourse": {
             "total": 2096,
-            "earliest": "12/10 9:00 AM"
+            "earliest": "12/10 9:20 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
             "total": 133,
@@ -314,7 +314,7 @@
             "earliest": "12/10 1:08 PM"
         },
         "Sunshine Hospital": {
-            "total": 2701,
+            "total": 2702,
             "earliest": "12/10 10:35 AM"
         },
         "Traralgon Racecourse": {
@@ -359,7 +359,7 @@
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 1621,
-            "earliest": "12/10 8:55 AM"
+            "earliest": "12/10 10:35 AM"
         },
         "Yarram Medical Centre": {
             "total": 83,
