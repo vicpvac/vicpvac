@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-10-13 01:19",
+    "lastUpdated": "2021-10-13 01:23",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "28/10 8:00 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
-            "total": 1206,
-            "earliest": "16/10 12:50 PM"
+            "total": 1205,
+            "earliest": "22/10 4:40 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 1573,
@@ -30,8 +30,8 @@
             "earliest": "28/10 2:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "25/10 2:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 0,
@@ -190,8 +190,8 @@
             "earliest": "13/10 11:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 2308,
-            "earliest": "14/10 9:25 AM"
+            "total": 2307,
+            "earliest": "25/10 8:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 389,
@@ -262,7 +262,7 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 1354,
+            "total": 1355,
             "earliest": "13/10 9:20 AM"
         },
         "SWH - Camperdown": {
@@ -274,7 +274,7 @@
             "earliest": "13/10 9:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 76,
+            "total": 75,
             "earliest": "13/10 11:30 AM"
         },
         "Sandringham Vaccination Centre": {
