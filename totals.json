@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-10-13 06:19",
+    "lastUpdated": "2021-10-13 06:23",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "13/10 8:00 AM"
         },
         "Austin - Olivia Newton John": {
             "total": 888,
@@ -354,8 +354,8 @@
             "earliest": "13/10 12:40 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 266,
-            "earliest": "4/11 9:30 AM"
+            "total": 265,
+            "earliest": "8/11 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 148,
