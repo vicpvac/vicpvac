@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-12 15:47",
+    "lastUpdated": "2021-10-12 15:51",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 2,
@@ -54,7 +54,7 @@
             "earliest": null
         },
         "Cohealth - Outreach Temples": {
-            "total": 104,
+            "total": 105,
             "earliest": "12/10 10:50 AM"
         },
         "Cohealth City Town Hall": {
@@ -62,8 +62,8 @@
             "earliest": "12/10 10:50 AM"
         },
         "Cohealth Gleneagles Secondary College Pop up clinic": {
-            "total": 45,
-            "earliest": "16/10 2:40 PM"
+            "total": 46,
+            "earliest": "16/10 2:30 PM"
         },
         "Cohealth Glenroy College Pop-up Clinic": {
             "total": 0,
@@ -118,8 +118,8 @@
             "earliest": "12/10 9:00 AM"
         },
         "East Grampians Health Services- Ararat": {
-            "total": 67,
-            "earliest": "19/10 9:40 AM"
+            "total": 65,
+            "earliest": "26/10 8:30 AM"
         },
         "Eastern Health Mobile Clinic 1": {
             "total": 0,
@@ -158,7 +158,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 305,
+            "total": 306,
             "earliest": "12/10 10:15 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -187,18 +187,18 @@
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
             "total": 2073,
-            "earliest": "18/10 12:30 PM"
+            "earliest": "18/10 10:50 AM"
         },
         "Melbourne Showgrounds": {
             "total": 1074,
             "earliest": "12/10 9:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 253,
+            "total": 252,
             "earliest": "12/10 9:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 784,
+            "total": 786,
             "earliest": "12/10 8:25 AM"
         },
         "Monash Community Outreach": {
@@ -242,7 +242,7 @@
             "earliest": "12/10 8:50 AM"
         },
         "Northeast Health Wangaratta": {
-            "total": 329,
+            "total": 330,
             "earliest": "12/10 12:15 PM"
         },
         "Orbost Regional Health": {
@@ -270,7 +270,7 @@
             "earliest": "12/10 10:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 262,
+            "total": 264,
             "earliest": "12/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -306,7 +306,7 @@
             "earliest": "19/10 9:36 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
-            "total": 303,
+            "total": 302,
             "earliest": "12/10 9:10 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
@@ -314,7 +314,7 @@
             "earliest": "12/10 1:00 PM"
         },
         "Sunshine Hospital": {
-            "total": 190,
+            "total": 189,
             "earliest": "12/10 9:05 AM"
         },
         "Traralgon Racecourse": {
@@ -366,8 +366,8 @@
             "earliest": "12/10 11:08 AM"
         },
         "Your Community Health Mobile Clinic": {
-            "total": 5,
-            "earliest": "13/10 1:30 PM"
+            "total": 4,
+            "earliest": "13/10 1:40 PM"
         }
     }
 }
