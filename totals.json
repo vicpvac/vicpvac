@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-10-13 02:18",
+    "lastUpdated": "2021-10-13 02:23",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "13/10 2:15 PM"
         },
         "Austin - Olivia Newton John": {
             "total": 889,
             "earliest": "24/10 5:20 PM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 420,
+            "total": 419,
             "earliest": "21/10 1:20 PM"
         },
         "Bairnsdale City Oval": {
@@ -30,8 +30,8 @@
             "earliest": "28/10 2:45 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/10 2:00 PM"
         },
         "Bright Hub - North East VIC": {
             "total": 0,
@@ -58,8 +58,8 @@
             "earliest": "13/10 10:40 AM"
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "14/10 2:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Cohealth Gleneagles Secondary College Pop up clinic": {
             "total": 31,
@@ -190,7 +190,7 @@
             "earliest": "14/10 1:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1052,
+            "total": 1051,
             "earliest": "13/10 9:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
