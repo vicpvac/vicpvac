@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2021-10-13 07:11",
+    "lastUpdated": "2021-10-13 07:15",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 1,
             "earliest": "13/10 8:00 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 888,
-            "earliest": "18/10 7:20 PM"
+            "total": 887,
+            "earliest": "24/10 5:40 PM"
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 419,
@@ -98,7 +98,7 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 6,
+            "total": 7,
             "earliest": "13/10 9:30 AM"
         },
         "Dandenong Hospital": {
@@ -130,8 +130,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 2,
+            "earliest": "14/10 12:30 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 163,
@@ -166,15 +166,15 @@
             "earliest": "13/10 1:00 PM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 5,
-            "earliest": "17/10 1:10 PM"
+            "total": 4,
+            "earliest": "17/10 1:20 PM"
         },
         "Kyneton - Central Highlands Rural Health": {
             "total": 54,
             "earliest": "9/11 9:30 AM"
         },
         "La Trobe University (Pfizer)": {
-            "total": 2,
+            "total": 1,
             "earliest": "13/10 8:40 AM"
         },
         "Leongatha Community Clinic": {
@@ -190,15 +190,15 @@
             "earliest": "14/10 3:20 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1049,
-            "earliest": "21/10 9:45 AM"
+            "total": 1050,
+            "earliest": "14/10 10:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 243,
             "earliest": "4/11 12:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 722,
+            "total": 723,
             "earliest": "13/10 8:55 AM"
         },
         "Monash Community Outreach": {
@@ -218,7 +218,7 @@
             "earliest": "13/10 2:45 PM"
         },
         "Myrtleford Vaccination Hub": {
-            "total": 38,
+            "total": 37,
             "earliest": "22/10 9:45 AM"
         },
         "NCN Health": {
@@ -274,8 +274,8 @@
             "earliest": "13/10 9:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 48,
-            "earliest": "13/10 2:30 PM"
+            "total": 49,
+            "earliest": "13/10 9:20 AM"
         },
         "Sandringham Vaccination Centre": {
             "total": 0,
@@ -358,8 +358,8 @@
             "earliest": "8/11 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 147,
-            "earliest": "25/10 12:15 PM"
+            "total": 146,
+            "earliest": "25/10 12:35 PM"
         },
         "Yarram Medical Centre": {
             "total": 1,
