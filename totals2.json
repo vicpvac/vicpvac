@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-13 01:58",
+    "lastUpdated": "2021-10-13 02:03",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 1,
@@ -42,11 +42,11 @@
             "earliest": "13/10 8:27 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
-            "total": 531,
+            "total": 530,
             "earliest": "29/10 2:15 PM"
         },
         "Campbellfield Ford Complex Indoor-Pfizer": {
-            "total": 816,
+            "total": 817,
             "earliest": "13/10 9:30 AM"
         },
         "Casterton Memorial Hospital": {
@@ -58,8 +58,8 @@
             "earliest": "13/10 10:40 AM"
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "22/10 10:30 AM"
+            "total": 0,
+            "earliest": null
         },
         "Cohealth Gleneagles Secondary College Pop up clinic": {
             "total": 31,
@@ -82,7 +82,7 @@
             "earliest": "20/10 11:15 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 1521,
+            "total": 1522,
             "earliest": "13/10 9:20 AM"
         },
         "DPV Health Epping Secondary College": {
@@ -134,7 +134,7 @@
             "earliest": "14/10 2:00 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 1235,
+            "total": 1236,
             "earliest": "13/10 9:40 AM"
         },
         "French Street \u2013 Pop up \u2013 DPV Health": {
@@ -190,7 +190,7 @@
             "earliest": "13/10 11:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 2310,
+            "total": 2311,
             "earliest": "13/10 9:05 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -238,7 +238,7 @@
             "earliest": "23/10 12:34 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1208,
+            "total": 1206,
             "earliest": "13/10 12:00 PM"
         },
         "Northeast Health Wangaratta": {
@@ -262,8 +262,8 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 1354,
-            "earliest": "13/10 9:20 AM"
+            "total": 1353,
+            "earliest": "18/10 1:40 PM"
         },
         "SWH - Camperdown": {
             "total": 80,
@@ -274,7 +274,7 @@
             "earliest": "13/10 9:50 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 74,
+            "total": 73,
             "earliest": "13/10 11:30 AM"
         },
         "Sandringham Vaccination Centre": {
@@ -314,7 +314,7 @@
             "earliest": "13/10 1:05 PM"
         },
         "Sunshine Hospital": {
-            "total": 2645,
+            "total": 2646,
             "earliest": "13/10 8:35 AM"
         },
         "Traralgon Racecourse": {
