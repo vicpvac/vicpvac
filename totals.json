@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-13 12:23",
+    "lastUpdated": "2021-10-13 12:27",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 2,
@@ -10,7 +10,7 @@
             "earliest": "13/10 8:10 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 400,
+            "total": 401,
             "earliest": "13/10 8:50 AM"
         },
         "Bairnsdale City Oval": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 153,
+            "total": 154,
             "earliest": "13/10 8:50 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -47,7 +47,7 @@
         },
         "Campbellfield Ford Complex Indoor-Pfizer": {
             "total": 111,
-            "earliest": "25/10 3:30 PM"
+            "earliest": "13/10 12:30 PM"
         },
         "Casterton Memorial Hospital": {
             "total": 0,
@@ -70,7 +70,7 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 7,
+            "total": 9,
             "earliest": "20/10 11:45 AM"
         },
         "Convention Centre": {
@@ -82,7 +82,7 @@
             "earliest": "27/10 11:30 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 26,
+            "total": 30,
             "earliest": "13/10 9:00 AM"
         },
         "DPV Health Epping Secondary College": {
@@ -98,7 +98,7 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 5,
+            "total": 6,
             "earliest": "13/10 11:45 AM"
         },
         "Dandenong Hospital": {
@@ -110,11 +110,11 @@
             "earliest": null
         },
         "EACH - Kilsyth": {
-            "total": 156,
+            "total": 158,
             "earliest": "13/10 9:00 AM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 221,
+            "total": 220,
             "earliest": "13/10 9:50 AM"
         },
         "East Grampians Health Services- Ararat": {
@@ -134,7 +134,7 @@
             "earliest": "13/10 9:20 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 155,
+            "total": 156,
             "earliest": "13/10 9:30 AM"
         },
         "French Street \u2013 Pop up \u2013 DPV Health": {
@@ -142,7 +142,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 421,
+            "total": 420,
             "earliest": "13/10 1:57 PM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -162,7 +162,7 @@
             "earliest": "13/10 10:45 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
-            "total": 469,
+            "total": 470,
             "earliest": "13/10 10:20 AM"
         },
         "Kilmore District Health Sub Hub": {
@@ -170,8 +170,8 @@
             "earliest": null
         },
         "Kyneton - Central Highlands Rural Health": {
-            "total": 52,
-            "earliest": "15/10 10:45 AM"
+            "total": 51,
+            "earliest": "9/11 9:45 AM"
         },
         "La Trobe University (Pfizer)": {
             "total": 1,
@@ -186,7 +186,7 @@
             "earliest": "13/10 9:00 AM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
-            "total": 2054,
+            "total": 2053,
             "earliest": "13/10 11:10 AM"
         },
         "Melbourne Showgrounds": {
@@ -238,11 +238,11 @@
             "earliest": "29/10 11:52 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 10,
+            "total": 11,
             "earliest": "13/10 7:30 AM"
         },
         "Northeast Health Wangaratta": {
-            "total": 279,
+            "total": 281,
             "earliest": "13/10 8:40 AM"
         },
         "Orbost Regional Health": {
@@ -262,7 +262,7 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 518,
+            "total": 519,
             "earliest": "25/10 12:50 PM"
         },
         "SWH - Camperdown": {
@@ -290,8 +290,8 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 1,
-            "earliest": "28/10 8:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "St Vincent\u2019s Hospital Melbourne - Pfizer": {
             "total": 0,
@@ -302,7 +302,7 @@
             "earliest": "18/10 10:20 AM"
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
-            "total": 84,
+            "total": 83,
             "earliest": "19/10 10:12 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
@@ -310,11 +310,11 @@
             "earliest": "13/10 9:12 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
-            "total": 122,
+            "total": 121,
             "earliest": "13/10 1:15 PM"
         },
         "Sunshine Hospital": {
-            "total": 133,
+            "total": 132,
             "earliest": "13/10 10:15 AM"
         },
         "Traralgon Racecourse": {
@@ -334,7 +334,7 @@
             "earliest": null
         },
         "Werribee - St Vincent's Private": {
-            "total": 346,
+            "total": 347,
             "earliest": "13/10 8:35 AM"
         },
         "Werribee Mercy": {
@@ -347,14 +347,14 @@
         },
         "Wodonga Vaccination Hub": {
             "total": 684,
-            "earliest": "15/10 12:15 PM"
+            "earliest": "18/10 4:00 PM"
         },
         "Wonthaggi Town Hall": {
             "total": 682,
             "earliest": "13/10 12:48 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 270,
+            "total": 271,
             "earliest": "13/10 9:10 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
@@ -366,8 +366,8 @@
             "earliest": "26/10 12:44 PM"
         },
         "Your Community Health Mobile Clinic": {
-            "total": 1,
-            "earliest": "13/10 4:10 PM"
+            "total": 0,
+            "earliest": null
         }
     }
 }
