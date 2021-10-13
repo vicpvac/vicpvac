@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-14 03:14",
+    "lastUpdated": "2021-10-14 03:18",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -58,8 +58,8 @@
             "earliest": "14/10 11:10 AM"
         },
         "Cohealth City Town Hall": {
-            "total": 1,
-            "earliest": "14/10 11:50 AM"
+            "total": 0,
+            "earliest": null
         },
         "Cohealth Gleneagles Secondary College Pop up clinic": {
             "total": 9,
@@ -262,7 +262,7 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 504,
+            "total": 505,
             "earliest": "14/10 8:30 AM"
         },
         "SWH - Camperdown": {
