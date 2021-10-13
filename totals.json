@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-10-14 07:43",
+    "lastUpdated": "2021-10-14 07:47",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "15/10 3:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 858,
@@ -38,7 +38,7 @@
             "earliest": "1/11 9:45 AM"
         },
         "Cabrini Elsternwick": {
-            "total": 129,
+            "total": 128,
             "earliest": "15/10 7:57 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
@@ -146,7 +146,7 @@
             "earliest": "15/10 8:45 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 492,
+            "total": 491,
             "earliest": "14/10 12:20 PM"
         },
         "Horsham": {
@@ -190,7 +190,7 @@
             "earliest": "19/10 11:10 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1107,
+            "total": 1106,
             "earliest": "14/10 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -198,7 +198,7 @@
             "earliest": "29/10 8:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 661,
+            "total": 659,
             "earliest": "14/10 9:05 AM"
         },
         "Monash Community Outreach": {
@@ -238,8 +238,8 @@
             "earliest": "30/10 10:18 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "15/10 4:30 PM"
         },
         "Northeast Health Wangaratta": {
             "total": 290,
@@ -262,7 +262,7 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 505,
+            "total": 506,
             "earliest": "14/10 8:30 AM"
         },
         "SWH - Camperdown": {
@@ -274,8 +274,8 @@
             "earliest": "14/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "14/10 2:00 PM"
         },
         "Sandringham Vaccination Centre": {
             "total": 3,
@@ -346,8 +346,8 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 675,
-            "earliest": "15/10 1:30 PM"
+            "total": 673,
+            "earliest": "23/10 9:45 AM"
         },
         "Wonthaggi Town Hall": {
             "total": 649,
