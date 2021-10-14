@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-15 07:27",
+    "lastUpdated": "2021-10-15 07:31",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,8 +22,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 96,
-            "earliest": "18/10 10:00 AM"
+            "total": 97,
+            "earliest": "16/10 12:10 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 83,
@@ -130,8 +130,8 @@
             "earliest": "23/10 3:20 PM"
         },
         "Ford": {
-            "total": 1,
-            "earliest": "18/10 3:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 42,
@@ -190,7 +190,7 @@
             "earliest": "16/10 11:15 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1146,
+            "total": 1145,
             "earliest": "15/10 9:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -318,8 +318,8 @@
             "earliest": "15/10 10:35 AM"
         },
         "Traralgon Racecourse": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "16/10 3:01 PM"
         },
         "WDHS - Balmoral Clinic": {
             "total": 0,
@@ -334,7 +334,7 @@
             "earliest": "15/10 1:10 PM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 425,
+            "total": 424,
             "earliest": "15/10 8:25 AM"
         },
         "Werribee Mercy": {
@@ -346,11 +346,11 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 722,
+            "total": 723,
             "earliest": "15/10 4:00 PM"
         },
         "Wonthaggi Town Hall": {
-            "total": 611,
+            "total": 610,
             "earliest": "18/10 1:24 PM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
