@@ -1,12 +1,12 @@
 {
-    "lastUpdated": "2021-10-15 22:03",
+    "lastUpdated": "2021-10-15 22:07",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 6,
             "earliest": "15/10 7:45 AM"
         },
         "Austin - Olivia Newton John": {
-            "total": 813,
+            "total": 812,
             "earliest": "15/10 5:40 PM"
         },
         "Austin - Repatriation (Pfizer)": {
@@ -70,8 +70,8 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 1,
-            "earliest": "19/10 3:20 PM"
+            "total": 0,
+            "earliest": null
         },
         "Convention Centre": {
             "total": 834,
@@ -82,7 +82,7 @@
             "earliest": "28/10 9:15 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 96,
+            "total": 97,
             "earliest": "15/10 9:10 AM"
         },
         "DPV Health Epping Secondary College": {
@@ -158,7 +158,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 183,
+            "total": 184,
             "earliest": "15/10 10:15 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -190,7 +190,7 @@
             "earliest": "15/10 10:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1179,
+            "total": 1178,
             "earliest": "15/10 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -198,7 +198,7 @@
             "earliest": "15/10 9:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 611,
+            "total": 610,
             "earliest": "15/10 9:25 AM"
         },
         "Monash Community Outreach": {
@@ -210,7 +210,7 @@
             "earliest": null
         },
         "Monash University Health Services": {
-            "total": 4,
+            "total": 3,
             "earliest": "17/10 9:48 AM"
         },
         "Mt Beauty Vaccination Hub": {
@@ -358,7 +358,7 @@
             "earliest": "15/10 11:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 206,
+            "total": 207,
             "earliest": "15/10 8:25 AM"
         },
         "Yarram Medical Centre": {
