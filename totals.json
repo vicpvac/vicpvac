@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-16 09:27",
+    "lastUpdated": "2021-10-16 09:31",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -11,7 +11,7 @@
         },
         "Austin - Repatriation (Pfizer)": {
             "total": 179,
-            "earliest": "17/10 8:20 AM"
+            "earliest": "18/10 5:20 PM"
         },
         "Bairnsdale City Oval": {
             "total": 563,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 86,
+            "total": 85,
             "earliest": "19/10 11:00 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -38,7 +38,7 @@
             "earliest": null
         },
         "Cabrini Elsternwick": {
-            "total": 50,
+            "total": 51,
             "earliest": "16/10 7:52 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
@@ -46,7 +46,7 @@
             "earliest": "14/11 9:30 AM"
         },
         "Campbellfield Ford Complex Indoor-Pfizer": {
-            "total": 125,
+            "total": 128,
             "earliest": "16/10 9:00 AM"
         },
         "Casterton Memorial Hospital": {
@@ -62,8 +62,8 @@
             "earliest": null
         },
         "Cohealth Gleneagles Secondary College Pop up clinic": {
-            "total": 1,
-            "earliest": "16/10 2:30 PM"
+            "total": 0,
+            "earliest": null
         },
         "Cohealth Glenroy College Pop-up Clinic": {
             "total": 0,
@@ -98,7 +98,7 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 89,
+            "total": 91,
             "earliest": "16/10 10:30 AM"
         },
         "Dandenong Hospital": {
@@ -130,7 +130,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 12,
+            "total": 11,
             "earliest": "16/10 8:50 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -158,7 +158,7 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 166,
+            "total": 165,
             "earliest": "16/10 10:40 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
@@ -174,7 +174,7 @@
             "earliest": "19/10 12:15 PM"
         },
         "La Trobe University (Pfizer)": {
-            "total": 361,
+            "total": 362,
             "earliest": "20/10 10:50 AM"
         },
         "Leongatha Community Clinic": {
@@ -190,8 +190,8 @@
             "earliest": "19/10 12:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1189,
-            "earliest": "17/10 10:25 AM"
+            "total": 1187,
+            "earliest": "18/10 11:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 213,
@@ -346,7 +346,7 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 736,
+            "total": 735,
             "earliest": "19/10 9:15 AM"
         },
         "Wonthaggi Town Hall": {
