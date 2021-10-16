@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-16 20:43",
+    "lastUpdated": "2021-10-16 20:47",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -58,8 +58,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "20/10 12:10 PM"
         },
         "Cohealth Gleneagles Secondary College Pop up clinic": {
             "total": 11,
@@ -174,11 +174,11 @@
             "earliest": "22/10 1:15 PM"
         },
         "La Trobe University (Pfizer)": {
-            "total": 351,
-            "earliest": "20/10 11:50 AM"
+            "total": 352,
+            "earliest": "19/10 11:30 AM"
         },
         "Leongatha Community Clinic": {
-            "total": 635,
+            "total": 634,
             "earliest": "18/10 9:16 AM"
         },
         "Mansfield Vaccination Clinic": {
@@ -194,7 +194,7 @@
             "earliest": "16/10 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 233,
+            "total": 232,
             "earliest": "16/10 9:30 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
@@ -238,7 +238,7 @@
             "earliest": "16/10 1:54 PM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 1039,
+            "total": 1038,
             "earliest": "16/10 8:00 AM"
         },
         "Northeast Health Wangaratta": {
@@ -262,7 +262,7 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 516,
+            "total": 517,
             "earliest": "16/10 8:40 AM"
         },
         "SWH - Camperdown": {
@@ -270,11 +270,11 @@
             "earliest": "19/10 10:40 AM"
         },
         "Sandown Racecourse": {
-            "total": 395,
+            "total": 394,
             "earliest": "16/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
-            "total": 16,
+            "total": 17,
             "earliest": "16/10 9:10 AM"
         },
         "Sandringham Vaccination Centre": {
@@ -350,11 +350,11 @@
             "earliest": "16/10 8:45 AM"
         },
         "Wonthaggi Town Hall": {
-            "total": 586,
+            "total": 585,
             "earliest": "19/10 10:28 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 286,
+            "total": 284,
             "earliest": "16/10 12:30 PM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
