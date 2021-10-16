@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-17 08:47",
+    "lastUpdated": "2021-10-17 08:51",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 85,
+            "total": 86,
             "earliest": "17/10 3:15 PM"
         },
         "Beechworth Vaccination Hub": {
@@ -62,8 +62,8 @@
             "earliest": "19/10 12:00 PM"
         },
         "Cohealth Gleneagles Secondary College Pop up clinic": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "17/10 1:00 PM"
         },
         "Cohealth Glenroy College Pop-up Clinic": {
             "total": 0,
@@ -98,8 +98,8 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 117,
-            "earliest": "18/10 10:00 AM"
+            "total": 116,
+            "earliest": "18/10 11:45 AM"
         },
         "Dandenong Hospital": {
             "total": 0,
@@ -130,12 +130,12 @@
             "earliest": "18/10 10:50 AM"
         },
         "Ford": {
-            "total": 2,
+            "total": 1,
             "earliest": "17/10 9:40 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 286,
-            "earliest": "18/10 9:40 AM"
+            "total": 287,
+            "earliest": "17/10 12:30 PM"
         },
         "French Street \u2013 Pop up \u2013 DPV Health": {
             "total": 0,
@@ -158,8 +158,8 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 130,
-            "earliest": "18/10 1:50 PM"
+            "total": 129,
+            "earliest": "18/10 3:00 PM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
             "total": 393,
@@ -178,8 +178,8 @@
             "earliest": "20/10 11:50 AM"
         },
         "Leongatha Community Clinic": {
-            "total": 633,
-            "earliest": "18/10 9:16 AM"
+            "total": 632,
+            "earliest": "18/10 9:24 AM"
         },
         "Mansfield Vaccination Clinic": {
             "total": 25,
@@ -190,15 +190,15 @@
             "earliest": "19/10 12:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1217,
+            "total": 1219,
             "earliest": "18/10 8:25 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 222,
-            "earliest": "21/10 10:10 AM"
+            "total": 223,
+            "earliest": "18/10 12:30 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 619,
+            "total": 620,
             "earliest": "18/10 9:25 AM"
         },
         "Monash Community Outreach": {
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 8,
+            "total": 7,
             "earliest": "18/10 11:50 AM"
         },
         "St Vincent\u2019s Hospital Melbourne - Pfizer": {
@@ -310,8 +310,8 @@
             "earliest": "18/10 3:30 PM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
-            "total": 251,
-            "earliest": "18/10 2:39 PM"
+            "total": 252,
+            "earliest": "18/10 1:18 PM"
         },
         "Sunshine Hospital": {
             "total": 125,
@@ -346,8 +346,8 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 749,
-            "earliest": "19/10 2:45 PM"
+            "total": 748,
+            "earliest": "20/10 10:15 AM"
         },
         "Wonthaggi Town Hall": {
             "total": 586,
@@ -366,7 +366,7 @@
             "earliest": "19/10 11:16 AM"
         },
         "Your Community Health Mobile Clinic": {
-            "total": 18,
+            "total": 17,
             "earliest": "20/10 10:50 AM"
         }
     }
