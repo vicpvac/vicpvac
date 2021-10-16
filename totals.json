@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-17 08:07",
+    "lastUpdated": "2021-10-17 08:10",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -30,8 +30,8 @@
             "earliest": "21/10 3:15 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 1,
-            "earliest": "18/10 9:10 AM"
+            "total": 0,
+            "earliest": null
         },
         "Bright Hub - North East VIC": {
             "total": 3,
@@ -130,7 +130,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1,
+            "total": 2,
             "earliest": "19/10 9:00 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -190,15 +190,15 @@
             "earliest": "19/10 12:00 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1214,
-            "earliest": "17/10 12:15 PM"
+            "total": 1215,
+            "earliest": "17/10 9:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
             "total": 221,
             "earliest": "26/10 12:50 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 612,
+            "total": 611,
             "earliest": "25/10 8:35 AM"
         },
         "Monash Community Outreach": {
@@ -346,7 +346,7 @@
             "earliest": null
         },
         "Wodonga Vaccination Hub": {
-            "total": 743,
+            "total": 744,
             "earliest": "19/10 8:45 AM"
         },
         "Wonthaggi Town Hall": {
@@ -354,8 +354,8 @@
             "earliest": "18/10 9:48 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 285,
-            "earliest": "26/10 8:30 AM"
+            "total": 284,
+            "earliest": "26/10 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
             "total": 200,
