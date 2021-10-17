@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-17 19:19",
+    "lastUpdated": "2021-10-17 19:23",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,7 +10,7 @@
             "earliest": "17/10 9:00 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 168,
+            "total": 166,
             "earliest": "17/10 8:50 AM"
         },
         "Bairnsdale City Oval": {
@@ -30,7 +30,7 @@
             "earliest": "28/10 3:00 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 9,
+            "total": 6,
             "earliest": "17/10 9:30 AM"
         },
         "Bright Hub - North East VIC": {
@@ -98,7 +98,7 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 213,
+            "total": 211,
             "earliest": "17/10 9:30 AM"
         },
         "Dandenong Hospital": {
@@ -146,7 +146,7 @@
             "earliest": "18/10 8:38 AM"
         },
         "Goods Shed Warragul Railway Station": {
-            "total": 436,
+            "total": 435,
             "earliest": "19/10 11:48 AM"
         },
         "Horsham": {
@@ -190,7 +190,7 @@
             "earliest": "19/10 12:50 PM"
         },
         "Melbourne Showgrounds": {
-            "total": 1242,
+            "total": 1241,
             "earliest": "17/10 8:35 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -198,7 +198,7 @@
             "earliest": "17/10 8:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 646,
+            "total": 645,
             "earliest": "17/10 8:35 AM"
         },
         "Monash Community Outreach": {
@@ -270,7 +270,7 @@
             "earliest": "19/10 10:50 AM"
         },
         "Sandown Racecourse": {
-            "total": 335,
+            "total": 334,
             "earliest": "17/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -302,8 +302,8 @@
             "earliest": "18/10 2:30 PM"
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
-            "total": 102,
-            "earliest": "21/10 9:24 AM"
+            "total": 104,
+            "earliest": "18/10 9:24 AM"
         },
         "Star Health - CC - Port Melbourne Town Hall - Pfizer": {
             "total": 292,
@@ -354,7 +354,7 @@
             "earliest": "19/10 10:28 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 313,
+            "total": 314,
             "earliest": "17/10 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
@@ -366,8 +366,8 @@
             "earliest": "19/10 11:00 AM"
         },
         "Your Community Health Mobile Clinic": {
-            "total": 1,
-            "earliest": "20/10 10:20 AM"
+            "total": 0,
+            "earliest": null
         }
     }
 }
