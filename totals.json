@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-18 23:39",
+    "lastUpdated": "2021-10-18 23:43",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 91,
@@ -74,8 +74,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "22/10 3:50 PM"
         },
         "Cohealth Gleneagles Secondary College Pop up clinic": {
             "total": 0,
@@ -222,7 +222,7 @@
             "earliest": "18/10 9:00 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1123,
+            "total": 1124,
             "earliest": "18/10 8:55 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
