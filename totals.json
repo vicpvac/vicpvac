@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-20 04:19",
+    "lastUpdated": "2021-10-20 04:23",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/10 10:00 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 120,
@@ -370,7 +370,7 @@
             "earliest": "20/10 1:36 PM"
         },
         "Sunshine Hospital": {
-            "total": 267,
+            "total": 268,
             "earliest": "20/10 8:48 AM"
         },
         "Swifts Creek Bush Nursing Centre": {
