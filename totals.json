@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-10-20 08:07",
+    "lastUpdated": "2021-10-20 08:11",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "21/10 8:15 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 763,
@@ -46,7 +46,7 @@
             "earliest": "23/10 12:30 PM"
         },
         "Cabrini Elsternwick": {
-            "total": 77,
+            "total": 107,
             "earliest": "20/10 9:45 AM"
         },
         "Campbellfield Ford Complex Drive Thru-Pfizer": {
@@ -74,8 +74,8 @@
             "earliest": null
         },
         "Cohealth City Town Hall": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "28/10 11:30 AM"
         },
         "Cohealth Gleneagles Secondary College Pop up clinic": {
             "total": 0,
@@ -90,16 +90,16 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 769,
-            "earliest": "20/10 1:54 PM"
+            "total": 770,
+            "earliest": "20/10 10:48 AM"
         },
         "Corryong health": {
             "total": 76,
             "earliest": "20/10 11:45 AM"
         },
         "Cranbourne Turf Club": {
-            "total": 71,
-            "earliest": "20/10 11:20 AM"
+            "total": 70,
+            "earliest": "20/10 2:10 PM"
         },
         "DPV Health Epping Secondary College": {
             "total": 0,
@@ -154,11 +154,11 @@
             "earliest": null
         },
         "Ford": {
-            "total": 0,
-            "earliest": null
+            "total": 1,
+            "earliest": "20/10 9:10 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 118,
+            "total": 117,
             "earliest": "20/10 11:20 AM"
         },
         "French Street \u2013 Pop up \u2013 DPV Health": {
@@ -218,7 +218,7 @@
             "earliest": "20/10 1:30 PM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
-            "total": 1943,
+            "total": 1944,
             "earliest": "20/10 11:20 AM"
         },
         "Melbourne Showgrounds": {
@@ -226,8 +226,8 @@
             "earliest": "20/10 8:45 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 251,
-            "earliest": "21/10 10:10 AM"
+            "total": 250,
+            "earliest": "27/10 4:40 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
             "total": 640,
@@ -310,8 +310,8 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 493,
-            "earliest": "25/10 8:30 AM"
+            "total": 494,
+            "earliest": "23/10 8:30 AM"
         },
         "SWH - Camperdown": {
             "total": 94,
@@ -382,7 +382,7 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 718,
+            "total": 717,
             "earliest": "20/10 9:00 AM"
         },
         "WDHS - Balmoral Clinic": {
@@ -398,8 +398,8 @@
             "earliest": "20/10 10:40 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 740,
-            "earliest": "21/10 12:25 PM"
+            "total": 741,
+            "earliest": "21/10 8:55 AM"
         },
         "Werribee Mercy": {
             "total": 0,
