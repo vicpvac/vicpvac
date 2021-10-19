@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-10-20 09:55",
+    "lastUpdated": "2021-10-20 09:59",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
             "total": 0,
@@ -10,11 +10,11 @@
             "earliest": "20/10 9:10 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 128,
+            "total": 129,
             "earliest": "20/10 9:50 AM"
         },
         "Bairnsdale City Oval": {
-            "total": 492,
+            "total": 493,
             "earliest": "20/10 9:00 AM"
         },
         "Ballan Vaccination Clinic": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 245,
+            "total": 244,
             "earliest": "20/10 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -54,7 +54,7 @@
             "earliest": "29/10 8:45 AM"
         },
         "Campbellfield Ford Complex Indoor-Pfizer": {
-            "total": 109,
+            "total": 112,
             "earliest": "20/10 9:10 AM"
         },
         "Cann Valley Bush Nursing Centre": {
@@ -90,7 +90,7 @@
             "earliest": null
         },
         "Convention Centre": {
-            "total": 773,
+            "total": 772,
             "earliest": "20/10 11:48 AM"
         },
         "Corryong health": {
@@ -98,7 +98,7 @@
             "earliest": "21/10 2:15 PM"
         },
         "Cranbourne Turf Club": {
-            "total": 77,
+            "total": 78,
             "earliest": "20/10 9:10 AM"
         },
         "DPV Health Epping Secondary College": {
@@ -138,7 +138,7 @@
             "earliest": "20/10 10:00 AM"
         },
         "East Grampians Health Services- Ararat": {
-            "total": 128,
+            "total": 127,
             "earliest": "21/10 8:30 AM"
         },
         "Eastern Health Mobile Clinic 1": {
@@ -154,11 +154,11 @@
             "earliest": null
         },
         "Ford": {
-            "total": 2,
-            "earliest": "23/10 11:30 AM"
+            "total": 1,
+            "earliest": "27/10 9:20 AM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 118,
+            "total": 120,
             "earliest": "20/10 9:30 AM"
         },
         "French Street \u2013 Pop up \u2013 DPV Health": {
@@ -190,11 +190,11 @@
             "earliest": null
         },
         "IPC Health": {
-            "total": 458,
-            "earliest": "20/10 4:00 PM"
+            "total": 457,
+            "earliest": "23/10 9:40 AM"
         },
         "KCLC - Kyabram Health Vaccination Clinic": {
-            "total": 466,
+            "total": 467,
             "earliest": "20/10 10:00 AM"
         },
         "Kilmore District Health Sub Hub": {
@@ -222,7 +222,7 @@
             "earliest": "20/10 9:30 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1148,
+            "total": 1150,
             "earliest": "20/10 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -230,7 +230,7 @@
             "earliest": "22/10 3:10 PM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 646,
+            "total": 647,
             "earliest": "20/10 9:15 AM"
         },
         "Monash Community Outreach": {
@@ -290,7 +290,7 @@
             "earliest": null
         },
         "Northeast Health Wangaratta": {
-            "total": 256,
+            "total": 255,
             "earliest": "20/10 9:40 AM"
         },
         "Orbost Regional Health": {
@@ -314,7 +314,7 @@
             "earliest": "25/10 8:30 AM"
         },
         "SWH - Camperdown": {
-            "total": 93,
+            "total": 92,
             "earliest": "20/10 10:10 AM"
         },
         "Sandown Racecourse": {
@@ -326,8 +326,8 @@
             "earliest": null
         },
         "Sandringham Vaccination Centre": {
-            "total": 1,
-            "earliest": "28/10 3:20 PM"
+            "total": 2,
+            "earliest": "28/10 10:10 AM"
         },
         "Seymour College - pop-up - Seymour Health": {
             "total": 0,
@@ -342,7 +342,7 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 2,
+            "total": 3,
             "earliest": "20/10 9:20 AM"
         },
         "St Vincent\u2019s Hospital Melbourne - Pfizer": {
@@ -354,7 +354,7 @@
             "earliest": "23/10 9:40 AM"
         },
         "Star Health - CC - Betty Day Centre - Pfizer": {
-            "total": 372,
+            "total": 384,
             "earliest": "20/10 9:12 AM"
         },
         "Star Health - CC - Malvern Town Hall - Pfizer": {
@@ -366,7 +366,7 @@
             "earliest": "20/10 9:12 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
-            "total": 327,
+            "total": 328,
             "earliest": "20/10 1:36 PM"
         },
         "Sunshine Hospital": {
@@ -382,7 +382,7 @@
             "earliest": null
         },
         "Traralgon Racecourse": {
-            "total": 712,
+            "total": 713,
             "earliest": "20/10 9:00 AM"
         },
         "WDHS - Balmoral Clinic": {
@@ -390,7 +390,7 @@
             "earliest": null
         },
         "WDHS \u2013 Hamilton Base Hospital": {
-            "total": 6,
+            "total": 5,
             "earliest": "20/10 10:20 AM"
         },
         "Warrnambool \u2013 SWH Vaccination Centre": {
@@ -418,7 +418,7 @@
             "earliest": "20/10 10:08 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 330,
+            "total": 329,
             "earliest": "20/10 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
