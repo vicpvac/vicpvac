@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-10-20 09:19",
+    "lastUpdated": "2021-10-20 09:23",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "21/10 1:00 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 764,
@@ -22,8 +22,8 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 248,
-            "earliest": "21/10 2:40 PM"
+            "total": 247,
+            "earliest": "26/10 3:10 PM"
         },
         "Beechworth Vaccination Hub": {
             "total": 116,
@@ -54,7 +54,7 @@
             "earliest": "29/10 8:45 AM"
         },
         "Campbellfield Ford Complex Indoor-Pfizer": {
-            "total": 109,
+            "total": 108,
             "earliest": "20/10 9:10 AM"
         },
         "Cann Valley Bush Nursing Centre": {
@@ -86,7 +86,7 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 2,
+            "total": 1,
             "earliest": "20/10 11:45 AM"
         },
         "Convention Centre": {
@@ -114,7 +114,7 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 433,
+            "total": 434,
             "earliest": "20/10 10:15 AM"
         },
         "Dandenong Hospital": {
@@ -134,8 +134,8 @@
             "earliest": "20/10 4:20 PM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 316,
-            "earliest": "20/10 10:50 AM"
+            "total": 315,
+            "earliest": "20/10 11:00 AM"
         },
         "East Grampians Health Services- Ararat": {
             "total": 133,
@@ -146,7 +146,7 @@
             "earliest": null
         },
         "Eastland Vaccination Clinic Pfizer": {
-            "total": 209,
+            "total": 219,
             "earliest": "25/10 8:40 AM"
         },
         "Ensay Bush Nursing Centre": {
@@ -154,8 +154,8 @@
             "earliest": null
         },
         "Ford": {
-            "total": 1,
-            "earliest": "21/10 11:20 AM"
+            "total": 0,
+            "earliest": null
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
             "total": 119,
@@ -174,7 +174,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 535,
+            "total": 534,
             "earliest": "20/10 9:26 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -182,7 +182,7 @@
             "earliest": "20/10 9:00 AM"
         },
         "Horsham": {
-            "total": 6,
+            "total": 5,
             "earliest": "20/10 11:30 AM"
         },
         "Hotel Quarantine \u2013 AHC": {
@@ -226,11 +226,11 @@
             "earliest": "20/10 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
-            "total": 255,
-            "earliest": "27/10 8:30 AM"
+            "total": 256,
+            "earliest": "25/10 10:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 644,
+            "total": 645,
             "earliest": "21/10 1:25 PM"
         },
         "Monash Community Outreach": {
@@ -398,7 +398,7 @@
             "earliest": "20/10 10:40 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 740,
+            "total": 739,
             "earliest": "20/10 9:05 AM"
         },
         "Werribee Mercy": {
@@ -422,8 +422,8 @@
             "earliest": "20/10 8:50 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
-            "total": 222,
-            "earliest": "20/10 4:15 PM"
+            "total": 223,
+            "earliest": "20/10 3:40 PM"
         },
         "Yarram Medical Centre": {
             "total": 255,
