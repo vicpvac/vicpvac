@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2021-10-20 13:15",
+    "lastUpdated": "2021-10-20 13:19",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "21/10 9:45 AM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 761,
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 253,
+            "total": 252,
             "earliest": "20/10 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -86,11 +86,11 @@
             "earliest": null
         },
         "Colac Area Health - COPACC": {
-            "total": 1,
-            "earliest": "20/10 12:25 PM"
+            "total": 3,
+            "earliest": "20/10 12:05 PM"
         },
         "Convention Centre": {
-            "total": 773,
+            "total": 774,
             "earliest": "20/10 10:00 AM"
         },
         "Corryong health": {
@@ -114,7 +114,7 @@
             "earliest": null
         },
         "DPV \u2013 Broadmeadows Town Hall": {
-            "total": 439,
+            "total": 438,
             "earliest": "20/10 10:30 AM"
         },
         "Dandenong Hospital": {
@@ -134,7 +134,7 @@
             "earliest": "20/10 9:50 AM"
         },
         "EACH \u2013 Pakenham, James Bathe Community and Sports Hub": {
-            "total": 315,
+            "total": 311,
             "earliest": "20/10 9:10 AM"
         },
         "East Grampians Health Services- Ararat": {
@@ -146,7 +146,7 @@
             "earliest": null
         },
         "Eastland Vaccination Clinic Pfizer": {
-            "total": 554,
+            "total": 552,
             "earliest": "20/10 3:20 PM"
         },
         "Ensay Bush Nursing Centre": {
@@ -154,7 +154,7 @@
             "earliest": null
         },
         "Ford": {
-            "total": 4,
+            "total": 24,
             "earliest": "24/10 1:10 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
@@ -218,11 +218,11 @@
             "earliest": "20/10 1:40 PM"
         },
         "McIntosh Centre - Shepparton Showgrounds - Pfizer": {
-            "total": 1946,
+            "total": 1945,
             "earliest": "20/10 9:30 AM"
         },
         "Melbourne Showgrounds": {
-            "total": 1176,
+            "total": 1175,
             "earliest": "20/10 8:15 AM"
         },
         "Melton Drive-Through Vaccination Centre": {
@@ -230,7 +230,7 @@
             "earliest": "20/10 10:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 642,
+            "total": 643,
             "earliest": "20/10 9:15 AM"
         },
         "Monash Community Outreach": {
@@ -254,7 +254,7 @@
             "earliest": "22/10 9:45 AM"
         },
         "NCN Health": {
-            "total": 308,
+            "total": 306,
             "earliest": "20/10 9:54 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -366,7 +366,7 @@
             "earliest": "20/10 9:12 AM"
         },
         "Star Health - Mass Vaccination Centre - Prahran Town Hall": {
-            "total": 464,
+            "total": 463,
             "earliest": "20/10 1:09 PM"
         },
         "Sunshine Hospital": {
@@ -410,7 +410,7 @@
             "earliest": "23/10 8:40 AM"
         },
         "Wodonga Vaccination Hub": {
-            "total": 762,
+            "total": 761,
             "earliest": "20/10 10:30 AM"
         },
         "Wonthaggi Town Hall": {
@@ -418,7 +418,7 @@
             "earliest": "20/10 10:08 AM"
         },
         "Wyndham Drive-Through Vaccination Centre": {
-            "total": 334,
+            "total": 333,
             "earliest": "20/10 8:30 AM"
         },
         "Wyndham Indoor Vaccination Centre \u2013 Eagle Stadium": {
