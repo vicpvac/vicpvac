@@ -1,16 +1,16 @@
 {
-    "lastUpdated": "2021-10-20 17:23",
+    "lastUpdated": "2021-10-20 17:27",
     "results": {
         "Alfred Health - Pfizer Community Clinic": {
-            "total": 1,
-            "earliest": "26/10 1:15 PM"
+            "total": 0,
+            "earliest": null
         },
         "Austin - Olivia Newton John": {
             "total": 764,
             "earliest": "20/10 9:10 AM"
         },
         "Austin - Repatriation (Pfizer)": {
-            "total": 123,
+            "total": 122,
             "earliest": "20/10 9:50 AM"
         },
         "Bairnsdale City Oval": {
@@ -22,7 +22,7 @@
             "earliest": null
         },
         "Ballarat Community Clinic- Pfizer": {
-            "total": 259,
+            "total": 258,
             "earliest": "20/10 8:30 AM"
         },
         "Beechworth Vaccination Hub": {
@@ -30,7 +30,7 @@
             "earliest": "29/10 2:15 PM"
         },
         "Box Hill Town Hall Pfizer": {
-            "total": 138,
+            "total": 137,
             "earliest": "20/10 8:50 AM"
         },
         "Bright Hub - North East VIC": {
@@ -90,7 +90,7 @@
             "earliest": "20/10 11:55 AM"
         },
         "Convention Centre": {
-            "total": 770,
+            "total": 768,
             "earliest": "20/10 10:00 AM"
         },
         "Corryong health": {
@@ -146,7 +146,7 @@
             "earliest": null
         },
         "Eastland Vaccination Clinic Pfizer": {
-            "total": 551,
+            "total": 550,
             "earliest": "20/10 11:30 AM"
         },
         "Ensay Bush Nursing Centre": {
@@ -158,7 +158,7 @@
             "earliest": "20/10 2:00 PM"
         },
         "Frankston Community Vaccination Hub - Bayside Centre": {
-            "total": 360,
+            "total": 359,
             "earliest": "20/10 9:30 AM"
         },
         "French Street \u2013 Pop up \u2013 DPV Health": {
@@ -174,7 +174,7 @@
             "earliest": null
         },
         "Gippsland Regional Sports Complex - Sale": {
-            "total": 530,
+            "total": 529,
             "earliest": "20/10 9:26 AM"
         },
         "Goods Shed Warragul Railway Station": {
@@ -198,7 +198,7 @@
             "earliest": "20/10 10:00 AM"
         },
         "Kilmore District Health Sub Hub": {
-            "total": 289,
+            "total": 288,
             "earliest": "20/10 4:00 PM"
         },
         "Kyneton - Central Highlands Rural Health": {
@@ -230,7 +230,7 @@
             "earliest": "20/10 10:50 AM"
         },
         "Melton Indoor Vaccination Centre - Woodgrove": {
-            "total": 650,
+            "total": 652,
             "earliest": "20/10 9:15 AM"
         },
         "Monash Community Outreach": {
@@ -254,7 +254,7 @@
             "earliest": "26/10 10:45 AM"
         },
         "NCN Health": {
-            "total": 319,
+            "total": 318,
             "earliest": "20/10 9:54 AM"
         },
         "NCN Health Nathalia Pop Up": {
@@ -262,7 +262,7 @@
             "earliest": "29/10 11:20 AM"
         },
         "NCN Health Numurkah Pop Up": {
-            "total": 36,
+            "total": 37,
             "earliest": "22/10 10:00 AM"
         },
         "NCN Health Yarrawonga Pop Up": {
@@ -270,7 +270,7 @@
             "earliest": "22/10 11:36 AM"
         },
         "NH - Plenty Ranges Arts & Convention Centre": {
-            "total": 865,
+            "total": 864,
             "earliest": "20/10 8:00 AM"
         },
         "NH \u2013 Broadmeadows Hospital": {
@@ -310,7 +310,7 @@
             "earliest": null
         },
         "Royal Exhibition Building - Pfizer": {
-            "total": 595,
+            "total": 594,
             "earliest": "20/10 8:30 AM"
         },
         "SWH - Camperdown": {
@@ -318,7 +318,7 @@
             "earliest": "20/10 10:10 AM"
         },
         "Sandown Racecourse": {
-            "total": 279,
+            "total": 278,
             "earliest": "20/10 9:00 AM"
         },
         "Sandown Racecourse Drive Through Vaccination Clinic": {
@@ -342,7 +342,7 @@
             "earliest": null
         },
         "St John of God Berwick": {
-            "total": 79,
+            "total": 78,
             "earliest": "20/10 9:20 AM"
         },
         "St Vincent\u2019s Hospital Melbourne - Pfizer": {
@@ -370,7 +370,7 @@
             "earliest": "20/10 1:09 PM"
         },
         "Sunshine Hospital": {
-            "total": 237,
+            "total": 238,
             "earliest": "20/10 8:12 AM"
         },
         "Swifts Creek Bush Nursing Centre": {
@@ -398,7 +398,7 @@
             "earliest": "20/10 9:30 AM"
         },
         "Werribee - St Vincent's Private": {
-            "total": 711,
+            "total": 712,
             "earliest": "20/10 9:05 AM"
         },
         "Werribee Mercy": {
